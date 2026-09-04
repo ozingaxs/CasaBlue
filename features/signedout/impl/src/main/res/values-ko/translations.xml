@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_signed_out_reason_1">"ë‹¤ë¥¸ ì„¸ì…˜ì—ì„œ ë¹„ë°€ë²ˆí˜¸ë¥¼ ë³€ê²½í•˜ì…¨ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_signed_out_reason_2">"ë‹¤ë¥¸ ì„¸ì…˜ì—ì„œ ì„¸ì…˜ì„ ì‚­ì œí–ˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_signed_out_reason_3">"ê·€í•˜ì˜ ì„œë²„ ê´€ë¦¬ìžê°€ ê·€í•˜ì˜ ì•¡ì„¸ìŠ¤ë¥¼ ë¬´íš¨í™”í–ˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_signed_out_subtitle">"ì•„ëž˜ ë‚˜ì—´ëœ ì´ìœ  ì¤‘ í•˜ë‚˜ë¡œ ì¸í•´ ë¡œê·¸ì•„ì›ƒë˜ì—ˆì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê³„ì† ì‚¬ìš©í•˜ë ¤ë©´ ë‹¤ì‹œ ë¡œê·¸ì¸í•˜ì„¸ìš” %s ."</string>
+  <string name="screen_signed_out_title">"ë¡œê·¸ì•„ì›ƒ ë˜ì—ˆìŠµë‹ˆë‹¤"</string>
+</resources>
+

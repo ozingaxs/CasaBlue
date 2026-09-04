@@ -1,0 +1,76 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="notification_channel_call">"G?i"</string>
+  <string name="notification_channel_listening_for_events">"Ðang l?ng nghe s? ki?n"</string>
+  <string name="notification_channel_noisy">"Thông báo ?n ào"</string>
+  <string name="notification_channel_ringing_calls">"Cu?c g?i dang d? chuông"</string>
+  <string name="notification_channel_silent">"Thông báo im l?ng"</string>
+  <plurals name="notification_compat_summary_line_for_room">
+    <item quantity="other">"%1$s:%2$d tin nh?n"</item>
+  </plurals>
+  <plurals name="notification_compat_summary_title">
+    <item quantity="other">"%d thông báo"</item>
+  </plurals>
+  <string name="notification_error_unified_push_unregistered_android">"Không th? dang ký trình phân ph?i thông báo UnifiedPush, vì v?y b?n s? không nh?n du?c thông báo n?a. Vui lòng ki?m tra cài d?t thông báo c?a ?ng d?ng và tr?ng thái c?a trình phân ph?i thông báo."</string>
+  <string name="notification_fallback_content">"B?n có tin nh?n m?i."</string>
+  <plurals name="notification_fallback_n_content">
+    <item quantity="other">"B?n có %d tin nh?n m?i."</item>
+  </plurals>
+  <string name="notification_incoming_audio_call">"?? Cu?c g?i d?n"</string>
+  <string name="notification_incoming_call">"?? Cu?c g?i d?n"</string>
+  <string name="notification_inline_reply_failed">"** Không g?i du?c - vui lòng m? phòng"</string>
+  <string name="notification_invitation_action_join">"Tham gia"</string>
+  <string name="notification_invitation_action_reject">"T? ch?i"</string>
+  <plurals name="notification_invitations">
+    <item quantity="other">"%d l?i m?i"</item>
+  </plurals>
+  <string name="notification_invite_body">"Ðã m?i b?n trò chuy?n"</string>
+  <string name="notification_invite_body_with_sender">"%1$s dã m?i b?n trò chuy?n"</string>
+  <string name="notification_mentioned_you_body">"Ðã nh?c d?n b?n: %1$s"</string>
+  <string name="notification_new_messages">"Tin nh?n m?i"</string>
+  <plurals name="notification_new_messages_for_room">
+    <item quantity="other">"%dtin nh?n m?i"</item>
+  </plurals>
+  <string name="notification_reaction_body">"Ðã th? %1$s vào tin nh?n"</string>
+  <string name="notification_room_action_mark_as_read">"Ðánh d?u dã d?c"</string>
+  <string name="notification_room_action_quick_reply">"Tr? l?i nhanh"</string>
+  <string name="notification_room_invite_body">"Ðã m?i b?n tham gia phòng"</string>
+  <string name="notification_room_invite_body_with_sender">"%1$s dã m?i b?n tham gia phòng chat"</string>
+  <string name="notification_sender_me">"Tôi"</string>
+  <string name="notification_sender_mention_reply">"%1$s dã d? c?p ho?c tr? l?i"</string>
+  <string name="notification_space_invite_body">"M?i b?n tham gia không gian này."</string>
+  <string name="notification_space_invite_body_with_sender">"%1$s dã m?i b?n tham gia không gian này."</string>
+  <string name="notification_test_push_notification_content">"B?n dang xem thông báo! B?m vào dây!"</string>
+  <string name="notification_thread_in_room">"Chu?i cu?c trò chuy?n trong: %1$s"</string>
+  <string name="notification_ticker_text_dm">"%1$s:%2$s"</string>
+  <string name="notification_ticker_text_group">"%1$s: %2$s %3$s"</string>
+  <plurals name="notification_unread_notified_messages">
+    <item quantity="other">"%dtin nh?n chua d?c dã thông báo"</item>
+  </plurals>
+  <string name="notification_unread_notified_messages_and_invitation">"%1$s và %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room">"%1$s in %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room_and_invitation">"%1$s trong %2$s và %3$s"</string>
+  <plurals name="notification_unread_notified_messages_in_room_rooms">
+    <item quantity="other">"%d phòng"</item>
+  </plurals>
+  <string name="push_distributor_background_sync_android">"Ð?ng b? hóa trong n?n"</string>
+  <string name="push_distributor_firebase_android">"D?ch v? c?a Google"</string>
+  <string name="push_no_valid_google_play_services_apk_android">"Không tìm th?y D?ch v? Google Play h?p l?. Thông báo có th? không ho?t d?ng dúng cách."</string>
+  <plurals name="troubleshoot_notifications_test_blocked_users_result_some">
+    <item quantity="other">"B?n dã ch?n ngu?i dùng %1$d. B?n s? không nh?n du?c thông báo t? ngu?i này."</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_blocked_users_title">"Ngu?i dùng b? ch?n"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_description">"Hãy d?m b?o r?ng ?ng d?ng h? tr? ít nh?t m?t nhà cung c?p thông báo d?y."</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_failure">"Không tìm th?y h? tr? t? nhà cung c?p thông báo d?y."</string>
+  <plurals name="troubleshoot_notifications_test_detect_push_provider_success">
+    <item quantity="other">"Ðã tìm th?y %1$d nhà cung c?p thông báo d?y: %2$s"</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_detect_push_provider_title">"H? tr? nhà cung c?p thông báo d?y"</string>
+  <string name="troubleshoot_notifications_test_display_notification_description">"Ki?m tra xem ?ng d?ng có th? hi?n th? thông báo hay không."</string>
+  <string name="troubleshoot_notifications_test_display_notification_failure">"Thông báo chua du?c nh?p vào."</string>
+  <string name="troubleshoot_notifications_test_display_notification_permission_failure">"Không th? hi?n th? thông báo."</string>
+  <string name="troubleshoot_notifications_test_display_notification_success">"Thông báo dã du?c nh?p!"</string>
+  <string name="troubleshoot_notifications_test_display_notification_title">"Hi?n th? thông báo"</string>
+  <string name="troubleshoot_notifications_test_display_notification_waiting">"Hãy nh?p vào thông báo d? ti?p t?c th? nghi?m."</string>
+</resources>
+

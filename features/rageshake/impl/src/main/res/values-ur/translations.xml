@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bug_report_attach_screenshot">"Ù¾Ø±Ø¯Û‚ Ø¹Ú©Ø³ Ù…Ù†Ø³Ù„Ú© Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_bug_report_contact_me">"Ø§Ú¯Ø± Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ú©ÙˆØ¦ÛŒ Ù…ØªØ§Ø¨Ø¹Û Ø³ÙˆØ§Ù„Ø§Øª ÛÛŒÚºØŒ ØªÙˆ Ø¢Ù¾ Ù…Ø¬Ú¾ Ø³Û’ Ø±Ø§Ø¨Ø·Û Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_bug_report_contact_me_title">"Ù…Ø¬Ú¾ Ø³Û’ Ø±Ø§Ø¨Ø·Û Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_bug_report_edit_screenshot">"Ù¾Ø±Ø¯Û‚ Ø¹Ú©Ø³ Ù…ÛŒÚº ØªØ±Ù…ÛŒÙ… Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_bug_report_editor_description">"Ø¨Ø±Ø§Û Ú©Ø±Ù… Ù…Ø³Ø¦Ù„Û Ø¨ÛŒØ§Ù† Ú©Ø±ÛŒÚºÛ” Ø¢Ù¾ Ù†Û’ Ú©ÛŒØ§ Ú©ÛŒØ§ØŸ Ø¢Ù¾ Ú©Ùˆ Ú©ÛŒØ§ ÛÙˆÙ†Û’ Ú©ÛŒ Ø§Ù…ÛŒØ¯ ØªÚ¾ÛŒØŸ Ø§ØµÙ„ Ù…ÛŒÚº Ú©ÛŒØ§ ÛÙˆØ§Û” Ø¨Ø±Ø§Û Ú©Ø±Ù… Ø¬ØªÙ†Ø§ ÛÙˆ Ø³Ú©Û’ Ø§Ø³ Ú©ÛŒ ØªÙØµÛŒÙ„ Ù…ÛŒÚº Ø¬Ø§Ø¦ÛŒÚºÛ”"</string>
+  <string name="screen_bug_report_editor_placeholder">"Ù…Ø³Ø¦Ù„Û Ø¨ÛŒØ§Ù† Ú©Ø±ÛŒÚº..."</string>
+  <string name="screen_bug_report_editor_supporting">"Ø§Ú¯Ø± Ù…Ù…Ú©Ù† ÛÙˆ ØªÙˆØŒ Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ Ø¨ÛŒØ§Ù† Ø§Ù†Ú¯Ø±ÛŒØ²ÛŒ Ù…ÛŒÚº Ù„Ú©Ú¾ÛŒÚºÛ”"</string>
+  <string name="screen_bug_report_error_description_too_short">"ØªÙØµÛŒÙ„ Ø¨ÛØª Ù…Ø®ØªØµØ± ÛÛ’ØŒ Ø¨Ø±Ø§Û Ú©Ø±Ù… Ù…Ø²ÛŒØ¯ ØªÙØµÛŒÙ„Ø§Øª ÙØ±Ø§ÛÙ… Ú©Ø±ÛŒÚº Ú©Û Ú©ÛŒØ§ ÛÙˆØ§Û” Ø´Ú©Ø±ÛŒÛ!"</string>
+  <string name="screen_bug_report_include_crash_logs">"Ù¹Ú©Ø± Ú©Û’ Ù†ÙˆØ´ØªÛ’ Ø¨Ú¾ÛŒØ¬ÛŒÚº"</string>
+  <string name="screen_bug_report_include_logs">"Ù†ÙˆØ´ØªÛØ¬Ø§Øª Ú©ÛŒ Ø§Ø¬Ø§Ø²Øª Ø¯ÛŒÚºÛ”"</string>
+  <string name="screen_bug_report_include_screenshot">"Ù¾Ø±Ø¯Û‚ Ø¹Ú©Ø³ Ø¨Ú¾ÛŒØ¬ÛŒÚº"</string>
+  <string name="screen_bug_report_logs_description">"Ù†ÙˆØ´ØªÛ Ø¬Ø§Øª Ø¢Ù¾Ú©Û’ Ù¾ÛŒØºØ§Ù… Ú©ÛŒØ³Ø§ØªÚ¾ Ø´Ø§Ù…Ù„ Ú©ÛŒÛ’ Ø¬Ø§Ø¦ÛŒÙ†Ú¯Û’ ØªØ§Ú©Û ÛŒÙ‚ÛŒÙ†ÛŒ Ø¨Ù†Ø§ÛŒØ§ Ø¬Ø§ Ø³Ú©Û’ Ú©Û Ø³Ø¨ Ú©Ú†Ú¾ Ù¹Ú¾ÛŒÚ© Ø³Û’ Ú©Ø§Ù… Ú©Ø± Ø±ÛØ§ ÛÛ’Û” Ø¨ØºÛŒØ± Ù†ÙˆØ´ØªÛ Ø¬Ø§Øª Ú©Û’ Ø§Ù¾Ù†Ø§ Ù¾ÛŒØºØ§Ù… Ø¨Ú¾ÛŒØ¬Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ØŒ Ø§Ø³ ØªØ±ØªÛŒØ¨ Ú©Ùˆ Ø¨Ù†Ø¯ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_bug_report_rash_logs_alert_title">"%1$sØ¢Ø®Ø±ÛŒ Ø¨Ø§Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„ ÛÙˆÙ†Û’ Ù¾Ø± Ù¹Ú©Ø±Ø§ Ú¯ÛŒØ§Û” Ú©ÛŒØ§ Ø¢Ù¾ ÛÙ…Ø§Ø±Û’ Ø³Ø§ØªÚ¾ Ù¹Ú©Ø± Ú©ÛŒ Ú¯Ø²Ø§Ø±Ø´ (Ø±Ù¾ÙˆØ±Ù¹) Ú©Ø§ Ø§Ø´ØªØ±Ø§Ú© Ú©Ø±Ù†Ø§ Ú†Ø§ÛÛŒÚº Ú¯Û’ØŸ"</string>
+  <string name="screen_bug_report_view_logs">"Ù†ÙˆØ´ØªÛ Ø¬Ø§Øª Ù…Ù„Ø­ÙˆØ¸ Ú©Ø±ÛŒÚº"</string>
+</resources>
+

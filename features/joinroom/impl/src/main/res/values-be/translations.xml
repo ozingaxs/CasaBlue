@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_join_room_cancel_knock_alert_confirmation">"Ð¢Ð°Ðº, Ð°Ð´Ð¼ÑÐ½Ñ–Ñ†ÑŒ"</string>
+  <string name="screen_join_room_decline_and_block_button_title">"ÐÐ´Ñ…Ñ–Ð»Ñ–Ñ†ÑŒ Ñ– Ð·Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ"</string>
+  <string name="screen_join_room_join_action">"Ð”Ð°Ð»ÑƒÑ‡Ñ‹Ñ†Ñ†Ð°"</string>
+  <string name="screen_join_room_knock_action">"ÐÐ°Ñ†Ñ–ÑÐ½Ñ–Ñ†Ðµ, ÐºÐ°Ð± Ð´Ð°Ð»ÑƒÑ‡Ñ‹Ñ†Ñ†Ð°"</string>
+  <string name="screen_join_room_space_not_supported_description">"%1$s Ð¿Ð°ÐºÑƒÐ»ÑŒ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°Ðµ Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€Ñ‹. Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€ Ð¿Ñ€Ð°Ð· Ð²ÑÐ±-ÑÑ‚Ð°Ñ€Ð¾Ð½ÐºÑƒ."</string>
+  <string name="screen_join_room_space_not_supported_title">"ÐŸÑ€Ð°ÑÑ‚Ð¾Ñ€Ñ‹ Ð¿Ð°ÐºÑƒÐ»ÑŒ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°ÑŽÑ†Ñ†Ð°"</string>
+  <string name="screen_join_room_subtitle_knock">"ÐÐ°Ñ†Ñ–ÑÐ½Ñ–Ñ†Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ Ð½Ñ–Ð¶ÑÐ¹, Ñ– Ð°Ð´Ð¼Ñ–Ð½Ñ–ÑÑ‚Ñ€Ð°Ñ‚Ð°Ñ€ Ð¿Ð°ÐºÐ¾Ñ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ðµ Ð°Ð¿Ð°Ð²ÑÑˆÑ‡ÑÐ½Ð½Ðµ. Ð’Ñ‹ Ð·Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð´Ð°Ð»ÑƒÑ‡Ñ‹Ñ†Ñ†Ð° Ð´Ð° Ñ€Ð°Ð·Ð¼Ð¾Ð²Ñ‹ Ð¿Ð°ÑÐ»Ñ Ð·Ð°Ñ†Ð²ÑÑ€Ð´Ð¶ÑÐ½Ð½Ñ."</string>
+  <string name="screen_join_room_subtitle_no_preview">"Ð’Ñ‹ Ð¿Ð°Ð²Ñ–Ð½Ð½Ñ‹ Ð±Ñ‹Ñ†ÑŒ ÑƒÐ´Ð·ÐµÐ»ÑŒÐ½Ñ–ÐºÐ°Ð¼ Ð³ÑÑ‚Ð°Ð³Ð° Ð¿Ð°ÐºÐ¾Ñ ÐºÐ°Ð± Ð¿Ñ€Ð°Ð³Ð»ÐµÐ´Ð·ÐµÑ†ÑŒ Ð³Ñ–ÑÑ‚Ð¾Ñ€Ñ‹ÑŽ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž."</string>
+  <string name="screen_join_room_title_knock">"Ð’Ñ‹ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð´Ð°Ð»ÑƒÑ‡Ñ‹Ñ†Ñ†Ð° Ð´Ð° Ð³ÑÑ‚Ð°Ð³Ð° Ð¿Ð°ÐºÐ¾Ñ?"</string>
+  <string name="screen_join_room_title_no_preview">"ÐŸÐµÑ€Ð°Ð´Ð¿Ñ€Ð°Ð³Ð»ÑÐ´ Ð½ÐµÐ´Ð°ÑÑ‚ÑƒÐ¿Ð½Ñ‹"</string>
+</resources>
+

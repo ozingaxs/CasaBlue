@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_battery_optimization_content_android">"ì´ ì•±ì˜ ë°°í„°ë¦¬ ìµœì í™”ë¥¼ ë¹„í™œì„±í™”í•˜ì—¬ ëª¨ë“  ì•Œë¦¼ì´ ì •ìƒì ìœ¼ë¡œ ìˆ˜ì‹ ë˜ë„ë¡ í•©ë‹ˆë‹¤."</string>
+  <string name="banner_battery_optimization_submit_android">"ìµœì í™” ë¹„í™œì„±í™”"</string>
+  <string name="banner_battery_optimization_title_android">"ì•Œë¦¼ì´ ë„ì°©í•˜ì§€ ì•Šë‚˜ìš”?"</string>
+  <string name="banner_new_sound_message">"ì•Œë¦¼ìŒì´ ì—…ë°ì´íŠ¸ë˜ì—ˆìŠµë‹ˆë‹¤. ë”ìš± ëª…í™•í•˜ê³  ë¹ ë¥´ë©´ì„œë„, ë°©í•´ëŠ” ìµœì†Œí™”í•˜ë„ë¡ ê°œì„ ë˜ì—ˆìŠµë‹ˆë‹¤."</string>
+  <string name="banner_new_sound_title">"ì•± ì•Œë¦¼ìŒì´ ìƒˆë¡­ê²Œ ë°”ë€Œì—ˆìŠµë‹ˆë‹¤."</string>
+  <string name="banner_set_up_recovery_content">"ëŒ€í™” ë‚´ìš©ì€ ì¢…ë‹¨ê°„ ì•”í˜¸í™” ê¸°ìˆ ë¡œ ìžë™ ë°±ì—…ë©ë‹ˆë‹¤. ëª¨ë“  ê¸°ê¸°ë¥¼ ì‚¬ìš©í•  ìˆ˜ ì—†ëŠ” ìƒí™©ì—ì„œ ë°±ì—…ì„ ë³µêµ¬í•˜ê³  ë””ì§€í„¸ ì‹ ì›ì„ ìœ ì§€í•˜ë ¤ë©´ ë³µêµ¬ í‚¤ê°€ ë°˜ë“œì‹œ í•„ìš”í•©ë‹ˆë‹¤."</string>
+  <string name="banner_set_up_recovery_submit">"ë³µêµ¬ í‚¤ ê°€ì ¸ì˜¤ê¸°"</string>
+  <string name="banner_set_up_recovery_title">"ëŒ€í™” ë°±ì—…í•˜ê¸°"</string>
+  <string name="confirm_recovery_key_banner_message">"í‚¤ ì €ìž¥ì†Œ ë° ë©”ì‹œì§€ ê¸°ë¡ì— ëŒ€í•œ ì•¡ì„¸ìŠ¤ë¥¼ ìœ ì§€í•˜ë ¤ë©´ ë³µêµ¬ í‚¤ë¥¼ í™•ì¸í•˜ì„¸ìš”."</string>
+  <string name="confirm_recovery_key_banner_primary_button_title">"ë³µêµ¬ í‚¤ë¥¼ ìž…ë ¥í•˜ì„¸ìš”"</string>
+  <string name="confirm_recovery_key_banner_secondary_button_title">"ë³µêµ¬ í‚¤ë¥¼ ìžŠìœ¼ì…¨ë‚˜ìš”?"</string>
+  <string name="confirm_recovery_key_banner_title">"ê·€í•˜ì˜ í‚¤ ì €ìž¥ì†Œê°€ ë™ê¸°í™”ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤"</string>
+  <string name="full_screen_intent_banner_message">"ì¤‘ìš”í•œ ì „í™”ë¥¼ ë†“ì¹˜ì§€ ì•Šìœ¼ë ¤ë©´ íœ´ëŒ€í°ì´ ìž ê²¨ ìžˆì„ ë•Œ ì „ì²´ í™”ë©´ ì•Œë¦¼ì„ í—ˆìš©í•˜ë„ë¡ ì„¤ì •ì„ ë³€ê²½í•˜ì„¸ìš”."</string>
+  <string name="full_screen_intent_banner_title">"í†µí™” ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ì„¸ìš”"</string>
+  <string name="screen_home_tab_chats">"ì±„íŒ…"</string>
+  <string name="screen_home_tab_spaces">"ìŠ¤íŽ˜ì´ìŠ¤"</string>
+  <string name="screen_invites_decline_chat_message">"ì •ë§ë¡œ %1$s ì— ì°¸ê°€í•˜ì§€ ì•Šê³  ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì‹œê² ì–´ìš”?"</string>
+  <string name="screen_invites_decline_chat_title">"ì´ˆëŒ€ ê±°ì ˆ"</string>
+  <string name="screen_invites_decline_direct_chat_message">"%1$s ì™€ì˜ ë¹„ê³µê°œ ì±„íŒ…ì„ ì •ë§ ê±°ë¶€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_invites_decline_direct_chat_title">"ì±„íŒ… ê±°ì ˆ"</string>
+  <string name="screen_invites_empty_list">"ì´ˆëŒ€ ì—†ìŒ"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) ë‹¹ì‹ ì„ ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_migration_message">"ì´ ê³¼ì •ì€ í•œ ë²ˆë§Œ ì§„í–‰ë©ë‹ˆë‹¤, ê¸°ë‹¤ë ¤ ì£¼ì…”ì„œ ê°ì‚¬í•©ë‹ˆë‹¤."</string>
+  <string name="screen_migration_title">"ê³„ì • ì„¤ì •í•˜ê¸°"</string>
+  <string name="screen_roomlist_a11y_create_message">"ìƒˆë¡œìš´ ëŒ€í™” ë˜ëŠ” ë°© ë§Œë“¤ê¸°"</string>
+  <string name="screen_roomlist_clear_filters">"í•„í„° ì§€ìš°ê¸°"</string>
+  <string name="screen_roomlist_empty_message">"ëˆ„êµ°ê°€ì—ê²Œ ë©”ì‹œì§€ë¥¼ ë³´ë‚´ì–´ ì‹œìž‘í•´ ë³´ì„¸ìš”."</string>
+  <string name="screen_roomlist_empty_title">"ì•„ì§ ì±„íŒ…ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_favourites">"ì¦ê²¨ì°¾ê¸°"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_subtitle">"ì±„íŒ… ì„¤ì •ì—ì„œ ì±„íŒ…ì„ ì¦ê²¨ì°¾ê¸°ì— ì¶”ê°€í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+í˜„ìž¬ëŠ” ë‹¤ë¥¸ ì±„íŒ…ì„ ë³´ë ¤ë©´ í•„í„°ë¥¼ ì„ íƒ í•´ì œí•´ì•¼ í•©ë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_title">"ì•„ì§ ì¦ê²¨ì°¾ëŠ” ì±„íŒ…ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_invites">"ì´ˆëŒ€"</string>
+  <string name="screen_roomlist_filter_invites_empty_state_title">"ë³´ë¥˜ ì¤‘ì¸ ì´ˆëŒ€ê°€ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_low_priority">"ë‚®ì€ ìš°ì„ ìˆœìœ„"</string>
+  <string name="screen_roomlist_filter_low_priority_empty_state_title">"ì•„ì§ ë‚®ì€ ìš°ì„ ìˆœìœ„ ì±„íŒ…ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_subtitle">"ë‹¤ë¥¸ ì±„íŒ…ì„ ë³´ë ¤ë©´ í•„í„° ì„ íƒì„ í•´ì œí•˜ì„¸ìš”."</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_title">"ì´ ì„ íƒ í•­ëª©ì— ëŒ€í•œ ì±„íŒ…ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_people">"ì‚¬ëžŒ"</string>
+  <string name="screen_roomlist_filter_people_empty_state_title">"ì•„ì§ DMì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_rooms">"ë°©"</string>
+  <string name="screen_roomlist_filter_rooms_empty_state_title">"ì•„ì§ ì–´ë–¤ ë°©ì—ë„ ìžˆì§€ ì•ŠìŠµë‹ˆë‹¤."</string>
+  <string name="screen_roomlist_filter_unreads">"ì½ì§€ ì•Šì€ í•­ëª©"</string>
+  <string name="screen_roomlist_filter_unreads_empty_state_title">"ì¶•í•˜í•©ë‹ˆë‹¤!
+ì½ì§€ ì•Šì€ ë©”ì‹œì§€ê°€ ì—†ìŠµë‹ˆë‹¤!"</string>
+  <string name="screen_roomlist_knock_event_sent_description">"ê°€ìž… ìš”ì²­ì´ ì „ì†¡ë˜ì—ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_roomlist_main_space_title">"ì±„íŒ…"</string>
+  <string name="screen_roomlist_mark_as_read">"ì½ìŒìœ¼ë¡œ í‘œì‹œ"</string>
+  <string name="screen_roomlist_mark_as_unread">"ì½ì§€ ì•ŠìŒìœ¼ë¡œ í‘œì‹œ"</string>
+  <string name="screen_roomlist_tombstoned_room_description">"ì´ ë°©ì´ ì—…ê·¸ë ˆì´ë“œë˜ì—ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_roomlist_your_spaces">"ë‚´ ìŠ¤íŽ˜ì´ìŠ¤"</string>
+  <string name="session_verification_banner_message">"ìƒˆ ìž¥ì¹˜ë¥¼ ì‚¬ìš© ì¤‘ì¸ ê²ƒ ê°™ìŠµë‹ˆë‹¤. ë‹¤ë¥¸ ë””ë°”ì´ìŠ¤ë¡œ ì¸ì¦í•˜ì—¬ ì•”í˜¸í™”ëœ ë©”ì‹œì§€ì— ì•¡ì„¸ìŠ¤í•˜ì„¸ìš”."</string>
+  <string name="session_verification_banner_title">"ë³¸ì¸ì¸ì§€ í™•ì¸í•˜ì„¸ìš”"</string>
+</resources>
+

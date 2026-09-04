@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_app_lock_biometric_authentication">"ìƒì²´ ì¸ì‹ ì¸ì¦"</string>
+  <string name="screen_app_lock_biometric_unlock">"ìƒì²´ ì¸ì‹ ìž ê¸ˆ í•´ì œ"</string>
+  <string name="screen_app_lock_biometric_unlock_title_android">"ìƒì²´ ì¸ì¦ìœ¼ë¡œ ìž ê¸ˆ í•´ì œ"</string>
+  <string name="screen_app_lock_confirm_biometric_authentication_android">"ìƒì²´ ì¸ì‹ í™•ì¸"</string>
+  <string name="screen_app_lock_forgot_pin">"PINì„ ìžŠìœ¼ì…¨ë‚˜ìš”?"</string>
+  <string name="screen_app_lock_settings_change_pin">"PIN ì½”ë“œ ë³€ê²½"</string>
+  <string name="screen_app_lock_settings_enable_biometric_unlock">"ìƒì²´ ì¸ì‹ ìž ê¸ˆ í•´ì œ í—ˆìš©"</string>
+  <string name="screen_app_lock_settings_remove_pin">"PIN ì œê±°"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_message">"PINì„ ì œê±°í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_title">"PINì„ ì œê±°í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_allow_title">"%1$s í—ˆìš©"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_skip">"ë‚˜ëŠ” PINì„ ì‚¬ìš©í•˜ê³  ì‹¶ìŠµë‹ˆë‹¤"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_subtitle">"ì‹œê°„ì„ ì ˆì•½í•˜ë ¤ë©´ %1$s ë¥¼ ì‚¬ìš©í•˜ì—¬ ì•±ì„ ë§¤ë²ˆ ìž ê¸ˆ í•´ì œí•˜ì„¸ìš”."</string>
+  <string name="screen_app_lock_setup_choose_pin">"PINì„ ì„ íƒí•˜ì„¸ìš”"</string>
+  <string name="screen_app_lock_setup_confirm_pin">"PIN í™•ì¸"</string>
+  <string name="screen_app_lock_setup_pin_context">"%1$s ë¥¼ ìž ê·¸ë©´ ì±„íŒ…ì— ì¶”ê°€ ë³´ì•ˆì´ ì ìš©ë©ë‹ˆë‹¤.
+
+ê¸°ì–µí•˜ê¸° ì‰¬ìš´ ê²ƒì„ ì„ íƒí•˜ì„¸ìš”. ì´ PINì„ ìžŠì–´ë²„ë¦¬ë©´ ì•±ì—ì„œ ë¡œê·¸ì•„ì›ƒë©ë‹ˆë‹¤."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_content">"ë³´ì•ˆìƒì˜ ì´ìœ ë¡œ ì´ ì½”ë“œë¥¼ PIN ì½”ë“œë¡œ ì„ íƒí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_title">"ë‹¤ë¥¸ PINì„ ì„ íƒí•˜ì„¸ìš”"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_content">"PINì„ ë‘ ë²ˆ ìž…ë ¥í•˜ì„¸ìš”."</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_title">"PINì´ ì¼ì¹˜í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤"</string>
+  <string name="screen_app_lock_signout_alert_message">"ê³„ì†í•˜ë ¤ë©´ ë‹¤ì‹œ ë¡œê·¸ì¸í•˜ê³  ìƒˆë¡œìš´ PINì„ ìƒì„±í•´ì•¼ í•©ë‹ˆë‹¤"</string>
+  <string name="screen_app_lock_signout_alert_title">"ì´ ê¸°ê¸°ë¥¼ ì œê±°í•˜ëŠ” ì¤‘ìž…ë‹ˆë‹¤"</string>
+  <plurals name="screen_app_lock_subtitle">
+    <item quantity="other">"ë‹¹ì‹ ì€ %1$d íšŒ ìž ê¸ˆ í•´ì œ ì‹œë„ë¥¼ ê°€ì§€ê³  ìžˆìŠµë‹ˆë‹¤"</item>
+  </plurals>
+  <plurals name="screen_app_lock_subtitle_wrong_pin">
+    <item quantity="other">"PINì´ ìž˜ëª»ë˜ì—ˆìŠµë‹ˆë‹¤. %1$d ë²ˆ ë‚¨ì•˜ìŠµë‹ˆë‹¤"</item>
+  </plurals>
+  <string name="screen_app_lock_use_biometric_android">"ìƒì²´ ì¸ì¦ ì‚¬ìš©"</string>
+  <string name="screen_app_lock_use_pin_android">"PIN ì‚¬ìš©"</string>
+  <string name="screen_signout_in_progress_dialog_content">"ê¸°ê¸°ë¥¼ ì œê±°í•˜ëŠ” ì¤‘..."</string>
+</resources>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"ÐÐ¾Ð²Ñ‹ Ð¿Ð°ÐºÐ¾Ð¹"</string>
+  <string name="screen_create_room_add_people_title">"Ð—Ð°Ð¿Ñ€Ð°ÑÑ–Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°Ñž"</string>
+  <string name="screen_create_room_error_creating_room">"ÐŸÑ€Ñ‹ ÑÑ‚Ð²Ð°Ñ€ÑÐ½Ð½Ñ– Ð¿Ð°ÐºÐ¾Ñ Ð°Ð´Ð±Ñ‹Ð»Ð°ÑÑ Ð¿Ð°Ð¼Ñ‹Ð»ÐºÐ°"</string>
+  <string name="screen_create_room_name_placeholder">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ñ–Ð¼Ñ..."</string>
+  <string name="screen_create_room_new_room_title">"ÐÐ¾Ð²Ñ‹ Ð¿Ð°ÐºÐ¾Ð¹"</string>
+  <string name="screen_create_room_new_space_title">"ÐÐ¾Ð²Ð°Ñ Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€Ð°"</string>
+  <string name="screen_create_room_private_option_description">"Ð¢Ð¾Ð»ÑŒÐºÑ– Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐ°Ð½Ñ‹Ñ Ð»ÑŽÐ´Ð·Ñ– Ð¼Ð¾Ð³ÑƒÑ†ÑŒ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° Ð³ÑÑ‚Ð°Ð³Ð° Ð¿Ð°ÐºÐ¾Ñ. Ð£ÑÐµ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð°Ð±Ð°Ñ€Ð¾Ð½ÐµÐ½Ñ‹ end-to-end ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð½ÐµÐ¼."</string>
+  <string name="screen_create_room_public_option_description">"Ð›ÑŽÐ±Ñ‹ Ð¼Ð¾Ð¶Ð° Ð·Ð½Ð°Ð¹ÑÑ†Ñ– Ð³ÑÑ‚Ñ‹ Ð¿Ð°ÐºÐ¾Ð¹. 
+Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð·Ð¼ÑÐ½Ñ–Ñ†ÑŒ Ð³ÑÑ‚Ð° Ñž Ð»ÑŽÐ±Ñ‹ Ñ‡Ð°Ñ Ñƒ Ð½Ð°Ð»Ð°Ð´Ð°Ñ… Ð¿Ð°ÐºÐ¾Ñ."</string>
+  <string name="screen_create_room_room_access_section_knocking_option_title">"ÐŸÐ°Ð¿Ñ€Ð°ÑÑ–Ñ†Ðµ Ð´Ð°Ð»ÑƒÑ‡Ñ‹Ñ†Ñ†Ð°"</string>
+  <string name="screen_create_room_room_address_section_title">"ÐÐ´Ñ€Ð°Ñ"</string>
+  <string name="screen_create_room_space_selection_sheet_title">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ñƒ Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€Ñƒ"</string>
+  <string name="screen_create_room_topic_label">"Ð¢ÑÐ¼Ð° (Ð½ÐµÐ°Ð±Ð°Ð²ÑÐ·ÐºÐ¾Ð²Ð°)"</string>
+  <string name="screen_create_room_topic_placeholder">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ð°Ð¿Ñ–ÑÐ°Ð½Ð½Ðµ..."</string>
+</resources>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_report_room_leave_failed_alert_message">"ØªÙ… Ø¥Ø±Ø³Ø§Ù„ Ø¨Ù„Ø§ØºÙƒ Ø¨Ù†Ø¬Ø§Ø­ØŒ Ù„ÙƒÙ†Ù†Ø§ ÙˆØ§Ø¬Ù‡Ù†Ø§ Ù…Ø´ÙƒÙ„Ø© Ø£Ø«Ù†Ø§Ø¡ Ù…Ø­Ø§ÙˆÙ„Ø© Ù…ØºØ§Ø¯Ø±Ø© Ø§Ù„ØºØ±ÙØ©. ÙŠØ±Ø¬Ù‰ Ø§Ù„Ù…Ø­Ø§ÙˆÙ„Ø© Ù…Ø±Ø© Ø£Ø®Ø±Ù‰."</string>
+  <string name="screen_report_room_leave_failed_alert_title">"ØªØ¹Ø°Ù‘Ø±Øª Ù…ØºØ§Ø¯Ø±Ø© Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_report_room_reason_footer">"Ø£Ø¨Ù„Øº Ù…Ø³Ø¤ÙˆÙ„Ùƒ Ø¹Ù† Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©. Ø¥Ø°Ø§ ÙƒØ§Ù†Øª Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ Ù…Ø´ÙÙ‘Ø±Ø©ØŒ ÙÙ„Ù† ÙŠØªÙ…ÙƒÙ† Ù…Ø³Ø¤ÙˆÙ„Ùƒ Ù…Ù† Ù‚Ø±Ø§Ø¡ØªÙ‡Ø§."</string>
+  <string name="screen_report_room_reason_placeholder">"ØµÙÙ Ø³Ø¨Ø¨ Ø§Ù„Ø¥Ø¨Ù„Ø§Øº..."</string>
+  <string name="screen_report_room_title">"Ø§Ù„Ø¥Ø¨Ù„Ø§Øº Ø¹Ù† Ø§Ù„ØºØ±ÙØ©"</string>
+</resources>
+

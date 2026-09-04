@@ -1,0 +1,51 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_battery_optimization_content_android">"T?t tính nang t?i uu hóa pin cho ?ng d?ng này d? d?m b?o nh?n du?c m?i thông báo."</string>
+  <string name="banner_battery_optimization_submit_android">"T?t t?i uu hóa"</string>
+  <string name="banner_battery_optimization_title_android">"Có nh?n du?c thông báo không?"</string>
+  <string name="banner_new_sound_message">"Thông báo c?a b?n dã du?c c?p nh?t — rõ ràng hon, nhanh hon và ít gây khó ch?u hon."</string>
+  <string name="banner_new_sound_title">"Chúng tôi dã làm m?i âm thanh c?a b?n."</string>
+  <string name="banner_set_up_recovery_content">"Các cu?c trò chuy?n c?a b?n du?c t? d?ng sao luu b?ng mã hóa d?u cu?i. Ð? khôi ph?c b?n sao luu này và gi? l?i danh tính k? thu?t s? c?a b?n khi b?n m?t quy?n truy c?p vào t?t c? các thi?t b?, b?n s? c?n khóa khôi ph?c."</string>
+  <string name="banner_set_up_recovery_submit">"L?y khóa khôi ph?c."</string>
+  <string name="banner_set_up_recovery_title">"Sao luu tin nh?n c?a b?n"</string>
+  <string name="confirm_recovery_key_banner_message">"Xác nh?n khóa khôi ph?c d? không b? m?t quy?n truy c?p vào tin nh?n."</string>
+  <string name="confirm_recovery_key_banner_primary_button_title">"Nh?p khóa khôi ph?c c?a b?n."</string>
+  <string name="confirm_recovery_key_banner_secondary_button_title">"B?n quên khóa khôi ph?c?”"</string>
+  <string name="confirm_recovery_key_banner_title">"D? li?u khóa c?a b?n không còn d?ng b?"</string>
+  <string name="full_screen_intent_banner_message">"Ð? d?m b?o b?n không b? l? b?t k? cu?c g?i quan tr?ng nào, vui lòng thay d?i cài d?t d? cho phép thông báo toàn màn hình khi di?n tho?i c?a b?n b? khóa."</string>
+  <string name="full_screen_intent_banner_title">"Nâng cao tr?i nghi?m cu?c g?i c?a b?n"</string>
+  <string name="screen_home_tab_chats">"Cu?c trò chuy?n"</string>
+  <string name="screen_invites_decline_chat_message">"B?n có ch?c mu?n t? ch?i l?i m?i tham gia %1$s không?"</string>
+  <string name="screen_invites_decline_chat_title">"T? ch?i l?i m?i"</string>
+  <string name="screen_invites_decline_direct_chat_message">"B?n có ch?c mu?n t? ch?i cu?c trò chuy?n riêng v?i %1$s không?"</string>
+  <string name="screen_invites_decline_direct_chat_title">"T? ch?i trò chuy?n"</string>
+  <string name="screen_invites_empty_list">"Không có l?i m?i"</string>
+  <string name="screen_invites_invited_you">"%1$s(%2$s ) dã m?i b?n"</string>
+  <string name="screen_migration_message">"Quá trình này ch? th?c hi?n m?t l?n, c?m on b?n dã kiên nh?n."</string>
+  <string name="screen_migration_title">"Ðang thi?t l?p tài kho?n c?a b?n."</string>
+  <string name="screen_roomlist_a11y_create_message">"T?o m?t cu?c trò chuy?n ho?c phòng m?i"</string>
+  <string name="screen_roomlist_empty_message">"B?t d?u b?ng cách nh?n tin cho ai dó."</string>
+  <string name="screen_roomlist_empty_title">"Chua có cu?c trò chuy?n nào."</string>
+  <string name="screen_roomlist_filter_favourites">"Yêu thích"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_subtitle">"B?n có th? thêm cu?c trò chuy?n vào m?c yêu thích trong cài d?t chat.
+Hi?n t?i, b?n có th? b? ch?n b? l?c d? xem các cu?c trò chuy?n khác."</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_title">"B?n chua có cu?c trò chuy?n yêu thích nào."</string>
+  <string name="screen_roomlist_filter_invites">"L?i m?i"</string>
+  <string name="screen_roomlist_filter_low_priority">"Uu tiên th?p"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_subtitle">"B?n có th? b? ch?n b? l?c d? xem các cu?c trò chuy?n khác"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_title">"B?n không có cu?c trò chuy?n nào cho l?a ch?n này"</string>
+  <string name="screen_roomlist_filter_people">"Danh b?"</string>
+  <string name="screen_roomlist_filter_people_empty_state_title">"B?n chua có tin nh?n riêng nào c?"</string>
+  <string name="screen_roomlist_filter_rooms">"Phòng"</string>
+  <string name="screen_roomlist_filter_rooms_empty_state_title">"B?n chua tham gia phòng nào"</string>
+  <string name="screen_roomlist_filter_unreads">"Chua d?c"</string>
+  <string name="screen_roomlist_filter_unreads_empty_state_title">"Chúc m?ng!
+B?n không còn tin nh?n nào chua d?c n?a!"</string>
+  <string name="screen_roomlist_knock_event_sent_description">"Yêu c?u tham gia dã du?c g?i"</string>
+  <string name="screen_roomlist_main_space_title">"Cu?c trò chuy?n"</string>
+  <string name="screen_roomlist_mark_as_read">"Ðánh d?u dã d?c"</string>
+  <string name="screen_roomlist_mark_as_unread">"Ðánh d?u chua d?c"</string>
+  <string name="session_verification_banner_message">"Có v? nhu b?n dang s? d?ng thi?t b? m?i. Hãy xác minh b?ng m?t thi?t b? khác d? truy c?p tin nh?n du?c mã hóa c?a b?n."</string>
+  <string name="session_verification_banner_title">"Xác th?c danh tính c?a b?n"</string>
+</resources>
+

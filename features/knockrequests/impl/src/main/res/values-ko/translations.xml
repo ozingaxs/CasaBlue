@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_knock_requests_list_accept_all_alert_confirm_button_title">"ë„¤, ëª¨ë‘ ìˆ˜ë½í•©ë‹ˆë‹¤"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_description">"ëª¨ë“  ê°€ìž… ìš”ì²­ì„ ì •ë§ë¡œ ìˆ˜ë½í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_title">"ëª¨ë“  ìš”ì²­ ìˆ˜ë½"</string>
+  <string name="screen_knock_requests_list_accept_all_button_title">"ëª¨ë‘ ìˆ˜ë½"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_description">"ëª¨ë“  ìš”ì²­ì„ ì²˜ë¦¬í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_title">"ëª¨ë“  ìš”ì²­ì„ ìˆ˜ë½í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_knock_requests_list_accept_all_loading_title">"ëª¨ë“  ê°€ìž… ìš”ì²­ ìˆ˜ë½"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_description">"ì´ ìš”ì²­ì„ ìˆ˜ë½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_title">"ìš”ì²­ì„ ìˆ˜ë½í•˜ì§€ ëª»í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_knock_requests_list_accept_loading_title">"ê°€ìž… ìš”ì²­ ìˆ˜ë½"</string>
+  <string name="screen_knock_requests_list_ban_alert_confirm_button_title">"ë„¤, ê±°ì ˆí•˜ê³  ì°¨ë‹¨í•©ë‹ˆë‹¤"</string>
+  <string name="screen_knock_requests_list_ban_alert_description">"%1$s ì„ ê±°ë¶€í•˜ê³  ì°¨ë‹¨í•˜ì‹œê² ìŠµë‹ˆê¹Œ? ì´ ì‚¬ìš©ìžëŠ” ì´ ë°©ì— ë‹¤ì‹œ ì°¸ì—¬í•˜ê¸° ìœ„í•´ ì•¡ì„¸ìŠ¤ë¥¼ ìš”ì²­í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_knock_requests_list_ban_alert_title">"ì ‘ê·¼ ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_knock_requests_list_ban_loading_title">"ì ‘ê·¼ ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_knock_requests_list_decline_alert_confirm_button_title">"ë„¤, ê±°ì ˆí•©ë‹ˆë‹¤"</string>
+  <string name="screen_knock_requests_list_decline_alert_description">"%1$s ì˜ ì´ ë°©ì— ëŒ€í•œ ìš”ì²­ì„ ì •ë§ ê±°ë¶€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_knock_requests_list_decline_alert_title">"ì ‘ê·¼ ê±°ë¶€"</string>
+  <string name="screen_knock_requests_list_decline_and_ban_action_title">"ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_description">"ì´ ìš”ì²­ì„ ê±°ë¶€í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë‹¤ì‹œ ì‹œë„í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_title">"ìš”ì²­ ê±°ë¶€ì— ì‹¤íŒ¨í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_knock_requests_list_decline_loading_title">"ê°€ìž… ìš”ì²­ ê±°ë¶€"</string>
+  <string name="screen_knock_requests_list_empty_state_description">"ëˆ„êµ°ê°€ê°€ ë°©ì— ì°¸ì—¬ ìš”ì²­ì„ í•œë‹¤ë©´, ì—¬ê¸°ì—ì„œ ê·¸ ìš”ì²­ì„ ë³¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_knock_requests_list_empty_state_title">"ë³´ë¥˜ ì¤‘ì¸ ê°€ìž… ìš”ì²­ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_knock_requests_list_initial_loading_title">"ê°€ìž… ìš”ì²­ì„ ë¡œë”© ì¤‘..."</string>
+  <string name="screen_knock_requests_list_title">"ì°¸ì—¬ ìš”ì²­"</string>
+  <plurals name="screen_room_multiple_knock_requests_title">
+    <item quantity="other">"%1$s +%2$d ëª…ì´ ì´ ë°©ì— ì°¸ì—¬í•˜ê³  ì‹¶ì–´í•©ë‹ˆë‹¤."</item>
+  </plurals>
+  <string name="screen_room_multiple_knock_requests_view_all_button_title">"ëª¨ë‘ ë³´ê¸°"</string>
+  <string name="screen_room_single_knock_request_accept_button_title">"ìˆ˜ë½"</string>
+  <string name="screen_room_single_knock_request_title">"%1$s ì´ ë°©ì— ì°¸ì—¬í•˜ê³  ì‹¶ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_room_single_knock_request_view_button_title">"ë³´ê¸°"</string>
+</resources>
+

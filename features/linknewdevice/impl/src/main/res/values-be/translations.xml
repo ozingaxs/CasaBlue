@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_link_new_device_desktop_scanning_title">"Ð¡ÐºÐ°Ð½Ñ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ QR-ÐºÐ¾Ð´"</string>
+  <string name="screen_link_new_device_desktop_step3">"ÐÐ´ÑÐºÐ°Ð½Ñ–Ñ€ÑƒÐ¹Ñ†Ðµ QR-ÐºÐ¾Ð´ Ð· Ð´Ð°Ð¿Ð°Ð¼Ð¾Ð³Ð°Ð¹ Ð³ÑÑ‚Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹"</string>
+  <string name="screen_link_new_device_desktop_submit">"Ð“Ð°Ñ‚Ð¾Ð²Ñ‹ Ð´Ð° ÑÐºÐ°Ð½Ñ–Ñ€Ð°Ð²Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_link_new_device_error_app_not_supported_subtitle">"Ð’Ð°Ñˆ Ð¿Ñ€Ð°Ð²Ð°Ð¹Ð´Ð°Ñ€ ÑƒÐ»Ñ–ÐºÐ¾Ð²Ð°Ð³Ð° Ð·Ð°Ð¿Ñ–ÑÑƒ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°Ðµ %1$s."</string>
+  <string name="screen_link_new_device_error_app_not_supported_title">"%1$s Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°ÐµÑ†Ñ†Ð°"</string>
+  <string name="screen_link_new_device_error_not_supported_title">"QR-ÐºÐ¾Ð´ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°ÐµÑ†Ñ†Ð°"</string>
+  <string name="screen_link_new_device_error_request_cancelled_subtitle">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ð±Ñ‹Ñž Ð°Ð´Ð¼ÐµÐ½ÐµÐ½Ñ‹ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_link_new_device_error_request_cancelled_title">"Ð—Ð°Ð¿Ñ‹Ñ‚ Ð½Ð° ÑžÐ²Ð°Ñ…Ð¾Ð´ ÑÐºÐ°ÑÐ°Ð²Ð°Ð½Ñ‹"</string>
+  <string name="screen_link_new_device_error_request_timeout_subtitle">"Ð¢ÑÑ€Ð¼Ñ–Ð½ ÑƒÐ²Ð°Ñ…Ð¾Ð´Ñƒ ÑÐºÐ¾Ð½Ñ‡Ñ‹ÑžÑÑ. ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·."</string>
+  <string name="screen_link_new_device_error_request_timeout_title">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ñƒ ÑÑ–ÑÑ‚ÑÐ¼Ñƒ Ð½Ðµ Ð±Ñ‹Ñž Ð·Ð°Ð²ÐµÑ€ÑˆÐ°Ð½Ñ‹ ÑÐ²Ð¾ÐµÑ‡Ð°ÑÐ¾Ð²Ð°"</string>
+  <string name="screen_link_new_device_mobile_step2">"Ð’Ñ‹Ð±ÐµÑ€Ñ‹Ñ†Ðµ %1$s"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_description">"ÐÐµ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ð»Ð°ÑÑ ÑžÑÑ‚Ð°Ð»ÑÐ²Ð°Ñ†ÑŒ Ð±ÑÑÐ¿ÐµÑ‡Ð½Ð°Ðµ Ð·Ð»ÑƒÑ‡ÑÐ½Ð½Ðµ Ð· Ð½Ð¾Ð²Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð°Ð¹. Ð†ÑÐ½ÑƒÑŽÑ‡Ñ‹Ñ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹ Ð¿Ð°-Ñ€Ð°Ð½ÐµÐ¹ÑˆÐ°Ð¼Ñƒ Ñž Ð±ÑÑÐ¿ÐµÑ†Ñ‹, Ñ– Ð²Ð°Ð¼ Ð½Ðµ Ñ‚Ñ€ÑÐ±Ð° Ñ‚ÑƒÑ€Ð±Ð°Ð²Ð°Ñ†Ñ†Ð° Ð¿Ñ€Ð° Ñ–Ñ…."</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_header">"Ð¨Ñ‚Ð¾ Ð·Ð°Ñ€Ð°Ð·?"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_1">"ÐŸÐ°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ Ð·Ð½Ð¾Ñž ÑƒÐ²Ð°Ð¹ÑÑ†Ñ– Ñž ÑÑ–ÑÑ‚ÑÐ¼Ñƒ Ð· Ð´Ð°Ð¿Ð°Ð¼Ð¾Ð³Ð°Ð¹ QR-ÐºÐ¾Ð´Ð°, ÐºÐ°Ð»Ñ– Ð³ÑÑ‚Ð° Ð±Ñ‹Ð»Ð° ÑÐµÑ‚ÐºÐ°Ð²Ð°Ñ Ð¿Ñ€Ð°Ð±Ð»ÐµÐ¼Ð°"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_2">"ÐšÐ°Ð»Ñ– Ð²Ñ‹ ÑÑƒÑ‚Ñ‹ÐºÐ½ÑƒÐ»Ñ–ÑÑ Ð· Ñ‚Ð¾Ð¹ Ð¶Ð° Ð¿Ñ€Ð°Ð±Ð»ÐµÐ¼Ð°Ð¹, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ Ñ–Ð½ÑˆÑƒÑŽ ÑÐµÑ‚ÐºÑƒ Wi-Fi Ð°Ð±Ð¾ ÑÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð¹Ñ†ÐµÑÑ Ð¼Ð°Ð±Ñ–Ð»ÑŒÐ½Ñ‹Ð¼Ñ– Ð´Ð°Ð´Ð·ÐµÐ½Ñ‹Ð¼Ñ– Ð·Ð°Ð¼ÐµÑÑ‚ Wi-Fi."</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_3">"ÐšÐ°Ð»Ñ– Ð³ÑÑ‚Ð° Ð½Ðµ Ð´Ð°Ð¿Ð°Ð¼Ð°Ð³Ð»Ð¾, ÑƒÐ²Ð°Ð¹Ð´Ð·Ñ–Ñ†Ðµ ÑžÑ€ÑƒÑ‡Ð½ÑƒÑŽ"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_title">"Ð—Ð»ÑƒÑ‡ÑÐ½Ð½Ðµ Ð½ÐµÐ±ÑÑÐ¿ÐµÑ‡Ð½Ð°Ðµ"</string>
+  <string name="screen_qr_code_login_device_code_subtitle">"Ð’Ð°Ð¼ Ð±ÑƒÐ´Ð·Ðµ Ð¿Ñ€Ð°Ð¿Ð°Ð½Ð°Ð²Ð°Ð½Ð° ÑžÐ²ÐµÑÑ†Ñ– Ð´Ð·Ð²Ðµ Ð»Ñ–Ñ‡Ð±Ñ‹, Ð¿Ð°ÐºÐ°Ð·Ð°Ð½Ñ‹Ñ Ð½Ð° Ð³ÑÑ‚Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_qr_code_login_device_code_title">"Ð£Ð²ÑÐ´Ð·Ñ–Ñ†Ðµ Ð½Ð°ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð½ÑƒÐ¼Ð°Ñ€ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_qr_code_login_error_cancelled_subtitle">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ð±Ñ‹Ñž Ð°Ð´Ð¼ÐµÐ½ÐµÐ½Ñ‹ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_qr_code_login_error_cancelled_title">"Ð—Ð°Ð¿Ñ‹Ñ‚ Ð½Ð° ÑžÐ²Ð°Ñ…Ð¾Ð´ ÑÐºÐ°ÑÐ°Ð²Ð°Ð½Ñ‹"</string>
+  <string name="screen_qr_code_login_error_declined_subtitle">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ Ð±Ñ‹Ñž Ð°Ð´Ñ…Ñ–Ð»ÐµÐ½Ñ‹."</string>
+  <string name="screen_qr_code_login_error_declined_title">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ð°Ð´Ñ…Ñ–Ð»ÐµÐ½Ñ‹"</string>
+  <string name="screen_qr_code_login_error_expired_subtitle">"Ð¢ÑÑ€Ð¼Ñ–Ð½ ÑƒÐ²Ð°Ñ…Ð¾Ð´Ñƒ ÑÐºÐ¾Ð½Ñ‡Ñ‹ÑžÑÑ. ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·."</string>
+  <string name="screen_qr_code_login_error_expired_title">"Ð£Ð²Ð°Ñ…Ð¾Ð´ Ñƒ ÑÑ–ÑÑ‚ÑÐ¼Ñƒ Ð½Ðµ Ð±Ñ‹Ñž Ð·Ð°Ð²ÐµÑ€ÑˆÐ°Ð½Ñ‹ ÑÐ²Ð¾ÐµÑ‡Ð°ÑÐ¾Ð²Ð°"</string>
+  <string name="screen_qr_code_login_error_linking_not_suported_subtitle">"Ð’Ð°ÑˆÐ° Ñ–Ð½ÑˆÐ°Ñ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð° Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°Ðµ ÑžÐ²Ð°Ñ…Ð¾Ð´ Ñƒ %s Ð· Ð´Ð°Ð¿Ð°Ð¼Ð¾Ð³Ð°Ð¹ QR-ÐºÐ¾Ð´Ð°.
+
+ÐŸÐ°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑžÐ²Ð°Ð¹ÑÑ†Ñ– Ñž ÑÑ–ÑÑ‚ÑÐ¼Ñƒ ÑžÑ€ÑƒÑ‡Ð½ÑƒÑŽ Ð°Ð±Ð¾ Ð°Ð´ÑÐºÐ°Ð½Ñ–Ñ€ÑƒÐ¹Ñ†Ðµ QR-ÐºÐ¾Ð´ Ð· Ð´Ð°Ð¿Ð°Ð¼Ð¾Ð³Ð°Ð¹ Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹."</string>
+  <string name="screen_qr_code_login_error_linking_not_suported_title">"QR-ÐºÐ¾Ð´ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°ÐµÑ†Ñ†Ð°"</string>
+  <string name="screen_qr_code_login_error_sliding_sync_not_supported_subtitle">"Ð’Ð°Ñˆ Ð¿Ñ€Ð°Ð²Ð°Ð¹Ð´Ð°Ñ€ ÑƒÐ»Ñ–ÐºÐ¾Ð²Ð°Ð³Ð° Ð·Ð°Ð¿Ñ–ÑÑƒ Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°Ðµ %1$s."</string>
+  <string name="screen_qr_code_login_error_sliding_sync_not_supported_title">"%1$s Ð½Ðµ Ð¿Ð°Ð´Ñ‚Ñ€Ñ‹Ð¼Ð»Ñ–Ð²Ð°ÐµÑ†Ñ†Ð°"</string>
+  <string name="screen_qr_code_login_invalid_scan_state_description">"Ð’Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ð¹Ñ†Ðµ QR-ÐºÐ¾Ð´, Ð¿Ð°ÐºÐ°Ð·Ð°Ð½Ñ‹ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_qr_code_login_invalid_scan_state_retry_button">"ÐŸÐ°ÑžÑ‚Ð°Ñ€Ñ‹Ñ†ÑŒ ÑÐ¿Ñ€Ð¾Ð±Ñƒ"</string>
+  <string name="screen_qr_code_login_invalid_scan_state_subtitle">"ÐÑÐ¿Ñ€Ð°Ð²Ñ–Ð»ÑŒÐ½Ñ‹ QR-ÐºÐ¾Ð´"</string>
+  <string name="screen_qr_code_login_no_camera_permission_state_description">"ÐšÐ°Ð± Ð¿Ñ€Ð°Ñ†ÑÐ³Ð½ÑƒÑ†ÑŒ, Ð²Ð°Ð¼ Ð½ÐµÐ°Ð±Ñ…Ð¾Ð´Ð½Ð° Ð´Ð°Ð·Ð²Ð¾Ð»Ñ–Ñ†ÑŒ %1$s Ð²Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ñ†ÑŒ ÐºÐ°Ð¼ÐµÑ€Ñƒ Ð²Ð°ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹."</string>
+  <string name="screen_qr_code_login_no_camera_permission_state_title">"Ð”Ð°Ð·Ð²Ð¾Ð»ÑŒÑ†Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° ÐºÐ°Ð¼ÐµÑ€Ñ‹ Ð´Ð»Ñ ÑÐºÐ°Ð½Ñ–Ñ€Ð°Ð²Ð°Ð½Ð½Ñ QR-ÐºÐ¾Ð´Ð°"</string>
+  <string name="screen_qr_code_login_unknown_error_description">"ÐÐ´Ð±Ñ‹Ð»Ð°ÑÑ Ð½ÐµÑ‡Ð°ÐºÐ°Ð½Ð°Ñ Ð¿Ð°Ð¼Ñ‹Ð»ÐºÐ°. ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·."</string>
+  <string name="screen_qr_code_login_verify_code_loading">"Ð£ Ñ‡Ð°ÐºÐ°Ð½Ð½Ñ– Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹"</string>
+</resources>
+

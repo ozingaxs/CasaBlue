@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_invite_users_already_a_member">"Ð£Ð¶Ðµ ÑƒÑ‡Ð°ÑÐ½Ð¸Ðº"</string>
+  <string name="screen_invite_users_already_invited">"Ð£Ð¶Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ñ–"</string>
+  <string name="screen_invite_users_confirm_dialog_subtitle_multiple_users">"ÐÐ°Ñ€Ð°Ð·Ñ– Ñƒ Ð²Ð°Ñ Ð½ÐµÐ¼Ð°Ñ” Ð±ÐµÑÑ–Ð´ Ð· Ñ†Ð¸Ð¼Ð¸ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð°Ð¼Ð¸. ÐŸÑ–Ð´Ñ‚Ð²ÐµÑ€Ð´ÑŒÑ‚Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ñ Ñ—Ñ… Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸, Ð¿ÐµÑ€Ñˆ Ð½Ñ–Ð¶ Ð¿Ñ€Ð¾Ð´Ð¾Ð²Ð¶ÑƒÐ²Ð°Ñ‚Ð¸."</string>
+  <string name="screen_invite_users_confirm_dialog_subtitle_one_user">"ÐÐ°Ñ€Ð°Ð·Ñ– Ñƒ Ð²Ð°Ñ Ð½ÐµÐ¼Ð°Ñ” Ð±ÐµÑÑ–Ð´ Ñ–Ð· Ñ†Ð¸Ð¼ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¾Ð¼. ÐŸÑ–Ð´Ñ‚Ð²ÐµÑ€Ð´ÑŒÑ‚Ðµ Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ñ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸, Ð¿ÐµÑ€Ñˆ Ð½Ñ–Ð¶ Ð¿Ñ€Ð¾Ð´Ð¾Ð²Ð¶ÑƒÐ²Ð°Ñ‚Ð¸."</string>
+  <string name="screen_invite_users_confirm_dialog_title_mutiple_users">"Ð—Ð°Ð¿Ñ€Ð¾ÑÐ¸Ñ‚Ð¸ Ð½Ð¾Ð²Ð¸Ñ… ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ–Ð² Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸?"</string>
+  <string name="screen_invite_users_confirm_dialog_title_one_user">"Ð—Ð°Ð¿Ñ€Ð¾ÑÐ¸Ñ‚Ð¸ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð° Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸?"</string>
+</resources>
+

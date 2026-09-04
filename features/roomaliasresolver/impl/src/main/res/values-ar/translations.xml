@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_join_room_loading_alert_title">"ØªØ¹Ø°Ù‘Ø± Ø¹Ø±Ø¶ Ù…Ø¹Ø§ÙŠÙ†Ø© Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_room_alias_resolver_resolve_alias_failure">"ØªØ¹Ø°Ù‘Ø± Ø­Ù„ Ø§Ù„Ø§Ø³Ù… Ø§Ù„Ù…Ø³ØªØ¹Ø§Ø± Ù„Ù„ØºØ±ÙØ©."</string>
+</resources>
+

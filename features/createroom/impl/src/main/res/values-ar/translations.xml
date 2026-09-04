@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"Ø¥Ù†Ø´Ø§Ø¡ ØºØ±ÙØ© Ø¬Ø¯ÙŠØ¯Ø©"</string>
+  <string name="screen_create_room_add_people_title">"Ø¯Ø¹ÙˆØ© Ø£Ø´Ø®Ø§Øµ"</string>
+  <string name="screen_create_room_error_creating_room">"Ø­ØµÙ„ Ø®Ø·Ø£ Ø£Ø«Ù†Ø§Ø¡ Ø¥Ù†Ø´Ø§Ø¡ Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_create_room_error_creating_space">"ØªØ¹Ø°Ù‘Ø± Ø¥Ù†Ø´Ø§Ø¡ Ø§Ù„Ù…Ø³Ø§Ø­Ø© Ø¨Ø³Ø¨Ø¨ Ø®Ø·Ø£ ØºÙŠØ± Ù…Ø¹Ø±ÙˆÙ. Ø­Ø§ÙˆÙ„ Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ù„Ø§Ø­Ù‚Ù‹Ø§."</string>
+  <string name="screen_create_room_name_placeholder">"Ø¥Ø¶Ø§ÙØ© Ø§Ø³Ù…..."</string>
+  <string name="screen_create_room_new_room_title">"ØºØ±ÙØ© Ø¬Ø¯ÙŠØ¯Ø©"</string>
+  <string name="screen_create_room_new_space_title">"Ù…Ø³Ø§Ø­Ø© Ø¬Ø¯ÙŠØ¯Ø©"</string>
+  <string name="screen_create_room_private_option_description">"Ù„Ø§ ÙŠØ¯Ø®Ù„ Ø¥Ù„Ø§ Ø§Ù„Ù…Ø¯Ø¹ÙˆÙ‘ÙˆÙ†."</string>
+  <string name="screen_create_room_private_option_title">"Ø®Ø§ØµØ©"</string>
+  <string name="screen_create_room_public_option_description">"Ø¨Ø¥Ù…ÙƒØ§Ù† Ø§Ù„Ø¬Ù…ÙŠØ¹ Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©.
+ÙŠÙ…ÙƒÙ†Ùƒ ØªØºÙŠÙŠØ± Ù‡Ø°Ø§ Ù…Ù† Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØºØ±ÙØ© Ù…ØªÙ‰ Ø´Ø¦Øª."</string>
+  <string name="screen_create_room_public_option_short_description">"ÙŠÙ…ÙƒÙ† Ù„Ø£ÙŠ Ø´Ø®Øµ Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…."</string>
+  <string name="screen_create_room_public_option_title">"Ø¹Ø§Ù…Ø©"</string>
+  <string name="screen_create_room_room_access_section_knocking_option_description">"ÙŠÙ…ÙƒÙ† Ù„Ø£ÙŠ Ø´Ø®Øµ Ø·Ù„Ø¨ Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…ØŒ Ù„ÙƒÙ† ÙŠØ¬Ø¨ Ø£Ù† ÙŠÙ‚Ø¨Ù„ Ø§Ù„Ø·Ù„Ø¨ Ù…Ø³Ø¤ÙˆÙ„ Ø£Ùˆ Ù…Ø´Ø±Ù."</string>
+  <string name="screen_create_room_room_access_section_knocking_option_title">"Ø§Ù„Ø³Ù…Ø§Ø­ Ø¨Ø·Ù„Ø¨Ø§Øª Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…"</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_description">"ÙŠÙ…ÙƒÙ† Ù„Ø£ÙŠ Ø´Ø®Øµ ÙÙŠ %1$s Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…ØŒ Ù„ÙƒÙ† ÙŠØ¬Ø¨ Ø¹Ù„Ù‰ Ø§Ù„Ø¢Ø®Ø±ÙŠÙ† Ø·Ù„Ø¨ Ø§Ù„ÙˆØµÙˆÙ„."</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_title">"Ø·Ù„Ø¨ Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…"</string>
+  <string name="screen_create_room_room_access_section_private_option_description">"ÙŠÙ…ÙƒÙ† Ù„Ù„Ù…Ø¯Ø¹ÙˆÙŠÙ† ÙÙ‚Ø· Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…."</string>
+  <string name="screen_create_room_room_access_section_private_option_title">"Ø®Ø§ØµØ©"</string>
+  <string name="screen_create_room_room_access_section_public_option_description">"ÙŠÙ…ÙƒÙ† Ù„Ø£ÙŠ Ø´Ø®Øµ Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…."</string>
+  <string name="screen_create_room_room_access_section_public_option_title">"Ø¹Ø§Ù…Ø©"</string>
+  <string name="screen_create_room_room_access_section_restricted_option_description">"ÙŠÙ…ÙƒÙ† Ù„Ø£ÙŠ Ø´Ø®Øµ ÙÙŠ %1$s Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…."</string>
+  <string name="screen_create_room_room_access_section_restricted_option_title">"Ù‚ÙŠØ§Ø³ÙŠ"</string>
+  <string name="screen_create_room_room_access_section_title">"Ù…Ù† ÙŠÙ…ÙƒÙ†Ù‡ Ø§Ù„ÙˆØµÙˆÙ„"</string>
+  <string name="screen_create_room_room_address_section_footer">"ØªØ­ØªØ§Ø¬ Ø¥Ù„Ù‰ Ø¹Ù†ÙˆØ§Ù† Ø­ØªÙ‰ ØªØ¸Ù‡Ø± Ø§Ù„ØºØ±ÙØ© ÙÙŠ Ø§Ù„Ø¯Ù„ÙŠÙ„ Ø§Ù„Ø¹Ø§Ù…."</string>
+  <string name="screen_create_room_room_address_section_title">"Ø§Ù„Ø¹Ù†ÙˆØ§Ù†"</string>
+  <string name="screen_create_room_room_visibility_section_title">"Ø¸Ù‡ÙˆØ± Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_create_room_space_selection_no_space_description">"(Ù„Ø§ ØªÙˆØ¬Ø¯ Ù…Ø³Ø§Ø­Ø©)"</string>
+  <string name="screen_create_room_space_selection_no_space_option">"Ø¹Ø¯Ù… Ø§Ù„Ø¥Ø¶Ø§ÙØ© Ø¥Ù„Ù‰ Ù…Ø³Ø§Ø­Ø©"</string>
+  <string name="screen_create_room_space_selection_no_space_title">"Ù„Ù… ÙŠØªÙ… Ø§Ø®ØªÙŠØ§Ø± Ø£ÙŠ Ù…Ø³Ø§Ø­Ø©"</string>
+  <string name="screen_create_room_space_selection_sheet_title">"Ø¥Ø¶Ø§ÙØ© Ø¥Ù„Ù‰ Ù…Ø³Ø§Ø­Ø©"</string>
+  <string name="screen_create_room_topic_label">"Ø§Ù„Ù…ÙˆØ¶ÙˆØ¹ (Ø§Ø®ØªÙŠØ§Ø±ÙŠ)"</string>
+  <string name="screen_create_room_topic_placeholder">"Ø¥Ø¶Ø§ÙØ© ÙˆØµÙ..."</string>
+</resources>
+

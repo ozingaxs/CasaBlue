@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_signout_confirmation_dialog_content">"Ú©ÛŒØ§ Ø¢Ù¾ ÙˆØ§Ù‚Ø¹ÛŒ Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_signout_confirmation_dialog_submit">"Ø®Ø§Ø±Ø¬ ÛÙˆÚº"</string>
+  <string name="screen_signout_confirmation_dialog_title">"Ø®Ø§Ø±Ø¬ ÛÙˆÚº"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ø®Ø§Ø±Ø¬ ÛÙˆØ±ÛØ§ÛÛ’..."</string>
+  <string name="screen_signout_key_backup_disabled_subtitle">"Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ø¢Ø®Ø±ÛŒ Ø¬Ù„Ø³Û’ Ø³Û’ Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Û’ ÙˆØ§Ù„Û’ ÛÛŒÚºÛ” Ø§Ú¯Ø± Ø¢Ù¾ Ø§Ø¨Ú¾ÛŒ Ø®Ø§Ø±Ø¬ ÛÙˆØ¬Ø§ØªÛ’ ÛÛŒÚº ØªÙˆ Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ù…Ø±Ù…ÙˆØ² Ú©Ø±Ø¯Û Ù¾ÛŒØºØ§Ù…Ø§Øª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø³Û’ Ù…Ø­Ø±ÙˆÙ… ÛÙˆ Ø¬Ø§Ø¦ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_signout_key_backup_disabled_title">"Ø¢Ù¾Ù†Û’ Ù¾Ø´ØªØ§Ø±Û Ø¨Ù†Ø¯ Ú©Ø±Ø¯ÛŒØ§ ÛÛ’"</string>
+  <string name="screen_signout_key_backup_offline_subtitle">"Ø¬Ø¨ Ø¢Ù¾ Ù¾Ø±Û’ Ø®Ø· ØªÚ¾Û’ ØªØ¨ Ø¨Ú¾ÛŒ Ø¢Ù¾ Ú©ÛŒ Ú©Ù„ÛŒØ¯ÙˆÚº Ú©Ø§ Ù¾Ø´ØªØ§Ø±Û Ú©ÛŒØ§ Ø¬Ø§ Ø±ÛØ§ ØªÚ¾Ø§Û” Ø¯ÙˆØ¨Ø§Ø±Û Ø¬Ú‘ÛŒÚº ØªØ§Ú©Û Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Û’ Ø³Û’ Ù¾ÛÙ„Û’ Ø¢Ù¾ Ú©ÛŒ Ú©Ù„ÛŒØ¯ÙˆÚº Ú©Ø§ Ù¾Ø´ØªØ§Ø±Û Ú©ÛŒØ§ Ø¬Ø§ Ø³Ú©Û’Û”"</string>
+  <string name="screen_signout_key_backup_offline_title">"Ø¢Ù¾Ú©ÛŒ Ú©Ù„ÛŒØ¯ÙˆÚº Ú©Ø§ Ø§Ø¨Ú¾ÛŒ Ø¨Ú¾ÛŒ Ù¾Ø´ØªØ§Ø±Û Ú©ÛŒØ§ Ø¬Ø§ Ø±ÛØ§ ÛÛ’Û”"</string>
+  <string name="screen_signout_key_backup_ongoing_subtitle">"Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Û’ Ø³Û’ Ù¾ÛÙ„Û’ Ø§Ø³Ú©Û’ Ù…Ú©Ù…Ù„ ÛÙˆÙ†Û’ Ú©Ø§ Ø§Ù†ØªØ¸Ø§Ø± Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_signout_key_backup_ongoing_title">"Ø¢Ù¾Ú©ÛŒ Ú©Ù„ÛŒØ¯ÙˆÚº Ú©Ø§ Ø§Ø¨Ú¾ÛŒ Ø¨Ú¾ÛŒ Ù¾Ø´ØªØ§Ø±Û Ú©ÛŒØ§ Ø¬Ø§ Ø±ÛØ§ ÛÛ’Û”"</string>
+  <string name="screen_signout_preference_item">"Ø®Ø§Ø±Ø¬ ÛÙˆÚº"</string>
+  <string name="screen_signout_recovery_disabled_subtitle">"Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ø¢Ø®Ø±ÛŒ Ø¬Ù„Ø³Û’ Ø³Û’ Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Û’ ÙˆØ§Ù„Û’ ÛÛŒÚºÛ” Ø§Ú¯Ø± Ø¢Ù¾ Ø§Ø¨Ú¾ÛŒ Ø®Ø§Ø±Ø¬ ÛÙˆØ¬Ø§ØªÛ’ ÛÛŒÚº ØªÙˆ Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ù…Ø±Ù…ÙˆØ² Ú©Ø±Ø¯Û Ù¾ÛŒØºØ§Ù…Ø§Øª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø³Û’ Ù…Ø­Ø±ÙˆÙ… ÛÙˆ Ø¬Ø§Ø¦ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_signout_recovery_disabled_title">"Ø¨Ø§Ø²ÛŒØ§Ø¨ÛŒ ØºÛŒØ± Ù…Ø±ØªØ¨"</string>
+  <string name="screen_signout_save_recovery_key_subtitle">"Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ø¢Ø®Ø±ÛŒ Ø¬Ù„Ø³Û’ Ø³Û’ Ø®Ø§Ø±Ø¬ ÛÙˆÙ†Û’ ÙˆØ§Ù„Û’ ÛÛŒÚºÛ” Ø§Ú¯Ø± Ø¢Ù¾ Ø§Ø¨Ú¾ÛŒ Ø®Ø§Ø±Ø¬ ÛÙˆØ¬Ø§ØªÛ’ ÛÛŒÚº ØªÙˆ ÛÙˆØ³Ú©ØªØ§ ÛÛ’ Ú©Û Ø¢Ù¾ Ø§Ù¾Ù†Û’ Ù…Ø±Ù…ÙˆØ² Ú©Ø±Ø¯Û Ù¾ÛŒØºØ§Ù…Ø§Øª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø³Û’ Ù…Ø­Ø±ÙˆÙ… ÛÙˆ Ø¬Ø§Ø¦ÛŒÚº Ú¯Û’Û”"</string>
+</resources>
+

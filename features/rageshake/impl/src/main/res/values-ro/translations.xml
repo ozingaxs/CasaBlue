@@ -1,0 +1,23 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bug_report_attach_screenshot">"Ata?a?i o captura de ecran"</string>
+  <string name="screen_bug_report_contact_me">"Pute?i sa ma contacta?i daca ave?i întrebari suplimentare"</string>
+  <string name="screen_bug_report_contact_me_title">"Contacta?i-ma"</string>
+  <string name="screen_bug_report_edit_screenshot">"Edita?i captura de ecran"</string>
+  <string name="screen_bug_report_editor_description">"Va rugam sa descrie?i problema. Ce a?i facut? Ce va astepta?i sa se întâmple? Ce s-a întâmplat de fapt. Va rugam sa oferi?i cât mai multe detalii cu putin?a."</string>
+  <string name="screen_bug_report_editor_placeholder">"Descrie?i problema..."</string>
+  <string name="screen_bug_report_editor_supporting">"Daca posibil, va rugam sa scrie?i descrierea în engleza."</string>
+  <string name="screen_bug_report_error_description_too_short">"Descrierea este prea scurta, va rugam sa oferi?i mai multe detalii despre ceea ce s-a întâmplat. Va mul?umim!"</string>
+  <string name="screen_bug_report_github_issue_description">"Pute?i introduce numarul unui tichet GitHub asociat, daca exista."</string>
+  <string name="screen_bug_report_github_issue_label">"Tichet GitHub"</string>
+  <string name="screen_bug_report_include_crash_logs">"Trimite?i log-uri"</string>
+  <string name="screen_bug_report_include_logs">"Permite?i log-uri"</string>
+  <string name="screen_bug_report_include_logs_error">"Jurnalele dumneavoastra sunt prea mari ?i nu pot fi incluse în acest raport. Va rugam sa ni le trimite?i prin alta metoda."</string>
+  <string name="screen_bug_report_include_screenshot">"Trimite?i captura de ecran"</string>
+  <string name="screen_bug_report_logs_description">"Pentru a verifica ca lucrurile func?ioneaza conform a?teptarilor, log-uri vor fi trimise împreuna cu mesajul. Acestea vor fi private. Pentru a trimite doar mesajul, dezactiva?i aceasta setare."</string>
+  <string name="screen_bug_report_rash_logs_alert_title">"%1$s s-a blocat ultima data când a fost folosit. Dori?i sa ne trimite?i un raport?"</string>
+  <string name="screen_bug_report_send_notification_settings_description">"Daca întâmpina?i probleme cu notificarile, încarcarea setarilor notificarilor ne poate ajuta sa identificam cauza principala."</string>
+  <string name="screen_bug_report_send_notification_settings_title">"Trimite?i setarile notificarilor"</string>
+  <string name="screen_bug_report_view_logs">"Vizualiza?i log-urile"</string>
+</resources>
+

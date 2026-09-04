@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_decline_and_block_block_user_option_title">"ØµØ§Ø±Ù Ú©Ùˆ Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_invites_decline_chat_message">"Ú©ÛŒØ§ Ø¢Ù¾Ú©Ùˆ ÛŒÙ‚ÛŒÙ† ÛÛ’ Ú©Û Ø¢Ù¾ %1$s Ù…ÛŒÚº Ø´Ø§Ù…Ù„ ÛÙˆÙ†Û’ Ú©ÛŒ Ø¯Ø±Ø®ÙˆØ§Ø³Øª Ù…Ø³ØªØ±Ø¯ Ú©Ø±Ù†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_invites_decline_chat_title">"Ø¯Ø¹ÙˆØª Ù…Ø³ØªØ±Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_invites_decline_direct_chat_message">"Ú©ÛŒØ§ Ø¢Ù¾Ú©Ùˆ ÛŒÙ‚ÛŒÙ† ÛÛ’ Ú©Û Ø¢Ù¾ %1$s Ú©ÛŒØ³Ø§ØªÚ¾ Ù†Ø¬ÛŒ Ú¯ÙØªÚ¯Ùˆ Ù…Ø³ØªØ±Ø¯ Ú©Ø±Ù†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_invites_decline_direct_chat_title">"Ú¯ÙØªÚ¯Ùˆ Ù…Ø³ØªØ±Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_invites_empty_list">"Ú©ÙˆØ¦ÛŒ Ø¯Ø¹ÙˆØª Ù†Ø§Ù…Û’ Ù†ÛÛŒÚº"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) Ù†Û’ Ø¢Ù¾ Ú©Ùˆ Ù…Ø¯Ø¹Ùˆ Ú©ÛŒØ§"</string>
+</resources>
+

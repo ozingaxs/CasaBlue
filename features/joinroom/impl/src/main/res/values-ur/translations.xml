@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_join_room_join_action">"Ø´Ø§Ù…Ù„ ÛÙˆÚº"</string>
+  <string name="screen_join_room_knock_action">"Ø´Ø§Ù…Ù„ ÛÙˆÙ†Û’ Ú©ÛŒ Ø¯Ø±Ø®ÙˆØ§Ø³Øª Ø¨Ú¾ÛŒØ¬ÛŒÚº"</string>
+  <string name="screen_join_room_space_not_supported_description">"%1$s Ø§Ø¨Ú¾ÛŒ ØªÚ© Ø®Ø§Ù„ÛŒ Ø¬Ú¯ÛÙˆÚº Ú©ÛŒ Ø­Ù…Ø§ÛŒØª Ù†ÛÛŒÚº Ú©Ø±ØªØ§Û” Ø¢Ù¾ Ø¬Ø§Ù„ Ù¾Ø± Ø®Ø§Ù„ÛŒ Ø¬Ú¯ÛÙˆÚº ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø­Ø§ØµÙ„ Ú©Ø±Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_join_room_space_not_supported_title">"Ø§Ø¨Ú¾ÛŒ ØªÚ© Ø¬Ú¯ÛÛŒÚº ØªØ¹Ø§ÙˆÙ† ÛŒØ§ÙØªÛ Ù†ÛÛŒÚº"</string>
+  <string name="screen_join_room_subtitle_knock">"Ù†ÛŒÚ†Û’ Ø¯ÛŒØ¦Û’ Ú¯Ø¦Û’ Ú©Ù„ÛŒØ¯ Ù¾Ø± Ø¯Ø¨Ø§Ø¦ÛŒÚº Ø§ÙˆØ± Ú©Ù…Ø±Û’ Ú©Û’ Ù…Ù†ØªØ¸Ù… Ú©Ùˆ Ù…Ø·Ù„Ø¹ Ú©ÛŒØ§ Ø¬Ø§Ø¦Û’ Ú¯Ø§Û” Ù…Ù†Ø¸ÙˆØ± ÛÙˆÙ†Û’ Ú©Û’ Ø¨Ø¹Ø¯ Ø¢Ù¾ Ú¯ÙØªÚ¯Ùˆ Ù…ÛŒÚº Ø´Ø§Ù…Ù„ ÛÙˆ Ø³Ú©ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_join_room_subtitle_no_preview">"Ù¾ÛŒØºØ§Ù… Ú©ÛŒ Ø³Ø±Ú¯Ø²Ø´Øª Ø¯ÛŒÚ©Ú¾Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ø¢Ù¾ Ú©Ø§ Ø§Ø³ Ú©Ù…Ø±Û’ Ú©Ø§ Ø±Ú©Ù† ÛÙˆÙ†Ø§ Ø¶Ø±ÙˆØ±ÛŒ ÛÛ’Û”"</string>
+  <string name="screen_join_room_title_knock">"Ø§Ø³ Ú©Ù…Ø±Û’ Ù…ÛŒÚº Ø´Ø§Ù…Ù„ ÛÙˆÙ†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_join_room_title_no_preview">"Ù¾ÛŒØ´ Ù…Ù†Ø¸Ø± Ø¯Ø³ØªÛŒØ§Ø¨ Ù†ÛÛŒÚº ÛÛ’"</string>
+</resources>
+

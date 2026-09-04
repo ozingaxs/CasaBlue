@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bottom_sheet_manage_room_member_ban">"Ø­Ø¸Ø± Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_action">"Ø­Ø¸Ø±"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_description">"Ù„Ù† ÙŠØªÙ…ÙƒÙ† Ù‡Ø°Ø§ Ø§Ù„Ø¹Ø¶Ùˆ Ù…Ù† Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ø­ØªÙ‰ Ø¥Ø°Ø§ ØªÙ…Øª Ø¯Ø¹ÙˆØªÙ‡."</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_title">"Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø£Ù†Ùƒ ØªØ±ÙŠØ¯ Ø­Ø¸Ø± Ù‡Ø°Ø§ Ø§Ù„Ø¹Ø¶ÙˆØŸ"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_from_space_confirmation_description">"Ù„Ù† ÙŠØªÙ…ÙƒÙ† Ù‡Ø°Ø§ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù…Ù† Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ø¥Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„Ù…Ø³Ø§Ø­Ø© Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ø¥Ø°Ø§ ØªÙ…Øª Ø¯Ø¹ÙˆØªÙ‡ØŒ Ù„ÙƒÙ†Ù‡ Ø³ÙŠØ¸Ù„ Ù…Ø­ØªÙØ¸Ù‹Ø§ Ø¨Ø¹Ø¶ÙˆÙŠØªÙ‡ ÙÙŠ Ø£ÙŠ ØºØ±Ù Ø£Ùˆ Ù…Ø³Ø§Ø­Ø§Øª ÙØ±Ø¹ÙŠØ©."</string>
+  <string name="screen_bottom_sheet_manage_room_member_banning_user">"Ø¬Ø§Ø±Ù Ø­Ø¸Ø± %1$s"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_action">"Ø¥Ø²Ø§Ù„Ø©"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_description">"ÙŠÙ…ÙƒÙ† Ù„Ù‡Ø°Ø§ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ø¥Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ© Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ø¹Ù†Ø¯ Ø¯Ø¹ÙˆØªÙ‡."</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_title">"Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø±ØºØ¨ØªÙƒ ÙÙŠ Ø¥Ø²Ø§Ù„Ø© Ù‡Ø°Ø§ Ø§Ù„Ø¹Ø¶ÙˆØŸ"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_from_space_confirmation_description">"Ø³ÙŠØªÙ…ÙƒÙ† Ù‡Ø°Ø§ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù…Ù† Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ø¥Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„Ù…Ø³Ø§Ø­Ø© Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ø¥Ø°Ø§ ØªÙ…Øª Ø¯Ø¹ÙˆØªÙ‡ØŒ ÙˆØ³ÙŠØ¸Ù„ Ù…Ø­ØªÙØ¸Ù‹Ø§ Ø¨Ø¹Ø¶ÙˆÙŠØªÙ‡ ÙÙŠ Ø£ÙŠ ØºØ±Ù Ø£Ùˆ Ù…Ø³Ø§Ø­Ø§Øª ÙØ±Ø¹ÙŠØ©."</string>
+  <string name="screen_bottom_sheet_manage_room_member_member_user_info">"Ø¹Ø±Ø¶ Ø§Ù„Ù…Ù„Ù Ø§Ù„Ø´Ø®ØµÙŠ"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove">"Ø¥Ø²Ø§Ù„Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove_confirmation_title">"Ø¥Ø²Ø§Ù„Ø© Ø§Ù„Ø¹Ø¶Ùˆ ÙˆØ­Ø¸Ø±Ù‡ Ù…Ù† Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ù…Ø³ØªÙ‚Ø¨Ù„Ù‹Ø§ØŸ"</string>
+  <string name="screen_bottom_sheet_manage_room_member_removing_user">"Ø¬Ø§Ø±Ù Ø¥Ø²Ø§Ù„Ø© %1$s..."</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban">"Ø¥Ù„ØºØ§Ø¡ Ø­Ø¸Ø± Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_action">"Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ø­Ø¸Ø±"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_description">"Ø³ÙŠØªÙ…ÙƒÙ† Ù‡Ø°Ø§ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù…Ù† Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ Ø¥Ø°Ø§ ØªÙ…Øª Ø¯Ø¹ÙˆØªÙ‡"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_title">"Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø±ØºØ¨ØªÙƒ ÙÙŠ Ø¥Ù„ØºØ§Ø¡ Ø­Ø¸Ø± Ù‡Ø°Ø§ Ø§Ù„Ø¹Ø¶ÙˆØŸ"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unbanning_user">"Ø¬Ø§Ø±Ù Ø±ÙØ¹ Ø­Ø¸Ø± %1$s"</string>
+</resources>
+

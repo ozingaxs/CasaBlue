@@ -1,0 +1,55 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_account_provider_change">"Thay d?i nhà cung c?p tài kho?n"</string>
+  <string name="screen_account_provider_form_hint">"Ð?a ch? Homeserver"</string>
+  <string name="screen_account_provider_form_notice">"Nh?p t? khóa tìm ki?m ho?c d?a ch? tên mi?n."</string>
+  <string name="screen_account_provider_form_subtitle">"Tìm ki?m công ty, c?ng d?ng ho?c máy ch? riêng."</string>
+  <string name="screen_account_provider_form_title">"Tìm nhà cung c?p tài kho?n"</string>
+  <string name="screen_account_provider_signin_subtitle">"Ðây là noi các cu?c trò chuy?n c?a b?n s? du?c luu — gi?ng nhu b?n dùng nhà cung c?p email d? gi? email c?a mình."</string>
+  <string name="screen_account_provider_signin_title">"B?n s?p dang nh?p vào %s"</string>
+  <string name="screen_account_provider_signup_subtitle">"Ðây là noi các cu?c trò chuy?n c?a b?n s? du?c luu — gi?ng nhu b?n dùng nhà cung c?p email d? gi? email c?a mình."</string>
+  <string name="screen_account_provider_signup_title">"B?n s?p t?o tài kho?n trên %s"</string>
+  <string name="screen_change_account_provider_matrix_org_subtitle">"Matrix.org là m?t máy ch? l?n, mi?n phí trên m?ng Matrix công c?ng, cung c?p liên l?c an toàn và phi t?p trung, du?c di?u hành b?i Qu? Matrix.org."</string>
+  <string name="screen_change_account_provider_other">"Khác"</string>
+  <string name="screen_change_account_provider_subtitle">"S? d?ng nhà cung c?p tài kho?n khác, ví d? nhu máy ch? riêng c?a b?n ho?c tài kho?n công vi?c."</string>
+  <string name="screen_change_account_provider_title">"Thay d?i nhà cung c?p tài kho?n"</string>
+  <string name="screen_change_server_error_CasaBlue_pro_required_action_android">"Google Play"</string>
+  <string name="screen_change_server_error_CasaBlue_pro_required_message">"?ng d?ng CasaBlue Pro là b?t bu?c trên %1$s. Vui lòng t?i xu?ng t? c?a hàng."</string>
+  <string name="screen_change_server_error_CasaBlue_pro_required_title">"CasaBlue Pro là b?t bu?c"</string>
+  <string name="screen_change_server_error_invalid_homeserver">"Chúng t? không th? k?t n?i v?i homeserver này. Vui lòng ki?m tra xem c?u dã nh?p URL homeserver chính xác chua. N?u URL chính xác, hãy liên h? v?i qu?n tr? viên homeserver d? du?c h? tr? thêm."</string>
+  <string name="screen_change_server_error_invalid_well_known">"Máy ch? không kh? d?ng do s? c? trong t?p .well-known:
+%1$s"</string>
+  <string name="screen_change_server_error_no_sliding_sync_message">"Nhà cung c?p tài kho?n dã ch?n không h? tr? d?ng b? sliding. C?n nâng c?p máy ch? d? s? d?ng %1$s ."</string>
+  <string name="screen_change_server_error_unauthorized_homeserver">"%1$s không du?c phép k?t n?i v?i %2$s ."</string>
+  <string name="screen_change_server_error_unauthorized_homeserver_content">"?ng d?ng này dã du?c c?u hình d? cho phép: %1$s ."</string>
+  <string name="screen_change_server_error_unauthorized_homeserver_title">"Không cho phép nhà cung c?p tài kho?n %1$s."</string>
+  <string name="screen_change_server_form_header">"URL homeserver"</string>
+  <string name="screen_change_server_subtitle">"Ð?a ch? máy ch? c?a b?n là gì?"</string>
+  <string name="screen_change_server_title">"Ch?n máy ch? c?a b?n"</string>
+  <string name="screen_create_account_title">"T?o tài kho?n"</string>
+  <string name="screen_login_error_deactivated_account">"Tài kho?n này dã b? xóa."</string>
+  <string name="screen_login_error_invalid_credentials">"Tên ngu?i dùng và/ho?c m?t kh?u không chính xác"</string>
+  <string name="screen_login_error_invalid_user_id">"Ðây không ph?i là mã nh?n d?ng ngu?i dùng h?p l?. Ð?nh d?ng mong d?i: ‘@user:homeserver.org’"</string>
+  <string name="screen_login_error_refresh_tokens">"Máy ch? này du?c c?u hình s? d?ng refresh token. Ði?u này không du?c h? tr? khi dang nh?p b?ng m?t kh?u."</string>
+  <string name="screen_login_error_unsupported_authentication">"Homeserver dã ch?n không h? tr? dang nh?p b?ng m?t kh?u ho?c OAuth. Vui lòng liên h? v?i qu?n tr? viên c?a c?u ho?c ch?n m?t homeserver khác."</string>
+  <string name="screen_login_form_header">"Nh?p thông tin chi ti?t c?a b?n."</string>
+  <string name="screen_login_subtitle">"Matrix là m?t m?ng m? cho vi?c liên l?c an toàn và phi t?p trung."</string>
+  <string name="screen_login_title">"Chào m?ng b?n quay tr? l?i!"</string>
+  <string name="screen_login_title_with_homeserver">"Ðang nh?p vào %1$s"</string>
+  <string name="screen_onboarding_sign_in_manually">"Ðang nh?p th? công"</string>
+  <string name="screen_onboarding_sign_in_to">"Ðang nh?p vào %1$s"</string>
+  <string name="screen_onboarding_sign_in_with_qr_code">"Ðang nh?p b?ng mã QR"</string>
+  <string name="screen_onboarding_sign_up">"T?o tài kho?n"</string>
+  <string name="screen_onboarding_welcome_message">"Chào m?ng d?n v?i %1$s nhanh nh?t t? tru?c d?n nay. T?i uu cho t?c d? và s? don gi?n."</string>
+  <string name="screen_onboarding_welcome_subtitle">"Chào m?ng d?n v?i %1$s. T?i uu hóa cho t?c d? và s? don gi?n."</string>
+  <string name="screen_onboarding_welcome_title">"Hãy ? trong th? m?nh (CasaBlue) c?a mình"</string>
+  <string name="screen_qr_code_login_invalid_scan_state_retry_button">"Th? l?i"</string>
+  <string name="screen_qr_code_login_start_over_button">"B?t d?u l?i"</string>
+  <string name="screen_server_confirmation_change_server">"Thay d?i nhà cung c?p tài kho?n"</string>
+  <string name="screen_server_confirmation_message_login_CasaBlue_dot_io">"Máy ch? riêng dành cho nhân viên c?a CasaBlue."</string>
+  <string name="screen_server_confirmation_message_login_matrix_dot_org">"Matrix là m?t m?ng m? cho vi?c liên l?c an toàn và phi t?p trung."</string>
+  <string name="screen_server_confirmation_message_register">"Ðây là noi các cu?c trò chuy?n c?a b?n s? du?c luu — gi?ng nhu b?n dùng nhà cung c?p email d? gi? email c?a mình."</string>
+  <string name="screen_server_confirmation_title_login">"B?n s?p dang nh?p vào %1$s"</string>
+  <string name="screen_server_confirmation_title_register">"B?n s?p t?o tài kho?n trên %1$s"</string>
+</resources>
+

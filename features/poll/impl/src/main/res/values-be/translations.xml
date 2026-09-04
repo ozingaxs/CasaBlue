@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_poll_add_option_btn">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ð²Ð°Ñ€Ñ‹ÑÐ½Ñ‚"</string>
+  <string name="screen_create_poll_anonymous_desc">"ÐŸÐ°ÐºÐ°Ð·Ð°Ñ†ÑŒ Ð²Ñ‹Ð½Ñ–ÐºÑ– Ñ‚Ð¾Ð»ÑŒÐºÑ– Ð¿Ð°ÑÐ»Ñ Ð·Ð°ÐºÐ°Ð½Ñ‡ÑÐ½Ð½Ñ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_create_poll_anonymous_headline">"Ð¡Ñ…Ð°Ð²Ð°Ñ†ÑŒ Ð³Ð°Ð»Ð°ÑÑ‹"</string>
+  <string name="screen_create_poll_answer_hint">"Ð’Ð°Ñ€Ñ‹ÑÐ½Ñ‚ %1$d"</string>
+  <string name="screen_create_poll_cancel_confirmation_content_android">"Ð’Ð°ÑˆÑ‹ Ð·Ð¼ÐµÐ½Ñ‹ Ð½Ðµ Ð±Ñ‹Ð»Ñ– Ð·Ð°Ñ…Ð°Ð²Ð°Ð½Ñ‹. Ð’Ñ‹ ÑžÐ¿ÑÑžÐ½ÐµÐ½Ñ‹, ÑˆÑ‚Ð¾ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð²ÑÑ€Ð½ÑƒÑ†Ñ†Ð°?"</string>
+  <string name="screen_create_poll_question_desc">"ÐŸÑ‹Ñ‚Ð°Ð½Ð½Ðµ Ð°Ð±Ð¾ Ñ‚ÑÐ¼Ð°"</string>
+  <string name="screen_create_poll_question_hint">"ÐŸÑ€Ð° ÑˆÑ‚Ð¾ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ðµ?"</string>
+  <string name="screen_create_poll_title">"Ð¡Ñ‚Ð²Ð°Ñ€ÑÐ½Ð½Ðµ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_edit_poll_delete_confirmation">"Ð’Ñ‹ ÑžÐ¿ÑÑžÐ½ÐµÐ½Ñ‹, ÑˆÑ‚Ð¾ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð²Ñ‹Ð´Ð°Ð»Ñ–Ñ†ÑŒ Ð³ÑÑ‚Ð°Ðµ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ðµ?"</string>
+  <string name="screen_edit_poll_delete_confirmation_title">"Ð’Ñ‹Ð´Ð°Ð»Ñ–Ñ†ÑŒ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ðµ"</string>
+  <string name="screen_edit_poll_title">"Ð ÑÐ´Ð°Ð³Ð°Ð²Ð°Ñ†ÑŒ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ðµ"</string>
+  <string name="screen_polls_history_empty_ongoing">"ÐÐµÐ¼Ð°Ð³Ñ‡Ñ‹Ð¼Ð° Ð·Ð½Ð°Ð¹ÑÑ†Ñ– Ð±ÑÐ³ÑƒÑ‡Ñ‹Ñ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ–."</string>
+  <string name="screen_polls_history_empty_past">"ÐÐµÐ¼Ð°Ð³Ñ‡Ñ‹Ð¼Ð° Ð·Ð½Ð°Ð¹ÑÑ†Ñ– Ð¼Ñ–Ð½ÑƒÐ»Ñ‹Ñ Ð°Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ–."</string>
+  <string name="screen_polls_history_filter_ongoing">"Ð‘ÑÐ³ÑƒÑ‡Ñ‹Ñ"</string>
+  <string name="screen_polls_history_filter_past">"ÐœÑ–Ð½ÑƒÐ»Ñ‹Ñ"</string>
+  <string name="screen_polls_history_title">"ÐÐ¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ–"</string>
+</resources>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_signed_out_reason_1">"Ð’Ñ‹ Ð·Ð¼ÑÐ½Ñ–Ð»Ñ– ÑÐ²Ð¾Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ñƒ Ñ–Ð½ÑˆÑ‹Ð¼ ÑÐµÐ°Ð½ÑÐµ"</string>
+  <string name="screen_signed_out_reason_2">"Ð’Ñ‹ Ð²Ñ‹Ð´Ð°Ð»Ñ–Ð»Ñ– ÑÐµÐ°Ð½Ñ Ð· Ñ–Ð½ÑˆÐ°Ð³Ð° ÑÐµÐ°Ð½ÑÑƒ"</string>
+  <string name="screen_signed_out_reason_3">"ÐÐ´Ð¼Ñ–Ð½Ñ–ÑÑ‚Ñ€Ð°Ñ‚Ð°Ñ€ Ð²Ð°ÑˆÐ°Ð³Ð° ÑÐµÑ€Ð²ÐµÑ€Ð° Ð°Ð½ÑƒÐ»ÑÐ²Ð°Ñž Ð²Ð°Ñˆ Ð´Ð¾ÑÑ‚ÑƒÐ¿"</string>
+  <string name="screen_signed_out_subtitle">"ÐœÐ°Ð³Ñ‡Ñ‹Ð¼Ð°, Ð²Ñ‹ Ð²Ñ‹Ð¹ÑˆÐ»Ñ– Ð· ÑÑ–ÑÑ‚ÑÐ¼Ñ‹ Ð¿Ð° Ð°Ð´Ð½Ð¾Ð¹ Ð· Ð¿Ñ€Ñ‹Ñ‡Ñ‹Ð½, Ð¿ÐµÑ€Ð°Ð»Ñ–Ñ‡Ð°Ð½Ñ‹Ñ… Ð½Ñ–Ð¶ÑÐ¹. ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, ÑƒÐ²Ð°Ð¹Ð´Ð·Ñ–Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·, ÐºÐ°Ð± Ð¿Ñ€Ð°Ñ†ÑÐ³Ð½ÑƒÑ†ÑŒ Ð²Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð½Ð½Ðµ %s."</string>
+  <string name="screen_signed_out_title">"Ð’Ñ‹ Ð²Ñ‹Ð¹ÑˆÐ»Ñ– Ð· ÑÑ–ÑÑ‚ÑÐ¼Ñ‹"</string>
+</resources>
+

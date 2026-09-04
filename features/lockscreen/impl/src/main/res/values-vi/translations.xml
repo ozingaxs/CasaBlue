@@ -1,0 +1,37 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_app_lock_biometric_authentication">"xác th?c sinh tr?c h?c"</string>
+  <string name="screen_app_lock_biometric_unlock">"m? khóa sinh tr?c h?c"</string>
+  <string name="screen_app_lock_biometric_unlock_title_android">"M? khóa b?ng sinh tr?c h?c"</string>
+  <string name="screen_app_lock_confirm_biometric_authentication_android">"Xác nh?n sinh tr?c h?c"</string>
+  <string name="screen_app_lock_forgot_pin">"Quên mã PIN r?i à?"</string>
+  <string name="screen_app_lock_settings_change_pin">"Thay d?i mã PIN"</string>
+  <string name="screen_app_lock_settings_enable_biometric_unlock">"Cho phép m? khóa b?ng sinh tr?c h?c"</string>
+  <string name="screen_app_lock_settings_remove_pin">"Xóa mã PIN"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_message">"B?n có ch?c ch?n mu?n xóa mã PIN không?"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_title">"Xóa mã PIN?"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_allow_title">"Cho phép %1$s"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_skip">"Tôi thích dùng mã PIN hon."</string>
+  <string name="screen_app_lock_setup_biometric_unlock_subtitle">"Dùng %1$s d? m? khóa ?ng d?ng nhanh hon."</string>
+  <string name="screen_app_lock_setup_choose_pin">"Ch?n mã PIN"</string>
+  <string name="screen_app_lock_setup_confirm_pin">"Xác nh?n mã PIN"</string>
+  <string name="screen_app_lock_setup_pin_context">"Khóa %1$s d? tang cu?ng b?o m?t cho các cu?c trò chuy?n c?a b?n.
+
+Ch?n m?t mã d? nh?. N?u quên PIN này, b?n s? b? dang xu?t kh?i ?ng d?ng."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_content">"Vì lý do b?o m?t, b?n không th? ch?n mã này làm mã PIN c?a mình."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_title">"Ch?n mã PIN khác"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_content">"Vui lòng nh?p cùng m?t mã PIN hai l?n."</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_title">"Mã PIN không kh?p"</string>
+  <string name="screen_app_lock_signout_alert_message">"Ðang nh?p l?i và t?o PIN m?i d? ti?p t?c."</string>
+  <string name="screen_app_lock_signout_alert_title">"Thi?t b? này dang du?c g? b?"</string>
+  <plurals name="screen_app_lock_subtitle">
+    <item quantity="other">"B?n còn %1$d l?n th? d? m? khóa"</item>
+  </plurals>
+  <plurals name="screen_app_lock_subtitle_wrong_pin">
+    <item quantity="other">"PIN không dúng. Còn %1$d l?n th?"</item>
+  </plurals>
+  <string name="screen_app_lock_use_biometric_android">"S? d?ng sinh tr?c h?c"</string>
+  <string name="screen_app_lock_use_pin_android">"S? d?ng mã PIN"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ðang g? thi?t b?..."</string>
+</resources>
+

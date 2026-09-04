@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bottom_sheet_manage_room_member_ban">"Î‘Ï†Î±Î¯ÏÎµÏƒÎ· ÎºÎ±Î¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚ Î¼Î­Î»Î¿Ï…Ï‚"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_action">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_description">"Î”ÎµÎ½ Î¸Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÎµÎ½Ï„Î±Ï‡Î¸Î¿ÏÎ½ Î¾Î±Î½Î¬ ÏƒÎµ Î±Ï…Ï„Î® Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±, Î±Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸Î¿ÏÎ½."</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_title">"Î˜ÎµÏ‚ ÏƒÎ¯Î³Î¿Ï…ÏÎ± Î½Î± Î±Ï€Î¿ÎºÎ»ÎµÎ¯ÏƒÎµÎ¹Ï‚ Î±Ï…Ï„ÏŒ Ï„Î¿ Î¼Î­Î»Î¿Ï‚;"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_from_space_confirmation_description">"Î”ÎµÎ½ Î¸Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÎµÎ½Ï„Î±Ï‡Î¸Î¿ÏÎ½ Î¾Î±Î½Î¬ ÏƒÎµ Î±Ï…Ï„ÏŒÎ½ Ï„Î¿Î½ Ï‡ÏŽÏÎ¿ Î±Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸Î¿ÏÎ½, Î±Î»Î»Î¬ Î¸Î± Î´Î¹Î±Ï„Î·ÏÎ®ÏƒÎ¿Ï…Î½ Ï„Î· ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î® Ï„Î¿Ï…Ï‚ ÏƒÎµ Î¿Ï€Î¿Î¹Î±Î´Î®Ï€Î¿Ï„Îµ Î±Î¯Î¸Î¿Ï…ÏƒÎ± Î® Ï…Ï€Î¿Ï‡ÏŽÏÎ¿."</string>
+  <string name="screen_bottom_sheet_manage_room_member_banning_user">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚ %1$s"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_action">"Î‘Ï†Î±Î¯ÏÎµÏƒÎ·"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_description">"Î˜Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡Î¿Ï…Î½ Î¾Î±Î½Î¬ ÏƒÎµ Î±Ï…Ï„Î® Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±, ÎµÎ¬Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸Î¿ÏÎ½."</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_title">"Î•Î¯ÏƒÏ„Îµ Î²Î­Î²Î±Î¹Î¿Î¹ ÏŒÏ„Î¹ Î¸Î­Î»ÎµÏ„Îµ Î½Î± Î±Ï†Î±Î¹ÏÎ­ÏƒÎµÏ„Îµ Î±Ï…Ï„ÏŒ Ï„Î¿ Î¼Î­Î»Î¿Ï‚;"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_from_space_confirmation_description">"Î˜Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÎµÎ½Ï„Î±Ï‡Î¸Î¿ÏÎ½ Î¾Î±Î½Î¬ ÏƒÎµ Î±Ï…Ï„ÏŒÎ½ Ï„Î¿Î½ Ï‡ÏŽÏÎ¿ ÎµÎ¬Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸Î¿ÏÎ½ ÎºÎ±Î¹ Î¸Î± Î´Î¹Î±Ï„Î·ÏÎ®ÏƒÎ¿Ï…Î½ Ï„Î· ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î® Ï„Î¿Ï…Ï‚ ÏƒÎµ Î¿Ï€Î¿Î¹Î±Î´Î®Ï€Î¿Ï„Îµ Î±Î¯Î¸Î¿Ï…ÏƒÎ± Î® Ï…Ï€Î¿Ï‡ÏŽÏÎ¿."</string>
+  <string name="screen_bottom_sheet_manage_room_member_member_user_info">"Î ÏÎ¿Î²Î¿Î»Î® Ï€ÏÎ¿Ï†Î¯Î»"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove">"Î‘Ï†Î±Î¯ÏÎµÏƒÎ· Ï‡ÏÎ®ÏƒÏ„Î·"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove_confirmation_title">"Î‘Ï†Î±Î¯ÏÎµÏƒÎ· Î¼Î­Î»Î¿Ï…Ï‚ ÎºÎ±Î¹ Î±Ï€Î±Î³ÏŒÏÎµÏ…ÏƒÎ· ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚ ÏƒÏ„Î¿ Î¼Î­Î»Î»Î¿Î½;"</string>
+  <string name="screen_bottom_sheet_manage_room_member_removing_user">"Î‘Ï†Î±Î¯ÏÎµÏƒÎ· %1$s..."</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban">"Î†ÏÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï Î±Ï€ÏŒ Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_action">"Î‘Î½Î±Î¯ÏÎµÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_description">"Î˜Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡Î¿Ï…Î½ ÎºÎ±Î¹ Ï€Î¬Î»Î¹ ÏƒÏ„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ± Î±Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸Î¿ÏÎ½"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_title">"Î£Î¯Î³Î¿Ï…ÏÎ± Î¸ÎµÏ‚ Î½Î± ÎºÎ±Ï„Î±ÏÎ³Î®ÏƒÎµÎ¹Ï‚ Ï„Î¿Î½ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒ Î±Ï…Ï„Î¿Ï Ï„Î¿Ï… Î¼Î­Î»Î¿Ï…Ï‚;"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unbanning_user">"Î†ÏÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï %1$s"</string>
+</resources>
+

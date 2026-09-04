@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_room_change_permissions_administrators">"ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€"</string>
+  <string name="screen_room_change_permissions_delete_messages">"ÐŸÑ€ÐµÐ¼Ð°Ñ…Ð²Ð°Ð½Ðµ Ð½Ð° ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_room_change_permissions_invite_people">"ÐŸÐ¾ÐºÐ°Ð½Ð²Ð°Ð½Ðµ Ð½Ð° Ñ…Ð¾Ñ€Ð°"</string>
+  <string name="screen_room_change_permissions_messages_and_content">"Ð¡ÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸ ÑÑŠÐ´ÑŠÑ€Ð¶Ð°Ð½Ð¸Ðµ"</string>
+  <string name="screen_room_change_permissions_moderators">"ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€"</string>
+  <string name="screen_room_change_permissions_remove_people">"ÐŸÑ€ÐµÐ¼Ð°Ñ…Ð²Ð°Ð½Ðµ Ð½Ð° Ñ…Ð¾Ñ€Ð°"</string>
+  <string name="screen_room_change_permissions_room_details">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚Ð¸Ñ‚Ðµ"</string>
+  <string name="screen_room_change_permissions_room_name">"ÐŸÑ€Ð¾Ð¼ÑÐ½Ð° Ð½Ð° Ð¸Ð¼ÐµÑ‚Ð¾ Ð½Ð° ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="screen_room_change_permissions_room_topic">"ÐŸÑ€Ð¾Ð¼ÑÐ½Ð° Ð½Ð° Ñ‚ÐµÐ¼Ð°Ñ‚Ð° Ð½Ð° ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="screen_room_change_permissions_send_messages">"Ð˜Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ð½Ðµ Ð½Ð° ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_room_change_role_administrators_title">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ"</string>
+  <string name="screen_room_change_role_confirm_add_admin_title">"Ð”Ð¾Ð±Ð°Ð²ÑÐ½Ðµ Ð½Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€?"</string>
+  <string name="screen_room_change_role_moderators_admin_section_footer">"ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡Ð½Ð¾ Ð¸Ð¼Ð°Ñ‚ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€ÑÐºÐ¸ Ð¿Ñ€Ð°Ð²Ð°"</string>
+  <string name="screen_room_change_role_moderators_title">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ"</string>
+  <string name="screen_room_change_role_section_administrators">"ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸"</string>
+  <string name="screen_room_change_role_section_moderators">"ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¸"</string>
+  <string name="screen_room_change_role_section_users">"Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ"</string>
+  <plurals name="screen_room_member_list_header_title">
+    <item quantity="one">"%1$d Ñ‡Ð¾Ð²ÐµÐº"</item>
+    <item quantity="other">"%1$d Ð´ÑƒÑˆÐ¸"</item>
+  </plurals>
+  <string name="screen_room_member_list_mode_members">"Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ"</string>
+  <string name="screen_room_member_list_role_administrator">"ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€"</string>
+  <string name="screen_room_member_list_role_moderator">"ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€"</string>
+  <string name="screen_room_member_list_room_members_header_title">"Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ Ð½Ð° ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="screen_room_roles_and_permissions_admins">"ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸"</string>
+  <string name="screen_room_roles_and_permissions_change_my_role">"ÐŸÑ€Ð¾Ð¼ÑÐ½Ð° Ð½Ð° Ð¼Ð¾ÑÑ‚Ð° Ñ€Ð¾Ð»Ñ"</string>
+  <string name="screen_room_roles_and_permissions_member_moderation">"ÐœÐ¾Ð´ÐµÑ€Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ñ‡Ð»ÐµÐ½Ð¾Ð²Ðµ"</string>
+  <string name="screen_room_roles_and_permissions_messages_and_content">"Ð¡ÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸ ÑÑŠÐ´ÑŠÑ€Ð¶Ð°Ð½Ð¸Ðµ"</string>
+  <string name="screen_room_roles_and_permissions_moderators">"ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¸"</string>
+  <string name="screen_room_roles_and_permissions_reset">"ÐÑƒÐ»Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸ÑÑ‚Ð°"</string>
+  <string name="screen_room_roles_and_permissions_roles_header">"Ð Ð¾Ð»Ð¸"</string>
+  <string name="screen_room_roles_and_permissions_room_details">"ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚Ð¸ Ð·Ð° ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="screen_room_roles_and_permissions_space_details">"ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½Ð¾ÑÑ‚Ð¸ Ð·Ð° Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾Ñ‚Ð¾"</string>
+  <string name="screen_room_roles_and_permissions_title">"Ð Ð¾Ð»Ð¸ Ð¸ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ"</string>
+</resources>
+

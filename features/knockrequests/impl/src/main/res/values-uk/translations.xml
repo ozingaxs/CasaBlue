@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_knock_requests_list_accept_all_alert_confirm_button_title">"Ð¢Ð°Ðº, Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ–"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_description">"Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ– Ð·Ð°Ð¿Ð¸Ñ‚Ð¸ Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ?"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_title">"ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ– Ð·Ð°Ð¿Ð¸Ñ‚Ð¸"</string>
+  <string name="screen_knock_requests_list_accept_all_button_title">"ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ–"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_description">"ÐœÐ¸ Ð½Ðµ Ð·Ð¼Ð¾Ð³Ð»Ð¸ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ– Ð·Ð°Ð¿Ð¸Ñ‚Ð¸. Ð‘Ð°Ð¶Ð°Ñ”Ñ‚Ðµ ÑÐ¿Ñ€Ð¾Ð±ÑƒÐ²Ð°Ñ‚Ð¸ Ñ‰Ðµ Ñ€Ð°Ð·?"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_title">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð²ÑÑ– Ð·Ð°Ð¿Ð¸Ñ‚Ð¸"</string>
+  <string name="screen_knock_requests_list_accept_all_loading_title">"ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ñ‚Ñ Ð²ÑÑ–Ñ… Ð·Ð°Ð¿Ð¸Ñ‚Ñ–Ð² Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_description">"ÐœÐ¸ Ð½Ðµ Ð·Ð¼Ð¾Ð³Ð»Ð¸ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ñ†ÐµÐ¹ Ð·Ð°Ð¿Ð¸Ñ‚. Ð‘Ð°Ð¶Ð°Ñ”Ñ‚Ðµ ÑÐ¿Ñ€Ð¾Ð±ÑƒÐ²Ð°Ñ‚Ð¸ Ñ‰Ðµ Ñ€Ð°Ð·?"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_title">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ Ð·Ð°Ð¿Ð¸Ñ‚"</string>
+  <string name="screen_knock_requests_list_accept_loading_title">"ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ñ‚Ñ Ð·Ð°Ð¿Ð¸Ñ‚Ñƒ Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_knock_requests_list_ban_alert_confirm_button_title">"Ð¢Ð°Ðº, Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ñ‚Ð° Ð·Ð°Ð±Ð»Ð¾ÐºÑƒÐ²Ð°Ñ‚Ð¸"</string>
+  <string name="screen_knock_requests_list_ban_alert_description">"Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ñ‚Ð° Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð¸Ñ‚Ð¸ %1$s? Ð¦ÐµÐ¹ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡ Ð½Ðµ Ð·Ð¼Ð¾Ð¶Ðµ Ð·Ð½Ð¾Ð²Ñƒ Ð·Ð°Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ€Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸."</string>
+  <string name="screen_knock_requests_list_ban_alert_title">"Ð’Ñ–Ð´Ð¼Ð¾Ð²Ð° Ñ‚Ð° Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ"</string>
+  <string name="screen_knock_requests_list_ban_loading_title">"Ð’Ñ–Ð´Ð¼Ð¾Ð²Ð° Ñ‚Ð° Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ"</string>
+  <string name="screen_knock_requests_list_decline_alert_confirm_button_title">"Ð¢Ð°Ðº, Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸"</string>
+  <string name="screen_knock_requests_list_decline_alert_description">"Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ð·Ð°Ð¿Ð¸Ñ‚ %1$s Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸?"</string>
+  <string name="screen_knock_requests_list_decline_alert_title">"Ð’Ñ–Ð´Ð¼Ð¾Ð²Ð¸Ñ‚Ð¸ Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñ–"</string>
+  <string name="screen_knock_requests_list_decline_and_ban_action_title">"Ð’Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ñ‚Ð° Ð·Ð°Ð±Ð»Ð¾ÐºÑƒÐ²Ð°Ñ‚Ð¸"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_description">"ÐœÐ¸ Ð½Ðµ Ð·Ð¼Ð¾Ð³Ð»Ð¸ Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ñ†ÐµÐ¹ Ð·Ð°Ð¿Ð¸Ñ‚. Ð‘Ð°Ð¶Ð°Ñ”Ñ‚Ðµ ÑÐ¿Ñ€Ð¾Ð±ÑƒÐ²Ð°Ñ‚Ð¸ Ñ‰Ðµ Ñ€Ð°Ð·?"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_title">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸ Ð·Ð°Ð¿Ð¸Ñ‚"</string>
+  <string name="screen_knock_requests_list_decline_loading_title">"Ð’Ñ–Ð´Ñ…Ð¸Ð»ÐµÐ½Ð½Ñ Ð·Ð°Ð¿Ð¸Ñ‚Ñƒ Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_knock_requests_list_empty_state_description">"ÐšÐ¾Ð»Ð¸ Ñ…Ñ‚Ð¾ÑÑŒ Ð¿Ð¾Ð¿Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸, Ð²Ð¸ Ð·Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾Ð±Ð°Ñ‡Ð¸Ñ‚Ð¸ Ñ—Ñ…Ð½Ñ–Ð¹ Ð·Ð°Ð¿Ð¸Ñ‚ Ñ‚ÑƒÑ‚."</string>
+  <string name="screen_knock_requests_list_empty_state_title">"ÐÐµÐ¼Ð°Ñ” Ð½ÐµÑ€Ð¾Ð·Ð³Ð»ÑÐ½ÑƒÑ‚Ð¸Ñ… Ð·Ð°Ð¿Ð¸Ñ‚Ñ–Ð² Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_knock_requests_list_initial_loading_title">"Ð—Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð°Ð¿Ð¸Ñ‚Ñ–Ð² Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ..."</string>
+  <string name="screen_knock_requests_list_title">"Ð—Ð°Ð¿Ð¸Ñ‚Ð¸ Ð½Ð° Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ð½Ð½Ñ"</string>
+  <plurals name="screen_room_multiple_knock_requests_title">
+    <item quantity="one">"%1$s +%2$d Ñ–Ð½ÑˆÐ¸Ð¹ Ñ…Ð¾Ñ‡ÑƒÑ‚ÑŒ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</item>
+    <item quantity="few">"%1$s +%2$d Ñ–Ð½ÑˆÑ– Ñ…Ð¾Ñ‡ÑƒÑ‚ÑŒ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</item>
+    <item quantity="many">"%1$s +%2$d Ñ–Ð½ÑˆÐ¸Ñ… Ñ…Ð¾Ñ‡ÑƒÑ‚ÑŒ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</item>
+  </plurals>
+  <string name="screen_room_multiple_knock_requests_view_all_button_title">"ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ½ÑƒÑ‚Ð¸ Ð²ÑÐµ"</string>
+  <string name="screen_room_single_knock_request_accept_button_title">"ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ð¸"</string>
+  <string name="screen_room_single_knock_request_title">"%1$s Ñ…Ð¾Ñ‡Ðµ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ñ†Ñ–Ñ”Ñ— ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</string>
+  <string name="screen_room_single_knock_request_view_button_title">"ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ½ÑƒÑ‚Ð¸"</string>
+</resources>
+

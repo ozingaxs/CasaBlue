@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bug_report_attach_screenshot">"ìŠ¤í¬ë¦°ìƒ· ì²¨ë¶€"</string>
+  <string name="screen_bug_report_contact_me">"í›„ì† ì§ˆë¬¸ì´ ìžˆëŠ” ê²½ìš° ì €ì—ê²Œ ì—°ë½í•˜ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_bug_report_contact_me_title">"ë¬¸ì˜í•˜ê¸°"</string>
+  <string name="screen_bug_report_edit_screenshot">"ìŠ¤í¬ë¦°ìƒ· ìˆ˜ì •"</string>
+  <string name="screen_bug_report_editor_description">"ë¬¸ì œë¥¼ ì„¤ëª…í•´ ì£¼ì„¸ìš”. ë¬´ì—‡ì„ í–ˆë‚˜ìš”? ë¬´ìŠ¨ ì¼ì´ ì¼ì–´ë‚  ê²ƒìœ¼ë¡œ ì˜ˆìƒí–ˆë‚˜ìš”? ì‹¤ì œë¡œ ë¬´ìŠ¨ ì¼ì´ ì¼ì–´ë‚¬ë‚˜ìš”. ê°€ëŠ¥í•œ í•œ ìžì„¸ížˆ ì„¤ëª…í•´ ì£¼ì„¸ìš”."</string>
+  <string name="screen_bug_report_editor_placeholder">"ë¬¸ì œë¥¼ ì„¤ëª…í•´ ì£¼ì„¸ìš”..."</string>
+  <string name="screen_bug_report_editor_supporting">"ê°€ëŠ¥í•˜ë‹¤ë©´ ì˜ì–´ë¡œ ì„¤ëª…ì„ ìž‘ì„±í•´ ì£¼ì‹­ì‹œì˜¤."</string>
+  <string name="screen_bug_report_error_description_too_short">"ì„¤ëª… ë‚´ìš©ì´ ë„ˆë¬´ ì§§ìŠµë‹ˆë‹¤. ë°œìƒí•œ ìƒí™©ì— ëŒ€í•´ ë” ìžì„¸í•œ ë‚´ìš©ì„ ì œê³µí•´ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤. ê°ì‚¬í•©ë‹ˆë‹¤!"</string>
+  <string name="screen_bug_report_github_issue_description">"ì—°ê´€ëœ GitHub ì´ìŠˆ ë²ˆí˜¸ê°€ ìžˆë‹¤ë©´ ìž…ë ¥í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_bug_report_github_issue_label">"GitHub ì´ìŠˆ"</string>
+  <string name="screen_bug_report_include_crash_logs">"ì¶©ëŒ ë¡œê·¸ ë³´ë‚´ê¸°"</string>
+  <string name="screen_bug_report_include_logs">"ë¡œê·¸ í—ˆìš©"</string>
+  <string name="screen_bug_report_include_logs_error">"ê·€í•˜ì˜ ë¡œê·¸ê°€ ë„ˆë¬´ ì»¤ì„œ ì´ ë³´ê³ ì„œì— í¬í•¨í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ë‹¤ë¥¸ ë°©ë²•ìœ¼ë¡œ ë³´ë‚´ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤."</string>
+  <string name="screen_bug_report_include_screenshot">"ìŠ¤í¬ë¦°ìƒ· ì „ì†¡"</string>
+  <string name="screen_bug_report_logs_description">"ëª¨ë“  ê¸°ëŠ¥ì´ ì œëŒ€ë¡œ ìž‘ë™í•˜ëŠ”ì§€ í™•ì¸í•˜ê¸° ìœ„í•´ ë¡œê·¸ì•  ë©”ì‹œì§€ê°€ í¬í•¨ë©ë‹ˆë‹¤. ë¡œê·¸ ì—†ì´ ë©”ì‹œì§€ë¥¼ ë³´ë‚´ë ¤ë©´ ì´ ì„¤ì •ì„ í•´ì œí•˜ì„¸ìš”."</string>
+  <string name="screen_bug_report_rash_logs_alert_title">"%1$sì´(ê°€) ì´ì „ì— ë§ˆì§€ë§‰ìœ¼ë¡œ ì‚¬ìš©í•  ë•Œ ì¶©ëŒí–ˆìŠµë‹ˆë‹¤. ì¶©ëŒ ë³´ê³ ì„œë¥¼ ê³µìœ í•´ì£¼ì‹¤ ìˆ˜ ìžˆë‚˜ìš”?"</string>
+  <string name="screen_bug_report_send_notification_settings_description">"ì•Œë¦¼ì— ë¬¸ì œê°€ ìžˆëŠ” ê²½ìš°, í‘¸ì‹œ ì•Œë¦¼ ê·œì¹™ì„ ì—…ë¡œë“œí•˜ë©´ ê·¼ë³¸ ì›ì¸ì„ íŒŒì•…í•˜ëŠ” ë° ë„ì›€ì´ ë©ë‹ˆë‹¤. ë‹¨, ì´ ê·œì¹™ì—ëŠ” í‘œì‹œ ì´ë¦„ì´ë‚˜ ì•Œë¦¼ í‚¤ì›Œë“œì™€ ê°™ì€ ê°œì¸ì •ë³´ê°€ í¬í•¨ë  ìˆ˜ ìžˆìœ¼ë‹ˆ ì£¼ì˜í•´ ì£¼ì„¸ìš”."</string>
+  <string name="screen_bug_report_send_notification_settings_title">"ì•Œë¦¼ ì„¤ì • ì „ì†¡"</string>
+  <string name="screen_bug_report_view_logs">"ë¡œê·¸ ë³´ê¸°"</string>
+</resources>
+

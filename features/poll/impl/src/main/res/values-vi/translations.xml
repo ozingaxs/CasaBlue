@@ -1,0 +1,21 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_poll_add_option_btn">"Thêm l?a ch?n"</string>
+  <string name="screen_create_poll_anonymous_desc">"Ch? hi?n th? k?t qu? sau khi cu?c tham dò k?t thúc"</string>
+  <string name="screen_create_poll_anonymous_headline">"?n phi?u"</string>
+  <string name="screen_create_poll_answer_hint">"L?a ch?n %1$d"</string>
+  <string name="screen_create_poll_cancel_confirmation_content_android">"Các thay d?i c?a b?n chua du?c luu. B?n có ch?c mu?n quay l?i không?"</string>
+  <string name="screen_create_poll_delete_option_a11y">"Tùy ch?n xóa %1$s"</string>
+  <string name="screen_create_poll_question_desc">"Câu h?i ho?c ch? d?"</string>
+  <string name="screen_create_poll_question_hint">"Cu?c tham dò này v? v?n d? gì?"</string>
+  <string name="screen_create_poll_title">"T?o Cu?c tham dò ý ki?n"</string>
+  <string name="screen_edit_poll_delete_confirmation">"B?n có ch?c ch?n mu?n xóa cu?c tham dò này không?"</string>
+  <string name="screen_edit_poll_delete_confirmation_title">"Xóa cu?c tham dò"</string>
+  <string name="screen_edit_poll_title">"S?a cu?c tham dò"</string>
+  <string name="screen_polls_history_empty_ongoing">"Không tìm th?y b?t k? cu?c tham dò nào dang di?n ra."</string>
+  <string name="screen_polls_history_empty_past">"Không tìm th?y b?t k? cu?c tham dò nào tru?c dây."</string>
+  <string name="screen_polls_history_filter_ongoing">"Ðang di?n ra"</string>
+  <string name="screen_polls_history_filter_past">"Quá kh?"</string>
+  <string name="screen_polls_history_title">"Cu?c tham dò ý ki?n"</string>
+</resources>
+

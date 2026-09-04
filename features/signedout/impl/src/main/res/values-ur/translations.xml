@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_signed_out_reason_1">"Ø¢Ù¾ Ù†Û’ Ø¯ÙˆØ³Ø±Û’ Ø¬Ù„Ø³Û’ Ù…ÛŒÚº Ø§Ù¾Ù†Ø§ Ù„ÙØ¸Ù Ø¹Ø¨ÙˆØ± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø± Ù„ÛŒØ§ ÛÛ’"</string>
+  <string name="screen_signed_out_reason_2">"Ø¢Ù¾ Ù†Û’ Ø¬Ù„Ø³Û Ú©Ùˆ Ø¯ÙˆØ³Ø±Û’ Ø¬Ù„Ø³Û’ Ø³Û’ Ø­Ø°Ù Ú©Ø± Ø¯ÛŒØ§ ÛÛ’"</string>
+  <string name="screen_signed_out_reason_3">"Ø¢Ù¾ Ú©Û’ Ø®Ø§Ø¯Ù… Ú©Û’ Ù…Ù†ØªØ¸Ù… Ù†Û’ Ø¢Ù¾Ú©ÛŒ Ø±Ø³Ø§Ø¦ÛŒ Ú©Ùˆ Ø¨Ø§Ø·Ù„ Ú©Ø±Ø¯ÛŒØ§"</string>
+  <string name="screen_signed_out_subtitle">"ÛÙˆØ³Ú©ØªØ§ ÛÛ’ Ú©Û Ø¢Ù¾ Ú©Ùˆ Ø°ÛŒÙ„ Ù…ÛŒÚº Ø¯Ø±Ø¬ ÙˆØ¬ÙˆÛØ§Øª Ù…ÛŒÚº Ø³Û’ Ú©Ø³ÛŒ Ø§ÛŒÚ© Ú©ÛŒ ÙˆØ¬Û Ø³Û’ Ø®Ø§Ø±Ø¬ Ú©ÛŒØ§ Ú¯ÛŒØ§ ÛÙˆÛ” Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ %s Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ø¬Ø§Ø±ÛŒ Ø±Ú©Ú¾Ù†Û’ Ú©Û’ Ù„Ø¦Û’ Ø¯ÙˆØ¨Ø§Ø±Û Ø¯Ø§Ø®Ù„ ÛÙˆÚºÛ”"</string>
+  <string name="screen_signed_out_title">"Ø¢Ù¾ Ø®Ø§Ø±Ø¬ ÛÙˆÚ¯Ø¦Û’ ÛÛŒÚº"</string>
+</resources>
+

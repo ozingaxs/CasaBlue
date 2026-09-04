@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_migrate_to_native_sliding_sync_action">"Ù„Ø§Ú¯ Ø¢Ø¤Ù¹ Ø§ÙˆØ± Ø§Ù¾ Ú¯Ø±ÛŒÚˆ Ú©Ø±ÛŒÚº"</string>
+  <string name="banner_migrate_to_native_sliding_sync_force_logout_title">"Ø¢Ù¾ Ú©Ø§ homeserver Ø§Ø¨ Ù¾Ø±Ø§Ù†Û’ Ù¾Ø±ÙˆÙ¹ÙˆÚ©ÙˆÙ„ Ú©Ùˆ Ø³Ù¾ÙˆØ±Ù¹ Ù†ÛÛŒÚº Ú©Ø±ØªØ§ ÛÛ’Û” Ø¨Ø±Ø§Û Ú©Ø±Ù… Ù„Ø§Ú¯ Ø¢Ø¤Ù¹ Ú©Ø±ÛŒÚº Ø§ÙˆØ± Ø§ÛŒÙ¾ Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ø¬Ø§Ø±ÛŒ Ø±Ú©Ú¾Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ø¯ÙˆØ¨Ø§Ø±Û Ù„Ø§Ú¯ Ø§Ù† Ú©Ø±ÛŒÚºÛ”"</string>
+</resources>
+

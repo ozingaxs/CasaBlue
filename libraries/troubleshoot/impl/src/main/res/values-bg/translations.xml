@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_screen_action">"Ð˜Ð·Ð¿ÑŠÐ»Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ñ‚ÐµÑÑ‚Ð¾Ð²Ðµ"</string>
+  <string name="troubleshoot_notifications_screen_action_again">"Ð˜Ð·Ð¿ÑŠÐ»Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ñ‚ÐµÑÑ‚Ð¾Ð²ÐµÑ‚Ðµ Ð¾Ñ‚Ð½Ð¾Ð²Ð¾"</string>
+  <string name="troubleshoot_notifications_screen_success">"Ð’ÑÐ¸Ñ‡ÐºÐ¸ Ñ‚ÐµÑÑ‚Ð¾Ð²Ðµ Ð¿Ñ€ÐµÐ¼Ð¸Ð½Ð°Ñ…Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾."</string>
+  <string name="troubleshoot_notifications_screen_title">"ÐžÑ‚ÑÑ‚Ñ€Ð°Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½ÐµÐ¸Ð·Ð¿Ñ€Ð°Ð²Ð½Ð¾ÑÑ‚Ð¸ Ñ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÑÑ‚Ð°"</string>
+</resources>
+

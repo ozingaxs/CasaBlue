@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="notification_channel_call">"ÐžÐ±Ð°Ð¶Ð´Ð°Ð½Ðµ"</string>
+  <string name="notification_channel_listening_for_events">"Ð¡Ð»ÑƒÑˆÐ°Ð½Ðµ Ð·Ð° ÑÑŠÐ±Ð¸Ñ‚Ð¸Ñ"</string>
+  <string name="notification_channel_noisy">"Ð¨ÑƒÐ¼Ð½Ð¸ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ"</string>
+  <string name="notification_channel_silent">"Ð‘ÐµÐ·ÑˆÑƒÐ¼Ð½Ð¸ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ"</string>
+  <plurals name="notification_compat_summary_line_for_room">
+    <item quantity="one">"%1$s: %2$d ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ"</item>
+    <item quantity="other">"%1$s: %2$d ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</item>
+  </plurals>
+  <plurals name="notification_compat_summary_title">
+    <item quantity="one">"%d Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ðµ"</item>
+    <item quantity="other">"%d Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ"</item>
+  </plurals>
+  <string name="notification_fallback_content">"Ð˜Ð¼Ð°Ñ‚Ðµ Ð½Ð¾Ð²Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ."</string>
+  <string name="notification_inline_reply_failed">"** ÐÐµÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ð½Ðµ - Ð¼Ð¾Ð»Ñ, Ð¾Ñ‚Ð²Ð¾Ñ€ÐµÑ‚Ðµ ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="notification_invitation_action_join">"ÐŸÑ€Ð¸ÑÑŠÐµÐ´Ð¸Ð½ÑÐ²Ð°Ð½Ðµ"</string>
+  <plurals name="notification_invitations">
+    <item quantity="one">"%d Ð¿Ð¾ÐºÐ°Ð½Ð°"</item>
+    <item quantity="other">"%d Ð¿Ð¾ÐºÐ°Ð½Ð¸"</item>
+  </plurals>
+  <string name="notification_invite_body">"ÐŸÐ¾ÐºÐ°Ð½Ð¸Ñ…Ð° Ð²Ð¸ Ð·Ð° Ñ‡Ð°Ñ‚"</string>
+  <string name="notification_mentioned_you_body">"Ð’Ð¸ ÑÐ¿Ð¾Ð¼ÐµÐ½Ð°: %1$s"</string>
+  <string name="notification_new_messages">"ÐÐ¾Ð²Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</string>
+  <plurals name="notification_new_messages_for_room">
+    <item quantity="one">"%d Ð½Ð¾Ð²Ð¾ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ"</item>
+    <item quantity="other">"%d Ð½Ð¾Ð²Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</item>
+  </plurals>
+  <string name="notification_reaction_body">"Ð ÐµÐ°Ð³Ð¸Ñ€Ð° Ñ %1$s"</string>
+  <string name="notification_room_action_mark_as_read">"ÐžÑ‚Ð±ÐµÐ»ÑÐ·Ð²Ð°Ð½Ðµ ÐºÐ°Ñ‚Ð¾ Ð¿Ñ€Ð¾Ñ‡ÐµÑ‚ÐµÐ½Ð¾"</string>
+  <string name="notification_room_action_quick_reply">"Ð‘ÑŠÑ€Ð· Ð¾Ñ‚Ð³Ð¾Ð²Ð¾Ñ€"</string>
+  <string name="notification_room_invite_body">"Ð’Ð¸ Ð¿Ð¾ÐºÐ°Ð½Ð¸ Ð´Ð° ÑÐµ Ð¿Ñ€Ð¸ÑÑŠÐµÐ´Ð¸Ð½Ð¸Ñ‚Ðµ ÐºÑŠÐ¼ ÑÑ‚Ð°ÑÑ‚Ð°"</string>
+  <string name="notification_sender_me">"ÐÐ·"</string>
+  <string name="notification_test_push_notification_content">"ÐŸÑ€ÐµÐ³Ð»ÐµÐ¶Ð´Ð°Ñ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÐµÑ‚Ð¾! ÐšÐ»Ð¸ÐºÐ½ÐµÑ‚Ðµ Ð²ÑŠÑ€Ñ…Ñƒ Ð¼ÐµÐ½!"</string>
+  <string name="notification_ticker_text_dm">"%1$s: %2$s"</string>
+  <string name="notification_ticker_text_group">"%1$s: %2$s %3$s"</string>
+  <plurals name="notification_unread_notified_messages">
+    <item quantity="one">"%d Ð½ÐµÐ¿Ñ€Ð¾Ñ‡ÐµÑ‚ÐµÐ½Ð¾ Ð¸Ð·Ð²ÐµÑÑ‚ÐµÐ½Ð¾ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ"</item>
+    <item quantity="other">"%d Ð½ÐµÐ¿Ñ€Ð¾Ñ‡ÐµÑ‚ÐµÐ½Ð¸ Ð¸Ð·Ð²ÐµÑÑ‚ÐµÐ½Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</item>
+  </plurals>
+  <string name="notification_unread_notified_messages_and_invitation">"%1$s Ð¸ %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room">"%1$s Ð² %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room_and_invitation">"%1$s Ð² %2$s Ð¸ %3$s"</string>
+  <plurals name="notification_unread_notified_messages_in_room_rooms">
+    <item quantity="one">"%d ÑÑ‚Ð°Ñ"</item>
+    <item quantity="other">"%d ÑÑ‚Ð°Ð¸"</item>
+  </plurals>
+  <string name="push_distributor_background_sync_android">"Ð¡Ð¸Ð½Ñ…Ñ€Ð¾Ð½Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð½Ð° Ð·Ð°Ð´ÐµÐ½ Ð¿Ð»Ð°Ð½"</string>
+  <string name="push_distributor_firebase_android">"Ð£ÑÐ»ÑƒÐ³Ð¸ Ð½Ð° Google"</string>
+  <string name="push_no_valid_google_play_services_apk_android">"ÐÐµ ÑÐ° Ð½Ð°Ð¼ÐµÑ€ÐµÐ½Ð¸ Ð²Ð°Ð»Ð¸Ð´Ð½Ð¸ ÑƒÑÐ»ÑƒÐ³Ð¸ Ð½Ð° Google Play. Ð˜Ð·Ð²ÐµÑÑ‚Ð¸ÑÑ‚Ð° Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ð½Ðµ Ñ€Ð°Ð±Ð¾Ñ‚ÑÑ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð½Ð¾."</string>
+  <string name="troubleshoot_notifications_test_blocked_users_description">"ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð½Ð° Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_quick_fix">"ÐŸÑ€ÐµÐ³Ð»ÐµÐ´ Ð½Ð° Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸Ñ‚Ðµ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_result_none">"ÐÑÐ¼Ð° Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸."</string>
+  <string name="troubleshoot_notifications_test_blocked_users_title">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_description">"ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ð½Ðµ Ð½Ð° Ð¸Ð¼ÐµÑ‚Ð¾ Ð½Ð° Ñ‚ÐµÐºÑƒÑ‰Ð¸Ñ Ð´Ð¾ÑÑ‚Ð°Ð²Ñ‡Ð¸Ðº."</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_success_2">"ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÑ‚Ð¾ Ðµ Ð¸Ð·Ð³Ñ€Ð°Ð´ÐµÐ½Ð¾ Ñ Ð¿Ð¾Ð´Ð´Ñ€ÑŠÐ¶ÐºÐ° Ð·Ð°: %1$s"</string>
+  <string name="troubleshoot_notifications_test_display_notification_description">"ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð´Ð°Ð»Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÑ‚Ð¾ Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ð¿Ð¾ÐºÐ°Ð·Ð²Ð° Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ."</string>
+  <string name="troubleshoot_notifications_test_display_notification_failure">"Ð˜Ð·Ð²ÐµÑÑ‚Ð¸ÐµÑ‚Ð¾ Ð½Ðµ Ðµ Ð±Ð¸Ð»Ð¾ ÐºÐ»Ð¸ÐºÐ½Ð°Ñ‚Ð¾."</string>
+  <string name="troubleshoot_notifications_test_display_notification_permission_failure">"ÐÐµ Ð¼Ð¾Ð¶Ðµ Ð´Ð° ÑÐµ Ð¿Ð¾ÐºÐ°Ð¶Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÐµÑ‚Ð¾."</string>
+  <string name="troubleshoot_notifications_test_display_notification_success">"Ð˜Ð·Ð²ÐµÑÑ‚Ð¸ÐµÑ‚Ð¾ Ð±ÐµÑˆÐµ Ð½Ð°Ñ‚Ð¸ÑÐ½Ð°Ñ‚Ð¾!"</string>
+  <string name="troubleshoot_notifications_test_display_notification_title">"ÐŸÐ¾ÐºÐ°Ð·Ð²Ð°Ð½Ðµ Ð½Ð° Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ðµ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_waiting">"ÐœÐ¾Ð»Ñ, Ð½Ð°Ñ‚Ð¸ÑÐ½ÐµÑ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÐµÑ‚Ð¾, Ð·Ð° Ð´Ð° Ð¿Ñ€Ð¾Ð´ÑŠÐ»Ð¶Ð¸Ñ‚Ðµ Ñ‚ÐµÑÑ‚Ð°."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_2">"Ð“Ñ€ÐµÑˆÐºÐ°: %1$s"</string>
+</resources>
+

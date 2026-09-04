@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_dm_details_block_alert_action">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ"</string>
+  <string name="screen_dm_details_block_alert_description">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸Ñ‚Ðµ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸ Ð½ÑÐ¼Ð° Ð´Ð° Ð¼Ð¾Ð³Ð°Ñ‚ Ð´Ð° Ð²Ð¸ Ð¸Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ñ‚ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸ Ð²ÑÐ¸Ñ‡ÐºÐ¸ Ñ‚ÐµÑ…Ð½Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ‰Ðµ Ð±ÑŠÐ´Ð°Ñ‚ ÑÐºÑ€Ð¸Ñ‚Ð¸. ÐœÐ¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð³Ð¸ Ð¾Ñ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ñ‚Ðµ Ð¿Ð¾ Ð²ÑÑÐºÐ¾ Ð²Ñ€ÐµÐ¼Ðµ."</string>
+  <string name="screen_dm_details_block_user">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_dm_details_unblock_alert_action">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ"</string>
+  <string name="screen_dm_details_unblock_alert_description">"Ð©Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð²Ð¸Ð¶Ð´Ð°Ñ‚Ðµ Ð¾Ñ‚Ð½Ð¾Ð²Ð¾ Ð²ÑÐ¸Ñ‡ÐºÐ¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¾Ñ‚ Ñ‚ÑÑ…."</string>
+  <string name="screen_dm_details_unblock_user">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_room_member_details_block_alert_action">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ"</string>
+  <string name="screen_room_member_details_block_alert_description">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ð¸Ñ‚Ðµ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸ Ð½ÑÐ¼Ð° Ð´Ð° Ð¼Ð¾Ð³Ð°Ñ‚ Ð´Ð° Ð²Ð¸ Ð¸Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ñ‚ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸ Ð²ÑÐ¸Ñ‡ÐºÐ¸ Ñ‚ÐµÑ…Ð½Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ‰Ðµ Ð±ÑŠÐ´Ð°Ñ‚ ÑÐºÑ€Ð¸Ñ‚Ð¸. ÐœÐ¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð³Ð¸ Ð¾Ñ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ñ‚Ðµ Ð¿Ð¾ Ð²ÑÑÐºÐ¾ Ð²Ñ€ÐµÐ¼Ðµ."</string>
+  <string name="screen_room_member_details_block_user">"Ð‘Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_room_member_details_title">"ÐŸÑ€Ð¾Ñ„Ð¸Ð»"</string>
+  <string name="screen_room_member_details_unblock_alert_action">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ"</string>
+  <string name="screen_room_member_details_unblock_alert_description">"Ð©Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð²Ð¸Ð¶Ð´Ð°Ñ‚Ðµ Ð¾Ñ‚Ð½Ð¾Ð²Ð¾ Ð²ÑÐ¸Ñ‡ÐºÐ¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¾Ñ‚ Ñ‚ÑÑ…."</string>
+  <string name="screen_room_member_details_unblock_user">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_room_member_details_verify_button_title">"ÐŸÐ¾Ñ‚Ð²ÑŠÑ€Ð¶Ð´Ð°Ð²Ð°Ð½Ðµ Ð½Ð° %1$s"</string>
+  <string name="screen_start_chat_error_starting_chat">"Ð’ÑŠÐ·Ð½Ð¸ÐºÐ½Ð° Ð³Ñ€ÐµÑˆÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ð¿Ð¸Ñ‚Ð° Ð·Ð° Ð·Ð°Ð¿Ð¾Ñ‡Ð²Ð°Ð½Ðµ Ð½Ð° Ñ‡Ð°Ñ‚"</string>
+</resources>
+

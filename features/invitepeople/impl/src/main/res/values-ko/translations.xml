@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_invite_users_already_a_member">"ì´ë¯¸ íšŒì›"</string>
+  <string name="screen_invite_users_already_invited">"ì´ë¯¸ ì´ˆëŒ€ë¨"</string>
+  <string name="screen_invite_users_confirm_dialog_subtitle_multiple_users">"ì´ ì‚¬ìš©ìžë“¤ê³¼ì˜ ëŒ€í™” ë‚´ì—­ì´ ì—†ìŠµë‹ˆë‹¤. ê³„ì†í•˜ë ¤ë©´ ë¨¼ì € ì´ ë°©ìœ¼ë¡œì˜ ì´ˆëŒ€ë¥¼ í™•ì¸í•´ ì£¼ì„¸ìš”."</string>
+  <string name="screen_invite_users_confirm_dialog_subtitle_one_user">"ì´ ì‚¬ìš©ìžì™€ì˜ ëŒ€í™” ë‚´ì—­ì´ ì—†ìŠµë‹ˆë‹¤. ê³„ì†í•˜ë ¤ë©´ ë¨¼ì € ì´ ë°©ìœ¼ë¡œì˜ ì´ˆëŒ€ë¥¼ í™•ì¸í•´ ì£¼ì„¸ìš”."</string>
+  <string name="screen_invite_users_confirm_dialog_title_mutiple_users">"ì´ ë°©ì— ìƒˆ ì‚¬ìš©ìžë¥¼ ì´ˆëŒ€í• ê¹Œìš”?"</string>
+  <string name="screen_invite_users_confirm_dialog_title_one_user">"ì´ ë°©ì— ìƒˆ ì‚¬ìš©ìžë¥¼ ì´ˆëŒ€í• ê¹Œìš”?"</string>
+</resources>
+

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_join_room_ban_by_message">"%1$s Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð»(Ð°) Ð’Ð°Ñ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ."</string>
+  <string name="screen_join_room_ban_message">"Ð’Ñ‹ Ð±Ñ‹Ð»Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ"</string>
+  <string name="screen_join_room_ban_reason">"ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: %1$s."</string>
+  <string name="screen_join_room_cancel_knock_action">"ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ"</string>
+  <string name="screen_join_room_cancel_knock_alert_confirmation">"Ð”Ð°, Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_cancel_knock_alert_description">"Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°ÑÐ²ÐºÑƒ Ð½Ð° Ð²ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ Ð² ÑÑ‚Ñƒ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ?"</string>
+  <string name="screen_join_room_cancel_knock_alert_title">"ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_join_room_decline_and_block_alert_confirmation">"Ð”Ð°, Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_decline_and_block_alert_message">"Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ? Ð¢Ð°ÐºÐ¶Ðµ %1$s Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ ÑÐ¼Ð¾Ð¶ÐµÑ‚ ÑÐ²ÑÐ·Ð°Ñ‚ÑŒÑÑ Ñ Ð²Ð°Ð¼Ð¸ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°Ñ‚ÑŒ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹."</string>
+  <string name="screen_join_room_decline_and_block_alert_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_decline_and_block_button_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_fail_message">"ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ."</string>
+  <string name="screen_join_room_fail_reason">"Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½. Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð²Ð°Ð¼ Ð½ÑƒÐ¶Ð½Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="screen_join_room_forget_action">"Ð—Ð°Ð±Ñ‹Ñ‚ÑŒ ÑÑ‚Ñƒ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="screen_join_room_invite_required_message">"Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ñ‚Ð¾Ð³Ð¾, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÑ‚Ð¾Ð¹ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ"</string>
+  <string name="screen_join_room_invited_by">"ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½"</string>
+  <string name="screen_join_room_join_action">"ÐŸÑ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ"</string>
+  <string name="screen_join_room_join_restricted_message">"Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ, Ð²Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¸Ð»Ð¸ Ð±Ñ‹Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð¼ ÑÐ¾Ð¾Ð±Ñ‰ÐµÑÑ‚Ð²Ð°."</string>
+  <string name="screen_join_room_knock_action">"ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_join_room_knock_message_characters_count">"Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð½Ñ‹Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹ %1$d %2$d"</string>
+  <string name="screen_join_room_knock_message_description">"Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ (Ð¾Ð¿Ñ†Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¾)"</string>
+  <string name="screen_join_room_knock_sent_description">"Ð’Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚Ðµ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ, ÐºÐ°Ðº Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð²Ð°Ñˆ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð±ÑƒÐ´ÐµÑ‚ Ð¿Ñ€Ð¸Ð½ÑÑ‚."</string>
+  <string name="screen_join_room_knock_sent_title">"Ð—Ð°Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½"</string>
+  <string name="screen_join_room_loading_alert_message">"ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð·Ð¸Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹. Ð­Ñ‚Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑÐ²ÑÐ·Ð°Ð½Ð¾ Ñ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð°Ð¼Ð¸ ÑÐµÑ‚Ð¸ Ð¸Ð»Ð¸ ÑÐµÑ€Ð²ÐµÑ€Ð°."</string>
+  <string name="screen_join_room_loading_alert_title">"ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹"</string>
+  <string name="screen_join_room_space_not_supported_description">"%1$s ÐµÑ‰Ðµ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð°. Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ðº Ð½Ð¸Ð¼ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð² Ð²ÐµÐ±-Ð²ÐµÑ€ÑÐ¸Ð¸."</string>
+  <string name="screen_join_room_space_not_supported_title">"ÐŸÑ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð° Ð¿Ð¾ÐºÐ° Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‚ÑÑ"</string>
+  <string name="screen_join_room_subtitle_knock">"ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ ÐºÐ½Ð¾Ð¿ÐºÑƒ Ð½Ð¸Ð¶Ðµ Ð¸ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ. ÐŸÐ¾ÑÐ»Ðµ Ð¾Ð´Ð¾Ð±Ñ€ÐµÐ½Ð¸Ñ Ð’Ñ‹ ÑÐ¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº Ð±ÐµÑÐµÐ´Ðµ."</string>
+  <string name="screen_join_room_subtitle_no_preview">"Ð’Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð¼ ÑÑ‚Ð¾Ð¹ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¸ÑÑ‚Ð¾Ñ€Ð¸ÑŽ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹."</string>
+  <string name="screen_join_room_title_knock">"Ð¥Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÑ‚Ð¾Ð¹ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ðµ?"</string>
+  <string name="screen_join_room_title_no_preview">"ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½"</string>
+</resources>
+

@@ -1,0 +1,85 @@
+/*
+ * Copyright (c) 2025 Element Creations Ltd.
+ * Copyright 2022-2025 New Vector Ltd.
+ *
+ * SPDX-License-Identifier: AGPL-3.0-only OR LicenseRef-Element-Commercial.
+ * Please see LICENSE files in the repository root for full details.
+ */
+
+package io.element.android.features.home.impl.model
+
+import androidx.compose.runtime.Immutable
+import io.element.android.features.invite.api.InviteData
+import io.element.android.libraries.designsystem.components.avatar.AvatarData
+import io.element.android.libraries.matrix.api.core.RoomAlias
+import io.element.android.libraries.matrix.api.core.RoomId
+import io.element.android.libraries.matrix.api.notification.CallIntent
+import io.element.android.libraries.matrix.api.room.BridgeState
+import io.element.android.libraries.matrix.api.room.MatrixSpaceChildInfo
+import io.element.android.libraries.matrix.api.room.RoomNotificationMode
+import io.element.android.libraries.matrix.api.user.DisplayedStatus
+import io.element.android.libraries.matrix.api.room.SpaceCatchAllInfo
+import io.element.android.libraries.matrix.ui.model.InviteSender
+import kotlinx.collections.immutable.ImmutableList
+import kotlinx.collections.immutable.persistentListOf
+
+@Immutable
+data class RoomListRoomSummary(
+    val id: String,
+    val displayType: RoomSummaryDisplayType,
+    val roomId: RoomId,
+    val name: String?,
+    val canonicalAlias: RoomAlias?,
+    val numberOfUnreadMessages: Long,
+    val numberOfUnreadMentions: Long,
+    val numberOfUnreadNotifications: Long,
+    // SC start
+    val privateRoomName: String? = null,
+    val rawRoomName: String? = null,
+    // SC: spaces
+    val spaceChildren: ImmutableList<MatrixSpaceChildInfo> = persistentListOf(),
+    val spaceCatchAll: SpaceCatchAllInfo? = null,
+    val canUserManageSpaces: Boolean = false,
+    // SC: server-reported values compared to client-generated above
+    val notificationCount: Long = 0,
+    val highlightCount: Long = 0,
+    val unreadCount: Long = 0,
+    val unreadCountUnderestimate: Boolean = false,
+    // SC client-side sorting
+    val lastMessageTimestamp: Long? = null,
+    val isLowPriority: Boolean = false,
+    val bridgeState: ImmutableList<BridgeState> = persistentListOf(),
+    // SC end
+    val isMarkedUnread: Boolean,
+    val timestamp: String?,
+    val latestEvent: LatestEvent,
+    val avatarData: AvatarData,
+    val userDefinedNotificationMode: RoomNotificationMode?,
+    val hasRoomCall: Boolean,
+    val activeCallIntent: CallIntent?,
+    val isDirect: Boolean,
+    val isDm: Boolean,
+    val isFavorite: Boolean,
+    val inviteSender: InviteSender?,
+    val isTombstoned: Boolean,
+    val heroes: ImmutableList<AvatarData>,
+    val isSpace: Boolean,
+    val dmUserStatus: DisplayedStatus?,
+) {
+    val isHighlighted = userDefinedNotificationMode != RoomNotificationMode.MUTE &&
+        (numberOfUnreadNotifications > 0 || numberOfUnreadMentions > 0) ||
+        isMarkedUnread
+
+    /* SC: moved to extension to acknowledge user setting for rendering unread, and for unread source
+    val hasNewContent = numberOfUnreadMessages > 0 ||
+        numberOfUnreadMentions > 0 ||
+        numberOfUnreadNotifications > 0 ||
+        isMarkedUnread
+     */
+
+    fun toInviteData() = InviteData(
+        roomId = roomId,
+        roomName = name ?: roomId.value,
+        isDm = isDm,
+    )
+}

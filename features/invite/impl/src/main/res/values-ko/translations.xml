@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_decline_and_block_block_user_option_description">"ì´ ì‚¬ìš©ìžë¡œë¶€í„° ë©”ì‹œì§€ë‚˜ ë°© ì´ˆëŒ€ìž¥ì´ í‘œì‹œë˜ì§€ ì•ŠìŠµë‹ˆë‹¤."</string>
+  <string name="screen_decline_and_block_block_user_option_title">"ì‚¬ìš©ìž ì°¨ë‹¨í•˜ê¸°"</string>
+  <string name="screen_decline_and_block_report_user_option_description">"ì´ room ê³„ì • ì œê³µìžì—ê²Œ ì‹ ê³ í•˜ì„¸ìš”."</string>
+  <string name="screen_decline_and_block_report_user_reason_placeholder">"ì‹ ê³  ì‚¬ìœ ë¥¼ ì„¤ëª…í•˜ì„¸ìš”..."</string>
+  <string name="screen_decline_and_block_title">"ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_invites_decline_chat_message">"ì •ë§ë¡œ %1$s ì— ì°¸ê°€í•˜ì§€ ì•Šê³  ì´ˆëŒ€ë¥¼ ê±°ì ˆí•˜ì‹œê² ì–´ìš”?"</string>
+  <string name="screen_invites_decline_chat_title">"ì´ˆëŒ€ ê±°ì ˆ"</string>
+  <string name="screen_invites_decline_direct_chat_message">"%1$s ì™€ì˜ ë¹„ê³µê°œ ì±„íŒ…ì„ ì •ë§ ê±°ë¶€í•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_invites_decline_direct_chat_title">"ì±„íŒ… ê±°ì ˆ"</string>
+  <string name="screen_invites_empty_list">"ì´ˆëŒ€ ì—†ìŒ"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) ë‹¹ì‹ ì„ ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_join_room_decline_and_block_alert_confirmation">"ì˜ˆ, ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_join_room_decline_and_block_alert_message">"ì´ ë°©ì— ëŒ€í•œ ì´ˆëŒ€ ê±°ë¶€ë¥¼ ì •ë§ë¡œ í™•ì¸í•˜ì‹œê² ìŠµë‹ˆê¹Œ? ì´ ê²½ìš° %1$s ì—ì„œ ê·€í•˜ì—ê²Œ ì—°ë½í•˜ê±°ë‚˜ ë°©ì— ì´ˆëŒ€í•  ìˆ˜ ì—†ê²Œ ë©ë‹ˆë‹¤."</string>
+  <string name="screen_join_room_decline_and_block_alert_title">"ì´ˆëŒ€ ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+  <string name="screen_join_room_decline_and_block_button_title">"ê±°ë¶€ ë° ì°¨ë‹¨"</string>
+</resources>
+

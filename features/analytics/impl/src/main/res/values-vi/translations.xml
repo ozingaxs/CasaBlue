@@ -1,0 +1,11 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"Chúng tôi s? không ghi l?i ho?c l?p h? so b?t k? d? li?u cá nhân nào."</string>
+  <string name="screen_analytics_prompt_help_us_improve">"Chia s? d? li?u s? d?ng ?n danh d? giúp chúng tôi xác d?nh v?n d?."</string>
+  <string name="screen_analytics_prompt_read_terms">"B?n có th? xem t?t c? di?u kho?n c?a chúng tôi t?i %1$s"</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"t?i dây"</string>
+  <string name="screen_analytics_prompt_settings">"B?n có th? t?t tính nang này b?t c? lúc nào"</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"Chúng tôi s? không chia s? d? li?u c?a b?n v?i bên th? ba."</string>
+  <string name="screen_analytics_prompt_title">"Giúp c?i thi?n %1$s"</string>
+</resources>
+

@@ -1,0 +1,15 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_deactivate_account_confirmation_dialog_content">"Prosím potvrdte, že chcete deaktivovat svoj úcet. Túto akciu nie je možné vrátit spät."</string>
+  <string name="screen_deactivate_account_delete_all_messages">"Vymazat všetky moje správy"</string>
+  <string name="screen_deactivate_account_delete_all_messages_notice">"Upozornenie: Budúcim používatelom sa môžu zobrazit neúplné konverzácie."</string>
+  <string name="screen_deactivate_account_description">"Deaktivácia vášho úctu znamená %1$s, že:"</string>
+  <string name="screen_deactivate_account_description_bold_part">"nezvratný"</string>
+  <string name="screen_deactivate_account_list_item_1">"%1$s váš úcet (nebudete sa môct znova prihlásit a vaše ID nebude možné znova použit)."</string>
+  <string name="screen_deactivate_account_list_item_1_bold_part">"Natrvalo zakázat"</string>
+  <string name="screen_deactivate_account_list_item_2">"Odstránit vás zo všetkých miestností."</string>
+  <string name="screen_deactivate_account_list_item_3">"Odstránit informácie o vašom úcte z nášho servera totožností."</string>
+  <string name="screen_deactivate_account_list_item_4">"Vaše správy budú stále viditelné pre registrovaných používatelov, ale nebudú dostupné pre nových alebo neregistrovaných používatelov, ak sa ich rozhodnete odstránit."</string>
+  <string name="screen_deactivate_account_title">"Deaktivovat úcet"</string>
+</resources>
+

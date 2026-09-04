@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="notification_channel_call">"áƒ–áƒáƒ áƒ˜"</string>
+  <string name="notification_channel_listening_for_events">"áƒ›áƒáƒ•áƒšáƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒ›áƒáƒ¡áƒ›áƒ”áƒœáƒ"</string>
+  <string name="notification_channel_noisy">"áƒ®áƒ›áƒáƒ£áƒ áƒ˜áƒáƒœáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜"</string>
+  <string name="notification_channel_silent">"áƒ©áƒ£áƒ›áƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜"</string>
+  <plurals name="notification_compat_summary_line_for_room">
+    <item quantity="one">"%1$s: %2$d áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+    <item quantity="other">"%1$s: %2$d áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+  </plurals>
+  <plurals name="notification_compat_summary_title">
+    <item quantity="one">"%d áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+    <item quantity="other">"%d áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+  </plurals>
+  <string name="notification_inline_reply_failed">"** áƒ’áƒáƒ’áƒ–áƒáƒ•áƒœáƒ áƒ•áƒ”áƒ  áƒ›áƒáƒ®áƒ”áƒ áƒ®áƒ“áƒ - áƒ’áƒ—áƒ®áƒáƒ•áƒ—, áƒ’áƒáƒ®áƒ¡áƒœáƒáƒ— áƒáƒ—áƒáƒ®áƒ˜"</string>
+  <string name="notification_invitation_action_join">"áƒ’áƒáƒ¬áƒ”áƒ•áƒ áƒ˜áƒáƒœáƒ”áƒ‘áƒ"</string>
+  <plurals name="notification_invitations">
+    <item quantity="one">"%d áƒ›áƒáƒ¬áƒ•áƒ”áƒ•áƒ"</item>
+    <item quantity="other">"%d áƒ›áƒáƒ¬áƒ•áƒ”áƒ•áƒ”áƒ‘áƒ˜"</item>
+  </plurals>
+  <string name="notification_invite_body">"áƒ›áƒáƒ’áƒ˜áƒ¬áƒ•áƒ˜áƒáƒ— áƒ©áƒáƒ¢áƒ¨áƒ˜"</string>
+  <string name="notification_mentioned_you_body">"áƒ›áƒáƒ’áƒáƒ®áƒ¡áƒ”áƒœáƒáƒ—: %1$s"</string>
+  <string name="notification_new_messages">"áƒáƒ®áƒáƒšáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜"</string>
+  <plurals name="notification_new_messages_for_room">
+    <item quantity="one">"%d áƒáƒ®áƒáƒšáƒ˜ áƒ›áƒ”áƒ¡áƒ˜áƒ¯áƒ˜"</item>
+    <item quantity="other">"%d áƒáƒ®áƒáƒšáƒ˜ áƒ›áƒ”áƒ¡áƒ˜áƒ¯áƒ˜"</item>
+  </plurals>
+  <string name="notification_reaction_body">"áƒ áƒ”áƒáƒ’áƒ˜áƒ áƒ”áƒ‘áƒ áƒ›áƒáƒ®áƒ“áƒ: %1$s"</string>
+  <string name="notification_room_action_mark_as_read">"áƒ¬áƒáƒ™áƒ˜áƒ—áƒ®áƒ£áƒšáƒáƒ“ áƒ›áƒáƒœáƒ˜áƒ¨áƒ•áƒœáƒ"</string>
+  <string name="notification_room_action_quick_reply">"á²¡áƒ¬áƒ áƒáƒ¤áƒ˜ áƒžáƒáƒ¡áƒ£áƒ®áƒ˜"</string>
+  <string name="notification_room_invite_body">"áƒ›áƒáƒ’áƒ˜áƒ¬áƒ•áƒ˜áƒáƒ— áƒáƒ—áƒáƒ®áƒ¨áƒ˜"</string>
+  <string name="notification_sender_me">"áƒ›áƒ”"</string>
+  <string name="notification_test_push_notification_content">"áƒ—áƒ¥áƒ•áƒ”áƒœ áƒ®áƒ”áƒ“áƒáƒ•áƒ— áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒáƒ¡! áƒ“áƒáƒ›áƒáƒ¬áƒ™áƒáƒžáƒ£áƒœáƒ”áƒ—!"</string>
+  <string name="notification_ticker_text_dm">"%1$s: %2$s"</string>
+  <string name="notification_ticker_text_group">"%1$s: %2$s %3$s"</string>
+  <plurals name="notification_unread_notified_messages">
+    <item quantity="one">"%d áƒ¬áƒáƒ£áƒ™áƒ˜áƒ—áƒ®áƒáƒ•áƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+    <item quantity="other">"%d áƒ¬áƒáƒ£áƒ™áƒ˜áƒ—áƒ®áƒáƒ•áƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</item>
+  </plurals>
+  <string name="notification_unread_notified_messages_and_invitation">"%1$s áƒ“áƒ %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room">"%1$s %2$s-áƒ¨áƒ˜"</string>
+  <string name="notification_unread_notified_messages_in_room_and_invitation">"%1$s %2$s-áƒ¨áƒ˜ áƒ“áƒ %3$s"</string>
+  <plurals name="notification_unread_notified_messages_in_room_rooms">
+    <item quantity="one">"%d áƒáƒ—áƒáƒ®áƒ˜"</item>
+    <item quantity="other">"%d áƒáƒ—áƒáƒ®áƒ˜"</item>
+  </plurals>
+  <string name="push_distributor_background_sync_android">"áƒ¤áƒáƒœáƒ˜áƒ¡ áƒ¡áƒ˜áƒœáƒ¥áƒ áƒáƒœáƒ˜áƒ–áƒáƒªáƒ˜áƒ"</string>
+  <string name="push_distributor_firebase_android">"Google áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜"</string>
+  <string name="push_no_valid_google_play_services_apk_android">"áƒ›áƒáƒ¥áƒ›áƒ”áƒ“áƒ˜ Google Play áƒ¡áƒ”áƒ áƒ•áƒ˜áƒ¡áƒ”áƒ‘áƒ˜ áƒ•áƒ”áƒ  áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ. áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ¨áƒ”áƒ˜áƒ«áƒšáƒ”áƒ‘áƒ áƒ•áƒ”áƒ  áƒ˜áƒ›áƒ£áƒ¨áƒáƒáƒ¡ áƒ¡áƒ¬áƒáƒ áƒáƒ“."</string>
+  <string name="troubleshoot_notifications_test_blocked_users_title">"áƒ“áƒáƒ‘áƒšáƒáƒ™áƒ˜áƒšáƒ˜ áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ”áƒ‘áƒ˜"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_description">"áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜áƒ¡ áƒ¡áƒáƒ®áƒ”áƒšáƒ˜áƒ¡ áƒ’áƒáƒ’áƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure">"push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ”áƒ‘áƒ˜ áƒáƒ áƒáƒ áƒáƒ áƒ©áƒ”áƒ£áƒšáƒ˜."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_success">"áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜: %1$s."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_title">"áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_description">"áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ˜áƒ— áƒ áƒáƒ› áƒáƒžáƒšáƒ˜áƒ™áƒáƒªáƒ˜áƒáƒ¡ áƒ›áƒ˜áƒœáƒ˜áƒ›áƒ£áƒ› áƒ”áƒ áƒ—áƒ˜ push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜."</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_failure">"push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ”áƒ‘áƒ˜ áƒ•áƒ”áƒ  áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ."</string>
+  <plurals name="troubleshoot_notifications_test_detect_push_provider_success">
+    <item quantity="one">"áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ %1$d push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜: %2$s"</item>
+    <item quantity="other">"áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ %1$d push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ˜: %2$s"</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_detect_push_provider_title">"push áƒžáƒ áƒáƒ•áƒáƒ˜áƒ“áƒ”áƒ áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ¦áƒ›áƒáƒ©áƒ”áƒœáƒ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_description">"áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ— áƒáƒžáƒšáƒ˜áƒ™áƒáƒªáƒ˜áƒáƒ¡ áƒ—áƒ£ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_failure">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒáƒ  áƒ˜áƒ¥áƒœáƒ áƒ“áƒáƒ­áƒ”áƒ áƒ˜áƒšáƒ˜."</string>
+  <string name="troubleshoot_notifications_test_display_notification_permission_failure">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ”áƒ‘áƒ”áƒšáƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_display_notification_success">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒ˜áƒ§áƒ áƒ“áƒáƒ­áƒ”áƒ áƒ˜áƒšáƒ˜!"</string>
+  <string name="troubleshoot_notifications_test_display_notification_title">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_waiting">"áƒ’áƒ—áƒ®áƒáƒ•áƒ— áƒ“áƒáƒáƒ­áƒ˜áƒ áƒáƒ— áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒáƒ–áƒ” áƒ¢áƒ”áƒ¡áƒ¢áƒ˜áƒ¡ áƒ’áƒáƒ¡áƒáƒ’áƒ áƒ«áƒ”áƒšáƒ”áƒ‘áƒšáƒáƒ“."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_description">"áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ˜áƒ— áƒ áƒáƒ› áƒáƒžáƒšáƒ˜áƒ™áƒáƒªáƒ˜áƒ áƒ˜áƒ¦áƒ”áƒ‘áƒ¡ push-áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒáƒ¡."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_1">"áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ: áƒ’áƒáƒ›áƒ’áƒ–áƒáƒ•áƒœáƒ›áƒ áƒ£áƒáƒ áƒ§áƒ áƒ›áƒáƒ—áƒ®áƒáƒ•áƒœáƒ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_2">"áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ: %1$s."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_3">"áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ, push-áƒ˜áƒ¡ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ”áƒ‘áƒ”áƒšáƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_4">"áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ, push-áƒ˜áƒ¡áƒ—áƒ•áƒ˜áƒ¡ áƒšáƒáƒ“áƒ˜áƒœáƒ˜áƒ¡ áƒ“áƒ áƒ áƒ’áƒáƒ•áƒ˜áƒ“áƒ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_success">"Push-áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒªáƒ˜áƒ™áƒšáƒ›áƒ áƒ“áƒáƒ˜áƒ™áƒáƒ•áƒ %1$d ms."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_title">"push-áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒªáƒ˜áƒ™áƒšáƒ˜áƒ¡ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ"</string>
+</resources>
+

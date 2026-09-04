@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_deactivate_account_confirmation_dialog_content">"ÐŸÑ–Ð´Ñ‚Ð²ÐµÑ€Ð´ÑŒÑ‚Ðµ, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ ÑÐ²Ñ–Ð¹ Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¸Ð¹ Ð·Ð°Ð¿Ð¸Ñ. Ð¦ÑŽ Ð´Ñ–ÑŽ Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ ÑÐºÐ°ÑÑƒÐ²Ð°Ñ‚Ð¸."</string>
+  <string name="screen_deactivate_account_delete_all_messages">"Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð²ÑÑ– Ð¼Ð¾Ñ— Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</string>
+  <string name="screen_deactivate_account_delete_all_messages_notice">"ÐŸÐ¾Ð¿ÐµÑ€ÐµÐ´Ð¶ÐµÐ½Ð½Ñ: Ð¼Ð°Ð¹Ð±ÑƒÑ‚Ð½Ñ– ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ– Ð¼Ð¾Ð¶ÑƒÑ‚ÑŒ Ð±Ð°Ñ‡Ð¸Ñ‚Ð¸ Ð½ÐµÐ¿Ð¾Ð²Ð½Ñ– Ñ€Ð¾Ð·Ð¼Ð¾Ð²Ð¸."</string>
+  <string name="screen_deactivate_account_description">"Ð’Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð²Ð°ÑˆÐ¾Ð³Ð¾ Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ð¸ÑÑƒ %1$s Ð¿Ñ€Ð¸Ð·Ð²ÐµÐ´Ðµ Ð´Ð¾:"</string>
+  <string name="screen_deactivate_account_description_bold_part">"Ð½ÐµÐ·Ð²Ð¾Ñ€Ð¾Ñ‚Ð½Ñ–"</string>
+  <string name="screen_deactivate_account_list_item_1">"%1$sÐ²Ð°Ñˆ Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¸Ð¹ Ð·Ð°Ð¿Ð¸Ñ (Ð²Ð¸ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð·Ð½Ð¾Ð²Ñƒ ÑƒÐ²Ñ–Ð¹Ñ‚Ð¸, Ð° Ð²Ð°Ñˆ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ð½Ð¸Ð¹ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð½Ð¾)."</string>
+  <string name="screen_deactivate_account_list_item_1_bold_part">"ÐÐ°Ð·Ð°Ð²Ð¶Ð´Ð¸ Ð²Ñ–Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸"</string>
+  <string name="screen_deactivate_account_list_item_2">"Ð’Ð¸Ð»ÑƒÑ‡Ð¸Ñ‚Ð¸ Ð²Ð°Ñ Ð· ÑƒÑÑ–Ñ… Ð±ÐµÑÑ–Ð´."</string>
+  <string name="screen_deactivate_account_list_item_3">"Ð’Ð¸Ð´Ð°Ð»Ñ–Ñ‚ÑŒ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ ÑÐ²Ð¾Ð³Ð¾ Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ð¸ÑÑƒ Ð· Ð½Ð°ÑˆÐ¾Ð³Ð¾ ÑÐµÑ€Ð²ÐµÑ€Ð° Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ñ—."</string>
+  <string name="screen_deactivate_account_list_item_4">"Ð’Ð°ÑˆÑ– Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ Ð·Ð°Ð»Ð¸ÑˆÐ°Ñ‚Ð¸Ð¼ÑƒÑ‚ÑŒÑÑ Ð²Ð¸Ð´Ð¸Ð¼Ð¸Ð¼Ð¸ Ð´Ð»Ñ Ð·Ð°Ñ€ÐµÑ”ÑÑ‚Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð², Ð°Ð»Ðµ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¸Ð¼Ð¸ Ð´Ð»Ñ Ð½Ð¾Ð²Ð¸Ñ… Ð°Ð±Ð¾ Ð½ÐµÐ·Ð°Ñ€ÐµÑ”ÑÑ‚Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð², ÑÐºÑ‰Ð¾ Ð²Ð¸ Ð²Ð¸Ñ€Ñ–ÑˆÐ¸Ñ‚Ðµ Ñ—Ñ… Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸."</string>
+  <string name="screen_deactivate_account_title">"Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð¾Ð±Ð»Ñ–ÐºÐ¾Ð²Ð¸Ð¹ Ð·Ð°Ð¿Ð¸Ñ"</string>
+</resources>
+

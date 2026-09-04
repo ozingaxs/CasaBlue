@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_space_menu_action_members">"ÐŸÑ€ÐµÐ³Ð»ÐµÐ´ Ð½Ð° Ñ‡Ð»ÐµÐ½Ð¾Ð²ÐµÑ‚Ðµ"</string>
+  <string name="screen_space_settings_leave_space">"ÐÐ°Ð¿ÑƒÑÐºÐ°Ð½Ðµ Ð½Ð° Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾Ñ‚Ð¾"</string>
+  <string name="screen_space_settings_roles_and_permissions">"Ð Ð¾Ð»Ð¸ Ð¸ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_space_settings_security_and_privacy">"Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¸ Ð¿Ð¾Ð²ÐµÑ€Ð¸Ñ‚ÐµÐ»Ð½Ð¾ÑÑ‚"</string>
+</resources>
+

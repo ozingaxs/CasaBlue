@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_unified_push_description">"áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ˜áƒ— áƒ áƒáƒ› UnifiedPush áƒ“áƒ˜áƒ¡áƒ¢áƒ áƒ˜áƒ‘áƒ£áƒ¢áƒáƒ áƒ”áƒ‘áƒ˜ áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_unified_push_failure">"Push áƒ“áƒ˜áƒ¡áƒ¢áƒ áƒ˜áƒ‘áƒ£áƒ¢áƒáƒ áƒ”áƒ‘áƒ˜ áƒáƒ  áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ."</string>
+  <plurals name="troubleshoot_notifications_test_unified_push_success">
+    <item quantity="one">"%1$d áƒ“áƒ˜áƒ¡áƒ¢áƒ áƒ˜áƒ‘áƒ£áƒ¢áƒáƒ áƒ˜ áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ: %2$s"</item>
+    <item quantity="other">"%1$d áƒ“áƒ˜áƒ¡áƒ¢áƒ áƒ˜áƒ‘áƒ£áƒ¢áƒáƒ áƒ˜ áƒ›áƒáƒ˜áƒ«áƒ”áƒ‘áƒœáƒ: %2$s"</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_unified_push_title">"áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ— UnifiedPush"</string>
+</resources>
+

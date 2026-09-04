@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_battery_optimization_content_android">"Ø¹Ø·Ù‘Ù„ ØªØ­Ø³ÙŠÙ† Ø§Ù„Ø¨Ø·Ø§Ø±ÙŠØ© Ù„Ù‡Ø°Ø§ Ø§Ù„ØªØ·Ø¨ÙŠÙ‚ Ù„Ù„ØªØ£ÙƒØ¯ Ù…Ù† Ø§Ø³ØªÙ„Ø§Ù… Ø¬Ù…ÙŠØ¹ Ø§Ù„Ø¥Ø´Ø¹Ø§Ø±Ø§Øª."</string>
+  <string name="banner_battery_optimization_submit_android">"ØªØ¹Ø·ÙŠÙ„ Ø§Ù„ØªØ­Ø³ÙŠÙ†"</string>
+  <string name="banner_battery_optimization_title_android">"Ù‡Ù„ Ù„Ø§ ØªØµÙ„Ùƒ Ø§Ù„Ø¥Ø´Ø¹Ø§Ø±Ø§ØªØŸ"</string>
+  <string name="banner_new_sound_message">"ØªÙ… ØªØ­Ø¯ÙŠØ« ØµÙˆØª Ø¥Ø´Ø¹Ø§Ø±Ø§ØªÙƒØŒ Ù„ÙŠØµØ¨Ø­ Ø£ÙˆØ¶Ø­ ÙˆØ£Ø³Ø±Ø¹ ÙˆØ£Ù‚Ù„ Ø¥Ø²Ø¹Ø§Ø¬Ù‹Ø§."</string>
+  <string name="banner_new_sound_title">"Ø­Ø¯Ù‘Ø«Ù†Ø§ Ø§Ù„Ø£ØµÙˆØ§Øª Ù„Ø¯ÙŠÙƒ"</string>
+  <string name="banner_set_up_recovery_content">"ÙŠØªÙ… Ù†Ø³Ø® Ø¯Ø±Ø¯Ø´Ø§ØªÙƒ Ø§Ø­ØªÙŠØ§Ø·ÙŠÙ‹Ø§ ØªÙ„Ù‚Ø§Ø¦ÙŠÙ‹Ø§ Ø¨ØªØ´ÙÙŠØ± Ù…Ù† Ø·Ø±Ù Ø¥Ù„Ù‰ Ø·Ø±Ù. Ù„Ø§Ø³ØªØ¹Ø§Ø¯Ø© Ù‡Ø°Ù‡ Ø§Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ø§Ø­ØªÙŠØ§Ø·ÙŠØ© ÙˆØ§Ù„Ø§Ø­ØªÙØ§Ø¸ Ø¨Ù‡ÙˆÙŠØªÙƒ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© Ø¥Ø°Ø§ ÙÙ‚Ø¯Øª Ø§Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø¬Ù…ÙŠØ¹ Ø£Ø¬Ù‡Ø²ØªÙƒØŒ Ø³ØªØ­ØªØ§Ø¬ Ø¥Ù„Ù‰ Ù…ÙØªØ§Ø­ Ø§Ù„Ø§Ø³ØªØ±Ø¯Ø§Ø¯."</string>
+  <string name="banner_set_up_recovery_submit">"Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ù…ÙØªØ§Ø­ Ø§Ù„Ø§Ø³ØªØ±Ø¯Ø§Ø¯"</string>
+  <string name="banner_set_up_recovery_title">"Ø§Ø­ØªÙÙØ¸ Ø¨Ù†Ø³Ø®Ø© Ø§Ø­ØªÙŠØ§Ø·ÙŠØ© Ù…Ù† Ø¯Ø±Ø¯Ø´Ø§ØªÙƒ"</string>
+  <string name="confirm_recovery_key_banner_message">"Ø£ÙƒÙ‘Ø¯ Ù…ÙØªØ§Ø­ Ø§Ù„Ø§Ø³ØªØ±Ø¯Ø§Ø¯ Ø§Ù„Ø®Ø§Øµ Ø¨Ùƒ Ù„Ù„Ø­ÙØ§Ø¸ Ø¹Ù„Ù‰ Ø§Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ ØªØ®Ø²ÙŠÙ† Ø§Ù„Ù…ÙØ§ØªÙŠØ­ ÙˆØ³Ø¬Ù„ Ø§Ù„Ø±Ø³Ø§Ø¦Ù„."</string>
+  <string name="confirm_recovery_key_banner_primary_button_title">"Ø£Ø¯Ø®Ù„ Ù…ÙØªØ§Ø­ Ø§Ù„Ø§Ø³ØªØ±Ø¯Ø§Ø¯"</string>
+  <string name="confirm_recovery_key_banner_secondary_button_title">"Ù‡Ù„ Ù†Ø³ÙŠØª Ù…ÙØªØ§Ø­ Ø§Ù„Ø§Ø³ØªØ±Ø¯Ø§Ø¯ØŸ"</string>
+  <string name="confirm_recovery_key_banner_title">"ØªØ®Ø²ÙŠÙ† Ø§Ù„Ù…ÙØ§ØªÙŠØ­ Ù„Ø¯ÙŠÙƒ ØºÙŠØ± Ù…ØªØ²Ø§Ù…Ù†"</string>
+  <string name="full_screen_intent_banner_message">"Ù„Ù„ØªØ£ÙƒØ¯ Ù…Ù† Ø¹Ø¯Ù… ØªÙÙˆÙŠØª Ø£ÙŠ Ù…ÙƒØ§Ù„Ù…Ø© Ù…Ù‡Ù…Ø©ØŒ ÙŠÙØ±Ø¬Ù‰ ØªØºÙŠÙŠØ± Ø¥Ø¹Ø¯Ø§Ø¯Ø§ØªÙƒ Ù„Ù„Ø³Ù…Ø§Ø­ Ø¨Ø¥Ø´Ø¹Ø§Ø±Ø§Øª Ù…Ù„Ø¡ Ø§Ù„Ø´Ø§Ø´Ø© Ø¹Ù†Ø¯Ù…Ø§ ÙŠÙƒÙˆÙ† Ù‡Ø§ØªÙÙƒ Ù…Ù‚ÙÙ„Ø§Ù‹."</string>
+  <string name="full_screen_intent_banner_title">"Ø­Ø³Ù‘Ù† ØªØ¬Ø±Ø¨Ø© Ù…ÙƒØ§Ù„Ù…Ø§ØªÙƒ"</string>
+  <string name="screen_home_tab_chats">"Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª"</string>
+  <string name="screen_home_tab_spaces">"Ø§Ù„Ù…Ø³Ø§Ø­Ø§Øª"</string>
+  <string name="screen_invites_decline_chat_message">"Ø£Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø±ØºØ¨ØªÙƒ Ø¨Ø±ÙØ¶ Ø¯Ø¹ÙˆØ© Ù„Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ø¥Ù„Ù‰ %1$sØŸ"</string>
+  <string name="screen_invites_decline_chat_title">"Ø±ÙØ¶ Ø§Ù„Ø¯Ø¹ÙˆØ©"</string>
+  <string name="screen_invites_decline_direct_chat_message">"Ø£Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø±ØºØ¨ØªÙƒ Ø¨Ø±ÙØ¶ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø© Ø§Ù„Ø®Ø§ØµØ© Ù…Ø¹ %1$sØŸ"</string>
+  <string name="screen_invites_decline_direct_chat_title">"Ø±ÙØ¶ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø©"</string>
+  <string name="screen_invites_empty_list">"Ù„Ø§ Ø¯Ø¹ÙˆØ§Øª"</string>
+  <string name="screen_invites_invited_you">"Ø¯Ø¹Ø§Ùƒ %1$s (%2$s)"</string>
+  <string name="screen_migration_message">"Ù‡Ø°Ù‡ Ø§Ù„Ø¹Ù…Ù„ÙŠØ© ØªÙØ¬Ø±Ù‰ Ù„Ù…Ø±Ø© ÙˆØ§Ø­Ø¯Ø©ØŒ Ø´ÙƒØ±Ø§Ù‹ Ø¹Ù„Ù‰ Ø§Ù†ØªØ¸Ø§Ø±Ùƒ."</string>
+  <string name="screen_migration_title">"Ø¥Ø¹Ø¯Ø§Ø¯ Ø­Ø³Ø§Ø¨Ùƒ"</string>
+  <string name="screen_roomlist_a11y_create_message">"Ø¥Ù†Ø´Ø§Ø¡ Ù…Ø­Ø§Ø¯Ø«Ø© Ø¬Ø¯ÙŠØ¯ Ø£Ùˆ ØºØ±ÙØ©"</string>
+  <string name="screen_roomlist_clear_filters">"Ù…Ø³Ø­ Ø¹ÙˆØ§Ù…Ù„ Ø§Ù„ØªØµÙÙŠØ©"</string>
+  <string name="screen_roomlist_empty_message">"Ø§Ø¨Ø¯Ø£ Ø§Ù„Ø¢Ù† Ø¨Ù…Ø±Ø§Ø³Ù„Ø© Ù…Ù† ØªØ´Ø§Ø¡."</string>
+  <string name="screen_roomlist_empty_title">"Ù„Ø§ Ù…Ø­Ø§Ø¯Ø«Ø§Øª Ø¨Ø¹Ø¯."</string>
+  <string name="screen_roomlist_filter_favourites">"Ø§Ù„Ù…ÙØ¶Ù„Ø©"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_subtitle">"ÙŠÙ…ÙƒÙ†Ùƒ Ø¥Ø¶Ø§ÙØ© Ù…Ø­Ø§Ø¯Ø«Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù…ÙØ¶Ù„Ø© Ù…Ù† Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø©.
+ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„Ø¢Ù† Ø¥Ù„ØºØ§Ø¡ ØªØ­Ø¯ÙŠØ¯ Ø¹ÙˆØ§Ù…Ù„ Ø§Ù„ØªØµÙÙŠØ© Ù„Ø±Ø¤ÙŠØ© Ù…Ø­Ø§Ø¯Ø«Ø§ØªÙƒ Ø§Ù„Ø£Ø®Ø±Ù‰"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_title">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ù…Ø­Ø§Ø¯Ø«Ø§Øª Ù…ÙØ¶Ù„Ø© Ø¨Ø¹Ø¯"</string>
+  <string name="screen_roomlist_filter_invites">"Ø§Ù„Ø¯Ø¹ÙˆØ§Øª"</string>
+  <string name="screen_roomlist_filter_invites_empty_state_title">"Ù„ÙŠØ³ Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ø¯Ø¹ÙˆØ§Øª Ù‚ÙŠØ¯ Ø§Ù„Ø§Ù†ØªØ¸Ø§Ø±."</string>
+  <string name="screen_roomlist_filter_low_priority">"Ù…Ù†Ø®ÙØ¶Ø© Ø§Ù„Ø£ÙˆÙ„ÙˆÙŠØ©"</string>
+  <string name="screen_roomlist_filter_low_priority_empty_state_title">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ø¯Ø±Ø¯Ø´Ø§Øª Ù…Ù†Ø®ÙØ¶Ø© Ø§Ù„Ø£ÙˆÙ„ÙˆÙŠØ© Ø¨Ø¹Ø¯"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_subtitle">"ÙŠÙ…ÙƒÙ†Ùƒ Ø¥Ù„ØºØ§Ø¡ ØªØ­Ø¯ÙŠØ¯ Ø¹ÙˆØ§Ù…Ù„ Ø§Ù„ØªØµÙÙŠØ© Ù„Ø±Ø¤ÙŠØ© Ù…Ø­Ø§Ø¯Ø«Ø§ØªÙƒ Ø§Ù„Ø£Ø®Ø±Ù‰"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_title">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ù…Ø­Ø§Ø¯Ø«Ø§Øª Ù„Ù‡Ø°Ø§ Ø§Ù„Ø§Ø®ØªÙŠØ§Ø±"</string>
+  <string name="screen_roomlist_filter_people">"Ø§Ù„Ø£Ø´Ø®Ø§Øµ"</string>
+  <string name="screen_roomlist_filter_people_empty_state_title">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ø±Ø³Ø§Ø¦Ù„ Ù…Ø¨Ø§Ø´Ø±Ø© Ø¨Ø¹Ø¯"</string>
+  <string name="screen_roomlist_filter_rooms">"Ø§Ù„ØºØ±Ù"</string>
+  <string name="screen_roomlist_filter_rooms_empty_state_title">"Ù„Ø³Øª ÙÙŠ Ø£ÙŠ ØºØ±ÙØ© Ø¨Ø¹Ø¯"</string>
+  <string name="screen_roomlist_filter_unreads">"ØºÙŠØ± Ø§Ù„Ù…Ù‚Ø±ÙˆØ¡Ø©"</string>
+  <string name="screen_roomlist_filter_unreads_empty_state_title">"ØªÙ‡Ø§Ù†ÙŠÙ†Ø§!
+Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ø±Ø³Ø§Ø¦Ù„ ØºÙŠØ± Ù…Ù‚Ø±ÙˆØ¡Ø©!"</string>
+  <string name="screen_roomlist_knock_event_sent_description">"ØªÙ… Ø¥Ø±Ø³Ø§Ù„ Ø·Ù„Ø¨ Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù…"</string>
+  <string name="screen_roomlist_main_space_title">"Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª"</string>
+  <string name="screen_roomlist_mark_as_read">"ÙˆØ¶Ø¹ Ø¹Ù„Ø§Ù…Ø© ÙƒÙ…Ù‚Ø±ÙˆØ¡"</string>
+  <string name="screen_roomlist_mark_as_unread">"ÙˆØ¶Ø¹ Ø¹Ù„Ø§Ù…Ø© ÙƒØºÙŠØ± Ù…Ù‚Ø±ÙˆØ¡"</string>
+  <string name="screen_roomlist_tombstoned_room_description">"ØªÙ…Øª ØªØ±Ù‚ÙŠØ© Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_roomlist_your_spaces">"Ù…Ø³Ø§Ø­Ø§ØªÙƒ"</string>
+  <string name="session_verification_banner_message">"ÙŠØ¨Ø¯Ùˆ Ø£Ù†Ùƒ ØªØ³ØªØ®Ø¯Ù… Ø¬Ù‡Ø§Ø²Ø§Ù‹ Ø¬Ø¯ÙŠØ¯Ø§Ù‹. ØªØ­Ù‚Ù‚ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø¬Ù‡Ø§Ø² Ø¢Ø®Ø± Ù„ÙŠØµØ¨Ø­ Ù„Ùƒ ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø±Ø³Ø§Ø¦Ù„Ùƒ Ø§Ù„Ù…Ø´ÙØ±Ø©."</string>
+  <string name="session_verification_banner_title">"Ø£Ø«Ø¨Øª Ù‡ÙˆÙŠØªÙƒ"</string>
+</resources>
+

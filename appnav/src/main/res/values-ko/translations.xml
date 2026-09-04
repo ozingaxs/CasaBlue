@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_migrate_to_native_sliding_sync_action">"ë¡œê·¸ì•„ì›ƒ ë° ì—…ê·¸ë ˆì´ë“œ"</string>
+  <string name="banner_migrate_to_native_sliding_sync_app_force_logout_title">"%1$s ë” ì´ìƒ ì´ì „ í”„ë¡œí† ì½œì„ ì§€ì›í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ê³„ì† ì‚¬ìš©í•˜ë ¤ë©´ ë¡œê·¸ì•„ì›ƒ í›„ ë‹¤ì‹œ ë¡œê·¸ì¸í•´ ì£¼ì„¸ìš”."</string>
+  <string name="banner_migrate_to_native_sliding_sync_force_logout_title">"ê·€í•˜ì˜ í™ˆì„œë²„ëŠ” ë” ì´ìƒ ì´ì „ í”„ë¡œí† ì½œì„ ì§€ì›í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ì•±ì„ ê³„ì† ì‚¬ìš©í•˜ë ¤ë©´ ë¡œê·¸ì•„ì›ƒí•œ í›„ ë‹¤ì‹œ ë¡œê·¸ì¸í•˜ì„¸ìš”."</string>
+</resources>
+

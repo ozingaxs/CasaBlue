@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_set_up_recovery_content">"Ð¡Ñ‚Ð²Ð°Ñ€Ñ‹Ñ†Ðµ Ð½Ð¾Ð²Ñ‹ ÐºÐ»ÑŽÑ‡ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ, ÑÐºÑ– Ð¼Ð¾Ð¶Ð½Ð° Ð²Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ñ†ÑŒ Ð´Ð»Ñ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð°Ð¹ Ð³Ñ–ÑÑ‚Ð¾Ñ€Ñ‹Ñ– Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž Ñƒ Ð²Ñ‹Ð¿Ð°Ð´ÐºÑƒ ÑÑ‚Ñ€Ð°Ñ‚Ñ‹ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð´Ð° Ð²Ð°ÑˆÑ‹Ñ… Ð¿Ñ€Ñ‹Ð»Ð°Ð´."</string>
+  <string name="banner_set_up_recovery_submit">"ÐÐ°Ð»Ð°Ð´Ð·ÑŒÑ†Ðµ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ðµ"</string>
+  <string name="banner_set_up_recovery_title">"ÐÐ°Ð»Ð°Ð´Ð·Ñ–Ñ†ÑŒ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ðµ"</string>
+  <string name="confirm_recovery_key_banner_message">"ÐŸÐ°Ñ†Ð²ÐµÑ€Ð´Ð·Ñ–Ñ†Ðµ ÑÐ²Ð¾Ð¹ ÐºÐ»ÑŽÑ‡ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ, ÐºÐ°Ð± Ð·Ð°Ñ…Ð°Ð²Ð°Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° ÑÑ…Ð¾Ð²Ñ–ÑˆÑ‡Ð° ÐºÐ»ÑŽÑ‡Ð¾Ñž Ñ– Ð³Ñ–ÑÑ‚Ð¾Ñ€Ñ‹Ñ– Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž."</string>
+  <string name="confirm_recovery_key_banner_title">"Ð’Ð°ÑˆÐ° ÑÑ…Ð¾Ð²Ñ–ÑˆÑ‡Ð° ÐºÐ»ÑŽÑ‡Ð¾Ñž Ð½Ðµ ÑÑ–Ð½Ñ…Ñ€Ð°Ð½Ñ–Ð·Ð°Ð²Ð°Ð½Ð°"</string>
+  <string name="full_screen_intent_banner_message">"ÐšÐ°Ð± Ð½Ðµ Ð¿Ñ€Ð°Ð¿ÑƒÑÑ†Ñ–Ñ†ÑŒ Ð²Ð°Ð¶Ð½Ñ‹ Ð·Ð²Ð°Ð½Ð¾Ðº, Ð·Ð¼ÐµÐ½Ñ–Ñ†Ðµ Ð½Ð°Ð»Ð°Ð´Ñ‹, ÐºÐ°Ð± Ð´Ð°Ð·Ð²Ð¾Ð»Ñ–Ñ†ÑŒ Ð¿Ð¾ÑžÐ½Ð°ÑÐºÑ€Ð°Ð½Ð½Ñ‹Ñ Ð°Ð¿Ð°Ð²ÑÑˆÑ‡ÑÐ½Ð½Ñ–, ÐºÐ°Ð»Ñ– Ñ‚ÑÐ»ÐµÑ„Ð¾Ð½ Ð·Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ð½Ñ‹."</string>
+  <string name="full_screen_intent_banner_title">"ÐŸÐ°Ð»ÐµÐ¿ÑˆÑ‹Ñ†Ðµ ÑÐºÐ°ÑÑ†ÑŒ Ð·Ð²Ð°Ð½ÐºÐ¾Ñž"</string>
+  <string name="screen_home_tab_chats">"Ð£ÑÐµ Ñ‡Ð°Ñ‚Ñ‹"</string>
+  <string name="screen_home_tab_spaces">"ÐŸÑ€Ð°ÑÑ‚Ð¾Ñ€Ñ‹"</string>
+  <string name="screen_invites_decline_chat_message">"Ð’Ñ‹ ÑžÐ¿ÑÑžÐ½ÐµÐ½Ñ‹Ñ, ÑˆÑ‚Ð¾ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð°Ð´Ñ…Ñ–Ð»Ñ–Ñ†ÑŒ Ð·Ð°Ð¿Ñ€Ð°ÑˆÑÐ½Ð½Ðµ Ñž %1$s?"</string>
+  <string name="screen_invites_decline_chat_title">"ÐÐ´Ñ…Ñ–Ð»Ñ–Ñ†ÑŒ Ð·Ð°Ð¿Ñ€Ð°ÑˆÑÐ½Ð½Ðµ"</string>
+  <string name="screen_invites_decline_direct_chat_message">"Ð’Ñ‹ ÑžÐ¿ÑÑžÐ½ÐµÐ½Ñ‹Ñ, ÑˆÑ‚Ð¾ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð°Ð´Ð¼Ð¾Ð²Ñ–Ñ†Ñ†Ð° Ð°Ð´ Ð¿Ñ€Ñ‹Ð²Ð°Ñ‚Ð½Ñ‹Ñ… Ð·Ð½Ð¾ÑÑ–Ð½ Ð· %1$s?"</string>
+  <string name="screen_invites_decline_direct_chat_title">"ÐÐ´Ñ…Ñ–Ð»Ñ–Ñ†ÑŒ Ñ‡Ð°Ñ‚"</string>
+  <string name="screen_invites_empty_list">"ÐÑÐ¼Ð° Ð·Ð°Ð¿Ñ€Ð°ÑˆÑÐ½Ð½ÑÑž"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) Ð·Ð°Ð¿Ñ€Ð°ÑÑ–Ñž(-Ð»Ð°) Ð²Ð°Ñ"</string>
+  <string name="screen_migration_message">"Ð“ÑÑ‚Ð° Ð°Ð´Ð½Ð°Ñ€Ð°Ð·Ð¾Ð²Ñ‹ Ð¿Ñ€Ð°Ñ†ÑÑ, Ð´Ð·ÑÐºÑƒÐµÐ¼ Ð·Ð° Ñ‡Ð°ÐºÐ°Ð½Ð½Ðµ."</string>
+  <string name="screen_migration_title">"ÐÐ°Ð»Ð°Ð´Ð° ÑžÐ»Ñ–ÐºÐ¾Ð²Ð°Ð³Ð° Ð·Ð°Ð¿Ñ–ÑÑƒ."</string>
+  <string name="screen_roomlist_a11y_create_message">"Ð¡Ñ‚Ð²Ð°Ñ€Ñ‹Ñ†Ðµ Ð½Ð¾Ð²ÑƒÑŽ Ñ€Ð°Ð·Ð¼Ð¾Ð²Ñƒ Ð°Ð±Ð¾ Ð¿Ð°ÐºÐ¾Ð¹"</string>
+  <string name="screen_roomlist_empty_message">"ÐŸÐ°Ñ‡Ð½Ñ–Ñ†Ðµ Ð· Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ ÐºÐ°Ð¼Ñƒ-Ð½ÐµÐ±ÑƒÐ´Ð·ÑŒ."</string>
+  <string name="screen_roomlist_empty_title">"ÐŸÐ°ÐºÑƒÐ»ÑŒ Ð½ÑÐ¼Ð° Ñ‡Ð°Ñ‚Ð°Ñž."</string>
+  <string name="screen_roomlist_filter_favourites">"ÐÐ±Ñ€Ð°Ð½Ð°Ðµ"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_subtitle">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ñ‡Ð°Ñ‚ Ñƒ Ð°Ð±Ñ€Ð°Ð½Ð°Ðµ Ð¼Ð¾Ð¶Ð½Ð° Ñž Ð½Ð°Ð»Ð°Ð´Ð°Ñ… Ñ‡Ð°Ñ‚Ð°.
+ÐÐ° Ð´Ð°Ð´Ð·ÐµÐ½Ñ‹ Ð¼Ð¾Ð¼Ð°Ð½Ñ‚ Ð²Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð¿Ñ€Ñ‹Ð±Ñ€Ð°Ñ†ÑŒ Ñ„Ñ–Ð»ÑŒÑ‚Ñ€Ñ‹, ÐºÐ°Ð± ÑƒÐ±Ð°Ñ‡Ñ‹Ñ†ÑŒ Ñ–Ð½ÑˆÑ‹Ñ Ð²Ð°ÑˆÑ‹Ñ Ñ‡Ð°Ñ‚Ñ‹."</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_title">"Ð£ Ð²Ð°Ñ Ð¿Ð°ÐºÑƒÐ»ÑŒ Ð½ÑÐ¼Ð° Ð°Ð±Ñ€Ð°Ð½Ñ‹Ñ… Ñ‡Ð°Ñ‚Ð°Ñž"</string>
+  <string name="screen_roomlist_filter_invites">"Ð—Ð°Ð¿Ñ€Ð°ÑˆÑÐ½Ð½Ñ–"</string>
+  <string name="screen_roomlist_filter_invites_empty_state_title">"Ð£ Ð²Ð°Ñ Ð½ÑÐ¼Ð° Ð½ÐµÐ¿Ñ€Ñ‹Ð½ÑÑ‚Ñ‹Ñ… Ð·Ð°Ð¿Ñ€Ð°ÑˆÑÐ½Ð½ÑÑž."</string>
+  <string name="screen_roomlist_filter_low_priority">"ÐÑ–Ð·ÐºÑ– Ð¿Ñ€Ñ‹ÑÑ€Ñ‹Ñ‚ÑÑ‚"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_subtitle">"Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð¿Ñ€Ñ‹Ð±Ñ€Ð°Ñ†ÑŒ Ñ„Ñ–Ð»ÑŒÑ‚Ñ€Ñ‹, ÐºÐ°Ð± ÑƒÐ±Ð°Ñ‡Ñ‹Ñ†ÑŒ Ñ–Ð½ÑˆÑ‹Ñ Ð²Ð°ÑˆÑ‹Ñ Ñ‡Ð°Ñ‚Ñ‹."</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_title">"Ð£ Ð²Ð°Ñ Ð½ÑÐ¼Ð° Ñ‡Ð°Ñ‚Ð°Ñž Ð´Ð»Ñ Ð³ÑÑ‚Ð°Ð¹ ÐºÐ°Ñ‚ÑÐ³Ð¾Ñ€Ñ‹Ñ–"</string>
+  <string name="screen_roomlist_filter_people">"Ð›ÑŽÐ´Ð·Ñ–"</string>
+  <string name="screen_roomlist_filter_people_empty_state_title">"Ð£ Ð²Ð°Ñ Ð¿Ð°ÐºÑƒÐ»ÑŒ Ð½ÑÐ¼Ð° Ð°ÑÐ°Ð±Ñ–ÑÑ‚Ñ‹Ñ… Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž"</string>
+  <string name="screen_roomlist_filter_rooms">"ÐŸÐ°ÐºÐ¾Ñ–"</string>
+  <string name="screen_roomlist_filter_rooms_empty_state_title">"Ð’Ð°Ñ Ð¿Ð°ÐºÑƒÐ»ÑŒ Ð½ÑÐ¼Ð° Ñž Ð½Ñ–Ð²Ð¾Ð´Ð½Ñ‹Ð¼ Ð¿Ð°ÐºÐ¾Ñ–"</string>
+  <string name="screen_roomlist_filter_unreads">"ÐÐµÐ¿Ñ€Ð°Ñ‡Ñ‹Ñ‚Ð°Ð½Ñ‹Ñ"</string>
+  <string name="screen_roomlist_filter_unreads_empty_state_title">"Ð’Ñ–Ð½ÑˆÑƒÐµÐ¼!
+Ð£ Ð²Ð°Ñ Ð½ÑÐ¼Ð° Ð½ÐµÐ¿Ñ€Ð°Ñ‡Ñ‹Ñ‚Ð°Ð½Ñ‹Ñ… Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž!"</string>
+  <string name="screen_roomlist_main_space_title">"Ð£ÑÐµ Ñ‡Ð°Ñ‚Ñ‹"</string>
+  <string name="screen_roomlist_mark_as_read">"ÐŸÐ°Ð·Ð½Ð°Ñ‡Ñ‹Ñ†ÑŒ ÑÐº Ð¿Ñ€Ð°Ñ‡Ñ‹Ñ‚Ð°Ð½Ð°Ðµ"</string>
+  <string name="screen_roomlist_mark_as_unread">"ÐŸÐ°Ð·Ð½Ð°Ñ‡Ñ‹Ñ†ÑŒ ÑÐº Ð½ÐµÐ¿Ñ€Ð°Ñ‡Ñ‹Ñ‚Ð°Ð½Ð°Ðµ"</string>
+  <string name="screen_roomlist_your_spaces">"Ð’Ð°ÑˆÑ‹ Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€Ñ‹"</string>
+  <string name="session_verification_banner_message">"Ð—Ð´Ð°ÐµÑ†Ñ†Ð°, Ð²Ñ‹ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°ÐµÑ†ÐµÑÑ Ð½Ð¾Ð²Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð°Ð¹. ÐŸÑ€Ð°Ð²ÐµÑ€Ñ†Ðµ Ð· Ð´Ð°Ð¿Ð°Ð¼Ð¾Ð³Ð°Ð¹ Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹, ÐºÐ°Ð± Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ñ‹Ñ… Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž."</string>
+  <string name="session_verification_banner_title">"ÐŸÐ°Ñ†Ð²ÐµÑ€Ð´Ð·Ñ–Ñ†Ðµ, ÑˆÑ‚Ð¾ Ð³ÑÑ‚Ð° Ð²Ñ‹"</string>
+</resources>
+

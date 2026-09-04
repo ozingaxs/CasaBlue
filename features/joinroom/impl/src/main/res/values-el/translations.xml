@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_join_room_ban_by_message">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÏ„Î®ÎºÎ±Ï„Îµ Î±Ï€ÏŒ Ï„Î¿ Ï‡ÏÎ®ÏƒÏ„Î· %1$s."</string>
+  <string name="screen_join_room_ban_message">"Î£Î±Ï‚ ÎµÏ€Î¹Î²Î»Î®Î¸Î·ÎºÎµ Î­Î½Î± ban"</string>
+  <string name="screen_join_room_ban_reason">"Î‘Î¹Ï„Î¯Î±: %1$s."</string>
+  <string name="screen_join_room_cancel_knock_action">"Î‘ÎºÏÏÏ‰ÏƒÎ· Î±Î¹Ï„Î®Î¼Î±Ï„Î¿Ï‚"</string>
+  <string name="screen_join_room_cancel_knock_alert_confirmation">"ÎÎ±Î¹, Î±ÎºÏÏÏ‰ÏƒÎ·"</string>
+  <string name="screen_join_room_cancel_knock_alert_description">"Î•Î¯ÏƒÏ„Îµ Î²Î­Î²Î±Î¹Î¿Î¹ ÏŒÏ„Î¹ Î¸Î­Î»ÎµÏ„Îµ Î½Î± Î±ÎºÏ…ÏÏŽÏƒÎµÏ„Îµ Ï„Î¿ Î±Î¯Ï„Î·Î¼Î¬ ÏƒÎ±Ï‚ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ ÏƒÎµ Î±Ï…Ï„Î® Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±;"</string>
+  <string name="screen_join_room_cancel_knock_alert_title">"Î‘ÎºÏÏÏ‰ÏƒÎ· Î±Î¯Ï„Î·ÏƒÎ·Ï‚ ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚"</string>
+  <string name="screen_join_room_decline_and_block_alert_confirmation">"ÎÎ±Î¹, Î±Ï€ÏŒÏÏÎ¹ÏˆÎ· ÎºÎ±Î¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_join_room_decline_and_block_alert_message">"Î•Î¯ÏƒÏ„Îµ Î²Î­Î²Î±Î¹Î¿Î¹ ÏŒÏ„Î¹ Î¸Î­Î»ÎµÏ„Îµ Î½Î± Î±Ï€Î¿ÏÏÎ¯ÏˆÎµÏ„Îµ Ï„Î·Î½ Ï€ÏÏŒÏƒÎºÎ»Î·ÏƒÎ· ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚ ÏƒÎµ Î±Ï…Ï„Î®Î½ Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±; Î‘Ï…Ï„ÏŒ Î¸Î± ÎµÎ¼Ï€Î¿Î´Î¯ÏƒÎµÎ¹ ÎµÏ€Î¯ÏƒÎ·Ï‚ Ï„Î¿Î½ Ï‡ÏÎ®ÏƒÏ„Î· %1$s Î½Î± ÎµÏ€Î¹ÎºÎ¿Î¹Î½Ï‰Î½Î®ÏƒÎµÎ¹ Î¼Î±Î¶Î¯ ÏƒÎ±Ï‚ Î® Î½Î± ÏƒÎ±Ï‚ Ï€ÏÎ¿ÏƒÎºÎ±Î»Î­ÏƒÎµÎ¹ ÏƒÎµ Î±Î¯Î¸Î¿Ï…ÏƒÎµÏ‚."</string>
+  <string name="screen_join_room_decline_and_block_alert_title">"Î‘Ï€ÏŒÏÏÎ¹ÏˆÎ· Ï€ÏÏŒÏƒÎºÎ»Î·ÏƒÎ·Ï‚ ÎºÎ±Î¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_join_room_decline_and_block_button_title">"Î‘Ï€ÏŒÏÏÎ¹ÏˆÎ· ÎºÎ±Î¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_join_room_fail_message">"Î— ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î® Î±Ï€Î­Ï„Ï…Ï‡Îµ"</string>
+  <string name="screen_join_room_fail_reason">"Î ÏÎ­Ï€ÎµÎ¹ Î½Î± Î»Î¬Î²ÎµÏ„Îµ Ï€ÏÏŒÏƒÎºÎ»Î·ÏƒÎ· Î³Î¹Î± Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ Î® ÎµÎ½Î´Î­Ï‡ÎµÏ„Î±Î¹ Î½Î± Ï…Ï€Î¬ÏÏ‡Î¿Ï…Î½ Ï€ÎµÏÎ¹Î¿ÏÎ¹ÏƒÎ¼Î¿Î¯ Ï€ÏÏŒÏƒÎ²Î±ÏƒÎ·Ï‚."</string>
+  <string name="screen_join_room_forget_action">"ÎšÎ±Ï„Î¬ÏÎ³Î·ÏƒÎ·"</string>
+  <string name="screen_join_room_invite_required_message">"Î§ÏÎµÎ¹Î¬Î¶ÎµÏƒÏ„Îµ Ï€ÏÏŒÏƒÎºÎ»Î·ÏƒÎ· Î³Î¹Î± Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ"</string>
+  <string name="screen_join_room_invited_by">"Î ÏÎ¿ÏƒÎºÎµÎºÎ»Î·Î¼Î­Î½Î¿ Î±Ï€ÏŒ"</string>
+  <string name="screen_join_room_join_action">"Î£Ï…Î¼Î¼ÎµÏ„Î¿Ï‡Î®"</string>
+  <string name="screen_join_room_join_restricted_message">"Î•Î½Î´Î­Ï‡ÎµÏ„Î±Î¹ Î½Î± Ï‡ÏÎµÎ¹Î±ÏƒÏ„ÎµÎ¯ Î½Î± Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸ÎµÎ¯Ï„Îµ Î® Î½Î± ÎµÎ¯ÏƒÏ„Îµ Î¼Î­Î»Î¿Ï‚ ÎµÎ½ÏŒÏ‚ Ï‡ÏŽÏÎ¿Ï… Î³Î¹Î± Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ."</string>
+  <string name="screen_join_room_knock_action">"Î§Ï„ÏÏ€Î± Î³Î¹Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®"</string>
+  <string name="screen_join_room_knock_message_characters_count">"Î•Ï€Î¹Ï„ÏÎµÏ€ÏŒÎ¼ÎµÎ½Î¿Î¹ Ï‡Î±ÏÎ±ÎºÏ„Î®ÏÎµÏ‚ %1$d Î±Ï€ÏŒ %2$d"</string>
+  <string name="screen_join_room_knock_message_description">"ÎœÎ®Î½Ï…Î¼Î± (Ï€ÏÎ¿Î±Î¹ÏÎµÏ„Î¹ÎºÏŒ)"</string>
+  <string name="screen_join_room_knock_sent_description">"Î˜Î± Î»Î¬Î²ÎµÏ„Îµ Ï€ÏÏŒÏƒÎºÎ»Î·ÏƒÎ· Î³Î¹Î± Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ ÏƒÏ„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±, ÎµÎ¬Î½ Ï„Î¿ Î±Î¯Ï„Î·Î¼Î¬ ÏƒÎ±Ï‚ Î³Î¯Î½ÎµÎ¹ Î±Ï€Î¿Î´ÎµÎºÏ„ÏŒ."</string>
+  <string name="screen_join_room_knock_sent_title">"Î¤Î¿ Î±Î¯Ï„Î·Î¼Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚ ÏƒÏ„Î¬Î»Î¸Î·ÎºÎµ"</string>
+  <string name="screen_join_room_loading_alert_message">"Î”ÎµÎ½ Î¼Ï€Î¿ÏÎ­ÏƒÎ±Î¼Îµ Î½Î± ÎµÎ¼Ï†Î±Î½Î¯ÏƒÎ¿Ï…Î¼Îµ Ï„Î·Î½ Ï€ÏÎ¿ÎµÏ€Î¹ÏƒÎºÏŒÏ€Î·ÏƒÎ· Ï„Î·Ï‚ Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚. Î‘Ï…Ï„ÏŒ Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± Î¿Ï†ÎµÎ¯Î»ÎµÏ„Î±Î¹ ÏƒÎµ Ï€ÏÎ¿Î²Î»Î®Î¼Î±Ï„Î± Î´Î¹ÎºÏ„ÏÎ¿Ï… Î® Î´Î¹Î±ÎºÎ¿Î¼Î¹ÏƒÏ„Î®."</string>
+  <string name="screen_join_room_loading_alert_title">"Î”ÎµÎ½ Î¼Ï€Î¿ÏÎ­ÏƒÎ±Î¼Îµ Î½Î± ÎµÎ¼Ï†Î±Î½Î¯ÏƒÎ¿Ï…Î¼Îµ Î±Ï…Ï„Î® Ï„Î·Î½ Ï€ÏÎ¿ÎµÏ€Î¹ÏƒÎºÏŒÏ€Î·ÏƒÎ· Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚"</string>
+  <string name="screen_join_room_space_not_supported_description">"Î¤Î¿ %1$s Î´ÎµÎ½ Ï…Ï€Î¿ÏƒÏ„Î·ÏÎ¯Î¶ÎµÎ¹ Î±ÎºÏŒÎ¼Î± Ï‡ÏŽÏÎ¿Ï…Ï‚. ÎœÏ€Î¿ÏÎµÎ¯Ï‚ Î½Î± Î­Ï‡ÎµÎ¹Ï‚ Ï€ÏÏŒÏƒÎ²Î±ÏƒÎ· ÏƒÎµ Ï‡ÏŽÏÎ¿Ï…Ï‚ ÏƒÏ„Î¿Î½ Î¹ÏƒÏ„ÏŒ."</string>
+  <string name="screen_join_room_space_not_supported_title">"ÎŸÎ¹ Î§ÏŽÏÎ¿Î¹ Î´ÎµÎ½ Ï…Ï€Î¿ÏƒÏ„Î·ÏÎ¯Î¶Î¿Î½Ï„Î±Î¹ Î±ÎºÏŒÎ¼Î±"</string>
+  <string name="screen_join_room_subtitle_knock">"ÎšÎ¬Î½Ï„Îµ ÎºÎ»Î¹Îº ÏƒÏ„Î¿ Ï€Î±ÏÎ±ÎºÎ¬Ï„Ï‰ ÎºÎ¿Ï…Î¼Ï€Î¯ ÎºÎ±Î¹ Î¸Î± ÎµÎ¹Î´Î¿Ï€Î¿Î¹Î·Î¸ÎµÎ¯ Î­Î½Î±Ï‚ Î´Î¹Î±Ï‡ÎµÎ¹ÏÎ¹ÏƒÏ„Î®Ï‚ Ï„Î·Ï‚ Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚. ÎœÏŒÎ»Î¹Ï‚ ÎµÎ³ÎºÏÎ¹Î¸ÎµÎ¯Ï„Îµ, Î¸Î± Î¼Ï€Î¿ÏÎµÎ¯Ï„Îµ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ ÏƒÏ„Î· ÏƒÏ…Î¶Î®Ï„Î·ÏƒÎ·."</string>
+  <string name="screen_join_room_subtitle_no_preview">"Î ÏÎ­Ï€ÎµÎ¹ Î½Î± ÎµÎ¯ÏƒÏ„Îµ Î¼Î­Î»Î¿Ï‚ Î±Ï…Ï„Î®Ï‚ Ï„Î·Ï‚ Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚ Î³Î¹Î± Î½Î± Î´ÎµÎ¯Ï„Îµ Ï„Î¿ Î¹ÏƒÏ„Î¿ÏÎ¹ÎºÏŒ Ï„Ï‰Î½ Î¼Î·Î½Ï…Î¼Î¬Ï„Ï‰Î½."</string>
+  <string name="screen_join_room_title_knock">"Î˜Î­Î»ÎµÏ„Îµ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÏ„Îµ ÏƒÎµ Î±Ï…Ï„Î® Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±;"</string>
+  <string name="screen_join_room_title_no_preview">"Î— Ï€ÏÎ¿ÎµÏ€Î¹ÏƒÎºÏŒÏ€Î·ÏƒÎ· Î´ÎµÎ½ ÎµÎ¯Î½Î±Î¹ Î´Î¹Î±Î¸Î­ÏƒÎ¹Î¼Î·"</string>
+</resources>
+

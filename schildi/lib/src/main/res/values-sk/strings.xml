@@ -1,0 +1,57 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sc_pref_el_typography_summary">Pou�it nastavenia p�sma CasaBlueu s v�c��m textom spr�vy</string>
+    <string name="sc_pref_screen_experimental_title">Pokusn�</string>
+    <string name="sc_pref_screen_experimental_summary">Nestabiln� funkcie, ocak�vajte bugy</string>
+    <string name="sc_action_mark_as_read">Oznacit za prec�tan�</string>
+    <string name="sc_action_mark_as_unread">Oznacit ako neprec�tan�</string>
+    <string name="sc_space_all_rooms_title">V�etky rozhovory</string>
+    <string name="sc_upstream_feature_flag_room_list_filters">Filtre zoznamu miestnost�</string>
+    <string name="sc_pref_category_misc">R�zne</string>
+    <string name="sc_pref_tweaks_title">Korytnacie vyladenia</string>
+    <string name="sc_pref_sc_themes_title">SC t�ma</string>
+    <string name="sc_pref_sc_layout_title">SC rozlo�enie</string>
+    <string name="sc_pref_sc_overview_layout_title">SC rozlo�enie prehladu</string>
+    <string name="sc_pref_sc_timeline_layout_title">SC rozlo�enie konverz�ci�</string>
+    <string name="sc_pref_sc_floating_date_title">Pl�vaj�ci d�tum</string>
+    <string name="sc_pref_pl_display_name_title">Pomenovat farby podla �rovne sily</string>
+    <string name="sc_pref_pl_display_name_summary_warning">Nefunguje spolahlivo ak sa zoznam clenov e�te plne nenatiahol</string>
+    <string name="sc_pref_el_typography_title">Typografia CasaBlueu</string>
+    <string name="sc_pref_fast_transitions_title">R�chle prechody</string>
+    <string name="sc_pref_fast_transitions_summary">Zr�chlit anim�cie okien</string>
+    <string name="sc_pref_compact_app_bar_title">Zhutnen� aplikacn� pruh</string>
+    <string name="sc_pref_compact_app_bar_summary">Nikdy neroz�irovat vrchn� pruh aplik�cie</string>
+    <string name="sc_space_nav_title">Nav�dzanie v priestore</string>
+    <string name="sc_space_nav_summary">Filtrovat rozhovory podla priestorov</string>
+    <string name="sc_compact_root_spaces_title">Zhutnit korenov� priestory</string>
+    <string name="sc_space_swipe_title">Potiahnut�m prep�nat priestory</string>
+    <string name="sc_space_swipe_summary">Pre prepnutie priestoru potiahnite prehlad rozhovoru vodorovne</string>
+    <string name="sc_space_unread_counts_mode_title">S�hrnn� poc�tadlo neprec�tan�ch</string>
+    <string name="sc_space_unread_counts_mode_messages">Poc�tat neprec�tan� spr�vy</string>
+    <string name="sc_space_unread_counts_mode_chats">Pocitat neprec�tan� rozhovory</string>
+    <string name="sc_space_unread_counts_mode_hide">Skryt</string>
+    <string name="sc_set_read_marker_toast_start">Nastavenie znacky prec�tan� na %s</string>
+    <string name="sc_set_read_marker_implicit_toast_start">Nastavenie znacky prec�tan�...</string>
+    <string name="sc_client_generated_unread_counts_title">Klientom vygenerovan� pocet neprec�tan�ch</string>
+    <string name="sc_client_generated_unread_counts_summary">Vypoc�tat pocet neprec�tan�ch v zariaden� namiesto d�verovaniu serverom hl�sen�ch hodn�t</string>
+    <string name="sc_push_info_title">Push inform�cie</string>
+    <string name="sc_push_info_summary">Zobrazit debug inform�cie s�visiace s push upozorneniami</string>
+    <string name="sc_pref_dev_quick_options">R�chle nastavenia</string>
+    <string name="sc_pref_debug_read_marker">Debugovat znackovac prec�tan�ch</string>
+    <string name="sc_pref_danger_zone">Nebezpecn� oblast</string>
+    <string name="sc_pref_restore_defaults">Obnovit predvolen�</string>
+    <string name="sc_pref_restore_element">Pou�it chut CasaBlueu</string>
+    <string name="sc_pref_restore_authors_choice">Volba autora</string>
+    <string name="sc_pref_category_general_appearance">Vzhlad</string>
+    <string name="sc_pref_category_general_behaviour">Spr�vanie</string>
+    <string name="sc_pref_category_chat_overview">Prehlad rozhovoru</string>
+    <string name="sc_pref_category_spaces">Priestory</string>
+    <string name="sc_onboarding_welcome_title">Vitajte v CasaBluee</string>
+    <string name="sc_onboarding_welcome_summary">Prin�ame korytnacky do Matrixu</string>
+    <string name="sc_pref_sc_floating_date_summary">Pri rolovan�, zobrazit d�tum nad spr�vami</string>
+    <string name="sc_compact_root_spaces_summary">Pre korenov� priestory zobrazit ikonu bez mena</string>
+    <string name="sc_sync_read_receipt_and_marker_title">Udr�iavat znacku neprec�tan�ch a prijat�ch v s�lade</string>
+    <string name="sc_sync_read_receipt_and_marker_summary">V�dy nastavte svoje potvrdenie o prijat� (co vidia ostatn� a co spoc�tava Va�e poc�tadlo neprec�tan�ch spr�v) na rovnak� spr�vu ako Va�u znacku �plne prec�tan� (riadok s nov�mi spr�vami pri pohlade na rozhovor)</string>
+    <string name="sc_pref_category_timeline">Obrazovka konverz�cie</string>
+</resources>
+

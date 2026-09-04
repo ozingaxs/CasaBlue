@@ -1,0 +1,20 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_dm_details_block_alert_action">"Zablokovat"</string>
+  <string name="screen_dm_details_block_alert_description">"Blokovaní používatelia vám nebudú môct posielat správy a všetky ich správy budú skryté. Môžete ich kedykolvek odblokovat."</string>
+  <string name="screen_dm_details_block_user">"Zablokovat používatela"</string>
+  <string name="screen_dm_details_unblock_alert_action">"Odblokovat"</string>
+  <string name="screen_dm_details_unblock_alert_description">"Všetky správy od nich budete môct opät vidiet."</string>
+  <string name="screen_dm_details_unblock_user">"Odblokovat používatela"</string>
+  <string name="screen_room_member_details_block_alert_action">"Zablokovat"</string>
+  <string name="screen_room_member_details_block_alert_description">"Blokovaní používatelia vám nebudú môct posielat správy a všetky ich správy budú skryté. Môžete ich kedykolvek odblokovat."</string>
+  <string name="screen_room_member_details_block_user">"Zablokovat používatela"</string>
+  <string name="screen_room_member_details_title">"Profil"</string>
+  <string name="screen_room_member_details_unblock_alert_action">"Odblokovat"</string>
+  <string name="screen_room_member_details_unblock_alert_description">"Všetky správy od nich budete môct opät vidiet."</string>
+  <string name="screen_room_member_details_unblock_user">"Odblokovat používatela"</string>
+  <string name="screen_room_member_details_verify_button_subtitle">"Použite webovú aplikáciu na overenie tohto používatela."</string>
+  <string name="screen_room_member_details_verify_button_title">"Overit %1$s"</string>
+  <string name="screen_start_chat_error_starting_chat">"Pri pokuse o spustenie konverzácie sa vyskytla chyba"</string>
+</resources>
+

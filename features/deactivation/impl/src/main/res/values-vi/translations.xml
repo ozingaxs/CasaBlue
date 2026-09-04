@@ -1,0 +1,14 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_deactivate_account_confirmation_dialog_content">"Vui lòng xác nh?n r?ng b?n mu?n vô hi?u hóa tài kho?n c?a mình. Hành d?ng này không th? hoàn tác."</string>
+  <string name="screen_deactivate_account_delete_all_messages">"Xóa t?t c? tin nh?n c?a tôi"</string>
+  <string name="screen_deactivate_account_delete_all_messages_notice">"C?nh báo: Ngu?i dùng sau này có th? th?y các cu?c trò chuy?n chua hoàn ch?nh."</string>
+  <string name="screen_deactivate_account_description">"Vi?c vô hi?u hóa tài kho?n c?a b?n là %1$s , nó s?:"</string>
+  <string name="screen_deactivate_account_description_bold_part">"không th? d?o ngu?c"</string>
+  <string name="screen_deactivate_account_list_item_1">"%1$s Tài kho?n c?a b?n (b?n không th? dang nh?p l?i và ID c?a b?n không th? du?c s? d?ng l?i)."</string>
+  <string name="screen_deactivate_account_list_item_1_bold_part">"Vô hi?u hóa vinh vi?n"</string>
+  <string name="screen_deactivate_account_list_item_2">"Lo?i b? b?n kh?i t?t c? các phòng chat."</string>
+  <string name="screen_deactivate_account_list_item_3">"Xóa thông tin tài kho?n c?a b?n kh?i máy ch? nh?n d?ng c?a chúng tôi."</string>
+  <string name="screen_deactivate_account_list_item_4">"Tin nh?n c?a b?n v?n s? hi?n th? cho ngu?i dùng dã dang ký nhung s? không hi?n th? cho ngu?i dùng m?i ho?c chua dang ký n?u b?n ch?n xóa chúng."</string>
+</resources>
+

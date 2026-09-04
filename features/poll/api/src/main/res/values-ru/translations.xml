@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="a11y_polls_percent_of_total">
+    <item quantity="one">"%1$d Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚ Ð¾Ñ‚ Ð¾Ð±Ñ‰ÐµÐ³Ð¾ Ñ‡Ð¸ÑÐ»Ð° Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²"</item>
+    <item quantity="few">"%1$d Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚Ð° Ð¾Ñ‚ Ð¾Ð±Ñ‰ÐµÐ³Ð¾ Ñ‡Ð¸ÑÐ»Ð° Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²"</item>
+    <item quantity="many">"%1$d Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚Ð¾Ð² Ð¾Ñ‚ Ð¾Ð±Ñ‰ÐµÐ³Ð¾ Ñ‡Ð¸ÑÐ»Ð° Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²"</item>
+  </plurals>
+  <string name="a11y_polls_will_remove_selection">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚"</string>
+  <string name="a11y_polls_winning_answer">"Ð­Ñ‚Ð¾ Ð»ÑƒÑ‡ÑˆÐ¸Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚"</string>
+</resources>
+

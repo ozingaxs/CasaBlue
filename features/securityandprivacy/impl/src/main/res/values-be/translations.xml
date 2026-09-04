@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_edit_room_address_title">"Ð ÑÐ´Ð°Ð³Ð°Ð²Ð°Ñ†ÑŒ Ð°Ð´Ñ€Ð°Ñ"</string>
+  <string name="screen_manage_authorized_spaces_your_spaces_section_title">"Ð’Ð°ÑˆÑ‹ Ð¿Ñ€Ð°ÑÑ‚Ð¾Ñ€Ñ‹"</string>
+  <string name="screen_security_and_privacy_room_address_section_header">"ÐÐ´Ñ€Ð°Ñ"</string>
+</resources>
+

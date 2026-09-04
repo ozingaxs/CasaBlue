@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_media_browser_delete_confirmation_subtitle">"Ø³ØªØªÙ… Ø¥Ø²Ø§Ù„Ø© Ù‡Ø°Ø§ Ø§Ù„Ù…Ù„Ù Ù…Ù† Ø§Ù„ØºØ±ÙØ© ÙˆÙ„Ù† ÙŠØªÙ…ÙƒÙ† Ø§Ù„Ø£Ø¹Ø¶Ø§Ø¡ Ù…Ù† Ø§Ù„ÙˆØµÙˆÙ„ Ø¥Ù„ÙŠÙ‡."</string>
+  <string name="screen_media_browser_delete_confirmation_title">"Ø¥Ø²Ø§Ù„Ø© Ø§Ù„Ù…Ù„ÙØŸ"</string>
+  <string name="screen_media_browser_download_error_message">"ØªØ­Ù‚Ù‘Ù‚ Ù…Ù† Ø§ØªØµØ§Ù„Ùƒ Ø¨Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª ÙˆØ­Ø§ÙˆÙ„ Ù…Ø±Ø© Ø£Ø®Ø±Ù‰."</string>
+  <string name="screen_media_browser_files_empty_state_subtitle">"Ø³ØªØ¸Ù‡Ø± Ù‡Ù†Ø§ Ø§Ù„Ù…Ø³ØªÙ†Ø¯Ø§Øª ÙˆØ§Ù„Ù…Ù„ÙØ§Øª Ø§Ù„ØµÙˆØªÙŠØ© ÙˆØ§Ù„Ø±Ø³Ø§Ø¦Ù„ Ø§Ù„ØµÙˆØªÙŠØ© Ø§Ù„ØªÙŠ ÙŠØªÙ… Ø±ÙØ¹Ù‡Ø§ Ø¥Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©."</string>
+  <string name="screen_media_browser_files_empty_state_title">"Ù„Ù… ÙŠØªÙ… Ø±ÙØ¹ Ø£ÙŠ Ù…Ù„ÙØ§Øª Ø¨Ø¹Ø¯"</string>
+  <string name="screen_media_browser_list_loading_files">"Ø¬Ø§Ø±Ù ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ù…Ù„ÙØ§Øª..."</string>
+  <string name="screen_media_browser_list_loading_media">"Ø¬Ø§Ø±Ù ØªØ­Ù…ÙŠÙ„ Ø§Ù„ÙˆØ³Ø§Ø¦Ø·..."</string>
+  <string name="screen_media_browser_list_mode_files">"Ø§Ù„Ù…Ù„ÙØ§Øª"</string>
+  <string name="screen_media_browser_list_mode_media">"Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"</string>
+  <string name="screen_media_browser_media_empty_state_subtitle">"Ø³ØªØ¸Ù‡Ø± Ù‡Ù†Ø§ Ø§Ù„ØµÙˆØ± ÙˆÙ…Ù‚Ø§Ø·Ø¹ Ø§Ù„ÙÙŠØ¯ÙŠÙˆ Ø§Ù„ØªÙŠ ÙŠØªÙ… Ø±ÙØ¹Ù‡Ø§ Ø¥Ù„Ù‰ Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©."</string>
+  <string name="screen_media_browser_media_empty_state_title">"Ù„Ù… ÙŠØªÙ… Ø±ÙØ¹ Ø£ÙŠ ÙˆØ³Ø§Ø¦Ø· Ø¨Ø¹Ø¯"</string>
+  <string name="screen_media_browser_title">"Ø§Ù„ÙˆØ³Ø§Ø¦Ø· ÙˆØ§Ù„Ù…Ù„ÙØ§Øª"</string>
+  <string name="screen_media_details_file_format">"Ø§Ù„ØªÙ†Ø³ÙŠÙ‚"</string>
+  <string name="screen_media_details_filename">"Ø§Ù„Ø§Ø³Ù…"</string>
+  <string name="screen_media_details_no_more_files_to_show">"Ù„Ø§ ØªÙˆØ¬Ø¯ Ù…Ù„ÙØ§Øª Ø£Ø®Ø±Ù‰ Ù„Ø¹Ø±Ø¶Ù‡Ø§"</string>
+  <string name="screen_media_details_no_more_media_to_show">"Ù„Ø§ ØªÙˆØ¬Ø¯ ÙˆØ³Ø§Ø¦Ø· Ø£Ø®Ø±Ù‰ Ù„Ø¹Ø±Ø¶Ù‡Ø§"</string>
+  <string name="screen_media_details_title">"Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…Ù„Ù"</string>
+  <string name="screen_media_details_uploaded_by">"ØªÙ… Ø§Ù„Ø±ÙØ¹ Ø¨ÙˆØ§Ø³Ø·Ø©"</string>
+  <string name="screen_media_details_uploaded_on">"ØªÙ… Ø§Ù„Ø±ÙØ¹ ÙÙŠ"</string>
+</resources>
+

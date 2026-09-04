@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="rich_text_editor_a11y_add_attachment">"ÐŸÑ€Ð¸ÐºÑ€ÐµÐ¿Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»"</string>
+  <string name="rich_text_editor_bullet_list">"ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð°Ñ€ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"</string>
+  <string name="rich_text_editor_close_formatting_options">"ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ"</string>
+  <string name="rich_text_editor_code_block">"ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð±Ð»Ð¾Ðº ÐºÐ¾Ð´Ð°"</string>
+  <string name="rich_text_editor_composer_caption_placeholder">"Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ (Ð¾Ð¿Ñ†Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¾)"</string>
+  <string name="rich_text_editor_composer_encrypted_placeholder">"Ð—Ð°ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ..."</string>
+  <string name="rich_text_editor_composer_placeholder">"Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ..."</string>
+  <string name="rich_text_editor_composer_unencrypted_placeholder">"ÐÐµÐ·Ð°ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ..."</string>
+  <string name="rich_text_editor_create_link">"Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ"</string>
+  <string name="rich_text_editor_edit_link">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ"</string>
+  <string name="rich_text_editor_format_action">"%1$s, ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ: %2$s"</string>
+  <string name="rich_text_editor_format_bold">"ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¶Ð¸Ñ€Ð½Ñ‹Ð¹ ÑˆÑ€Ð¸Ñ„Ñ‚"</string>
+  <string name="rich_text_editor_format_italic">"ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÐºÑƒÑ€ÑÐ¸Ð²Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚"</string>
+  <string name="rich_text_editor_format_state_disabled">"Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾"</string>
+  <string name="rich_text_editor_format_state_off">"ÐžÐ¢ÐšÐ›"</string>
+  <string name="rich_text_editor_format_state_on">"Ð’ÐšÐ›"</string>
+  <string name="rich_text_editor_format_strikethrough">"ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°Ð½Ð¸Ðµ"</string>
+  <string name="rich_text_editor_format_underline">"ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°Ð½Ð¸Ðµ"</string>
+  <string name="rich_text_editor_full_screen_toggle">"ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ð½Ð¾ÑÐºÑ€Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ€ÐµÐ¶Ð¸Ð¼Ð°"</string>
+  <string name="rich_text_editor_indent">"ÐžÑ‚ÑÑ‚ÑƒÐ¿"</string>
+  <string name="rich_text_editor_inline_code">"ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð²ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ ÐºÐ¾Ð´Ð°"</string>
+  <string name="rich_text_editor_link">"Ð—Ð°Ð´Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ"</string>
+  <string name="rich_text_editor_numbered_list">"ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð½ÑƒÐ¼ÐµÑ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"</string>
+  <string name="rich_text_editor_open_compose_options">"ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐ¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ"</string>
+  <string name="rich_text_editor_quote">"ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ†Ð¸Ñ‚Ð°Ñ‚Ñƒ"</string>
+  <string name="rich_text_editor_remove_link">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ"</string>
+  <string name="rich_text_editor_unindent">"Ð‘ÐµÐ· Ð¾Ñ‚ÑÑ‚ÑƒÐ¿Ð°"</string>
+  <string name="rich_text_editor_url_placeholder">"Ð¡ÑÑ‹Ð»ÐºÐ°"</string>
+  <string name="screen_media_upload_preview_caption_warning">"ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð²Ð¸Ð´Ð½Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼ ÑÑ‚Ð°Ñ€Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹."</string>
+  <string name="screen_room_voice_message_tooltip">"Ð£Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°Ð¹Ñ‚Ðµ Ð´Ð»Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸"</string>
+</resources>
+

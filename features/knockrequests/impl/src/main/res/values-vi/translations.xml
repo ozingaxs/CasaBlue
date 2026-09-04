@@ -1,0 +1,33 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_knock_requests_list_accept_all_alert_confirm_button_title">"Có, ch?p nh?n t?t c?"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_description">"B?n có ch?c ch?n mu?n ch?p nh?n t?t c? các yêu c?u tham gia không?"</string>
+  <string name="screen_knock_requests_list_accept_all_alert_title">"Ch?p nh?n t?t c? các yêu c?u"</string>
+  <string name="screen_knock_requests_list_accept_all_button_title">"Ch?p nh?n t?t c?"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_description">"Không th? ch?p nh?n t?t c? yêu c?u. B?n có mu?n th? l?i không?"</string>
+  <string name="screen_knock_requests_list_accept_all_failed_alert_title">"Ch?p nh?n t?t c? yêu c?u th?t b?i"</string>
+  <string name="screen_knock_requests_list_accept_all_loading_title">"Ðang duy?t t?t c? yêu c?u tham gia"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_description">"Không th? ch?p nh?n yêu c?u này. B?n có mu?n th? l?i không?"</string>
+  <string name="screen_knock_requests_list_accept_failed_alert_title">"Ch?p nh?n yêu c?u th?t b?i"</string>
+  <string name="screen_knock_requests_list_accept_loading_title">"Ðang duy?t yêu c?u tham gia"</string>
+  <string name="screen_knock_requests_list_ban_alert_confirm_button_title">"Có, t? ch?i và c?m"</string>
+  <string name="screen_knock_requests_list_ban_alert_description">"B?n có ch?c mu?n t? ch?i và c?m %1$s không? Ngu?i dùng này s? không th? yêu c?u tham gia phòng này n?a"</string>
+  <string name="screen_knock_requests_list_ban_alert_title">"T? ch?i và c?m truy c?p"</string>
+  <string name="screen_knock_requests_list_ban_loading_title">"Ðang t? ch?i và ch?n truy c?p"</string>
+  <string name="screen_knock_requests_list_decline_alert_confirm_button_title">"Có, t? ch?i"</string>
+  <string name="screen_knock_requests_list_decline_alert_description">"B?n có ch?c mu?n t? ch?i yêu c?u tham gia phòng c?a %1$s không?"</string>
+  <string name="screen_knock_requests_list_decline_alert_title">"T? ch?i truy c?p"</string>
+  <string name="screen_knock_requests_list_decline_and_ban_action_title">"T? ch?i và ch?n"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_description">"Không th? t? ch?i yêu c?u. B?n có mu?n th? l?i không?"</string>
+  <string name="screen_knock_requests_list_decline_failed_alert_title">"T? ch?i yêu c?u th?t b?i"</string>
+  <string name="screen_knock_requests_list_decline_loading_title">"Ðang t? ch?i yêu c?u tham gia"</string>
+  <string name="screen_knock_requests_list_empty_state_description">"Khi ai dó xin vào phòng, b?n s? th?y yêu c?u ? dây."</string>
+  <string name="screen_knock_requests_list_empty_state_title">"Không có yêu c?u tham gia nào dang ch? x? lý"</string>
+  <string name="screen_knock_requests_list_initial_loading_title">"Ðang t?i các yêu c?u tham gia..."</string>
+  <plurals name="screen_room_multiple_knock_requests_title">
+    <item quantity="other">"%1$s + %2$d ngu?i khác mu?n tham gia phòng này"</item>
+  </plurals>
+  <string name="screen_room_single_knock_request_accept_button_title">"Ð?ng ý"</string>
+  <string name="screen_room_single_knock_request_view_button_title">"Xem"</string>
+</resources>
+

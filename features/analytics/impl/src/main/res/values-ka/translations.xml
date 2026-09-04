@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"áƒ©áƒ•áƒ”áƒœ áƒáƒ  áƒ©áƒáƒ•áƒ¬áƒ”áƒ áƒ— áƒ“áƒ áƒáƒ  áƒ“áƒáƒ•áƒáƒ¤áƒ˜áƒ¥áƒ¡áƒ˜áƒ áƒ”áƒ‘áƒ— áƒžáƒ”áƒ áƒ¡áƒáƒœáƒáƒšáƒ£áƒ  áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ¡"</string>
+  <string name="screen_analytics_prompt_help_us_improve">"áƒ’áƒáƒáƒ–áƒ˜áƒáƒ áƒ”áƒ— áƒáƒœáƒáƒœáƒ˜áƒ›áƒ£áƒ áƒ˜ áƒ’áƒáƒ›áƒáƒ§áƒ”áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ˜, áƒ áƒáƒ—áƒ áƒ“áƒáƒ’áƒ•áƒ”áƒ®áƒ›áƒáƒ áƒáƒ— áƒžáƒ áƒáƒ‘áƒšáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒ“áƒ”áƒœáƒ¢áƒ˜áƒ¤áƒ˜áƒªáƒ˜áƒ áƒ”áƒ‘áƒáƒ¨áƒ˜."</string>
+  <string name="screen_analytics_prompt_read_terms">"áƒ¨áƒ”áƒ’áƒ˜áƒ«áƒšáƒ˜áƒáƒ—, áƒ¬áƒáƒ˜áƒ™áƒ˜áƒ—áƒ®áƒáƒ— áƒ©áƒ•áƒ”áƒœáƒ˜ áƒ§áƒ•áƒ”áƒšáƒ áƒžáƒ˜áƒ áƒáƒ‘áƒ %1$s."</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"áƒáƒ¥"</string>
+  <string name="screen_analytics_prompt_settings">"áƒáƒ›áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ áƒ—áƒ•áƒ áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ›áƒ˜áƒ”áƒ  áƒ“áƒ áƒáƒ¡ áƒ¨áƒ”áƒ’áƒ˜áƒ«áƒšáƒ˜áƒáƒ—"</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"áƒ—áƒ¥áƒ•áƒ”áƒœáƒ¡ áƒ›áƒáƒœáƒáƒªáƒ”áƒ›áƒ”áƒ‘áƒ¡ áƒ›áƒ”áƒ¡áƒáƒ›áƒ” áƒžáƒ˜áƒ áƒ¡ áƒáƒ  áƒ’áƒáƒ“áƒáƒ•áƒªáƒ”áƒ›áƒ—"</string>
+  <string name="screen_analytics_prompt_title">"áƒ“áƒáƒ’áƒ•áƒ”áƒ®áƒ›áƒáƒ áƒ”áƒ—, áƒ’áƒáƒ•áƒáƒ£áƒ›áƒ¯áƒáƒ‘áƒ”áƒ¡áƒáƒ— %1$s"</string>
+</resources>
+

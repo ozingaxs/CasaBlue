@@ -1,0 +1,19 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_signout_confirmation_dialog_content">"B?n có ch?c mu?n g? thi?t b? này không?"</string>
+  <string name="screen_signout_confirmation_dialog_submit">"G? b? thi?t b? này"</string>
+  <string name="screen_signout_confirmation_dialog_title">"G? b? thi?t b? này"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ðang g? thi?t b?..."</string>
+  <string name="screen_signout_key_backup_disabled_subtitle">"Ðây là thi?t b? duy nh?t c?a b?n. N?u xóa nó, b?n s? c?n khóa khôi ph?c d? xác nh?n danh tính k? thu?t s? và khôi ph?c các cu?c trò chuy?n du?c mã hóa l?n ti?p theo khi dang nh?p."</string>
+  <string name="screen_signout_key_backup_disabled_title">"B?n s?p m?t quy?n truy c?p vào các cu?c trò chuy?n du?c mã hóa"</string>
+  <string name="screen_signout_key_backup_offline_subtitle">"B?n dã ngo?i tuy?n khi các khóa dang du?c sao luu. K?t n?i l?i d? hoàn t?t sao luu tru?c khi g? thi?t b?."</string>
+  <string name="screen_signout_key_backup_offline_title">"Khóa c?a b?n v?n dang du?c sao luu."</string>
+  <string name="screen_signout_key_backup_ongoing_subtitle">"Ð?i quá trình hoàn t?t r?i hãy g? thi?t b?."</string>
+  <string name="screen_signout_key_backup_ongoing_title">"Khóa c?a b?n v?n dang du?c sao luu."</string>
+  <string name="screen_signout_preference_item">"G? b? thi?t b? này"</string>
+  <string name="screen_signout_recovery_disabled_subtitle">"B?n s?p dang xu?t kh?i phiên làm vi?c cu?i cùng. N?u b?n dang xu?t ngay bây gi?, b?n s? m?t quy?n truy c?p vào các tin nh?n dã mã hóa c?a mình."</string>
+  <string name="screen_signout_recovery_disabled_title">"B?n s?p m?t quy?n truy c?p vào các cu?c trò chuy?n du?c mã hóa"</string>
+  <string name="screen_signout_save_recovery_key_subtitle">"Ðây là thi?t b? duy nh?t c?a b?n. N?u xóa nó, b?n s? c?n khóa khôi ph?c d? xác nh?n danh tính k? thu?t s? và khôi ph?c các cu?c trò chuy?n du?c mã hóa khi dang nh?p l?n t?i."</string>
+  <string name="screen_signout_save_recovery_key_title">"Ð?m b?o b?n có khóa khôi ph?c tru?c khi g? thi?t b? này."</string>
+</resources>
+

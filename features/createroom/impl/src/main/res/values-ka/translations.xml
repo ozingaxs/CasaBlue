@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"áƒáƒ®áƒáƒšáƒ˜ áƒáƒ—áƒáƒ®áƒ˜"</string>
+  <string name="screen_create_room_add_people_title">"áƒ®áƒáƒšáƒ®áƒ˜áƒ¡ áƒ›áƒáƒ¬áƒ•áƒ”áƒ•áƒ"</string>
+  <string name="screen_create_room_error_creating_room">"áƒáƒ—áƒáƒ®áƒ˜áƒ¡ áƒ¨áƒ”áƒ¥áƒ›áƒœáƒ˜áƒ¡áƒáƒ¡ áƒ¨áƒ”áƒªáƒ“áƒáƒ›áƒ áƒ›áƒáƒ®áƒ“áƒ"</string>
+  <string name="screen_create_room_private_option_description">"áƒáƒ› áƒáƒ—áƒáƒ®áƒ¨áƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜ áƒ“áƒáƒ¨áƒ˜áƒ¤áƒ áƒ£áƒšáƒ˜áƒ. áƒ¨áƒ”áƒ›áƒ“áƒ’áƒáƒ› áƒ“áƒáƒ¨áƒ˜áƒ¤áƒ•áƒ áƒ˜áƒ¡ áƒ’áƒáƒ›áƒáƒ áƒ—áƒ•áƒ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ”áƒ‘áƒ”áƒšáƒ˜áƒ."</string>
+  <string name="screen_create_room_public_option_description">"áƒ§áƒ•áƒ”áƒšáƒáƒ¡ áƒáƒ› áƒáƒ—áƒáƒ®áƒ˜áƒ¡ áƒ›áƒáƒ«áƒ”áƒ‘áƒœáƒ áƒ¨áƒ”áƒ£áƒ«áƒšáƒ˜áƒ.
+áƒ—áƒ¥áƒ•áƒ”áƒœ áƒœáƒ”áƒ‘áƒ˜áƒ¡áƒ›áƒ˜áƒ”áƒ  áƒ“áƒ áƒáƒ¡ áƒ¨áƒ”áƒ’áƒ˜áƒ«áƒšáƒ˜áƒáƒ— áƒáƒ›áƒ˜áƒ¡ áƒ¨áƒ”áƒªáƒ•áƒšáƒ áƒáƒ—áƒáƒ®áƒ˜áƒ¡ áƒžáƒáƒ áƒáƒ›áƒ”áƒ¢áƒ áƒ”áƒ‘áƒ¨áƒ˜."</string>
+  <string name="screen_create_room_topic_label">"áƒ—áƒ”áƒ›áƒ (áƒ¡áƒ£áƒ áƒ•áƒ˜áƒšáƒ˜áƒ¡áƒáƒ›áƒ”áƒ‘áƒ )"</string>
+</resources>
+

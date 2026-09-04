@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_firebase_availability_description">"Ð£Ð²ÐµÑ€ÐµÑ‚Ðµ ÑÐµ, Ñ‡Ðµ Firebase Ðµ Ð½Ð°Ð»Ð¸Ñ‡ÐµÐ½."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_failure">"Firebase Ð½Ðµ Ðµ Ð½Ð°Ð»Ð¸Ñ‡ÐµÐ½."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_success">"Firebase Ðµ Ð½Ð°Ð»Ð¸Ñ‡ÐµÐ½."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_title">"ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð½Ð° Firebase"</string>
+</resources>
+

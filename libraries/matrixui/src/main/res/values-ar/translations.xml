@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bottom_sheet_create_dm_confirmation_button_title">"Ø¥Ø±Ø³Ø§Ù„ Ø¯Ø¹ÙˆØ©"</string>
+  <string name="screen_bottom_sheet_create_dm_message">"Ù‡Ù„ ØªØ±ÙŠØ¯ Ø¨Ø¯Ø¡ Ø¯Ø±Ø¯Ø´Ø© Ù…Ø¹ %1$sØŸ"</string>
+  <string name="screen_bottom_sheet_create_dm_title">"Ø¥Ø±Ø³Ø§Ù„ Ø¯Ø¹ÙˆØ©ØŸ"</string>
+  <string name="screen_bottom_sheet_create_dm_unknown_user_content">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ Ø­Ø§Ù„ÙŠÙ‹Ø§ Ø£ÙŠ Ø¯Ø±Ø¯Ø´Ø§Øª Ù…Ø¹ Ù‡Ø°Ø§ Ø§Ù„Ø´Ø®Øµ. Ø£ÙƒÙ‘Ø¯ Ø¯Ø¹ÙˆØªÙ‡ Ù‚Ø¨Ù„ Ø§Ù„Ù…ØªØ§Ø¨Ø¹Ø©."</string>
+  <string name="screen_bottom_sheet_create_dm_unknown_user_title">"Ù‡Ù„ ØªØ±ÙŠØ¯ Ø¨Ø¯Ø¡ Ø¯Ø±Ø¯Ø´Ø© Ù…Ø¹ Ø¬Ù‡Ø© Ø§Ù„Ø§ØªØµØ§Ù„ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø© Ù‡Ø°Ù‡ØŸ"</string>
+  <string name="screen_invites_invited_you">"Ø¯Ø¹Ø§Ùƒ %1$s (%2$s)"</string>
+</resources>
+

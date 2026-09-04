@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="dialog_permission_camera">"ì• í”Œë¦¬ì¼€ì´ì…˜ì´ ì¹´ë©”ë¼ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆë„ë¡ ì‹œìŠ¤í…œ ì„¤ì •ì—ì„œ ê¶Œí•œì„ í—ˆìš©í•´ì£¼ì„¸ìš”."</string>
+  <string name="dialog_permission_generic">"ì‹œìŠ¤í…œ ì„¤ì •ì—ì„œ ê¶Œí•œì„ í—ˆìš©í•´ì£¼ì„¸ìš”."</string>
+  <string name="dialog_permission_microphone">"ì• í”Œë¦¬ì¼€ì´ì…˜ì´ ë§ˆì´í¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆë„ë¡ ì‹œìŠ¤í…œ ì„¤ì •ì—ì„œ ê¶Œí•œì„ í—ˆìš©í•´ì£¼ì„¸ìš”."</string>
+  <string name="dialog_permission_notification">"ì• í”Œë¦¬ì¼€ì´ì…˜ì´ ì•Œë¦¼ì„ í‘œì‹œí•  ìˆ˜ ìžˆë„ë¡ ì‹œìŠ¤í…œ ì„¤ì •ì—ì„œ ê¶Œí•œì„ í—ˆìš©í•´ì£¼ì„¸ìš”."</string>
+</resources>
+

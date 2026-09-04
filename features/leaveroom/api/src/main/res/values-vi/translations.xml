@@ -1,0 +1,11 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="leave_conversation_alert_subtitle">"B?n có ch?c ch?n mu?n r?i kh?i cu?c trò chuy?n này không? Cu?c trò chuy?n này không công khai và b?n s? không th? tham gia l?i n?u không du?c m?i."</string>
+  <string name="leave_room_alert_empty_subtitle">"B?n có ch?c ch?n mu?n r?i kh?i phòng này không? B?n là ngu?i duy nh?t ? dây. N?u b?n r?i di, s? không ai có th? tham gia n?a, k? c? b?n."</string>
+  <string name="leave_room_alert_private_subtitle">"B?n có ch?c ch?n mu?n r?i kh?i phòng này không? Phòng này không công khai và b?n s? không th? tham gia l?i n?u không có l?i m?i."</string>
+  <string name="leave_room_alert_select_new_owner_action">"Ch?n ch? s? h?u"</string>
+  <string name="leave_room_alert_select_new_owner_subtitle">"B?n là ch? s? h?u duy nh?t c?a can phòng này. B?n c?n chuy?n quy?n s? h?u cho ngu?i khác tru?c khi r?i kh?i phòng."</string>
+  <string name="leave_room_alert_select_new_owner_title">"Chuy?n quy?n s? h?u"</string>
+  <string name="leave_room_alert_subtitle">"B?n có ch?c ch?n mu?n r?i kh?i phòng không?"</string>
+</resources>
+

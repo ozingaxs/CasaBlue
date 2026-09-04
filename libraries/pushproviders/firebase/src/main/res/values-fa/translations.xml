@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_firebase_availability_description">"Ø§Ø·Ù…ÛŒÙ†Ø§Ù† Ø§Ø² Ø¯Ø± Ø¯Ø³ØªØ±Ø³ Ø¨ÙˆØ¯Ù† ÙØ§ÛŒØ±Ø¨ÛŒØ³."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_failure">"ÙØ§ÛŒØ±Ø¨ÛŒØ³ Ø¯Ø± Ø¯Ø³ØªØ±Ø³ Ù†ÛŒØ³Øª."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_success">"ÙØ§ÛŒØ±Ø¨ÛŒØ³ Ø¯Ø± Ø¯Ø³ØªØ±Ø³ Ø§Ø³Øª."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_title">"Ø¨Ø±Ø±Ø³ÛŒ ÙØ§ÛŒØ±Ø¨ÛŒØ³"</string>
+  <string name="troubleshoot_notifications_test_firebase_token_description">"Ø§Ø·Ù…ÛŒÙ†Ø§Ù† Ø§Ø² Ø¯Ø± Ø¯Ø³ØªØ±Ø³ Ø¨ÙˆØ¯Ù† Ú˜ØªÙˆÙ† ÙØ§ÛŒØ±Ø¨ÛŒØ³."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_failure">"Ú˜ØªÙˆÙ† ÙØ§ÛŒØ±Ø¨ÛŒØ³ Ø´Ù†Ø§Ø®ØªÙ‡ Ù†Ø´Ø¯Ù‡."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_success">"Ú˜ØªÙˆÙ† ÙØ§ÛŒØ±Ø¨ÛŒØ³: %1$s."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_title">"Ø¨Ø±Ø±Ø³ÛŒ Ú˜ØªÙˆÙ† ÙØ§ÛŒØ±Ø¨ÛŒØ³"</string>
+</resources>
+

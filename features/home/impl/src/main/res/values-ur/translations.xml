@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="banner_set_up_recovery_content">"Ø§Ú¯Ø± Ø¢Ù¾ Ø§Ù¾Ù†Û’ ØªÙ…Ø§Ù… Ù…ÙˆØ¬ÙˆØ¯Û Ø¢Ù„Ø§Øª Ú©Ú¾Ùˆ Ú†Ú©Û’ ÛÛŒÚº ØªÙˆ Ø§ÛŒÚ© recovery key Ú©Û’ Ø°Ø±ÛŒØ¹Û Ø§Ù¾Ù†ÛŒ Ú©Ø±Ù¾Ù¹ÙˆÚ¯Ø±Ø§ÙÚ© Ø´Ù†Ø§Ø®Øª Ø§ÙˆØ± Ù¾ÛŒØºØ§Ù… Ú©ÛŒ Ø³Ø±Ú¯Ø²Ø´Øª Ú©Ùˆ Ø¯ÙˆØ¨Ø§Ø±Û Ø­Ø§ØµÙ„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="banner_set_up_recovery_submit">"Ø¨Ø§Ø²ÛŒØ§Ø¨ÛŒ Ù…Ø±ØªØ¨ Ú©Ø±ÛŒÚº"</string>
+  <string name="banner_set_up_recovery_title">"Ø§Ù¾Ù†Û’ Ø§Ú©Ø§Ø¤Ù†Ù¹ Ú©ÛŒ Ø­ÙØ§Ø¸Øª Ú©Û’ Ù„ÛŒÛ’ Ø±ÛŒÚ©ÙˆØ±ÛŒ Ø·Û’ Ú©Ø±ÛŒÚº"</string>
+  <string name="confirm_recovery_key_banner_message">"Ø§Ù¾Ù†Û’ Ú©Ù„ÛŒØ¯ Ú©Û’ Ø°Ø®ÛŒØ±Û Ø§ÙˆØ± Ù¾ÛŒØºØ§Ù… Ú©ÛŒ Ø³Ø±Ú¯Ø²Ø´Øª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ú©Ùˆ Ø¨Ø±Ù‚Ø±Ø§Ø± Ø±Ú©Ú¾Ù†Û’ Ú©ÛŒÙ„Ø¦Û’ Ø§Ù¾Ù†ÛŒ Ø¨Ø§Ø²ÛŒØ§Ø¨ÛŒ Ú©Ù„ÛŒØ¯ Ú©ÛŒ ØªØµØ¯ÛŒÙ‚ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="confirm_recovery_key_banner_title">"Ø¢Ù¾ Ú©Ø§ Ú©Ù„ÛŒØ¯ Ú©Ø§ Ø°Ø®ÛŒØ±Û ØºÛŒØ± ÛÙ… ÙˆÙ‚Øª Ø³Ø§Ø² ÛÛ’Û”"</string>
+  <string name="full_screen_intent_banner_message">"Ø§Ø³ Ø¨Ø§Øª Ú©Ùˆ ÛŒÙ‚ÛŒÙ†ÛŒ Ø¨Ù†Ø§Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ú©Û Ø¢Ù¾ Ú©Ø¨Ú¾ÛŒ Ø¨Ú¾ÛŒ Ø§ÛÙ… Ù…Ú©Ø§Ù„Ù…Û Ø³Û’ Ù…Ø­Ø±ÙˆÙ… Ù†Û ÛÙˆÚºØŒ Ø¨Ø±Ø§Û Ú©Ø±Ù… Ø§Ù¾Ù†ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±ÛŒÚº ØªØ§Ú©Û Ø¢Ù¾ Ú©Ø§ ÛØ§ØªÙ Ù…Ù‚ÙÙ„ ÛÙˆÙ†Û’ Ù¾Ø± Ù…Ú©Ù…Ù„ Ù¾Ø±Ø¯Û‚ Ù†Ù…Ø§Ø¦Ø´ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©ÛŒ Ø§Ø¬Ø§Ø²Øª Ø¯ÛŒ Ø¬Ø§ Ø³Ú©Û’Û”"</string>
+  <string name="full_screen_intent_banner_title">"Ø§Ù¾Ù†Û’ Ù…Ú©Ø§Ù„Ù…ØªÛŒ ØªØ¬Ø±Ø¨Û’ Ú©Ùˆ Ø§Ø­Ø³Ù† Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_home_tab_chats">"Ú¯ÙØªÚ¯ÙˆØ¦ÛŒÚº"</string>
+  <string name="screen_invites_decline_chat_message">"Ú©ÛŒØ§ Ø¢Ù¾Ú©Ùˆ ÛŒÙ‚ÛŒÙ† ÛÛ’ Ú©Û Ø¢Ù¾ %1$s Ù…ÛŒÚº Ø´Ø§Ù…Ù„ ÛÙˆÙ†Û’ Ú©ÛŒ Ø¯Ø±Ø®ÙˆØ§Ø³Øª Ù…Ø³ØªØ±Ø¯ Ú©Ø±Ù†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_invites_decline_chat_title">"Ø¯Ø¹ÙˆØª Ù…Ø³ØªØ±Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_invites_decline_direct_chat_message">"Ú©ÛŒØ§ Ø¢Ù¾Ú©Ùˆ ÛŒÙ‚ÛŒÙ† ÛÛ’ Ú©Û Ø¢Ù¾ %1$s Ú©ÛŒØ³Ø§ØªÚ¾ Ù†Ø¬ÛŒ Ú¯ÙØªÚ¯Ùˆ Ù…Ø³ØªØ±Ø¯ Ú©Ø±Ù†Ø§ Ú†Ø§ÛØªÛ’ ÛÛŒÚºØŸ"</string>
+  <string name="screen_invites_decline_direct_chat_title">"Ú¯ÙØªÚ¯Ùˆ Ù…Ø³ØªØ±Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_invites_empty_list">"Ú©ÙˆØ¦ÛŒ Ø¯Ø¹ÙˆØª Ù†Ø§Ù…Û’ Ù†ÛÛŒÚº"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) Ù†Û’ Ø¢Ù¾ Ú©Ùˆ Ù…Ø¯Ø¹Ùˆ Ú©ÛŒØ§"</string>
+  <string name="screen_migration_message">"ÛŒÛ Ø§ÛŒÚ© Ø¨Ø§Ø± Ú©Ø§ Ø¹Ù…Ù„ ÛÛ’ØŒ Ø§Ù†ØªØ¸Ø§Ø± Ú©Ø±Ù†Û’ Ú©Ø§ Ø´Ú©Ø±ÛŒÛÛ”"</string>
+  <string name="screen_migration_title">"Ø¢Ù¾Ú©Ø§ Ú©Ú¾Ø§ØªÛ Ù…Ø±ØªØ¨ Ú©Ø± Ø±ÛØ§ ÛÛ’"</string>
+  <string name="screen_roomlist_a11y_create_message">"Ø§ÛŒÚ© Ù†Ø¦ÛŒ Ú¯ÙØªÚ¯Ùˆ ÛŒØ§ Ú©Ù…Ø±Û ØªØ®Ù„ÛŒÙ‚ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_roomlist_empty_message">"Ú©Ø³ÛŒ Ú©Ùˆ Ù¾ÛŒØºØ§Ù… Ø¨Ú¾ÛŒØ¬ Ú©Ø± Ø´Ø±ÙˆØ¹ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_roomlist_empty_title">"Ø§Ø¨Ú¾ÛŒ ØªÚ© Ú©ÙˆØ¦ÛŒ Ú¯ÙØªÚ¯ÙˆØ¦ÛŒÚº Ù†ÛÛŒÚº ÛÛŒÚºÛ”"</string>
+  <string name="screen_roomlist_filter_favourites">"Ù¾Ø³Ù†Ø¯ÛŒØ¯Ú¯Ø§Ù†"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_subtitle">"Ø¢Ù¾ Ú¯ÙØªÚ¯Ùˆ Ú©ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª Ù…ÛŒÚº Ø§Ù¾Ù†Û’ Ù¾Ø³Ù†Ø¯ÛŒØ¯Û Ù…ÛŒÚº Ú¯ÙØªÚ¯Ùˆ Ø´Ø§Ù…Ù„ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”
+ Ø§Ø¨Ú¾ÛŒ Ú©Û’ Ù„ÛŒÛ’ØŒ Ø¢Ù¾ Ø§Ù¾Ù†ÛŒ Ø¯ÙˆØ³Ø±ÛŒ Ú¯ÙØªÚ¯ÙˆØ¦ÛŒÚº Ø¯ÛŒÚ©Ú¾Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ù…Ø±Ø´Ø­Ø§Øª Ú©Ùˆ ØºÛŒØ± Ù…Ù†ØªØ®Ø¨ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_roomlist_filter_favourites_empty_state_title">"Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ø§Ø¨Ú¾ÛŒ ØªÚ© Ù¾Ø³Ù†Ø¯ÛŒØ¯Û Ú¯ÙØªÚ¯ÙˆØ¦ÛŒÚº Ù†ÛÛŒÚº ÛÛŒÚº"</string>
+  <string name="screen_roomlist_filter_invites">"Ø¯Ø¹ÙˆØª Ù†Ø§Ù…Û’"</string>
+  <string name="screen_roomlist_filter_invites_empty_state_title">"Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ú©ÙˆØ¦ÛŒ Ø²ÛŒØ± Ø§Ù„ØªÙˆØ§ Ø¯Ø¹ÙˆØªÛŒÚº Ù†ÛÛŒÚº ÛÛŒÚºÛ”"</string>
+  <string name="screen_roomlist_filter_low_priority">"Ú©Ù… ØªØ±Ø¬ÛŒØ­ÛŒ"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_subtitle">"Ø¢Ù¾ Ø§Ù¾Ù†ÛŒ Ø¯ÛŒÚ¯Ø± Ú¯ÙØªÚ¯Ø¦ÛÚº Ø¯ÛŒÚ©Ú¾Ù†Û’ Ú©ÛŒÙ„Ø¦Û’ Ù…Ø±Ø´Ø­Ø§Øª Ú©Ùˆ ØºÛŒØ± Ù…Ù†ØªØ®Ø¨ Ú©Ø±Ø³Ú©ØªÛ’ ÛÛŒÚº"</string>
+  <string name="screen_roomlist_filter_mixed_empty_state_title">"Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ø§Ø³ Ø§Ù†ØªØ®Ø§Ø¨ Ú©Û’ Ù„ÛŒÛ’ Ú¯ÙØªÚ¯Ùˆ Ø¦ÛŒÚº Ù†ÛÛŒÚº ÛÛŒÚºÛ”"</string>
+  <string name="screen_roomlist_filter_people">"Ù„ÙˆÚ¯"</string>
+  <string name="screen_roomlist_filter_people_empty_state_title">"Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ø§Ø¨Ú¾ÛŒ ØªÚ© Ú©ÙˆØ¦ÛŒ Ø¨Ø±Ø§Û Ø±Ø§Ø³Øª Ù¾ÛŒØºØ§Ù…Ø§Øª Ù†ÛÛŒÚº ÛÛ’Û”"</string>
+  <string name="screen_roomlist_filter_rooms">"Ú©Ù…Ø±Û’"</string>
+  <string name="screen_roomlist_filter_rooms_empty_state_title">"Ø¢Ù¾ Ø§Ø¨Ú¾ÛŒ ØªÚ© Ú©Ø³ÛŒ Ú©Ù…Ø±Û’ Ù…ÛŒÚº Ù†ÛÛŒÚº ÛÛŒÚº"</string>
+  <string name="screen_roomlist_filter_unreads">"ØºÛŒØ± Ù…Ù‚Ø±ÙˆØ¡Û"</string>
+  <string name="screen_roomlist_filter_unreads_empty_state_title">"Ù…Ø¨Ø§Ø±Ú© ÛÙˆ!
+Ø¢Ù¾ Ú©Û’ Ù¾Ø§Ø³ Ú©ÙˆØ¦ÛŒ ØºÛŒØ± Ù…Ù‚Ø±ÙˆØ¡Û Ù¾ÛŒØºØ§Ù…Ø§Øª Ù†ÛÛŒÚº!"</string>
+  <string name="screen_roomlist_main_space_title">"Ú¯ÙØªÚ¯ÙˆØ¦ÛŒÚº"</string>
+  <string name="screen_roomlist_mark_as_read">"Ø¨Ø·ÙˆØ± Ù…Ù‚Ø±ÙˆØ¡Û Ù†Ø´Ø§Ù†Ø²Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_roomlist_mark_as_unread">"Ø¨Ø·ÙˆØ± ØºÛŒØ± Ù…Ù‚Ø±ÙˆØ¡Û Ù†Ø´Ø§Ù†Ø²Ø¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="session_verification_banner_message">"Ø§ÛŒØ³Ø§ Ù„Ú¯ØªØ§ ÛÛ’ Ú©Û Ø¢Ù¾ Ø§ÛŒÚ© Ù†ÛŒØ§ Ø¢Ù„Û Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø± Ø±ÛÛ’ ÛÛŒÚºÛ” Ø§Ù¾Ù†Û’ Ù…Ø±Ù…ÙˆØ²Ú©Ø±Ø¯Û Ù¾ÛŒØºØ§Ù…Ø§Øª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ú©ÛŒÙ„Ø¦Û’ Ú©Ø³ÛŒ Ø¯ÙˆØ³Ø±Û’ Ø¢Ù„Û’ Ø³Û’ ØªÙˆØ«ÛŒÙ‚ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="session_verification_banner_title">"ØªØµØ¯ÛŒÙ‚ Ú©Ø±ÛŒÚº Ú©Û Ø¢Ù¾ ÛÛŒ ÛÛŒÚº"</string>
+</resources>
+

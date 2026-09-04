@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="notification_channel_call">"í†µí™”"</string>
+  <string name="notification_channel_listening_for_events">"ì´ë²¤íŠ¸ ìˆ˜ì‹ "</string>
+  <string name="notification_channel_noisy">"ì†Œë¦¬ ì•Œë¦¼"</string>
+  <string name="notification_channel_ringing_calls">"ì „í™”ë²¨ì´ ìš¸ë¦°ë‹¤"</string>
+  <string name="notification_channel_silent">"ë¬´ìŒ ì•Œë¦¼"</string>
+  <plurals name="notification_compat_summary_line_for_room">
+    <item quantity="other">"%1$s: %2$d ë©”ì„¸ì§€"</item>
+  </plurals>
+  <plurals name="notification_compat_summary_title">
+    <item quantity="other">"%d ì•Œë¦¼"</item>
+  </plurals>
+  <string name="notification_error_unified_push_unregistered_android">"í†µí•© í‘¸ì‹œ(UnifiedPush) ì•Œë¦¼ ë°°í¬ê¸°ë¥¼ ë“±ë¡í•  ìˆ˜ ì—†ì–´ ë” ì´ìƒ ì•Œë¦¼ì„ ë°›ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì•±ì˜ ì•Œë¦¼ ì„¤ì •ê³¼ í‘¸ì‹œ ë°°í¬ê¸°ì˜ ìƒíƒœë¥¼ í™•ì¸í•´ ì£¼ì„¸ìš”."</string>
+  <string name="notification_fallback_content">"ì•Œë¦¼"</string>
+  <plurals name="notification_fallback_n_content">
+    <item quantity="other">"%dê°œì˜ ìƒˆ ë©”ì‹œì§€ê°€ ìžˆìŠµë‹ˆë‹¤."</item>
+  </plurals>
+  <string name="notification_incoming_audio_call">"ðŸ“ž ìˆ˜ì‹  ì „í™”"</string>
+  <string name="notification_incoming_call">"ðŸ“¹ ìˆ˜ì‹  ì „í™”"</string>
+  <string name="notification_inline_reply_failed">"** ì „ì†¡ ì‹¤íŒ¨ - ë°©ì„ ì—´ì—¬ì£¼ì„¸ìš”"</string>
+  <string name="notification_invitation_action_join">"ì°¸ê°€í•˜ê¸°"</string>
+  <string name="notification_invitation_action_reject">"ê±°ë¶€"</string>
+  <plurals name="notification_invitations">
+    <item quantity="other">"%d ì´ˆëŒ€"</item>
+  </plurals>
+  <string name="notification_invite_body">"ì±„íŒ…ì— ì´ˆëŒ€ë¨"</string>
+  <string name="notification_invite_body_with_sender">"%1$s ê°€ ì±„íŒ…ì— ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="notification_mentioned_you_body">"ë‹¹ì‹ ì„ ì–¸ê¸‰í–ˆìŠµë‹ˆë‹¤: %1$s"</string>
+  <string name="notification_new_messages">"ìƒˆ ë©”ì‹œì§€"</string>
+  <plurals name="notification_new_messages_for_room">
+    <item quantity="other">"%d ìƒˆ ë©”ì‹œì§€"</item>
+  </plurals>
+  <string name="notification_reaction_body">"%1$së¡œ ë°˜ì‘í•¨"</string>
+  <string name="notification_room_action_mark_as_read">"ì½ìŒìœ¼ë¡œ í‘œì‹œ"</string>
+  <string name="notification_room_action_quick_reply">"ë¹ ë¥¸ ë‹µìž¥"</string>
+  <string name="notification_room_invite_body">"ë°©ì— ì´ˆëŒ€ë°›ìŒ"</string>
+  <string name="notification_room_invite_body_with_sender">"%1$s ê°€ ë‹¹ì‹ ì„ ì´ ë°©ì— ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="notification_sender_me">"ë‚˜"</string>
+  <string name="notification_sender_mention_reply">"%1$s ì–¸ê¸‰í•˜ê±°ë‚˜ ë‹µë³€í•¨"</string>
+  <string name="notification_space_invite_body">"ê·€í•˜ë¥¼ ìŠ¤íŽ˜ì´ìŠ¤ ì°¸ì—¬ì— ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="notification_space_invite_body_with_sender">"%1$së‹˜ì´ ê·€í•˜ë¥¼ ìŠ¤íŽ˜ì´ìŠ¤ ì°¸ì—¬í•˜ë„ë¡ ì´ˆëŒ€í–ˆìŠµë‹ˆë‹¤"</string>
+  <string name="notification_test_push_notification_content">"ì•Œë¦¼ì„ ë³´ê³  ìžˆìŠµë‹ˆë‹¤! í´ë¦­í•´ì£¼ì„¸ìš”!"</string>
+  <string name="notification_thread_in_room">"%1$sì˜ ìŠ¤ë ˆë“œ"</string>
+  <string name="notification_ticker_text_dm">"%1$s: %2$s"</string>
+  <string name="notification_ticker_text_group">"%1$s: %2$s %3$s"</string>
+  <plurals name="notification_unread_notified_messages">
+    <item quantity="other">"%d ì½ì§€ ì•Šì€ ë©”ì‹œì§€ ì•Œë¦¼"</item>
+  </plurals>
+  <string name="notification_unread_notified_messages_and_invitation">"%1$s ë° %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room">"%1$s ë‚´ %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room_and_invitation">"%1$s ë‚´ %2$s ë° %3$s"</string>
+  <plurals name="notification_unread_notified_messages_in_room_rooms">
+    <item quantity="other">"%d ë°©"</item>
+  </plurals>
+  <string name="push_distributor_background_sync_android">"ë°±ê·¸ë¼ìš´ë“œ ë™ê¸°í™”"</string>
+  <string name="push_distributor_firebase_android">"Google ì„œë¹„ìŠ¤"</string>
+  <string name="push_no_valid_google_play_services_apk_android">"ìœ íš¨í•œ Google Play ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í–ˆìŠµë‹ˆë‹¤. ì•Œë¦¼ì´ ì •ìƒì ìœ¼ë¡œ ë™ìž‘í•˜ì§€ ì•Šì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_blocked_users_description">"ì°¨ë‹¨ëœ ì‚¬ìš©ìž í™•ì¸"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_quick_fix">"ì°¨ë‹¨ëœ ì‚¬ìš©ìž ë³´ê¸°"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_result_none">"ì°¨ë‹¨ëœ ì‚¬ìš©ìžëŠ” ì—†ìŠµë‹ˆë‹¤."</string>
+  <plurals name="troubleshoot_notifications_test_blocked_users_result_some">
+    <item quantity="other">"%1$dëª…ì˜ ì‚¬ìš©ìžë¥¼ ì°¨ë‹¨í–ˆìŠµë‹ˆë‹¤. ì´ì œ í•´ë‹¹ ì‚¬ìš©ìžë“¤ì˜ ì•Œë¦¼ì„ ë°›ì§€ ì•ŠìŠµë‹ˆë‹¤."</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_blocked_users_title">"ì°¨ë‹¨í•œ ì‚¬ìš©ìž"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_description">"í˜„ìž¬ ì œê³µìžì˜ ì´ë¦„ì„ ê°€ì ¸ì˜µë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure">"í‘¸ì‹œ ì œê³µìžê°€ ì„ íƒë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure_distributor_not_found">"í˜„ìž¬ í‘¸ì‹œ ì œê³µì—…ì²´: %1$s, í˜„ìž¬ ë°°í¬ì²˜: %2$s. í•˜ì§€ë§Œ ë°°í¬ì²˜ %3$sì„(ë¥¼) ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤. ì• í”Œë¦¬ì¼€ì´ì…˜ì´ ì‚­ì œëœ ê²ƒì¼ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure_no_distributor">"í˜„ìž¬ í‘¸ì‹œ ì œê³µì—…ì²´ëŠ” %1$sì´ì§€ë§Œ, ì„¤ì •ëœ ë°°í¬ì²˜ê°€ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_success">"í˜„ìž¬ í‘¸ì‹œ ì œê³µìž: %1$s."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_success_with_distributor">"í˜„ìž¬ í‘¸ì‹œ ì œê³µì—…ì²´: %1$s(%2$s)"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_title">"í˜„ìž¬ í‘¸ì‹œ ì œê³µìž"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_description">"ì• í”Œë¦¬ì¼€ì´ì…˜ì´ ì ì–´ë„ í•˜ë‚˜ì˜ í‘¸ì‹œ ì œê³µìžë¥¼ ì§€ì›í•˜ëŠ”ì§€ í™•ì¸í•˜ì‹­ì‹œì˜¤."</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_failure">"í‘¸ì‹œ ì œê³µìž ì§€ì›ì´ ë°œê²¬ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤."</string>
+  <plurals name="troubleshoot_notifications_test_detect_push_provider_success">
+    <item quantity="other">"%1$d í‘¸ì‹œ ì œê³µìžë¥¼ ì°¾ì•˜ìŠµë‹ˆë‹¤: %2$s"</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_detect_push_provider_success_2">"ì´ ì• í”Œë¦¬ì¼€ì´ì…˜ì€ ë‹¤ìŒì„ ì§€ì›í•˜ë„ë¡ êµ¬ì¶•ë˜ì—ˆìŠµë‹ˆë‹¤: %1$s"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_title">"í‘¸ì‹œ ì œê³µìž ì§€ì›"</string>
+  <string name="troubleshoot_notifications_test_display_notification_description">"ì• í”Œë¦¬ì¼€ì´ì…˜ì—ì„œ ì•Œë¦¼ì„ í‘œì‹œí•  ìˆ˜ ìžˆëŠ”ì§€ í™•ì¸í•˜ì„¸ìš”."</string>
+  <string name="troubleshoot_notifications_test_display_notification_failure">"ì•Œë¦¼ì´ í´ë¦­ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_display_notification_permission_failure">"ì•Œë¦¼ì„ í‘œì‹œí•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_display_notification_success">"ì•Œë¦¼ì´ í´ë¦­ë˜ì—ˆìŠµë‹ˆë‹¤!"</string>
+  <string name="troubleshoot_notifications_test_display_notification_title">"ì•Œë¦¼ í‘œì‹œ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_waiting">"ì•Œë¦¼ì„ í´ë¦­í•˜ì—¬ í…ŒìŠ¤íŠ¸ë¥¼ ê³„ì†í•˜ì„¸ìš”."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_description">"ì• í”Œë¦¬ì¼€ì´ì…˜ì´ í‘¸ì‹œë¥¼ ìˆ˜ì‹ í•˜ëŠ”ì§€ í™•ì¸í•˜ì„¸ìš”."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_1">"ì˜¤ë¥˜: í‘¸ì…”ê°€ ìš”ì²­ì„ ê±°ë¶€í–ˆìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_2">"ì˜¤ë¥˜: %1$s."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_3">"ì˜¤ë¥˜, í‘¸ì‹œ í…ŒìŠ¤íŠ¸ê°€ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_4">"ì˜¤ë¥˜, í‘¸ì‹œ ëŒ€ê¸° ì¤‘ ì‹œê°„ ì´ˆê³¼."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_success">"í‘¸ì‹œ ë£¨í”„ë°±ì´ %1$d ms ì†Œìš”ë˜ì—ˆìŠµë‹ˆë‹¤."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_title">"í…ŒìŠ¤íŠ¸ í‘¸ì‹œ ë£¨í”„ë°±"</string>
+</resources>
+

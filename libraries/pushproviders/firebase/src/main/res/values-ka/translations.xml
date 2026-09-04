@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_firebase_availability_description">"áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ˜áƒ— áƒ áƒáƒ› Firebase áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_failure">"Firebase áƒáƒ áƒáƒ áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_success">"Firebase áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_title">"Firebase-áƒ˜áƒ¡ áƒ¨áƒ”áƒ›áƒáƒ¬áƒ›áƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_test_firebase_token_description">"áƒ“áƒáƒ áƒ¬áƒ›áƒ£áƒœáƒ“áƒ˜áƒ— áƒ áƒáƒ› Firebase áƒ¢áƒáƒ™áƒ”áƒœáƒ˜ áƒ®áƒ”áƒšáƒ›áƒ˜áƒ¡áƒáƒ¬áƒ•áƒ“áƒáƒ›áƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_failure">"Firebase áƒ¢áƒáƒ™áƒ”áƒœáƒ˜ áƒ£áƒªáƒœáƒáƒ‘áƒ˜áƒ."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_success">"Firebase áƒ¢áƒáƒ™áƒ”áƒœáƒ˜: %1$s."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_title">"áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ— Firebase áƒ¢áƒáƒ™áƒ”áƒœáƒ˜"</string>
+</resources>
+

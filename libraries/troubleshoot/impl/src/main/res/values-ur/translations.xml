@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_screen_action">"Ø¬Ø§Ù†Ú†ÛØ§ Ú†Ù„Ø§Ø¦ÛŒÚº"</string>
+  <string name="troubleshoot_notifications_screen_action_again">"Ø¬Ø§Ù†Ú†ÛØ§ Ø¯ÙˆØ¨Ø§Ø±Û Ú†Ù„Ø§Ø¦ÛŒÚº"</string>
+  <string name="troubleshoot_notifications_screen_failure">"Ú©Ú†Ú¾ Ø¬Ø§Ù†Ú†ÛŒÚº Ù†Ø§Ú©Ø§Ù…Û” Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ ØªÙØµÛŒÙ„Ø§Øª Ù¾Ú‘ØªØ§Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="troubleshoot_notifications_screen_notice">"Ø§Ù¾Ù†ÛŒ ØªÚ©ÙˆÛŒÙ† Ù…ÛŒÚº Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ Ù…Ø³Ø¦Ù„Û’ Ú©Ø§ Ú©Ú¾ÙˆØ¬ Ù„Ú¯Ø§Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ø¬Ø§Ù†Ú† ÛØ§ Ú†Ù„Ø§Ø¦ÛŒÚº Ø¬Ø³ Ø³Û’ Ø§Ø·Ù„Ø§Ø¹Ø§Øª ØªÙˆÙ‚Ø¹ Ú©Û’ Ù…Ø·Ø§Ø¨Ù‚ Ø¨Ø±ØªØ§Ø¤ Ù†Û Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="troubleshoot_notifications_screen_quick_fix_action">"Ù¹Ú¾ÛŒÚ© Ú©Ø±Ù†Û’ Ú©ÛŒ Ú©ÙˆØ´Ø´ Ú©Ø±ÛŒÚº"</string>
+  <string name="troubleshoot_notifications_screen_success">"ØªÙ…Ø§Ù… Ø¬Ø§Ù†Ú†ÛŒÚº Ú©Ø§Ù…ÛŒØ§Ø¨ÛŒ Ø³Û’ Ú¯Ø²Ø§Ø±ÛŒÚº ÛÛŒÚºÛ”"</string>
+  <string name="troubleshoot_notifications_screen_title">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©Ø§ Ø§Ø²Ø§Ù„Û Ú©Ø±ÛŒÚº"</string>
+  <string name="troubleshoot_notifications_screen_waiting">"Ú©Ú†Ú¾ Ø¬Ø§Ù†Ú†ÙˆÚº Ú©ÛŒÙ„Ø¦Û’ Ø¢Ù¾Ú©ÛŒ ØªÙˆØ¬Û Ø¯Ø±Ú©Ø§Ø± ÛÛ’Û” Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ ØªÙØµÛŒÙ„Ø§Øª Ù¾Ú‘ØªØ§Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+</resources>
+

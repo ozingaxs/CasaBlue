@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_app_lock_biometric_authentication">"Ø§Ù„Ù…ØµØ§Ø¯Ù‚Ø© Ø¨Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_biometric_unlock">"Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_biometric_unlock_title_android">"Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_confirm_biometric_authentication_android">"ØªØ£ÙƒÙŠØ¯ Ø§Ù„Ù…ØµØ§Ø¯Ù‚Ø© Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_forgot_pin">"Ù‡Ù„ Ù†Ø³ÙŠØª Ø±Ù…Ø² PINØŸ"</string>
+  <string name="screen_app_lock_settings_change_pin">"ØªØºÙŠÙŠØ± Ø±Ù…Ø² PIN"</string>
+  <string name="screen_app_lock_settings_enable_biometric_unlock">"Ø§Ù„Ø³Ù…Ø§Ø­ Ø¨Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_settings_remove_pin">"Ø¥Ø²Ø§Ù„Ø© Ø±Ù…Ø² PIN"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_message">"Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø±ØºØ¨ØªÙƒ ÙÙŠ Ø¥Ø²Ø§Ù„Ø© Ø±Ù…Ø² PINØŸ"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_title">"Ø¥Ø²Ø§Ù„Ø© Ø±Ù…Ø² PINØŸ"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_allow_title">"Ø§Ù„Ø³Ù…Ø§Ø­ Ø¨Ù€ %1$s"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_skip">"Ø£ÙØ¶Ù‘Ù„ Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø±Ù…Ø² PIN"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_subtitle">"ÙˆÙÙ‘Ø± Ø¨Ø¹Ø¶ Ø§Ù„ÙˆÙ‚Øª ÙˆØ§Ø³ØªØ®Ø¯Ù… %1$s Ù„Ø¥Ù„ØºØ§Ø¡ Ù‚ÙÙ„ Ø§Ù„ØªØ·Ø¨ÙŠÙ‚ ÙÙŠ ÙƒÙ„ Ù…Ø±Ø©"</string>
+  <string name="screen_app_lock_setup_choose_pin">"Ø§Ø®ØªØ± Ø±Ù…Ø² PIN"</string>
+  <string name="screen_app_lock_setup_confirm_pin">"ØªØ£ÙƒÙŠØ¯ Ø±Ù…Ø² PIN"</string>
+  <string name="screen_app_lock_setup_pin_context">"Ø§Ù‚ÙÙ„ %1$s Ù„Ø¥Ø¶Ø§ÙØ© Ù…Ø²ÙŠØ¯ Ù…Ù† Ø§Ù„Ø£Ù…Ø§Ù† Ø¥Ù„Ù‰ Ù…Ø­Ø§Ø¯Ø«Ø§ØªÙƒ.
+
+Ø§Ø®ØªØ± Ø´ÙŠØ¦Ù‹Ø§ ÙŠØ³Ù‡Ù„ ØªØ°ÙƒØ±Ù‡. Ø¥Ø°Ø§ Ù†Ø³ÙŠØª Ø±Ù…Ø² PIN Ù‡Ø°Ø§ØŒ ÙØ³ÙŠØªÙ… ØªØ³Ø¬ÙŠÙ„ Ø®Ø±ÙˆØ¬Ùƒ Ù…Ù† Ø§Ù„ØªØ·Ø¨ÙŠÙ‚."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_content">"Ù„Ø§ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ø®ØªÙŠØ§Ø± Ù‡Ø°Ø§ ÙƒØ±Ù…Ø² PIN Ù„Ø£Ø³Ø¨Ø§Ø¨ Ø£Ù…Ù†ÙŠØ©"</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_title">"Ø§Ø®ØªØ± Ø±Ù…Ø² PIN Ù…Ø®ØªÙ„ÙÙ‹Ø§"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_content">"ÙŠÙØ±Ø¬Ù‰ Ø¥Ø¯Ø®Ø§Ù„ Ø±Ù…Ø² PIN Ù†ÙØ³Ù‡ Ù…Ø±ØªÙŠÙ†"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_title">"Ø±Ù…Ø²Ø§ PIN ØºÙŠØ± Ù…ØªØ·Ø§Ø¨Ù‚ÙŠÙ†"</string>
+  <string name="screen_app_lock_signout_alert_message">"Ø³ØªØ­ØªØ§Ø¬ Ø¥Ù„Ù‰ ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ù…Ø±Ø© Ø£Ø®Ø±Ù‰ ÙˆØ¥Ù†Ø´Ø§Ø¡ Ø±Ù…Ø² PIN Ø¬Ø¯ÙŠØ¯ Ù„Ù„Ù…ØªØ§Ø¨Ø¹Ø©"</string>
+  <string name="screen_app_lock_signout_alert_title">"ØªØªÙ… Ø¥Ø²Ø§Ù„Ø© Ù‡Ø°Ø§ Ø§Ù„Ø¬Ù‡Ø§Ø²"</string>
+  <plurals name="screen_app_lock_subtitle">
+    <item quantity="zero">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„Ø§Øª Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+    <item quantity="one">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„Ø© Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+    <item quantity="two">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„ØªØ§Ù† Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+    <item quantity="few">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„Ø§Øª Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+    <item quantity="many">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„Ø© Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+    <item quantity="other">"Ù„Ø¯ÙŠÙƒ %1$d Ù…Ø­Ø§ÙˆÙ„Ø© Ù„Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ù‚ÙÙ„"</item>
+  </plurals>
+  <plurals name="screen_app_lock_subtitle_wrong_pin">
+    <item quantity="zero">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±Øµ Ø£Ø®Ø±Ù‰"</item>
+    <item quantity="one">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±ØµØ© Ø£Ø®Ø±Ù‰"</item>
+    <item quantity="two">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±ØµØªØ§Ù† Ø£Ø®Ø±ÙŠØ§Ù†"</item>
+    <item quantity="few">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±Øµ Ø£Ø®Ø±Ù‰"</item>
+    <item quantity="many">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±ØµØ© Ø£Ø®Ø±Ù‰"</item>
+    <item quantity="other">"Ø±Ù…Ø² PIN ØºÙŠØ± ØµØ­ÙŠØ­. Ù„Ø¯ÙŠÙƒ %1$d ÙØ±ØµØ© Ø£Ø®Ø±Ù‰"</item>
+  </plurals>
+  <string name="screen_app_lock_use_biometric_android">"Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…Ù‚Ø§ÙŠÙŠØ³ Ø§Ù„Ø­ÙŠÙˆÙŠØ©"</string>
+  <string name="screen_app_lock_use_pin_android">"Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø±Ù…Ø² PIN"</string>
+  <string name="screen_signout_in_progress_dialog_content">"ØªØ¬Ø±ÙŠ Ø¥Ø²Ø§Ù„Ø© Ø§Ù„Ø¬Ù‡Ø§Ø²..."</string>
+</resources>
+

@@ -1,0 +1,65 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_room_change_permissions_administrators">"Qu?n tr? viên"</string>
+  <string name="screen_room_change_permissions_ban_people">"C?m ngu?i dùng"</string>
+  <string name="screen_room_change_permissions_delete_messages">"Xóa tin nh?n"</string>
+  <string name="screen_room_change_permissions_everyone">"Thành viên"</string>
+  <string name="screen_room_change_permissions_invite_people">"M?i m?i ngu?i"</string>
+  <string name="screen_room_change_permissions_manage_space_rooms">"Qu?n lý phòng trò chuy?n"</string>
+  <string name="screen_room_change_permissions_member_moderation">"Qu?n lý thành viên"</string>
+  <string name="screen_room_change_permissions_messages_and_content">"Tin nh?n và n?i dung."</string>
+  <string name="screen_room_change_permissions_moderators">"Ngu?i di?u hành"</string>
+  <string name="screen_room_change_permissions_remove_people">"G? ngu?i dùng"</string>
+  <string name="screen_room_change_permissions_room_avatar">"Ð?i ?nh d?i di?n"</string>
+  <string name="screen_room_change_permissions_room_details">"Ch?nh s?a thông tin"</string>
+  <string name="screen_room_change_permissions_room_name">"Ð?i tên"</string>
+  <string name="screen_room_change_permissions_room_topic">"Ð?i ch? d?"</string>
+  <string name="screen_room_change_permissions_send_messages">"G?i tin nh?n."</string>
+  <string name="screen_room_change_role_administrators_title">"Ch?nh s?a Qu?n tr? viên"</string>
+  <string name="screen_room_change_role_confirm_add_admin_description">"B?n s? không th? hoàn tác hành d?ng này. B?n dang thang quy?n cho ngu?i dùng lên cùng c?p quy?n v?i b?n."</string>
+  <string name="screen_room_change_role_confirm_add_admin_title">"Thêm qu?n tr? viên?"</string>
+  <string name="screen_room_change_role_confirm_demote_self_action">"Giáng c?p"</string>
+  <string name="screen_room_change_role_confirm_demote_self_description">"B?n s? không th? hoàn tác thay d?i này vì b?n dang t? giáng c?p b?n thân, n?u b?n là ngu?i dùng cu?i cùng có d?c quy?n trong phòng, nó s? không th? l?y l?i d?c quy?n."</string>
+  <string name="screen_room_change_role_confirm_demote_self_title">"Giáng c?p b?n thân?"</string>
+  <string name="screen_room_change_role_invited_member_name">"%1$s (Ðang ch? x? lý)"</string>
+  <string name="screen_room_change_role_moderators_title">"Ch?nh s?a Ngu?i di?u hành"</string>
+  <string name="screen_room_change_role_section_administrators">"Qu?n tr? viên"</string>
+  <string name="screen_room_change_role_section_moderators">"Ngu?i di?u hành"</string>
+  <string name="screen_room_change_role_section_users">"Thành viên"</string>
+  <string name="screen_room_change_role_unsaved_changes_description">"B?n có thay d?i chua du?c luu."</string>
+  <string name="screen_room_change_role_unsaved_changes_title">"Luu thay d?i?"</string>
+  <string name="screen_room_member_list_banned_empty">"Hi?n không có ngu?i dùng nào b? c?m."</string>
+  <plurals name="screen_room_member_list_banned_header_title">
+    <item quantity="other">"%1$d b? c?m"</item>
+  </plurals>
+  <plurals name="screen_room_member_list_header_title">
+    <item quantity="other">"%1$d ngu?i"</item>
+  </plurals>
+  <string name="screen_room_member_list_manage_member_remove_confirmation_ban">"C?m ngu?i dùng"</string>
+  <string name="screen_room_member_list_manage_member_remove_confirmation_kick">"Ch? xóa thành viên"</string>
+  <string name="screen_room_member_list_manage_member_unban_action">"B? c?m"</string>
+  <string name="screen_room_member_list_manage_member_unban_message">"H? có th? tham gia l?i phòng này n?u du?c m?i."</string>
+  <string name="screen_room_member_list_mode_banned">"B? c?m"</string>
+  <string name="screen_room_member_list_mode_members">"Thành viên"</string>
+  <plurals name="screen_room_member_list_pending_header_title">
+    <item quantity="other">"%1$d du?c m?i"</item>
+  </plurals>
+  <string name="screen_room_member_list_role_administrator">"Qu?n tr? viên"</string>
+  <string name="screen_room_member_list_role_moderator">"Ngu?i di?u hành"</string>
+  <string name="screen_room_member_list_room_members_header_title">"Thành viên phòng"</string>
+  <string name="screen_room_member_list_unbanning_user">"Ðang g? c?m %1$s"</string>
+  <string name="screen_room_roles_and_permissions_admins">"Qu?n tr? viên"</string>
+  <string name="screen_room_roles_and_permissions_change_my_role">"Thay d?i vai trò c?a tôi"</string>
+  <string name="screen_room_roles_and_permissions_change_role_demote_to_member">"H? c?p xu?ng thành thành viên"</string>
+  <string name="screen_room_roles_and_permissions_change_role_demote_to_moderator">"H? c?p xu?ng làm ngu?i di?u hành"</string>
+  <string name="screen_room_roles_and_permissions_member_moderation">"Qu?n lý thành viên"</string>
+  <string name="screen_room_roles_and_permissions_messages_and_content">"Tin nh?n và n?i dung."</string>
+  <string name="screen_room_roles_and_permissions_moderators">"Ngu?i di?u hành"</string>
+  <string name="screen_room_roles_and_permissions_reset">"Ð?t l?i quy?n truy c?p"</string>
+  <string name="screen_room_roles_and_permissions_reset_confirm_description">"Sau khi b?n d?t l?i quy?n truy c?p, b?n s? m?t các cài d?t hi?n t?i."</string>
+  <string name="screen_room_roles_and_permissions_reset_confirm_title">"Ð?t l?i quy?n truy c?p?"</string>
+  <string name="screen_room_roles_and_permissions_roles_header">"Vai trò"</string>
+  <string name="screen_room_roles_and_permissions_room_details">"Chi ti?t phòng"</string>
+  <string name="screen_room_roles_and_permissions_title">"Vai trò và quy?n h?n"</string>
+</resources>
+

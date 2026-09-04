@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_unified_push_description">"ÙŠØªØ­Ù‚Ù‚ Ù…Ù† ØªÙˆÙØ± Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush."</string>
+  <string name="troubleshoot_notifications_test_unified_push_failure">"Ù„Ù… ÙŠØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø£ÙŠ Ù…ÙˆØ²Ù‘Ø¹ UnifiedPush."</string>
+  <plurals name="troubleshoot_notifications_test_unified_push_success">
+    <item quantity="zero">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…Ù† Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush: %2$s."</item>
+    <item quantity="one">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…ÙˆØ²Ù‘Ø¹ UnifiedPush: %2$s."</item>
+    <item quantity="two">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…Ù† Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush: %2$s."</item>
+    <item quantity="few">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…Ù† Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush: %2$s."</item>
+    <item quantity="many">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…Ù† Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush: %2$s."</item>
+    <item quantity="other">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ %1$d Ù…Ù† Ù…ÙˆØ²Ù‘Ø¹ÙŠ UnifiedPush: %2$s."</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_unified_push_title">"Ø§Ù„ØªØ­Ù‚Ù‚ Ù…Ù† UnifiedPush"</string>
+</resources>
+

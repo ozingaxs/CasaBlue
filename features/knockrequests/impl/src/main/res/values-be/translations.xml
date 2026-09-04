@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_knock_requests_list_decline_alert_title">"ÐÐ´Ñ…Ñ–Ð»Ñ–Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿"</string>
+  <string name="screen_room_multiple_knock_requests_view_all_button_title">"ÐŸÐ°Ð³Ð»ÑÐ´Ð·ÐµÑ†ÑŒ ÑƒÑÐµ"</string>
+  <string name="screen_room_single_knock_request_accept_button_title">"ÐŸÑ€Ñ‹Ð½ÑÑ†ÑŒ"</string>
+</resources>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_share_location_live_location_disclaimer_title">"Ø³ÙŠÙØ®Ø²Ù‘ÙŽÙ† Ø³Ø¬Ù„ Ù…ÙˆÙ‚Ø¹Ùƒ Ø§Ù„Ù…Ø¨Ø§Ø´Ø± ÙÙŠ Ø§Ù„ØºØ±ÙØ© ÙˆØ³ÙŠÙƒÙˆÙ† Ù…Ø±Ø¦ÙŠÙ‹Ø§ Ù„Ù„Ø£Ø¹Ø¶Ø§Ø¡ Ø¨Ø¹Ø¯ Ø§Ù†ØªÙ‡Ø§Ø¡ Ø§Ù„Ø¬Ù„Ø³Ø©."</string>
+  <string name="screen_share_location_live_location_duration_picker_title">"Ø§Ø®ØªØ± Ù…Ø¯Ø© Ù…Ø´Ø§Ø±ÙƒØ© Ù…ÙˆÙ‚Ø¹Ùƒ Ø§Ù„Ù…Ø¨Ø§Ø´Ø±."</string>
+  <string name="screen_share_location_live_location_missing_permissions">"Ù„ÙŠØ³Øª Ù„Ø¯ÙŠÙƒ ØµÙ„Ø§Ø­ÙŠØ§Øª Ù„Ù…Ø´Ø§Ø±ÙƒØ© Ù…ÙˆÙ‚Ø¹Ùƒ Ø§Ù„Ù…Ø¨Ø§Ø´Ø± ÙÙŠ Ù‡Ø°Ù‡ Ø§Ù„ØºØ±ÙØ©"</string>
+</resources>
+

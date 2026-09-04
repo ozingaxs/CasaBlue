@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_poll_add_option_btn">"Î ÏÎ¿ÏƒÎ¸Î®ÎºÎ· ÎµÏ€Î¹Î»Î¿Î³Î®Ï‚"</string>
+  <string name="screen_create_poll_anonymous_desc">"Î•Î¼Ï†Î¬Î½Î¹ÏƒÎ· Î±Ï€Î¿Ï„ÎµÎ»ÎµÏƒÎ¼Î¬Ï„Ï‰Î½ Î¼ÏŒÎ½Î¿ Î¼ÎµÏ„Î¬ Ï„Î· Î»Î®Î¾Î· Ï„Î·Ï‚ ÏˆÎ·Ï†Î¿Ï†Î¿ÏÎ¯Î±Ï‚"</string>
+  <string name="screen_create_poll_anonymous_headline">"Î‘Ï€ÏŒÎºÏÏ…ÏˆÎ· ÏˆÎ®Ï†Ï‰Î½"</string>
+  <string name="screen_create_poll_answer_hint">"Î•Ï€Î¹Î»Î¿Î³Î® %1$d"</string>
+  <string name="screen_create_poll_cancel_confirmation_content_android">"ÎŸÎ¹ Î±Î»Î»Î±Î³Î­Ï‚ ÏƒÎ¿Ï… Î´ÎµÎ½ Î­Ï‡Î¿Ï…Î½ Î±Ï€Î¿Î¸Î·ÎºÎµÏ…Ï„ÎµÎ¯. Î£Î¯Î³Î¿Ï…ÏÎ± Î¸ÎµÏ‚ Î½Î± Ï€Î±Ï‚ Ï€Î¯ÏƒÏ‰;"</string>
+  <string name="screen_create_poll_delete_option_a11y">"Î”Î¹Î±Î³ÏÎ±Ï†Î® ÎµÏ€Î¹Î»Î¿Î³Î®Ï‚ %1$s"</string>
+  <string name="screen_create_poll_question_desc">"Î•ÏÏŽÏ„Î·ÏƒÎ· Î® Î¸Î­Î¼Î±"</string>
+  <string name="screen_create_poll_question_hint">"Î¤Î¯ Î±Ï†Î¿ÏÎ¬ Î· Î´Î·Î¼Î¿ÏƒÎºÏŒÏ€Î·ÏƒÎ·;"</string>
+  <string name="screen_create_poll_title">"Î”Î·Î¼Î¹Î¿Ï…ÏÎ³Î¯Î± Î”Î·Î¼Î¿ÏƒÎºÏŒÏ€Î·ÏƒÎ·Ï‚"</string>
+  <string name="screen_edit_poll_delete_confirmation">"Î˜ÎµÏ‚ ÏƒÎ¯Î³Î¿Ï…ÏÎ± Î½Î± Î´Î¹Î±Î³ÏÎ¬ÏˆÎµÎ¹Ï‚ Î±Ï…Ï„Î®Î½ Ï„Î· Î´Î·Î¼Î¿ÏƒÎºÏŒÏ€Î·ÏƒÎ·;"</string>
+  <string name="screen_edit_poll_delete_confirmation_title">"Î”Î¹Î±Î³ÏÎ±Ï†Î® Î”Î·Î¼Î¿ÏƒÎºÏŒÏ€Î·ÏƒÎ·Ï‚"</string>
+  <string name="screen_edit_poll_title">"Î•Ï€ÎµÎ¾ÎµÏÎ³Î±ÏƒÎ¯Î± Î´Î·Î¼Î¿ÏƒÎºÏŒÏ€Î·ÏƒÎ·Ï‚"</string>
+  <string name="screen_polls_history_empty_ongoing">"Î”ÎµÎ½ ÎµÎ¯Î½Î±Î¹ Î´Ï…Î½Î±Ï„Î® Î· ÎµÏÏÎµÏƒÎ· ÎµÎ½ÎµÏÎ³ÏŽÎ½ Î´Î·Î¼Î¿ÏƒÎºÎ¿Ï€Î®ÏƒÎµÏ‰Î½"</string>
+  <string name="screen_polls_history_empty_past">"Î”ÎµÎ½ ÎµÎ¯Î½Î±Î¹ Î´Ï…Î½Î±Ï„Î® Î· ÎµÏÏÎµÏƒÎ· Ï€Î±Î»Î¹ÏŽÎ½ Î´Î·Î¼Î¿ÏƒÎºÎ¿Ï€Î®ÏƒÎµÏ‰Î½"</string>
+  <string name="screen_polls_history_filter_ongoing">"Î£Îµ ÎµÎ¾Î­Î»Î¹Î¾Î·"</string>
+  <string name="screen_polls_history_filter_past">"Î Î±ÏÎµÎ»Î¸ÏŒÎ½"</string>
+  <string name="screen_polls_history_title">"Î”Î·Î¼Î¿ÏƒÎºÎ¿Ï€Î®ÏƒÎµÎ¹Ï‚"</string>
+</resources>
+

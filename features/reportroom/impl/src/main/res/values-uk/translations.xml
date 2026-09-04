@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_report_room_leave_failed_alert_message">"Ð’Ð°ÑˆÐ° ÑÐºÐ°Ñ€Ð³Ð° Ð½Ð°Ð´Ñ–ÑÐ»Ð°Ð½Ð°, Ð°Ð»Ðµ Ð¼Ð¸ Ð·Ñ–Ñ‚ÐºÐ½ÑƒÐ»Ð¸ÑÑ Ð· Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð¾ÑŽ Ð¿Ñ–Ð´ Ñ‡Ð°Ñ ÑÐ¿Ñ€Ð¾Ð±Ð¸ Ð²Ð¸Ð¹Ñ‚Ð¸ Ð· ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸. ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ñ–Ñ‚ÑŒ ÑÐ¿Ñ€Ð¾Ð±Ñƒ."</string>
+  <string name="screen_report_room_leave_failed_alert_title">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð²Ð¸Ð¹Ñ‚Ð¸ Ð· ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</string>
+  <string name="screen_report_room_reason_footer">"ÐŸÐ¾ÑÐºÐ°Ñ€Ð¶Ñ‚ÐµÑÑ Ð½Ð° Ñ†ÑŽ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ ÑÐ²Ð¾Ñ”Ð¼Ñƒ Ð°Ð´Ð¼Ñ–Ð½Ñ–ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ. Ð¯ÐºÑ‰Ð¾ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ Ð·Ð°ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ñ–, Ð²Ð°Ñˆ Ð°Ð´Ð¼Ñ–Ð½Ñ–ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð½Ðµ Ð·Ð¼Ð¾Ð¶Ðµ Ñ—Ñ… Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ñ‚Ð¸."</string>
+  <string name="screen_report_room_reason_placeholder">"ÐžÐ¿Ð¸ÑˆÑ–Ñ‚ÑŒ Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½Ñƒ..."</string>
+  <string name="screen_report_room_title">"ÐŸÐ¾ÑÐºÐ°Ñ€Ð¶Ð¸Ñ‚Ð¸ÑÑ Ð½Ð° ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+</resources>
+

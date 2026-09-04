@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_identity_confirmation_cannot_confirm">"ÐÐµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð¿Ð¾Ñ‚Ð²ÑŠÑ€Ð´Ð¸Ñ‚Ðµ?"</string>
+  <string name="screen_identity_confirmation_subtitle">"ÐŸÐ¾Ñ‚Ð²ÑŠÑ€Ð´ÐµÑ‚Ðµ Ñ‚Ð¾Ð²Ð° ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾, Ð·Ð° Ð´Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚Ðµ Ð·Ð°Ñ‰Ð¸Ñ‚ÐµÐ½Ð¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ."</string>
+  <string name="screen_identity_confirmation_title">"ÐŸÐ¾Ñ‚Ð²ÑŠÑ€Ð´ÐµÑ‚Ðµ ÑÐ°Ð¼Ð¾Ð»Ð¸Ñ‡Ð½Ð¾ÑÑ‚Ñ‚Ð° ÑÐ¸"</string>
+  <string name="screen_identity_confirmation_use_another_device">"Ð˜Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ð½Ðµ Ð½Ð° Ð´Ñ€ÑƒÐ³Ð¾ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_identity_confirmation_use_recovery_key">"Ð˜Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ð½Ðµ Ð½Ð° ÐºÐ»ÑŽÑ‡ Ð·Ð° Ð²ÑŠÐ·ÑÑ‚Ð°Ð½Ð¾Ð²ÑÐ²Ð°Ð½Ðµ"</string>
+  <string name="screen_identity_confirmed_title">"Ð£ÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾Ñ‚Ð¾ Ðµ Ð¿Ð¾Ñ‚Ð²ÑŠÑ€Ð´ÐµÐ½Ð¾"</string>
+  <string name="screen_identity_use_another_device">"Ð˜Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ð½Ðµ Ð½Ð° Ð´Ñ€ÑƒÐ³Ð¾ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_notification_optin_subtitle">"ÐœÐ¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð¿Ñ€Ð¾Ð¼ÐµÐ½Ð¸Ñ‚Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸Ñ‚Ðµ ÑÐ¸ Ð¿Ð¾-ÐºÑŠÑÐ½Ð¾."</string>
+  <string name="screen_notification_optin_title">"Ð Ð°Ð·Ñ€ÐµÑˆÐµÑ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÑÑ‚Ð° Ð¸ Ð½Ð¸ÐºÐ¾Ð³Ð° Ð½Ðµ Ð¿Ñ€Ð¾Ð¿ÑƒÑÐºÐ°Ð¹Ñ‚Ðµ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ"</string>
+</resources>
+

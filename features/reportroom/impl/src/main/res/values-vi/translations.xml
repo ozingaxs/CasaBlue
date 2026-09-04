@@ -1,0 +1,6 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_report_room_reason_footer">"Hãy báo cáo phòng chat này cho qu?n tr? viên c?a b?n. N?u tin nh?n du?c mã hóa, qu?n tr? viên s? không th? d?c du?c chúng."</string>
+  <string name="screen_report_room_title">"Báo cáo phòng"</string>
+</resources>
+

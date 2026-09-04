@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²ÑƒÑŽ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="screen_create_room_add_people_title">"ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="screen_create_room_error_creating_room">"ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹"</string>
+  <string name="screen_create_room_error_creating_space">"ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾ Ð¸Ð·-Ð·Ð° Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾Ð¹ Ð¾ÑˆÐ¸Ð±ÐºÐ¸. ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ Ð¿Ð¾Ð·Ð¶Ðµ."</string>
+  <string name="screen_create_room_name_placeholder">"Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¸Ð¼Ñ..."</string>
+  <string name="screen_create_room_new_room_title">"ÐÐ¾Ð²Ð°Ñ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ð°"</string>
+  <string name="screen_create_room_new_space_title">"ÐÐ¾Ð²Ð¾Ðµ Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_create_room_private_option_description">"ÐŸÑ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ð¼Ð¾Ð³ÑƒÑ‚ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð½Ñ‹Ðµ."</string>
+  <string name="screen_create_room_private_option_title">"ÐŸÑ€Ð¸Ð²Ð°Ñ‚Ð½Ñ‹Ð¹"</string>
+  <string name="screen_create_room_public_option_description">"Ð›ÑŽÐ±Ð¾Ð¹ Ð¶ÐµÐ»Ð°ÑŽÑ‰Ð¸Ð¹ Ð¼Ð¾Ð¶ÐµÑ‚ Ð½Ð°Ð¹Ñ‚Ð¸ ÑÑ‚Ñƒ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ.
+Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð² Ð»ÑŽÐ±Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹."</string>
+  <string name="screen_create_room_public_option_short_description">"ÐšÑ‚Ð¾ ÑƒÐ³Ð¾Ð´Ð½Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ."</string>
+  <string name="screen_create_room_public_option_title">"ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹"</string>
+  <string name="screen_create_room_room_access_section_knocking_option_description">"ÐšÑ‚Ð¾ ÑƒÐ³Ð¾Ð´Ð½Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ð¾Ð´Ð°Ñ‚ÑŒ Ð·Ð°ÑÐ²ÐºÑƒ, Ð½Ð¾ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð¸Ð»Ð¸ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±ÑƒÐ´ÐµÑ‚ Ð¿Ñ€Ð¸Ð½ÑÑ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ."</string>
+  <string name="screen_create_room_room_access_section_knocking_option_title">"Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð½Ð° Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_description">"ÐšÑ‚Ð¾ ÑƒÐ³Ð¾Ð´Ð½Ð¾ Ð² %1$s Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ, Ð° Ð²ÑÐµÐ¼ Ð¾ÑÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð½ÑƒÐ¶Ð½Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿."</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_title">"Ð—Ð°Ð¿Ñ€Ð¾ÑÑ‹ Ð½Ð° Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_create_room_room_access_section_private_option_description">"ÐŸÑ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸ÑÐ¼."</string>
+  <string name="screen_create_room_room_access_section_private_option_title">"ÐŸÑ€Ð¸Ð²Ð°Ñ‚Ð½Ñ‹Ð¹"</string>
+  <string name="screen_create_room_room_access_section_public_option_description">"ÐšÑ‚Ð¾ ÑƒÐ³Ð¾Ð´Ð½Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð½Ð¸Ñ‚ÑŒÑÑ."</string>
+  <string name="screen_create_room_room_access_section_public_option_title">"ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹"</string>
+  <string name="screen_create_room_room_access_section_restricted_option_description">"ÐšÑ‚Ð¾ ÑƒÐ³Ð¾Ð´Ð½Ð¾ Ð² %1$s Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ."</string>
+  <string name="screen_create_room_room_access_section_restricted_option_title">"Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚"</string>
+  <string name="screen_create_room_room_access_section_title">"ÐšÑ‚Ð¾ Ð¸Ð¼ÐµÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿"</string>
+  <string name="screen_create_room_room_address_section_footer">"ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð·Ð°Ð´Ð°Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¾Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ñ‚ÑŒ ÐµÐµ Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³ ÐºÐ¾Ð¼Ð½Ð°Ñ‚."</string>
+  <string name="screen_create_room_room_address_section_title">"ÐÐ´Ñ€ÐµÑ"</string>
+  <string name="screen_create_room_room_visibility_section_title">"Ð’Ð¸Ð´Ð¸Ð¼Ð¾ÑÑ‚ÑŒ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹"</string>
+  <string name="screen_create_room_space_selection_no_space_description">"(Ð½ÐµÑ‚ Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð°)"</string>
+  <string name="screen_create_room_space_selection_no_space_option">"ÐÐµ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ð² Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_create_room_space_selection_no_space_title">"ÐŸÑ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾"</string>
+  <string name="screen_create_room_space_selection_sheet_title">"Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ð¿Ñ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_create_room_topic_label">"Ð¢ÐµÐ¼Ð° (Ð½ÐµÐ¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾)"</string>
+  <string name="screen_create_room_topic_placeholder">"Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ..."</string>
+</resources>
+

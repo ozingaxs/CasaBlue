@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="crypto_event_authenticity_not_guaranteed">"Ð¡Ð°Ð¿Ñ€Ð°ÑžÐ´Ð½Ð°ÑÑ†ÑŒ Ð³ÑÑ‚Ð°Ð³Ð° Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð°Ð³Ð° Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ð¼Ð¾Ð¶Ð° Ð±Ñ‹Ñ†ÑŒ Ð³Ð°Ñ€Ð°Ð½Ñ‚Ð°Ð²Ð°Ð½Ð°Ñ Ð½Ð° Ð³ÑÑ‚Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="crypto_event_authenticity_previously_verified">"Ð—Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð° Ñ€Ð°Ð½ÐµÐ¹ Ð¿Ñ€Ð°Ð²ÐµÑ€Ð°Ð½Ñ‹Ð¼ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°Ð¼."</string>
+  <string name="crypto_event_authenticity_sent_in_clear">"ÐÐµ Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ñ‹."</string>
+  <string name="crypto_event_authenticity_unknown_device">"Ð—Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð° Ð½ÐµÐ²ÑÐ´Ð¾Ð¼Ð°Ð¹ Ñ†Ñ– Ð²Ñ‹Ð´Ð°Ð»ÐµÐ½Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð°Ð¹."</string>
+  <string name="crypto_event_authenticity_unsigned_device">"Ð—Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð° Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð°Ð¹, Ð½Ðµ Ð¿Ð°Ñ†Ð²ÐµÑ€Ð´Ð¶Ð°Ð½Ð°Ð¹ ÑÐµ ÑžÐ»Ð°Ð´Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°Ð¼."</string>
+  <string name="crypto_event_authenticity_unverified_identity">"Ð—Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð° Ð½ÐµÐ¿Ñ€Ð°Ð²ÐµÑ€Ð°Ð½Ñ‹Ð¼ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°Ð¼."</string>
+  <string name="screen_media_upload_preview_error_failed_processing">"ÐÐµ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ð»Ð°ÑÑ Ð°Ð¿Ñ€Ð°Ñ†Ð°Ð²Ð°Ñ†ÑŒ Ð¼ÐµÐ´Ñ‹ÑÑ„Ð°Ð¹Ð» Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑ–, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·."</string>
+  <string name="screen_media_upload_preview_error_failed_sending">"ÐÐµ Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ð»Ð°ÑÑ Ð·Ð°Ð³Ñ€ÑƒÐ·Ñ–Ñ†ÑŒ Ð¼ÐµÐ´Ñ‹ÑÑ„Ð°Ð¹Ð»Ñ‹, Ð¿Ð°ÑÐ¿Ñ€Ð°Ð±ÑƒÐ¹Ñ†Ðµ ÑÑˆÑ‡Ñ Ñ€Ð°Ð·."</string>
+  <string name="screen_media_upload_preview_processing">"ÐÐ¿Ñ€Ð°Ñ†Ð¾ÑžÐºÐ°..."</string>
+  <string name="screen_media_upload_preview_title">"Ð”Ð°Ð´Ð°Ñ†ÑŒ Ð¼ÐµÐ´Ñ‹Ñ"</string>
+  <string name="screen_report_content_block_user">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_report_content_block_user_hint">"ÐÐ´Ð·Ð½Ð°Ñ‡Ñ†Ðµ, Ñ†Ñ– Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð²Ñ‹ ÑÑ…Ð°Ð²Ð°Ñ†ÑŒ ÑƒÑÐµ Ð±ÑÐ³ÑƒÑ‡Ñ‹Ñ Ñ– Ð±ÑƒÐ´ÑƒÑ‡Ñ‹Ñ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð°Ð´ Ð³ÑÑ‚Ð°Ð³Ð° ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_report_content_explanation">"Ð“ÑÑ‚Ð°Ðµ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ðµ Ð±ÑƒÐ´Ð·Ðµ Ð¿ÐµÑ€Ð°Ð´Ð°Ð´Ð·ÐµÐ½Ð° Ð°Ð´Ð¼Ñ–Ð½Ñ–ÑÑ‚Ñ€Ð°Ñ‚Ð°Ñ€Ñƒ Ð²Ð°ÑˆÐ°Ð³Ð° Ñ…Ð°Ñ‚Ð½ÑÐ³Ð° ÑÐµÑ€Ð²ÐµÑ€Ð°. Ð¯Ð½Ñ‹ Ð½Ðµ Ð·Ð¼Ð¾Ð³ÑƒÑ†ÑŒ Ð¿Ñ€Ð°Ñ‡Ñ‹Ñ‚Ð°Ñ†ÑŒ Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ñ‹Ñ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–."</string>
+  <string name="screen_report_content_hint">"ÐŸÑ€Ñ‹Ñ‡Ñ‹Ð½Ð°, Ð¿Ð° ÑÐºÐ¾Ð¹ Ð²Ñ‹ Ð¿Ð°ÑÐºÐ°Ñ€Ð´Ð·Ñ–Ð»Ñ–ÑÑ Ð½Ð° Ð³ÑÑ‚Ñ‹ Ð·Ð¼ÐµÑÑ‚"</string>
+  <string name="screen_room_attachment_source_camera">"ÐšÐ°Ð¼ÐµÑ€Ð°"</string>
+  <string name="screen_room_attachment_source_camera_photo">"Ð—Ñ€Ð°Ð±Ñ–Ñ†ÑŒ Ñ„Ð¾Ñ‚Ð°"</string>
+  <string name="screen_room_attachment_source_camera_video">"Ð—Ð°Ð¿Ñ–ÑÐ°Ñ†ÑŒ Ð²Ñ–Ð´ÑÐ°"</string>
+  <string name="screen_room_attachment_source_files">"Ð”Ð°Ð»ÑƒÑ‡ÑÐ½Ð½Ðµ"</string>
+  <string name="screen_room_attachment_source_gallery">"Ð‘Ñ–Ð±Ð»Ñ–ÑÑ‚ÑÐºÐ° Ñ„Ð¾Ñ‚Ð° &amp; Ð²Ñ–Ð´ÑÐ°"</string>
+  <string name="screen_room_attachment_source_location">"ÐÐ±Ð°Ð³ÑƒÐ»Ñ–Ñ†ÑŒ Ð¼ÐµÑÑ†Ð°Ð·Ð½Ð°Ñ…Ð¾Ð´Ð¶Ð°Ð½Ð½Ðµ"</string>
+  <string name="screen_room_attachment_source_poll">"ÐÐ¿Ñ‹Ñ‚Ð°Ð½Ð½Ðµ"</string>
+  <string name="screen_room_attachment_text_formatting">"Ð¤Ð°Ñ€Ð¼Ð°Ñ†Ñ–Ñ€Ð°Ð²Ð°Ð½Ð½Ðµ Ñ‚ÑÐºÑÑ‚Ñƒ"</string>
+  <string name="screen_room_encrypted_history_banner">"Ð“Ñ–ÑÑ‚Ð¾Ñ€Ñ‹Ñ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž Ð·Ð°Ñ€Ð°Ð· Ð½ÐµÐ´Ð°ÑÑ‚ÑƒÐ¿Ð½Ð°."</string>
+  <string name="screen_room_encrypted_history_banner_unverified">"Ð“Ñ–ÑÑ‚Ð¾Ñ€Ñ‹Ñ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž Ñƒ Ð³ÑÑ‚Ñ‹Ð¼ Ð¿Ð°ÐºÐ¾Ñ– Ð½ÐµÐ´Ð°ÑÑ‚ÑƒÐ¿Ð½Ð°Ñ. ÐŸÑ€Ð°Ð²ÐµÑ€Ñ†Ðµ Ð³ÑÑ‚ÑƒÑŽ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñƒ, ÐºÐ°Ð± ÑƒÐ±Ð°Ñ‡Ñ‹Ñ†ÑŒ Ð³Ñ–ÑÑ‚Ð¾Ñ€Ñ‹ÑŽ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž."</string>
+  <string name="screen_room_invite_again_alert_message">"Ð’Ñ‹ Ñ…Ð¾Ñ‡Ð°Ñ†Ðµ Ð·Ð°Ð¿Ñ€Ð°ÑÑ–Ñ†ÑŒ Ñ–Ñ… Ð½Ð°Ð·Ð°Ð´?"</string>
+  <string name="screen_room_invite_again_alert_title">"Ð’Ñ‹ Ð°Ð´Ð·Ñ–Ð½ Ñƒ Ð³ÑÑ‚Ñ‹Ð¼ Ñ‡Ð°Ñ†Ðµ"</string>
+  <string name="screen_room_mentions_at_room_subtitle">"ÐÐ¿Ð°Ð²ÑÑÑ†Ñ–Ñ†ÑŒ ÑƒÐ²ÐµÑÑŒ Ð¿Ð°ÐºÐ¾Ð¹"</string>
+  <string name="screen_room_mentions_at_room_title">"Ð£ÑÐµ"</string>
+  <string name="screen_room_retry_send_menu_send_again_action">"ÐÐ´Ð¿Ñ€Ð°Ð²Ñ–Ñ†ÑŒ Ð·Ð½Ð¾Ñž"</string>
+  <string name="screen_room_retry_send_menu_title">"ÐÐµ ÑžÐ´Ð°Ð»Ð¾ÑÑ Ð°Ð´Ð¿Ñ€Ð°Ð²Ñ–Ñ†ÑŒ Ð²Ð°ÑˆÐ° Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ðµ"</string>
+  <string name="screen_room_timeline_add_reaction">"Ð”Ð°Ð´Ð°Ñ†ÑŒ ÑÐ¼Ð¾Ð´Ð·Ñ–"</string>
+  <string name="screen_room_timeline_beginning_of_room">"Ð“ÑÑ‚Ð° Ð¿Ð°Ñ‡Ð°Ñ‚Ð°Ðº %1$s."</string>
+  <string name="screen_room_timeline_beginning_of_room_no_name">"Ð“ÑÑ‚Ð° Ð¿Ð°Ñ‡Ð°Ñ‚Ð°Ðº Ð³ÑÑ‚Ð°Ð¹ Ñ€Ð°Ð·Ð¼Ð¾Ð²Ñ‹."</string>
+  <string name="screen_room_timeline_less_reactions">"ÐŸÐ°ÐºÐ°Ð·Ð°Ñ†ÑŒ Ð¼ÐµÐ½Ñˆ"</string>
+  <string name="screen_room_timeline_message_copied">"ÐŸÐ°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ðµ ÑÐºÐ°Ð¿Ñ–Ñ€Ð°Ð²Ð°Ð½Ð°"</string>
+  <string name="screen_room_timeline_no_permission_to_post">"Ð£ Ð’Ð°Ñ Ð½ÑÐ¼Ð° Ð´Ð°Ð·Ð²Ð¾Ð»Ñƒ Ð½Ð° Ð¿ÑƒÐ±Ð»Ñ–ÐºÐ°Ñ†Ñ‹ÑŽ Ñž Ð³ÑÑ‚Ñ‹Ð¼ Ð¿Ð°ÐºÐ¾Ñ–"</string>
+  <string name="screen_room_timeline_reactions_show_less">"ÐŸÐ°ÐºÐ°Ð·Ð°Ñ†ÑŒ Ð¼ÐµÐ½Ñˆ"</string>
+  <string name="screen_room_timeline_reactions_show_more">"ÐŸÐ°ÐºÐ°Ð·Ð°Ñ†ÑŒ Ð±Ð¾Ð»ÑŒÑˆ"</string>
+  <string name="screen_room_timeline_read_marker_title">"ÐÐ¾Ð²Ð°Ðµ"</string>
+  <plurals name="screen_room_timeline_state_changes">
+    <item quantity="one">"%1$d Ð·Ð¼ÐµÐ½Ð° Ñž Ð¿Ð°ÐºÐ¾Ñ–"</item>
+    <item quantity="few">"%1$d Ð·Ð¼ÐµÐ½Ñ‹ Ñž Ð¿Ð°ÐºÐ¾Ñ–"</item>
+    <item quantity="many">"%1$d Ð·Ð¼ÐµÐ½ Ñƒ Ð¿Ð°ÐºÐ¾Ñ–"</item>
+  </plurals>
+  <plurals name="screen_room_typing_many_members">
+    <item quantity="one">"%1$s, %2$s Ñ– %3$d Ñ–Ð½ÑˆÑ‹"</item>
+    <item quantity="many">"%1$s, %2$s Ñ– %3$d Ñ–Ð½ÑˆÑ‹Ñ"</item>
+  </plurals>
+  <plurals name="screen_room_typing_notification">
+    <item quantity="one">"%1$s Ð¿Ñ–ÑˆÐ°"</item>
+    <item quantity="few">"%1$s Ð¿Ñ–ÑˆÑƒÑ†ÑŒ"</item>
+    <item quantity="many">"%1$s Ð¿Ñ–ÑˆÑƒÑ†ÑŒ"</item>
+  </plurals>
+  <string name="screen_room_typing_two_members">"%1$s Ñ– %2$s"</string>
+</resources>
+

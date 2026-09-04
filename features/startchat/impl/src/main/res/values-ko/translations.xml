@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"ìƒˆ ë°©"</string>
+  <string name="screen_room_directory_search_title">"ë°© ë””ë ‰í† ë¦¬"</string>
+  <string name="screen_start_chat_error_starting_chat">"ì±„íŒ…ì„ ì‹œìž‘í•˜ëŠ” ë™ì•ˆ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_start_chat_join_room_by_address_action">"ì£¼ì†Œë¡œ ë°©ì— ì°¸ê°€í•˜ê¸°"</string>
+  <string name="screen_start_chat_join_room_by_address_invalid_address">"ìœ íš¨í•œ ì£¼ì†Œê°€ ì•„ë‹™ë‹ˆë‹¤"</string>
+  <string name="screen_start_chat_join_room_by_address_placeholder">"ìž…ë ¥í•˜ë‹¤..."</string>
+  <string name="screen_start_chat_join_room_by_address_room_found">"ì¼ì¹˜í•˜ëŠ” ë°©ì´ ë°œê²¬ë˜ì—ˆìŠµë‹ˆë‹¤"</string>
+  <string name="screen_start_chat_join_room_by_address_room_not_found">"ë°©ì„ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤"</string>
+  <string name="screen_start_chat_join_room_by_address_supporting_text">"ì˜ˆ: #room-name:matrix.org"</string>
+</resources>
+

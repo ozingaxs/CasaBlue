@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_deactivate_account_confirmation_dialog_content">"Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²Ð¾ÑŽ ÑƒÑ‡Ñ‘Ñ‚Ð½ÑƒÑŽ Ð·Ð°Ð¿Ð¸ÑÑŒ? Ð”Ð°Ð½Ð½Ð¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½ÐµÐ¾Ð±Ñ€Ð°Ñ‚Ð¸Ð¼Ð¾."</string>
+  <string name="screen_deactivate_account_delete_all_messages">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²ÑÐµ Ð¼Ð¾Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_deactivate_account_delete_all_messages_notice">"Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ: Ð² Ð±ÑƒÐ´ÑƒÑ‰ÐµÐ¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ Ð¼Ð¾Ð³ÑƒÑ‚ Ð²Ð¸Ð´ÐµÑ‚ÑŒ Ð½ÐµÐ¿Ð¾Ð»Ð½Ñ‹Ðµ Ð¿ÐµÑ€ÐµÐ¿Ð¸ÑÐºÐ¸."</string>
+  <string name="screen_deactivate_account_description">"Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð° %1$s, ÑÑ‚Ð¾ Ð¾Ð·Ð½Ð°Ñ‡Ð°ÐµÑ‚ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐµ:"</string>
+  <string name="screen_deactivate_account_description_bold_part">"Ð½ÐµÐ¾Ð±Ñ€Ð°Ñ‚Ð¸Ð¼Ð¾"</string>
+  <string name="screen_deactivate_account_list_item_1">"Ð’Ð°ÑˆÐ° ÑƒÑ‡Ñ‘Ñ‚Ð½Ð°Ñ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð±ÑƒÐ´ÐµÑ‚ %1$s (Ð²Ñ‹ Ð½Ðµ ÑÐ¼Ð¾Ð¶ÐµÑ‚Ðµ Ð²Ð¾Ð¹Ñ‚Ð¸ Ð² Ð½ÐµÑ‘ ÑÐ½Ð¾Ð²Ð°, Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ Ð½Ðµ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð°ÑˆÐµ Ð¸Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ)."</string>
+  <string name="screen_deactivate_account_list_item_1_bold_part">"ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð½Ð°Ð²ÑÐµÐ³Ð´Ð°"</string>
+  <string name="screen_deactivate_account_list_item_2">"Ð’Ñ‹ Ð±ÑƒÐ´ÐµÑ‚Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹ Ð¸Ð· Ð²ÑÐµÑ… Ñ‡Ð°Ñ‚Ð¾Ð²."</string>
+  <string name="screen_deactivate_account_list_item_3">"Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð’Ð°ÑˆÐµÐ³Ð¾ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð° Ð±ÑƒÐ´ÑƒÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹ Ñ Ð½Ð°ÑˆÐµÐ³Ð¾ ÑÐµÑ€Ð²ÐµÑ€Ð° Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸."</string>
+  <string name="screen_deactivate_account_list_item_4">"Ð’Ð°ÑˆÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¿Ð¾-Ð¿Ñ€ÐµÐ¶Ð½ÐµÐ¼Ñƒ Ð±ÑƒÐ´ÑƒÑ‚ Ð²Ð¸Ð´Ð½Ñ‹ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼, Ð½Ð¾ Ð½Ðµ Ð±ÑƒÐ´ÑƒÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ð½Ð¾Ð²Ñ‹Ð¼ Ð¸Ð»Ð¸ Ð½ÐµÐ·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼, ÐµÑÐ»Ð¸ Ð’Ñ‹ Ñ€ÐµÑˆÐ¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¸Ñ…."</string>
+  <string name="screen_deactivate_account_title">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚"</string>
+</resources>
+

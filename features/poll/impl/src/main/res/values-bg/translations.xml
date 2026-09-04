@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_poll_add_option_btn">"Ð”Ð¾Ð±Ð°Ð²ÑÐ½Ðµ Ð½Ð° Ð¾Ð¿Ñ†Ð¸Ñ"</string>
+  <string name="screen_create_poll_anonymous_desc">"ÐŸÐ¾ÐºÐ°Ð·Ð²Ð°Ð½Ðµ Ð½Ð° Ñ€ÐµÐ·ÑƒÐ»Ñ‚Ð°Ñ‚Ð¸Ñ‚Ðµ ÑÐ°Ð¼Ð¾ ÑÐ»ÐµÐ´ Ð¿Ñ€Ð¸ÐºÐ»ÑŽÑ‡Ð²Ð°Ð½Ðµ Ð½Ð° Ð°Ð½ÐºÐµÑ‚Ð°Ñ‚Ð°"</string>
+  <string name="screen_create_poll_anonymous_headline">"Ð¡ÐºÑ€Ð¸Ð²Ð°Ð½Ðµ Ð½Ð° Ð³Ð»Ð°ÑÐ¾Ð²ÐµÑ‚Ðµ"</string>
+  <string name="screen_create_poll_answer_hint">"ÐžÐ¿Ñ†Ð¸Ñ %1$d"</string>
+  <string name="screen_create_poll_question_desc">"Ð’ÑŠÐ¿Ñ€Ð¾Ñ Ð¸Ð»Ð¸ Ñ‚ÐµÐ¼Ð°"</string>
+  <string name="screen_create_poll_question_hint">"Ð—Ð° ÐºÐ°ÐºÐ²Ð¾ ÑÐµ Ð¾Ñ‚Ð½Ð°ÑÑ Ð°Ð½ÐºÐµÑ‚Ð°Ñ‚Ð°?"</string>
+  <string name="screen_create_poll_title">"Ð¡ÑŠÐ·Ð´Ð°Ð²Ð°Ð½Ðµ Ð½Ð° Ð°Ð½ÐºÐµÑ‚Ð°"</string>
+  <string name="screen_edit_poll_delete_confirmation">"Ð¡Ð¸Ð³ÑƒÑ€Ð½Ð¸ Ð»Ð¸ ÑÑ‚Ðµ, Ñ‡Ðµ Ð¸ÑÐºÐ°Ñ‚Ðµ Ð´Ð° Ð¸Ð·Ñ‚Ñ€Ð¸ÐµÑ‚Ðµ Ñ‚Ð°Ð·Ð¸ Ð°Ð½ÐºÐµÑ‚Ð°?"</string>
+  <string name="screen_edit_poll_delete_confirmation_title">"Ð˜Ð·Ñ‚Ñ€Ð¸Ð²Ð°Ð½Ðµ Ð½Ð° Ð°Ð½ÐºÐµÑ‚Ð°Ñ‚Ð°"</string>
+  <string name="screen_edit_poll_title">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð°Ð½ÐºÐµÑ‚Ð°Ñ‚Ð°"</string>
+  <string name="screen_polls_history_empty_ongoing">"ÐÐµ ÑÐµ Ð½Ð°Ð¼Ð¸Ñ€Ð°Ñ‚ Ñ‚ÐµÐºÑƒÑ‰Ð¸ Ð°Ð½ÐºÐµÑ‚Ð¸."</string>
+  <string name="screen_polls_history_empty_past">"ÐÐµ ÑÐµ Ð½Ð°Ð¼Ð¸Ñ€Ð°Ñ‚ Ð¿Ñ€Ð¸ÐºÐ»ÑŽÑ‡Ð¸Ð»Ð¸ Ð°Ð½ÐºÐµÑ‚Ð¸."</string>
+  <string name="screen_polls_history_filter_ongoing">"Ð¢ÐµÐºÑƒÑ‰Ð¸"</string>
+  <string name="screen_polls_history_filter_past">"ÐŸÑ€Ð¸ÐºÐ»ÑŽÑ‡Ð¸Ð»Ð¸"</string>
+  <string name="screen_polls_history_title">"ÐÐ½ÐºÐµÑ‚Ð¸"</string>
+</resources>
+

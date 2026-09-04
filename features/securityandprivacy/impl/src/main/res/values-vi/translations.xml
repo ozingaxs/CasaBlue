@@ -1,0 +1,12 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_edit_room_address_room_address_section_footer">"B?n c?n m?t d?a ch? d? hi?n th? trong danh b? công khai."</string>
+  <string name="screen_edit_room_address_title">"Ch?nh s?a d?a ch?"</string>
+  <string name="screen_security_and_privacy_enable_encryption_alert_description">"Sau khi du?c kích ho?t, mã hóa cho m?t phòng chat không th? t?t du?c. L?ch s? tin nh?n ch? hi?n th? cho các thành viên phòng chat k? t? khi h? du?c m?i ho?c k? t? khi h? tham gia phòng chat.
+Không ai ngoài các thành viên phòng chat có th? d?c tin nh?n. Ði?u này có th? ngan ch?n bot và các thi?t b? k?t n?i ho?t d?ng dúng cách.
+Chúng tôi không khuy?n khích b?t mã hóa cho các phòng chat mà b?t k? ai cung có th? tìm th?y và tham gia."</string>
+  <string name="screen_security_and_privacy_encryption_section_header">"Mã hóa"</string>
+  <string name="screen_security_and_privacy_room_access_space_members_option_title">"Thành viên không gian"</string>
+  <string name="screen_security_and_privacy_room_address_section_footer">"B?n c?n m?t d?a ch? d? hi?n th? trong danh b? công khai."</string>
+</resources>
+

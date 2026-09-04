@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bug_report_attach_screenshot">"Ð”Ð°Ð»ÑƒÑ‡Ñ‹Ñ†ÑŒ Ð·Ð´Ñ‹Ð¼Ð°Ðº ÑÐºÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_bug_report_contact_me">"Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð·Ð²ÑÐ·Ð°Ñ†Ñ†Ð° ÑÐ° Ð¼Ð½Ð¾Ð¹, ÐºÐ°Ð»Ñ– Ñž Ð’Ð°Ñ ÑƒÐ·Ð½Ñ–ÐºÐ½ÑƒÑ†ÑŒ ÑÐºÑ–Ñ-Ð½ÐµÐ±ÑƒÐ´Ð·ÑŒ Ð´Ð°Ð´Ð°Ñ‚ÐºÐ¾Ð²Ñ‹Ñ Ð¿Ñ‹Ñ‚Ð°Ð½Ð½Ñ–."</string>
+  <string name="screen_bug_report_contact_me_title">"Ð—Ð²ÑÐ¶Ñ‹Ñ†ÐµÑÑ ÑÐ° Ð¼Ð½Ð¾Ð¹"</string>
+  <string name="screen_bug_report_edit_screenshot">"Ð ÑÐ´Ð°Ð³Ð°Ð²Ð°Ñ†ÑŒ Ð·Ð´Ñ‹Ð¼Ð°Ðº ÑÐºÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_bug_report_editor_description">"ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð°Ð¿Ñ–ÑˆÑ‹Ñ†Ðµ Ð¿Ð°Ð¼Ñ‹Ð»ÐºÑƒ. Ð¨Ñ‚Ð¾ Ð²Ñ‹ Ð·Ñ€Ð°Ð±Ñ–Ð»Ñ–? Ð¯ÐºÑ–Ñ Ð¿Ð°Ð²Ð¾Ð´Ð·Ñ–Ð½Ñ‹ Ð²Ñ‹ Ñ‡Ð°ÐºÐ°Ð»Ñ–? Ð¨Ñ‚Ð¾ Ð°Ð´Ð±Ñ‹Ð»Ð¾ÑÑ Ð½Ð°ÑÐ°Ð¼Ñ€ÑÑ‡. ÐšÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð°Ð¿Ñ–ÑˆÑ‹Ñ†Ðµ ÑžÑÑ‘ ÑÐº Ð¼Ð°Ð³Ñ‡Ñ‹Ð¼Ð° Ð¿Ð°Ð´Ñ€Ð°Ð±ÑÐ·Ð½ÐµÐ¹."</string>
+  <string name="screen_bug_report_editor_placeholder">"ÐÐ¿Ñ–ÑˆÑ‹Ñ†Ðµ Ð¿Ñ€Ð°Ð±Ð»ÐµÐ¼Ñƒ..."</string>
+  <string name="screen_bug_report_editor_supporting">"ÐšÐ°Ð»Ñ– Ð¼Ð°Ð³Ñ‡Ñ‹Ð¼Ð°, ÐºÐ°Ð»Ñ– Ð»Ð°ÑÐºÐ°, Ð½Ð°Ð¿Ñ–ÑˆÑ‹Ñ†Ðµ Ð°Ð¿Ñ–ÑÐ°Ð½Ð½Ðµ Ð½Ð° Ð°Ð½Ð³Ð»Ñ–Ð¹ÑÐºÐ°Ð¹ Ð¼Ð¾Ð²Ðµ."</string>
+  <string name="screen_bug_report_error_description_too_short">"ÐÐ¿Ñ–ÑÐ°Ð½Ð½Ðµ Ð·Ð°Ð½Ð°Ð´Ñ‚Ð° ÐºÐ°Ñ€Ð¾Ñ‚ÐºÐ°Ðµ. Ð”Ð°Ð¹Ñ†Ðµ Ð±Ð¾Ð»ÑŒÑˆ Ð¿Ð°Ð´Ñ€Ð°Ð±ÑÐ·Ð½ÑƒÑŽ Ñ–Ð½Ñ„Ð°Ñ€Ð¼Ð°Ñ†Ñ‹ÑŽ Ð°Ð± Ñ‚Ñ‹Ð¼, ÑˆÑ‚Ð¾ Ð°Ð´Ð±Ñ‹Ð»Ð¾ÑÑ. Ð”Ð·ÑÐºÑƒÐ¹!"</string>
+  <string name="screen_bug_report_include_crash_logs">"ÐÐ´Ð¿Ñ€Ð°Ð²Ñ–Ñ†ÑŒ Ð¶ÑƒÑ€Ð½Ð°Ð»Ñ‹ Ð·Ð±Ð¾ÑÑž"</string>
+  <string name="screen_bug_report_include_logs">"Ð”Ð°Ð·Ð²Ð¾Ð»Ñ–Ñ†ÑŒ Ð¶ÑƒÑ€Ð½Ð°Ð»Ñ‹"</string>
+  <string name="screen_bug_report_include_screenshot">"ÐÐ´Ð¿Ñ€Ð°Ð²Ñ–Ñ†ÑŒ Ð·Ð´Ñ‹Ð¼Ð°Ðº ÑÐºÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_bug_report_logs_description">"ÐšÐ°Ð± Ð¿ÐµÑ€Ð°ÐºÐ°Ð½Ð°Ñ†Ñ†Ð°, ÑˆÑ‚Ð¾ ÑžÑÑ‘ Ð¿Ñ€Ð°Ñ†ÑƒÐµ Ð¿Ñ€Ð°Ð²Ñ–Ð»ÑŒÐ½Ð°, Ñƒ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ðµ Ð±ÑƒÐ´ÑƒÑ†ÑŒ ÑƒÐºÐ»ÑŽÑ‡Ð°Ð½Ñ‹ Ñ‡Ð°ÑÐ¾Ð¿Ñ–ÑÑ‹. ÐšÐ°Ð± Ð°Ð´Ð¿Ñ€Ð°Ð²Ñ–Ñ†ÑŒ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ðµ Ð±ÐµÐ· Ñ‡Ð°ÑÐ¾Ð¿Ñ–ÑÐ°Ñž, Ð°Ð´ÐºÐ»ÑŽÑ‡Ñ‹Ñ†Ðµ Ð³ÑÑ‚ÑƒÑŽ Ð½Ð°Ð»Ð°Ð´Ñƒ."</string>
+  <string name="screen_bug_report_rash_logs_alert_title">"ÐŸÑ€Ñ‹ Ð°Ð¿Ð¾ÑˆÐ½Ñ–Ð¼ Ð²Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð½Ð½Ñ– %1$s Ð°Ð´Ð±Ñ‹ÑžÑÑ Ð·Ð±Ð¾Ð¹. Ð¥Ð¾Ñ‡Ð°Ñ†Ðµ Ð°Ð±Ð°Ð³ÑƒÐ»Ñ–Ñ†ÑŒ ÑÐ¿Ñ€Ð°Ð²Ð°Ð·Ð´Ð°Ñ‡Ñƒ Ð°Ð± Ð·Ð±Ð¾Ñ–?"</string>
+  <string name="screen_bug_report_view_logs">"ÐŸÑ€Ð°Ð³Ð»ÑÐ´ Ð¶ÑƒÑ€Ð½Ð°Ð»Ð°Ñž"</string>
+</resources>
+

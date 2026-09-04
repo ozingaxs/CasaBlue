@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="notification_channel_call">"Ð’Ð¸ÐºÐ»Ð¸Ðº"</string>
+  <string name="notification_channel_listening_for_events">"ÐŸÑ€Ð¾ÑÐ»ÑƒÑ…Ð¾Ð²ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ð¾Ð´Ñ–Ð¹"</string>
+  <string name="notification_channel_noisy">"Ð“ÑƒÑ‡Ð½Ñ– ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</string>
+  <string name="notification_channel_ringing_calls">"Ð’Ð¸ÐºÐ»Ð¸ÐºÐ¸"</string>
+  <string name="notification_channel_silent">"Ð¢Ð¸Ñ…Ñ– ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</string>
+  <plurals name="notification_compat_summary_line_for_room">
+    <item quantity="one">"%1$s: %2$d Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"%1$s: %2$d Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"%1$s: %2$d Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½ÑŒ"</item>
+  </plurals>
+  <plurals name="notification_compat_summary_title">
+    <item quantity="one">"%d ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"%d ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"%d ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ"</item>
+  </plurals>
+  <string name="notification_error_unified_push_unregistered_android">"Ð Ð¾Ð·Ð¿Ð¾Ð´Ñ–Ð»ÑŒÐ½Ð¸Ðº ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ UnifiedPush Ð½Ðµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð·Ð°Ñ€ÐµÑ”ÑÑ‚Ñ€ÑƒÐ²Ð°Ñ‚Ð¸, Ñ‚Ð¾Ð¼Ñƒ Ð²Ð¸ Ð±Ñ–Ð»ÑŒÑˆÐµ Ð½Ðµ Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‚Ð¸Ð¼ÐµÑ‚Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ. ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€Ñ‚Ðµ Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ Ñƒ Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½ÐºÑƒ Ñ‚Ð° ÑÑ‚Ð°Ð½ Ñ€Ð¾Ð·Ð¿Ð¾Ð´Ñ–Ð»ÑŒÐ½Ð¸ÐºÐ° push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ."</string>
+  <string name="notification_fallback_content">"Ð£ Ð²Ð°Ñ Ñ” Ð½Ð¾Ð²Ñ– Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ."</string>
+  <plurals name="notification_fallback_n_content">
+    <item quantity="one">"Ð£ Ð²Ð°Ñ %d Ð½Ð¾Ð²Ðµ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ."</item>
+    <item quantity="few">"Ð£ Ð²Ð°Ñ %d Ð½Ð¾Ð²Ð¸Ñ… Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ."</item>
+    <item quantity="many">"Ð£ Ð²Ð°Ñ %d Ð½Ð¾Ð²Ð¸Ñ… Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½ÑŒ."</item>
+  </plurals>
+  <plurals name="notification_gallery_body">
+    <item quantity="one">"ÐŸÐ¾ÑˆÐ¸Ñ€ÐµÐ½Ð¾ %1$d Ð²ÐºÐ»Ð°Ð´ÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"ÐŸÐ¾ÑˆÐ¸Ñ€ÐµÐ½Ð¾ %1$d Ð²ÐºÐ»Ð°Ð´ÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"ÐŸÐ¾ÑˆÐ¸Ñ€ÐµÐ½Ð¾ %1$d Ð²ÐºÐ»Ð°Ð´ÐµÐ½ÑŒ"</item>
+  </plurals>
+  <string name="notification_incoming_audio_call">"ðŸ“ž Ð’Ñ…Ñ–Ð´Ð½Ð¸Ð¹ Ð²Ð¸ÐºÐ»Ð¸Ðº"</string>
+  <string name="notification_incoming_call">"ðŸ“¹ Ð’Ñ…Ñ–Ð´Ð½Ð¸Ð¹ Ð²Ð¸ÐºÐ»Ð¸Ðº"</string>
+  <string name="notification_inline_reply_failed">"** ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð½Ð°Ð´Ñ–ÑÐ»Ð°Ñ‚Ð¸ - Ð²Ñ–Ð´ÐºÑ€Ð¸Ð¹Ñ‚Ðµ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="notification_invitation_action_join">"Ð”Ð¾Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ"</string>
+  <string name="notification_invitation_action_reject">"Ð’Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ñ‚Ð¸"</string>
+  <plurals name="notification_invitations">
+    <item quantity="one">"%d Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"%d Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"%d Ð·Ð°Ð¿Ñ€Ð¾ÑˆÐµÐ½ÑŒ"</item>
+  </plurals>
+  <string name="notification_invite_body">"Ð—Ð°Ð¿Ñ€Ð¾ÑˆÑƒÑ” Ð²Ð°Ñ Ð´Ð¾ Ð±ÐµÑÑ–Ð´Ð¸"</string>
+  <string name="notification_invite_body_with_sender">"%1$s Ð·Ð°Ð¿Ñ€Ð¾ÑˆÑƒÑ” Ð²Ð°Ñ Ð´Ð¾ Ð±ÐµÑÑ–Ð´Ð¸"</string>
+  <string name="notification_live_location_started_body">"ÐŸÐ¾Ñ‡Ð¸Ð½Ð°Ñ” Ð´Ñ–Ð»Ð¸Ñ‚Ð¸ÑÑ ÑÐ²Ð¾Ñ—Ð¼ Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¼ Ð¼Ñ–ÑÑ†ÐµÐ¼ Ñ€Ð¾Ð·Ñ‚Ð°ÑˆÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+  <string name="notification_mentioned_you_body">"Ð’Ð°Ñ Ð·Ð³Ð°Ð´ÑƒÑ”: %1$s"</string>
+  <string name="notification_new_messages">"ÐÐ¾Ð²Ñ– Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</string>
+  <plurals name="notification_new_messages_for_room">
+    <item quantity="one">"%d Ð½Ð¾Ð²Ðµ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"%d Ð½Ð¾Ð²Ñ– Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"%d Ð½Ð¾Ð²Ð¸Ñ… Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½ÑŒ"</item>
+  </plurals>
+  <string name="notification_reaction_body">"Ð ÐµÐ°Ð³ÑƒÑ” Ð· %1$s"</string>
+  <string name="notification_room_action_mark_as_read">"ÐŸÐ¾Ð·Ð½Ð°Ñ‡Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¸Ð¼"</string>
+  <string name="notification_room_action_quick_reply">"Ð¨Ð²Ð¸Ð´ÐºÐ° Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´ÑŒ"</string>
+  <string name="notification_room_invite_body">"Ð—Ð°Ð¿Ñ€Ð¾ÑˆÑƒÑ” Ð²Ð°Ñ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</string>
+  <string name="notification_room_invite_body_with_sender">"%1$s Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ð² Ð²Ð°Ñ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</string>
+  <string name="notification_sender_me">"Ð¯"</string>
+  <string name="notification_sender_mention_reply">"%1$s Ð·Ð³Ð°Ð´ÑƒÐ²Ð°Ð»Ð¸ Ð°Ð±Ð¾ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð°Ð»Ð¸"</string>
+  <string name="notification_space_invite_body">"Ð’Ð°Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¸Ð»Ð¸ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ€Ñƒ"</string>
+  <string name="notification_space_invite_body_with_sender">"%1$s Ð·Ð°Ð¿Ñ€Ð¾ÑˆÑƒÑ” Ð²Ð°Ñ Ð¿Ñ€Ð¸Ñ”Ð´Ð½Ð°Ñ‚Ð¸ÑÑ Ð´Ð¾ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ€Ñƒ"</string>
+  <string name="notification_test_push_notification_content">"Ð’Ð¸ Ð¿ÐµÑ€ÐµÐ³Ð»ÑÐ´Ð°Ñ”Ñ‚Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ! ÐÐ°Ñ‚Ð¸ÑÐ½Ñ–Ñ‚ÑŒ Ñ‚ÑƒÑ‚!"</string>
+  <string name="notification_thread_in_room">"Ð“Ñ–Ð»ÐºÐ° Ð² %1$s"</string>
+  <string name="notification_ticker_text_dm">"%1$s: %2$s"</string>
+  <string name="notification_ticker_text_group">"%1$s: %2$s %3$s"</string>
+  <plurals name="notification_unread_notified_messages">
+    <item quantity="one">"%d Ð½ÐµÐ¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</item>
+    <item quantity="few">"%d Ð½ÐµÐ¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ñ– ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</item>
+    <item quantity="many">"%d Ð½ÐµÐ¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¸Ñ… ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ"</item>
+  </plurals>
+  <string name="notification_unread_notified_messages_and_invitation">"%1$s Ñ‚Ð° %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room">"%1$s Ñƒ %2$s"</string>
+  <string name="notification_unread_notified_messages_in_room_and_invitation">"%1$s Ñƒ %2$s Ñ‚Ð° %3$s"</string>
+  <plurals name="notification_unread_notified_messages_in_room_rooms">
+    <item quantity="one">"%d ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð°"</item>
+    <item quantity="few">"%d ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸"</item>
+    <item quantity="many">"%d ÐºÑ–Ð¼Ð½Ð°Ñ‚"</item>
+  </plurals>
+  <string name="push_distributor_background_sync_android">"Ð¤Ð¾Ð½Ð¾Ð²Ð° ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ñ–Ð·Ð°Ñ†Ñ–Ñ"</string>
+  <string name="push_distributor_firebase_android">"Ð¡ÐµÑ€Ð²Ñ–ÑÐ¸ Google"</string>
+  <string name="push_no_valid_google_play_services_apk_android">"ÐÐµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð´Ñ–Ð¹ÑÐ½Ð¸Ñ… ÑÐµÑ€Ð²Ñ–ÑÑ–Ð² Google Play. Ð¡Ð¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ Ð¼Ð¾Ð¶ÑƒÑ‚ÑŒ Ð½Ðµ Ð¿Ñ€Ð°Ñ†ÑŽÐ²Ð°Ñ‚Ð¸ Ð½Ð°Ð»ÐµÐ¶Ð½Ð¸Ð¼ Ñ‡Ð¸Ð½Ð¾Ð¼."</string>
+  <string name="troubleshoot_notifications_test_blocked_users_description">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€ÐºÐ° Ð·Ð°Ð±Ð»Ð¾ÐºÐ¾Ð²Ð°Ð½Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð²"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_quick_fix">"ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ½ÑƒÑ‚Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¾Ð²Ð°Ð½Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð²"</string>
+  <string name="troubleshoot_notifications_test_blocked_users_result_none">"ÐÐµÐ¼Ð°Ñ” Ð·Ð°Ð±Ð»Ð¾ÐºÐ¾Ð²Ð°Ð½Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð²"</string>
+  <plurals name="troubleshoot_notifications_test_blocked_users_result_some">
+    <item quantity="one">"Ð’Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÑƒÐ²Ð°Ð»Ð¸ %1$d ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð°. Ð’Ð¸ Ð½Ðµ Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‚Ð¸Ð¼ÐµÑ‚Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ Ð´Ð»Ñ Ñ†ÑŒÐ¾Ð³Ð¾ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð°."</item>
+    <item quantity="few">"Ð’Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÑƒÐ²Ð°Ð»Ð¸ %1$d ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð². Ð’Ð¸ Ð½Ðµ Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‚Ð¸Ð¼ÐµÑ‚Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ Ð´Ð»Ñ Ñ†Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð²."</item>
+    <item quantity="many">"Ð’Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÑƒÐ²Ð°Ð»Ð¸ %1$d ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð². Ð’Ð¸ Ð½Ðµ Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‚Ð¸Ð¼ÐµÑ‚Ðµ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ Ð´Ð»Ñ Ñ†Ð¸Ñ… ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–Ð²."</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_blocked_users_title">"Ð—Ð°Ð±Ð»Ð¾ÐºÐ¾Ð²Ð°Ð½Ñ– ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñ–"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_description">"ÐžÑ‚Ñ€Ð¸Ð¼ÑƒÑ” Ð½Ð°Ð·Ð²Ñƒ Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¾Ð³Ð¾ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ°."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure">"ÐŸÐ¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÑ–Ð² push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ Ð½Ðµ Ð²Ð¸Ð±Ñ€Ð°Ð½Ð¾."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure_distributor_not_found">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€ push-Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½ÑŒ: %1$s Ñ‚Ð° Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð´Ð¸ÑÑ‚Ñ€Ð¸Ð±\'ÑŽÑ‚Ð¾Ñ€: %2$s. ÐÐ»Ðµ Ð´Ð¸ÑÑ‚Ñ€Ð¸Ð±\'ÑŽÑ‚Ð¾Ñ€Ð° %3$s Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾. ÐœÐ¾Ð¶Ð»Ð¸Ð²Ð¾, Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº Ð±ÑƒÐ»Ð¾ Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð¾?"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_failure_no_distributor">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ: %1$s, Ð°Ð»Ðµ Ð´Ð¸ÑÑ‚Ñ€Ð¸Ð±\'ÑŽÑ‚Ð¾Ñ€Ñ–Ð² Ð½Ðµ Ð½Ð°Ð»Ð°ÑˆÑ‚Ð¾Ð²Ð°Ð½Ð¾."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_success">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº: %1$s."</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_success_with_distributor">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ: %1$s (%2$s)"</string>
+  <string name="troubleshoot_notifications_test_current_push_provider_title">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_description">"ÐŸÐµÑ€ÐµÐºÐ¾Ð½Ð°Ð¹Ñ‚ÐµÑÑ, Ñ‰Ð¾ Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº Ð¼Ð°Ñ” Ð¿Ñ€Ð¸Ð½Ð°Ð¹Ð¼Ð½Ñ– Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ° push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ."</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_failure">"ÐÐµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÑ–Ð² push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ."</string>
+  <plurals name="troubleshoot_notifications_test_detect_push_provider_success">
+    <item quantity="one">"Ð’Ð¸ÑÐ²Ð»ÐµÐ½Ð¾ %1$d Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ°: %2$s"</item>
+    <item quantity="few">"Ð’Ð¸ÑÐ²Ð»ÐµÐ½Ð¾ %1$d Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ¸: %2$s"</item>
+    <item quantity="many">"Ð’Ð¸ÑÐ²Ð»ÐµÐ½Ð¾ %1$d Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÑ–Ð²: %2$s"</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_detect_push_provider_success_2">"Ð—Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð¾ Ð·Ð° Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÐºÐ¸: %1$s"</string>
+  <string name="troubleshoot_notifications_test_detect_push_provider_title">"Ð’Ð¸ÑÐ²Ð»ÐµÐ½Ð½Ñ Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÑ–Ð² push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_description">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€Ñ‚Ðµ, Ñ‡Ð¸ Ð¼Ð¾Ð¶Ðµ Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº Ð¿Ð¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_display_notification_failure">"Ð’Ð¸ Ð½Ðµ Ð½Ð°Ñ‚Ð¸ÑÐ½ÑƒÐ»Ð¸ Ð½Ð° ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_display_notification_permission_failure">"ÐÐµ Ð²Ð´Ð°Ñ”Ñ‚ÑŒÑÑ Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_display_notification_success">"Ð’Ð¸ Ð½Ð°Ñ‚Ð¸ÑÐ½ÑƒÐ»Ð¸ Ð½Ð° ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ!"</string>
+  <string name="troubleshoot_notifications_test_display_notification_title">"ÐŸÐ¾ÐºÐ°Ð· ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ"</string>
+  <string name="troubleshoot_notifications_test_display_notification_waiting">"ÐÐ°Ñ‚Ð¸ÑÐ½Ñ–Ñ‚ÑŒ Ð½Ð° ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ, Ñ‰Ð¾Ð± Ð¿Ñ€Ð¾Ð´Ð¾Ð²Ð¶Ð¸Ñ‚Ð¸ Ñ‚ÐµÑÑ‚."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_description">"ÐŸÐµÑ€ÐµÐºÐ¾Ð½ÑƒÑ”Ñ‚ÑŒÑÑ, Ñ‰Ð¾ Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_1">"ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°: Ð¿Ð¾ÑÑ‚Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ðº push-ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½ÑŒ Ð²Ñ–Ð´Ñ…Ð¸Ð»Ð¸Ð² Ð·Ð°Ð¿Ð¸Ñ‚."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_2">"ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°: %1$s."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_3">"ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°, Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð¿ÐµÑ€ÐµÐ²Ñ–Ñ€Ð¸Ñ‚Ð¸ push."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_failure_4">"ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°, Ñ‡Ð°Ñ Ð¾Ñ‡Ñ–ÐºÑƒÐ²Ð°Ð½Ð½Ñ Ð²Ð¸Ð¹ÑˆÐ¾Ð² Ð½Ð° push-Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_success">"Ð—Ð²Ð¾Ñ€Ð¾Ñ‚Ð½Ñ” Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð½Ñ push-Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ, Ð·Ð°Ð¹Ð½ÑÐ»Ð¾ %1$d Ð¼Ñ."</string>
+  <string name="troubleshoot_notifications_test_push_loop_back_title">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€ÐºÐ° Ð·Ð²Ð¾Ñ€Ð¾Ñ‚Ð½Ð¾Ð³Ð¾ Ð½Ð°Ð´ÑÐ¸Ð»Ð°Ð½Ð½Ñ"</string>
+</resources>
+

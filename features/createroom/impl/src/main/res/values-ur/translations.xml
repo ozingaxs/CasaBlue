@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"Ù†ÛŒØ§ Ú©Ù…Ø±Û"</string>
+  <string name="screen_create_room_add_people_title">"Ù„ÙˆÚ¯ÙˆÚº Ú©Ùˆ Ù…Ø¯Ø¹Ùˆ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_create_room_error_creating_room">"Ú©Ù…Ø±Û ØªØ®Ù„ÛŒÙ‚ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’ Ø§ÛŒÚ© Ù†Ù‚Øµ ÙˆØ§Ù‚Ø¹ ÛÙˆØ§"</string>
+  <string name="screen_create_room_private_option_description">"ØµØ±Ù Ù…Ø¯Ø¹Ùˆ Ù„ÙˆÚ¯ ÛÛŒ Ø§Ø³ Ú©Ù…Ø±Û’ ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø­Ø§ØµÙ„ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ” ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ø¢Ø®Ø± ØªØ§ Ø¢Ø®Ø± Ù…Ø±Ù…ÙˆØ² Ú©Ø±Ø¯Û ÛÛŒÚºÛ”"</string>
+  <string name="screen_create_room_public_option_description">"Ú©ÙˆØ¦ÛŒ Ø¨Ú¾ÛŒ ÛŒÛ Ú©Ù…Ø±Û ÚˆÚ¾ÙˆÙ†Úˆ Ø³Ú©ØªØ§ ÛÛ’Û”
+Ø¢Ù¾ Ø§Ø³Û’ Ú©Ù…Ø±Û’ Ú©ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª Ù…ÛŒÚº Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ ÙˆÙ‚Øª ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_create_room_topic_label">"Ù…ÙˆØ¶ÙˆØ¹ (Ø§Ø®ØªÛŒØ§Ø±ÛŒ)"</string>
+</resources>
+

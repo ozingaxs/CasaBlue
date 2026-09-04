@@ -1,0 +1,21 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bug_report_attach_screenshot">"Ðính kèm ?nh ch?p màn hình"</string>
+  <string name="screen_bug_report_contact_me">"B?n có th? liên h? v?i tôi n?u có b?t k? câu h?i nào khác."</string>
+  <string name="screen_bug_report_contact_me_title">"Liên h? v?i tôi"</string>
+  <string name="screen_bug_report_edit_screenshot">"Ch?nh s?a ?nh ch?p màn hình"</string>
+  <string name="screen_bug_report_editor_description">"Hãy mô t? v?n d?. B?n dã làm gì? B?n mong d?i/d? doán di?u gì s? x?y ra? Ði?u gì th?c s? dã x?y ra? Hãy trình bày càng chi ti?t càng t?t."</string>
+  <string name="screen_bug_report_editor_placeholder">"Hãy mô t? v?n d?..."</string>
+  <string name="screen_bug_report_editor_supporting">"N?u có th?, vui lòng vi?t mô t? b?ng ti?ng Anh."</string>
+  <string name="screen_bug_report_error_description_too_short">"Ph?n mô t? quá ng?n, vui lòng cung c?p thêm chi ti?t v? nh?ng gì dã x?y ra. C?m on!"</string>
+  <string name="screen_bug_report_include_crash_logs">"G?i nh?t ký s? c?"</string>
+  <string name="screen_bug_report_include_logs">"Cho phép ghi nh?t ký"</string>
+  <string name="screen_bug_report_include_logs_error">"T?p nh?t ký c?a b?n quá l?n nên không th? dua vào báo cáo này, vui lòng g?i chúng cho chúng tôi b?ng cách khác."</string>
+  <string name="screen_bug_report_include_screenshot">"G?i ?nh ch?p màn hình"</string>
+  <string name="screen_bug_report_logs_description">"Nh?t ký l?i s? du?c dính kèm v?i tin nh?n c?a b?n d? d?m b?o m?i th? ho?t d?ng bình thu?ng. Ð? g?i tin nh?n mà không có nh?t ký l?i, hãy t?t cài d?t này."</string>
+  <string name="screen_bug_report_rash_logs_alert_title">"%1$s dã b? l?i ? l?n s? d?ng g?n nh?t. B?n có mu?n chia s? báo cáo l?i v?i chúng tôi không?"</string>
+  <string name="screen_bug_report_send_notification_settings_description">"N?u b?n g?p s? c? v?i thông báo, vi?c t?i lên các quy t?c thông báo có th? giúp chúng tôi xác d?nh nguyên nhân chính. Xin luu ý r?ng các quy t?c này có th? ch?a thông tin riêng tu, ch?ng h?n nhu tên hi?n th? ho?c t? khóa mà b?n mu?n nh?n thông báo."</string>
+  <string name="screen_bug_report_send_notification_settings_title">"Cài d?t thông báo"</string>
+  <string name="screen_bug_report_view_logs">"Xem nh?t ký"</string>
+</resources>
+

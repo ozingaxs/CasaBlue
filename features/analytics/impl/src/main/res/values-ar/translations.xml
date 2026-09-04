@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"Ù„Ù† Ù†Ø³Ø¬Ù‘Ù„ Ø£Ùˆ Ù†Ù†Ø´Ø¦ Ù…Ù„ÙØ§Øª Ø´Ø®ØµÙŠØ© Ù„Ø£ÙŠ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø´Ø®ØµÙŠØ©"</string>
+  <string name="screen_analytics_prompt_help_us_improve">"Ù…Ø´Ø§Ø±ÙƒØ© Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…Ø¬Ù‡ÙˆÙ„Ø© Ù„Ù…Ø³Ø§Ø¹Ø¯ØªÙ†Ø§ Ø¹Ù„Ù‰ ØªØªØ¨Ø¹ Ø§Ù„Ù…Ø´Ø§ÙƒÙ„."</string>
+  <string name="screen_analytics_prompt_read_terms">"ÙŠÙ…ÙƒÙ†Ùƒ Ù‚Ø±Ø§Ø¡Ø© ÙƒØ§ÙØ© Ø´Ø±ÙˆØ·Ù†Ø§ %1$s."</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"Ù‡Ù†Ø§"</string>
+  <string name="screen_analytics_prompt_settings">"ÙŠÙ…ÙƒÙ†Ùƒ Ø¥Ø·ÙØ§Ø¡ Ù‡Ø°Ø§ Ø§Ù„Ø®ÙŠØ§Ø± ÙÙŠ Ø£ÙŠ ÙˆÙ‚Øª"</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"Ù„Ù† Ù†Ø´Ø§Ø±Ùƒ Ø¨ÙŠØ§Ù†Ø§ØªÙƒ Ù…Ø¹ Ø£Ø·Ø±Ø§Ù Ø«Ø§Ù„Ø«Ø©"</string>
+  <string name="screen_analytics_prompt_title">"Ø³Ø§Ø¹Ø¯Ù†Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªØ­Ø³Ù† %1$s"</string>
+</resources>
+

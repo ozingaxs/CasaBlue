@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"Ø¥Ù†Ø´Ø§Ø¡ ØºØ±ÙØ© Ø¬Ø¯ÙŠØ¯Ø©"</string>
+  <string name="screen_room_directory_search_title">"Ø¯Ù„ÙŠÙ„ Ø§Ù„ØºØ±Ù"</string>
+  <string name="screen_start_chat_error_starting_chat">"Ø­Ø¯Ø« Ø®Ø·Ø£ Ø£Ø«Ù†Ø§Ø¡ Ù…Ø­Ø§ÙˆÙ„Ø© Ø¨Ø¯Ø¡ Ù…Ø­Ø§Ø¯Ø«Ø©"</string>
+  <string name="screen_start_chat_join_room_by_address_action">"Ø§Ù„Ø§Ù†Ø¶Ù…Ø§Ù… Ø¥Ù„Ù‰ ØºØ±ÙØ© Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ø¹Ù†ÙˆØ§Ù†"</string>
+  <string name="screen_start_chat_join_room_by_address_invalid_address">"Ø§Ù„Ø¹Ù†ÙˆØ§Ù† ØºÙŠØ± ØµØ§Ù„Ø­"</string>
+  <string name="screen_start_chat_join_room_by_address_placeholder">"Ø£Ø¯Ø®Ù„ Ø§Ù„Ø¹Ù†ÙˆØ§Ù†..."</string>
+  <string name="screen_start_chat_join_room_by_address_room_found">"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ ØºØ±ÙØ© Ù…Ø·Ø§Ø¨Ù‚Ø©"</string>
+  <string name="screen_start_chat_join_room_by_address_room_not_found">"Ù„Ù… ÙŠØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø§Ù„ØºØ±ÙØ©"</string>
+  <string name="screen_start_chat_join_room_by_address_supporting_text">"Ù…Ø«Ù„Ø§Ù‹: #room-name:matrix.org"</string>
+</resources>
+

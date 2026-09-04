@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="emoji_picker_category_activity">"Ð”Ñ–Ñ—"</string>
+  <string name="emoji_picker_category_flags">"ÐŸÑ€Ð°Ð¿Ð¾Ñ€Ð¸"</string>
+  <string name="emoji_picker_category_foods">"Ð‡Ð¶Ð° Ñ‚Ð° Ð½Ð°Ð¿Ð¾Ñ—"</string>
+  <string name="emoji_picker_category_nature">"Ð¢Ð²Ð°Ñ€Ð¸Ð½Ð¸ Ñ‚Ð° Ð¿Ñ€Ð¸Ñ€Ð¾Ð´Ð°"</string>
+  <string name="emoji_picker_category_objects">"ÐžÐ±\'Ñ”ÐºÑ‚Ð¸"</string>
+  <string name="emoji_picker_category_people">"Ð¡Ð¼Ð°Ð¹Ð»Ð¸ÐºÐ¸ Ñ‚Ð° Ð»ÑŽÐ´Ð¸"</string>
+  <string name="emoji_picker_category_places">"ÐŸÐ¾Ð´Ð¾Ñ€Ð¾Ð¶Ñ– Ñ‚Ð° Ð¼Ñ–ÑÑ†Ñ"</string>
+  <string name="emoji_picker_category_recent">"ÐÐµÑ‰Ð¾Ð´Ð°Ð²Ð½Ñ– ÐµÐ¼Ð¾Ð´Ð·Ñ–"</string>
+  <string name="emoji_picker_category_symbols">"Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ð¸"</string>
+  <string name="emoji_picker_search_placeholder">"ÐŸÐ¾ÑˆÑƒÐº ÐµÐ¼Ð¾Ð´Ð¶Ñ–"</string>
+</resources>
+

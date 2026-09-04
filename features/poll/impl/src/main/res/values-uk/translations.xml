@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_poll_add_option_btn">"Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ð²Ð°Ñ€Ñ–Ð°Ð½Ñ‚"</string>
+  <string name="screen_create_poll_anonymous_desc">"ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¸ Ñ‚Ñ–Ð»ÑŒÐºÐ¸ Ð¿Ñ–ÑÐ»Ñ Ð·Ð°ÐºÑ–Ð½Ñ‡ÐµÐ½Ð½Ñ Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_create_poll_anonymous_headline">"ÐŸÑ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð³Ð¾Ð»Ð¾ÑÐ¸"</string>
+  <string name="screen_create_poll_answer_hint">"Ð’Ð°Ñ€Ñ–Ð°Ð½Ñ‚ %1$d"</string>
+  <string name="screen_create_poll_cancel_confirmation_content_android">"Ð’Ð½ÐµÑÐµÐ½Ñ– Ð·Ð¼Ñ–Ð½Ð¸ Ð½Ðµ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð¾. Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð¿Ð¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑ?"</string>
+  <string name="screen_create_poll_delete_option_a11y">"Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð²Ð°Ñ€Ñ–Ð°Ð½Ñ‚ %1$s"</string>
+  <string name="screen_create_poll_question_desc">"ÐŸÐ¸Ñ‚Ð°Ð½Ð½Ñ Ð°Ð±Ð¾ Ñ‚ÐµÐ¼Ð°"</string>
+  <string name="screen_create_poll_question_hint">"ÐŸÑ€Ð¾ Ñ‰Ð¾ Ð¹Ð´ÐµÑ‚ÑŒÑÑ Ð² Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ–?"</string>
+  <string name="screen_create_poll_title">"Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_edit_poll_delete_confirmation">"Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ñ†Ðµ Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ?"</string>
+  <string name="screen_edit_poll_delete_confirmation_title">"Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_edit_poll_title">"Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+  <string name="screen_polls_history_empty_ongoing">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð·Ð½Ð°Ð¹Ñ‚Ð¸ Ð¶Ð¾Ð´Ð½Ð¸Ñ… Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ñ… Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½ÑŒ."</string>
+  <string name="screen_polls_history_empty_past">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð·Ð½Ð°Ð¹Ñ‚Ð¸ Ð¶Ð¾Ð´Ð½Ð¸Ñ… Ð¼Ð¸Ð½ÑƒÐ»Ð¸Ñ… Ð¾Ð¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½ÑŒ."</string>
+  <string name="screen_polls_history_filter_ongoing">"ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ñ–"</string>
+  <string name="screen_polls_history_filter_past">"ÐœÐ¸Ð½ÑƒÐ»Ñ–"</string>
+  <string name="screen_polls_history_title">"ÐžÐ¿Ð¸Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ"</string>
+</resources>
+

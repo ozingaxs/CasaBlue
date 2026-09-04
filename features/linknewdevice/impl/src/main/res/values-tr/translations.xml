@@ -1,0 +1,58 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_link_new_device_desktop_scanning_title">"QR kodunu tara"</string>
+  <string name="screen_link_new_device_desktop_step1">"%1$s uygulamasini bir dizüstü veya masaüstü bilgisayarda açin"</string>
+  <string name="screen_link_new_device_desktop_step3">"QR kodunu bu cihazla tarayin"</string>
+  <string name="screen_link_new_device_desktop_submit">"Taramaya hazir"</string>
+  <string name="screen_link_new_device_desktop_title">"QR kodu almak için %1$s uygulamasini masaüstü bilgisayarda açin"</string>
+  <string name="screen_link_new_device_enter_number_error_numbers_do_not_match">"Sayilar uyusmuyor"</string>
+  <string name="screen_link_new_device_enter_number_notice">"2 haneli kodu girin"</string>
+  <string name="screen_link_new_device_enter_number_subtitle">"Bu islem, diger cihazla olan baglantinin güvenli oldugunu dogrular."</string>
+  <string name="screen_link_new_device_enter_number_title">"Diger cihazda gösterilen numarayi girin"</string>
+  <string name="screen_link_new_device_error_app_not_supported_subtitle">"Hesap saglayiciniz %1$s desteklemiyor."</string>
+  <string name="screen_link_new_device_error_app_not_supported_title">"%1$s desteklenmiyor"</string>
+  <string name="screen_link_new_device_error_not_supported_subtitle">"Hesap saglayiciniz QR kod ile yeni bir cihaza giris yapilmasini desteklemiyor."</string>
+  <string name="screen_link_new_device_error_not_supported_title">"QR kodu desteklenmiyor"</string>
+  <string name="screen_link_new_device_error_request_cancelled_subtitle">"Oturum açma islemi diger cihazda iptal edildi."</string>
+  <string name="screen_link_new_device_error_request_cancelled_title">"Oturum açma istegi iptal edildi"</string>
+  <string name="screen_link_new_device_error_request_timeout_subtitle">"Oturum açma süresi doldu. Lütfen tekrar deneyin."</string>
+  <string name="screen_link_new_device_error_request_timeout_title">"Oturum açma islemi zamaninda tamamlanmadi"</string>
+  <string name="screen_link_new_device_mobile_step1">"Diger cihazda %1$s uygulamasini açin"</string>
+  <string name="screen_link_new_device_mobile_step2">"Seç %1$s"</string>
+  <string name="screen_link_new_device_mobile_step2_action">"QR kod ile giris yap"</string>
+  <string name="screen_link_new_device_mobile_step3">"Burada gösterilen QR kodu diger cihazla tarayin"</string>
+  <string name="screen_link_new_device_mobile_title">"Diger cihazda %1$s uygulamasini açin"</string>
+  <string name="screen_link_new_device_root_desktop_computer">"Masaüstü bilgisayar"</string>
+  <string name="screen_link_new_device_root_loading_qr_code">"QR kod yükleniyor..."</string>
+  <string name="screen_link_new_device_root_title">"Hangi tür cihazi baglamak istiyorsunuz?"</string>
+  <string name="screen_link_new_device_wrong_number_subtitle">"Lütfen tekrar deneyin ve 2 haneli kodu dogru girdiginizden emin olun. Numaralar hâlâ eslesmiyorsa hesap saglayicinizla iletisime geçin."</string>
+  <string name="screen_link_new_device_wrong_number_title">"Sayilar uyusmuyor"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_description">"Yeni cihaza güvenli bir baglanti kurulamadi. Mevcut cihazlariniz hala güvende ve onlar için endiselenmenize gerek yok."</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_header">"Simdi ne olacak?"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_1">"Bunun bir ag sorunu olmasi ihtimaline karsi bir QR koduyla tekrar oturum açmayi deneyin"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_2">"Ayni sorunla karsilasirsaniz, farkli bir wifi agi deneyin veya wifi yerine mobil verinizi kullanin"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_list_item_3">"Bu ise yaramazsa, manuel olarak oturum açin"</string>
+  <string name="screen_qr_code_login_connection_note_secure_state_title">"Baglanti güvenli degil"</string>
+  <string name="screen_qr_code_login_device_code_subtitle">"Bu cihazda gösterilen iki haneyi girmeniz istenecektir."</string>
+  <string name="screen_qr_code_login_device_code_title">"Asagidaki numarayi diger cihaziniza girin"</string>
+  <string name="screen_qr_code_login_error_cancelled_subtitle">"Oturum açma islemi diger cihazda iptal edildi."</string>
+  <string name="screen_qr_code_login_error_cancelled_title">"Oturum açma istegi iptal edildi"</string>
+  <string name="screen_qr_code_login_error_declined_subtitle">"Diger cihazda oturum açma islemi reddedildi."</string>
+  <string name="screen_qr_code_login_error_declined_title">"Oturum açma reddedildi"</string>
+  <string name="screen_qr_code_login_error_expired_subtitle">"Oturum açma süresi doldu. Lütfen tekrar deneyin."</string>
+  <string name="screen_qr_code_login_error_expired_title">"Oturum açma islemi zamaninda tamamlanmadi"</string>
+  <string name="screen_qr_code_login_error_linking_not_suported_subtitle">"Diger cihaziniz %s QR koduyla oturum açmayi desteklemiyor.
+
+Manuel olarak oturum açmayi deneyin veya QR kodunu baska bir cihazla tarayin."</string>
+  <string name="screen_qr_code_login_error_linking_not_suported_title">"QR kodu desteklenmiyor"</string>
+  <string name="screen_qr_code_login_error_sliding_sync_not_supported_subtitle">"Hesap saglayiciniz %1$s desteklemiyor."</string>
+  <string name="screen_qr_code_login_error_sliding_sync_not_supported_title">"%1$s desteklenmiyor"</string>
+  <string name="screen_qr_code_login_invalid_scan_state_description">"Diger cihazda gösterilen QR kodunu kullan."</string>
+  <string name="screen_qr_code_login_invalid_scan_state_retry_button">"Tekrar deneyin"</string>
+  <string name="screen_qr_code_login_invalid_scan_state_subtitle">"Yanlis QR kodu"</string>
+  <string name="screen_qr_code_login_no_camera_permission_state_description">"Devam etmek için %1$s cihazinizin kamerasini kullanmasina izin vermeniz gerekir."</string>
+  <string name="screen_qr_code_login_no_camera_permission_state_title">"QR kodunu taramak için kamera erisimine izin verin"</string>
+  <string name="screen_qr_code_login_unknown_error_description">"Beklenmeyen bir hata olustu. Lütfen tekrar deneyin."</string>
+  <string name="screen_qr_code_login_verify_code_loading">"Diger cihaziniz bekleniyor"</string>
+</resources>
+

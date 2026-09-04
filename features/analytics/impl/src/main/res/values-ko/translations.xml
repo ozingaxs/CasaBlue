@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"ê°œì¸ ë°ì´í„°ëŠ” ê¸°ë¡í•˜ê±°ë‚˜ í”„ë¡œíŒŒì¼ë§í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤."</string>
+  <string name="screen_analytics_prompt_help_us_improve">"ìµëª…í™”ëœ ì‚¬ìš© ë°ì´í„°ë¥¼ ê³µìœ í•˜ì—¬ ë¬¸ì œì ì„ íŒŒì•…í•˜ëŠ” ë° ë„ì›€ì„ ì£¼ì‹­ì‹œì˜¤."</string>
+  <string name="screen_analytics_prompt_read_terms">"ëª¨ë“  ì´ìš© ì•½ê´€ì€ %1$s ì—ì„œ í™•ì¸í•˜ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"ì—¬ê¸°"</string>
+  <string name="screen_analytics_prompt_settings">"ì´ ê¸°ëŠ¥ì„ ì–¸ì œë“ ì§€ ë¹„í™œì„±í™”í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"ìš°ë¦¬ëŠ” ê·€í•˜ì˜ ë°ì´í„°ë¥¼ ì œ3ìžì™€ ê³µìœ í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤."</string>
+  <string name="screen_analytics_prompt_title">"%1$s ê°œì„ í•˜ê¸°"</string>
+</resources>
+

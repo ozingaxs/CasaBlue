@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_check_permission_description">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€Ñ‚Ðµ, Ñ‡Ð¸ Ð¼Ð¾Ð¶Ðµ Ð·Ð°ÑÑ‚Ð¾ÑÑƒÐ½Ð¾Ðº Ð¿Ð¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ ÑÐ¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ."</string>
+  <string name="troubleshoot_notifications_test_check_permission_title">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€Ñ‚Ðµ Ð´Ð¾Ð·Ð²Ð¾Ð»Ð¸"</string>
+</resources>
+

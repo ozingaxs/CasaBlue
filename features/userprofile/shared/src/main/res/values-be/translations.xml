@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_dm_details_block_alert_action">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ"</string>
+  <string name="screen_dm_details_block_alert_description">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ð½Ñ‹Ñ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÑ– Ð½Ðµ Ð·Ð¼Ð¾Ð³ÑƒÑ†ÑŒ Ð°Ð´Ð¿Ñ€Ð°ÑžÐ»ÑÑ†ÑŒ Ð²Ð°Ð¼ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–, Ñ– ÑžÑÐµ Ñ–Ñ… Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð±ÑƒÐ´ÑƒÑ†ÑŒ ÑÑ…Ð°Ð²Ð°Ð½Ñ‹. Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ñ€Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ Ñ–Ñ… Ñƒ Ð»ÑŽÐ±Ñ‹ Ñ‡Ð°Ñ."</string>
+  <string name="screen_dm_details_block_user">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_dm_details_unblock_alert_action">"Ð Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ"</string>
+  <string name="screen_dm_details_unblock_alert_description">"Ð’Ñ‹ Ð·Ð½Ð¾Ñž Ð·Ð¼Ð¾Ð¶Ð°Ñ†Ðµ ÑžÐ±Ð°Ñ‡Ñ‹Ñ†ÑŒ ÑƒÑÐµ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–."</string>
+  <string name="screen_dm_details_unblock_user">"Ð Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_room_member_details_block_alert_action">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ"</string>
+  <string name="screen_room_member_details_block_alert_description">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ð½Ñ‹Ñ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÑ– Ð½Ðµ Ð·Ð¼Ð¾Ð³ÑƒÑ†ÑŒ Ð°Ð´Ð¿Ñ€Ð°ÑžÐ»ÑÑ†ÑŒ Ð²Ð°Ð¼ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–, Ñ– ÑžÑÐµ Ñ–Ñ… Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð±ÑƒÐ´ÑƒÑ†ÑŒ ÑÑ…Ð°Ð²Ð°Ð½Ñ‹. Ð’Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ñ€Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ Ñ–Ñ… Ñƒ Ð»ÑŽÐ±Ñ‹ Ñ‡Ð°Ñ."</string>
+  <string name="screen_room_member_details_block_user">"Ð—Ð°Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_room_member_details_title">"ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ"</string>
+  <string name="screen_room_member_details_unblock_alert_action">"Ð Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ"</string>
+  <string name="screen_room_member_details_unblock_alert_description">"Ð’Ñ‹ Ð·Ð½Ð¾Ñž Ð·Ð¼Ð¾Ð¶Ð°Ñ†Ðµ ÑžÐ±Ð°Ñ‡Ñ‹Ñ†ÑŒ ÑƒÑÐµ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–."</string>
+  <string name="screen_room_member_details_unblock_user">"Ð Ð°Ð·Ð±Ð»Ð°ÐºÑ–Ñ€Ð°Ð²Ð°Ñ†ÑŒ ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð°Ð»ÑŒÐ½Ñ–ÐºÐ°"</string>
+  <string name="screen_start_chat_error_starting_chat">"ÐŸÑ€Ñ‹ ÑÐ¿Ñ€Ð¾Ð±Ðµ Ð¿Ð°Ñ‡Ð°Ñ†ÑŒ Ñ‡Ð°Ñ‚ Ð°Ð´Ð±Ñ‹Ð»Ð°ÑÑ Ð¿Ð°Ð¼Ñ‹Ð»ÐºÐ°"</string>
+</resources>
+

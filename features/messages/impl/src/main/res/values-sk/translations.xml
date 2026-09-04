@@ -1,0 +1,83 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="crypto_event_authenticity_mismatched_sender">"Odosielatel udalosti sa nezhoduje s vlastníkom zariadenia, ktoré ju odoslalo."</string>
+  <string name="crypto_event_authenticity_not_guaranteed">"Pravost tejto šifrovanej správy nie je možné zarucit na tomto zariadení."</string>
+  <string name="crypto_event_authenticity_previously_verified">"Šifrované predtým overeným používatelom."</string>
+  <string name="crypto_event_authenticity_sent_in_clear">"Nie je šifrované."</string>
+  <string name="crypto_event_authenticity_unknown_device">"Zašifrované neznámym alebo odstráneným zariadením."</string>
+  <string name="crypto_event_authenticity_unsigned_device">"Šifrované zariadením, ktoré nie je overené jeho majitelom."</string>
+  <string name="crypto_event_authenticity_unverified_identity">"Šifrované neovereným používatelom."</string>
+  <string name="screen_media_upload_preview_caption_warning">"Titulky nemusia byt viditelné pre ludí používajúcich staršie aplikácie."</string>
+  <string name="screen_media_upload_preview_change_video_quality_prompt">"Tuknutím zmeníte kvalitu nahratého videa"</string>
+  <string name="screen_media_upload_preview_error_could_not_be_uploaded">"Súbor sa nepodarilo nahrat."</string>
+  <string name="screen_media_upload_preview_error_failed_processing">"Nepodarilo sa spracovat médiá na odoslanie, skúste to prosím znova."</string>
+  <string name="screen_media_upload_preview_error_failed_sending">"Nepodarilo sa nahrat médiá, skúste to prosím znova."</string>
+  <string name="screen_media_upload_preview_error_too_large_message">"Maximálna povolená velkost súboru je %1$s."</string>
+  <string name="screen_media_upload_preview_error_too_large_title">"Súbor je príliš velký na nahratie"</string>
+  <string name="screen_media_upload_preview_item_count">"Položka %1$d z %2$d"</string>
+  <string name="screen_media_upload_preview_optimize_image_quality_title">"Optimalizovat kvalitu obrázku"</string>
+  <string name="screen_media_upload_preview_processing">"Prebieha spracovanie..."</string>
+  <string name="screen_report_content_block_user">"Zablokovat používatela"</string>
+  <string name="screen_report_content_block_user_hint">"Oznacte, ci chcete skryt všetky aktuálne a budúce správy od tohto používatela"</string>
+  <string name="screen_report_content_explanation">"Táto správa bude nahlásená správcovi vášho domovského servera. Nebude môct precítat žiadne šifrované správy."</string>
+  <string name="screen_report_content_hint">"Dôvod nahlásenia tohto obsahu"</string>
+  <string name="screen_room_attachment_source_camera">"Kamera"</string>
+  <string name="screen_room_attachment_source_camera_photo">"Urobit fotku"</string>
+  <string name="screen_room_attachment_source_camera_video">"Nahrat video"</string>
+  <string name="screen_room_attachment_source_files">"Príloha"</string>
+  <string name="screen_room_attachment_source_gallery">"Knižnica fotografií a videí"</string>
+  <string name="screen_room_attachment_source_location">"Zdielat polohu"</string>
+  <string name="screen_room_attachment_source_poll">"Anketa"</string>
+  <string name="screen_room_attachment_text_formatting">"Formátovanie textu"</string>
+  <string name="screen_room_encrypted_history_banner">"História správ v tejto miestnosti nie je momentálne k dispozícii"</string>
+  <string name="screen_room_encrypted_history_banner_unverified">"História správ nie je v tejto miestnosti k dispozícii. Ak chcete zobrazit históriu správ, overte toto zariadenie."</string>
+  <string name="screen_room_invite_again_alert_message">"Chceli by ste ich pozvat spät?"</string>
+  <string name="screen_room_invite_again_alert_title">"V tomto rozhovore ste sami"</string>
+  <string name="screen_room_mentions_at_room_subtitle">"Informovat celú miestnost"</string>
+  <string name="screen_room_mentions_at_room_title">"Všetci"</string>
+  <string name="screen_room_retry_send_menu_send_again_action">"Odoslat znova"</string>
+  <string name="screen_room_retry_send_menu_title">"Vašu správu sa nepodarilo odoslat"</string>
+  <string name="screen_room_timeline_add_reaction">"Pridat emoji"</string>
+  <string name="screen_room_timeline_beginning_of_room">"Toto je zaciatok %1$s."</string>
+  <string name="screen_room_timeline_beginning_of_room_no_name">"Toto je zaciatok tejto konverzácie."</string>
+  <string name="screen_room_timeline_legacy_call">"Nepodporovaný hovor. Opýtajte sa, ci volajúci môže použit novú aplikáciu CasaBlue Next."</string>
+  <string name="screen_room_timeline_less_reactions">"Zobrazit menej"</string>
+  <string name="screen_room_timeline_message_copied">"Správa skopírovaná"</string>
+  <string name="screen_room_timeline_no_permission_to_post">"Nemáte povolenie uverejnovat príspevky v tejto miestnosti"</string>
+  <plurals name="screen_room_timeline_reaction_a11y">
+    <item quantity="one">"%1$d clen reagoval s %2$s"</item>
+    <item quantity="few">"%1$d clenovia reagovali s %2$s"</item>
+    <item quantity="other">"%1$d clenov reagovalo s %2$s"</item>
+  </plurals>
+  <plurals name="screen_room_timeline_reaction_including_you_a11y">
+    <item quantity="one">"Vy a %1$d clen reagoval s %2$s"</item>
+    <item quantity="few">"Vy a %1$d clenovia reagovali s %2$s"</item>
+    <item quantity="other">"Vy a %1$d clenov reagovalo s %2$s"</item>
+  </plurals>
+  <string name="screen_room_timeline_reaction_you_a11y">"Reagovali ste s %1$s"</string>
+  <string name="screen_room_timeline_reactions_show_less">"Zobrazit menej"</string>
+  <string name="screen_room_timeline_reactions_show_more">"Zobrazit viac"</string>
+  <string name="screen_room_timeline_reactions_show_reactions_summary">"Zobrazit súhrn reakcií"</string>
+  <string name="screen_room_timeline_read_marker_title">"Nové"</string>
+  <plurals name="screen_room_timeline_state_changes">
+    <item quantity="one">"%1$d zmena miestnosti"</item>
+    <item quantity="few">"%1$d zmeny miestnosti"</item>
+    <item quantity="other">"%1$d zmien miestnosti"</item>
+  </plurals>
+  <string name="screen_room_timeline_tombstoned_room_action">"Prejst do novej miestnosti"</string>
+  <string name="screen_room_timeline_tombstoned_room_message">"Táto miestnost bola nahradená a už nie je aktívna"</string>
+  <string name="screen_room_timeline_upgraded_room_action">"Zobrazit staré správy"</string>
+  <string name="screen_room_timeline_upgraded_room_message">"Táto miestnost je pokracovaním inej miestnosti"</string>
+  <plurals name="screen_room_typing_many_members">
+    <item quantity="one">"%1$s, %2$s a %3$d další"</item>
+    <item quantity="few">"%1$s, %2$s a %3$d další"</item>
+    <item quantity="other">"%1$s, %2$s a %3$d další"</item>
+  </plurals>
+  <plurals name="screen_room_typing_notification">
+    <item quantity="one">"%1$s píše"</item>
+    <item quantity="few">"%1$s píšu"</item>
+    <item quantity="other">"%1$s píšu"</item>
+  </plurals>
+  <string name="screen_room_typing_two_members">"%1$s a %2$s"</string>
+</resources>
+

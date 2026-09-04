@@ -1,0 +1,23 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bottom_sheet_manage_room_member_ban">"Odstránit a zakázat clena"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_action">"Zakázat"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_description">"Nebudú sa môct pripojit k tejto miestnosti znova ani ak budú pozvaní."</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_confirmation_title">"Ste si istý, že chcete zakázat tohto clena?"</string>
+  <string name="screen_bottom_sheet_manage_room_member_ban_member_from_space_confirmation_description">"Ak dostanú pozvánku, nebudú sa môct k tomuto priestoru znova pripojit, ale stále si ponechajú clenstvo vo všetkých miestnostiach alebo podpriestoroch."</string>
+  <string name="screen_bottom_sheet_manage_room_member_banning_user">"Zakazuje sa %1$s"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_action">"Odstránit"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_description">"V prípade pozvania sa budú môct znova pripojit k tejto miestnosti."</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_confirmation_title">"Ste si istý, že chcete odstránit tohto clena?"</string>
+  <string name="screen_bottom_sheet_manage_room_member_kick_member_from_space_confirmation_description">"Ak dostanú pozvánku, budú sa môct k tomuto priestoru znova pripojit a stále si ponechajú clenstvo vo všetkých miestnostiach alebo podpriestoroch."</string>
+  <string name="screen_bottom_sheet_manage_room_member_member_user_info">"Zobrazit profil"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove">"Odstránit používatela"</string>
+  <string name="screen_bottom_sheet_manage_room_member_remove_confirmation_title">"Odstránit clena a zakázat vstup v budúcnosti?"</string>
+  <string name="screen_bottom_sheet_manage_room_member_removing_user">"Odstranuje sa %1$s..."</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban">"Zrušit zákaz prístupu do miestnosti"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_action">"Zrušit zákaz"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_description">"V prípade pozvania by sa mohli opät pripojit k miestnosti"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unban_member_confirmation_title">"Naozaj chcete zrušit zablokovanie tohto clena?"</string>
+  <string name="screen_bottom_sheet_manage_room_member_unbanning_user">"Zrušenie zákazu %1$s"</string>
+</resources>
+

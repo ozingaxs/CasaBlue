@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_identity_confirmation_cannot_confirm">"ØªØµØ¯ÛŒÙ‚ Ù†ÛÛŒÚº Ú©Ø± Ø³Ú©ØªÛ’ØŸ"</string>
+  <string name="screen_identity_confirmation_create_new_recovery_key">"Ø§ÛŒÚ© Ù†Ø¦ÛŒ Ø¨Ø§Ø²ÛŒØ§Ø¨ÛŒ Ú©Ù„ÛŒØ¯ ØªØ®Ù„ÛŒÙ‚ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_identity_confirmation_subtitle">"Ù…Ø­ÙÙˆØ¸ Ù¾ÛŒØºØ§Ù… Ø±Ø³Ø§Ù†ÛŒ ØªØ±ØªÛŒØ¨ Ø¯ÛŒÙ†Û’ Ú©ÛŒÙ„Ø¦Û’ Ø§Ø³ Ø¢Ù„Û’ Ú©ÛŒ ØªÙˆØ«ÛŒÙ‚ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_identity_confirmation_title">"Ø§Ù¾Ù†ÛŒ Ø´Ù†Ø§Ø®Øª Ú©ÛŒ ØªØµØ¯ÛŒÙ‚ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_identity_confirmation_use_another_device">"Ø¯ÙˆØ³Ø±Ø§ Ø¢Ù„Û Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_identity_confirmation_use_recovery_key">"Ø¨Ø§Ø²ÛŒØ§Ø¨ÛŒ Ú©Ù„ÛŒØ¯ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_identity_confirmed_subtitle">"Ø§Ø¨ Ø¢Ù¾ Ù…Ø­ÙÙˆØ¸ Ø·Ø±ÛŒÙ‚Û’ Ø³Û’ Ù¾ÛŒØºØ§Ù…Ø§Øª Ù¾Ú‘Ú¾ ÛŒØ§ Ø¨Ú¾ÛŒØ¬ Ø³Ú©ØªÛ’ ÛÛŒÚºØŒ Ø§ÙˆØ± Ø¬Ø³Ú©Û’ Ø³Ø§ØªÚ¾ Ø¢Ù¾ Ú¯ÙØªÚ¯Ùˆ Ú©Ø±ØªÛ’ ÛÛŒÚº ÙˆÛ Ø¨Ú¾ÛŒ Ø§Ø³ Ø¢Ù„Û Ù¾Ø± Ø¨Ú¾Ø±ÙˆØ³Û Ú©Ø± Ø³Ú©ØªØ§ ÛÛ’Û”"</string>
+  <string name="screen_identity_confirmed_title">"Ø¢Ù„Û ØªÙˆØ«ÛŒÙ‚ Ø´Ø¯Û"</string>
+  <string name="screen_identity_use_another_device">"Ø¯ÙˆØ³Ø±Ø§ Ø¢Ù„Û Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_identity_waiting_on_other_device">"Ø¯ÙˆØ³Ø±Û’ Ø¢Ù„Û Ù¾Ø± Ù…Ù†ØªØ¸Ø±..."</string>
+  <string name="screen_notification_optin_subtitle">"Ø¢Ù¾ Ø¨Ø¹Ø¯ Ù…ÛŒÚº Ø§Ù¾Ù†ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª ØªØ¨Ø¯ÛŒÙ„ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_notification_optin_title">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©ÛŒ Ø§Ø¬Ø§Ø²Øª Ø¯ÛŒÚº Ø§ÙˆØ± Ú©Ø¨Ú¾ÛŒ Ø¨Ú¾ÛŒ Ú©Ø³ÛŒ Ù¾ÛŒØºØ§Ù… Ø³Û’ Ù…Ø­Ø±ÙˆÙ… Ù†Û ÛÙˆÚºÛ”"</string>
+</resources>
+

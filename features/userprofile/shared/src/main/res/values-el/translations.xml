@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_dm_details_block_alert_action">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_dm_details_block_alert_description">"ÎŸÎ¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î­Î½Î¿Î¹ Ï‡ÏÎ®ÏƒÏ„ÎµÏ‚ Î´ÎµÎ½ Î¸Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÎ¿Ï… ÏƒÏ„Î­Î»Î½Î¿Ï…Î½ Î¼Î·Î½ÏÎ¼Î±Ï„Î± ÎºÎ±Î¹ ÏŒÎ»Î± Ï„Î± Î¼Î·Î½ÏÎ¼Î±Ï„Î¬ Ï„Î¿Ï…Ï‚ Î¸Î± ÎµÎ¯Î½Î±Î¹ ÎºÏÏ…Î¼Î¼Î­Î½Î±. ÎœÏ€Î¿ÏÎµÎ¯Ï‚ Î½Î± Ï„Î± Î¾ÎµÎ¼Ï€Î»Î¿ÎºÎ¬ÏÎµÎ¹Ï‚ Î±Î½Î¬ Ï€Î¬ÏƒÎ± ÏƒÏ„Î¹Î³Î¼Î®."</string>
+  <string name="screen_dm_details_block_user">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚ Ï‡ÏÎ®ÏƒÏ„Î·"</string>
+  <string name="screen_dm_details_unblock_alert_action">"Î†ÏÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï"</string>
+  <string name="screen_dm_details_unblock_alert_description">"Î˜Î± Î¼Ï€Î¿ÏÎµÎ¯Ï‚ Î½Î± Î´ÎµÎ¹Ï‚ Î¾Î±Î½Î¬ ÏŒÎ»Î± Ï„Î± Î¼Î·Î½ÏÎ¼Î±Ï„Î± Ï„Î¿Ï…."</string>
+  <string name="screen_dm_details_unblock_user">"ÎšÎ±Ï„Î¬ÏÎ³Î·ÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï Ï‡ÏÎ®ÏƒÏ„Î·"</string>
+  <string name="screen_room_member_details_block_alert_action">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚"</string>
+  <string name="screen_room_member_details_block_alert_description">"ÎŸÎ¹ Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î­Î½Î¿Î¹ Ï‡ÏÎ®ÏƒÏ„ÎµÏ‚ Î´ÎµÎ½ Î¸Î± Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÎ¿Ï… ÏƒÏ„Î­Î»Î½Î¿Ï…Î½ Î¼Î·Î½ÏÎ¼Î±Ï„Î± ÎºÎ±Î¹ ÏŒÎ»Î± Ï„Î± Î¼Î·Î½ÏÎ¼Î±Ï„Î¬ Ï„Î¿Ï…Ï‚ Î¸Î± ÎµÎ¯Î½Î±Î¹ ÎºÏÏ…Î¼Î¼Î­Î½Î±. ÎœÏ€Î¿ÏÎµÎ¯Ï‚ Î½Î± Ï„Î± Î¾ÎµÎ¼Ï€Î»Î¿ÎºÎ¬ÏÎµÎ¹Ï‚ Î±Î½Î¬ Ï€Î¬ÏƒÎ± ÏƒÏ„Î¹Î³Î¼Î®."</string>
+  <string name="screen_room_member_details_block_user">"Î‘Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼ÏŒÏ‚ Ï‡ÏÎ®ÏƒÏ„Î·"</string>
+  <string name="screen_room_member_details_title">"Î ÏÎ¿Ï†Î¯Î»"</string>
+  <string name="screen_room_member_details_unblock_alert_action">"Î†ÏÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï"</string>
+  <string name="screen_room_member_details_unblock_alert_description">"Î˜Î± Î¼Ï€Î¿ÏÎµÎ¯Ï‚ Î½Î± Î´ÎµÎ¹Ï‚ Î¾Î±Î½Î¬ ÏŒÎ»Î± Ï„Î± Î¼Î·Î½ÏÎ¼Î±Ï„Î± Ï„Î¿Ï…."</string>
+  <string name="screen_room_member_details_unblock_user">"ÎšÎ±Ï„Î¬ÏÎ³Î·ÏƒÎ· Î±Ï€Î¿ÎºÎ»ÎµÎ¹ÏƒÎ¼Î¿Ï Ï‡ÏÎ®ÏƒÏ„Î·"</string>
+  <string name="screen_room_member_details_verify_button_subtitle">"Î§ÏÎ·ÏƒÎ¹Î¼Î¿Ï€Î¿Î¯Î·ÏƒÎµ Ï„Î·Î½ ÎµÏ†Î±ÏÎ¼Î¿Î³Î® Î¹ÏƒÏ„Î¿Ï Î³Î¹Î± Î½Î± ÎµÏ€Î±Î»Î·Î¸ÎµÏÏƒÎµÎ¹Ï‚ Î±Ï…Ï„ÏŒÎ½ Ï„Î¿Î½ Ï‡ÏÎ®ÏƒÏ„Î·."</string>
+  <string name="screen_room_member_details_verify_button_title">"Î•Ï€Î±Î»Î®Î¸ÎµÏ…ÏƒÎ· %1$s"</string>
+  <string name="screen_start_chat_error_starting_chat">"Î Î±ÏÎ¿Ï…ÏƒÎ¹Î¬ÏƒÏ„Î·ÎºÎµ ÏƒÏ†Î¬Î»Î¼Î± ÎºÎ±Ï„Î¬ Ï„Î·Î½ Ï€ÏÎ¿ÏƒÏ€Î¬Î¸ÎµÎ¹Î± Î­Î½Î±ÏÎ¾Î·Ï‚ Î¼Î¹Î±Ï‚ ÏƒÏ…Î½Î¿Î¼Î¹Î»Î¯Î±Ï‚"</string>
+</resources>
+

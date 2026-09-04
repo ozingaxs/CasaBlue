@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_security_and_privacy_add_room_address_action">"Ð”Ð¾Ð±Ð°Ð²ÑÐ½Ðµ Ð½Ð° Ð°Ð´Ñ€ÐµÑ"</string>
+  <string name="screen_security_and_privacy_enable_encryption_alert_confirm_button_title">"Ð”Ð°, Ð²ÐºÐ»ÑŽÑ‡Ð²Ð°Ð½Ðµ Ð½Ð° ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½ÐµÑ‚Ð¾"</string>
+  <string name="screen_security_and_privacy_enable_encryption_alert_title">"Ð”Ð° ÑÐµ Ð²ÐºÐ»ÑŽÑ‡Ð¸ Ð»Ð¸ ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½ÐµÑ‚Ð¾?"</string>
+  <string name="screen_security_and_privacy_encryption_section_footer">"Ð’ÐµÐ´Ð½ÑŠÐ¶ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾, ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½ÐµÑ‚Ð¾ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ð±ÑŠÐ´Ðµ Ð¸Ð·ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾."</string>
+  <string name="screen_security_and_privacy_encryption_section_header">"Ð¨Ð¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ðµ"</string>
+  <string name="screen_security_and_privacy_encryption_toggle_title">"Ð’ÐºÐ»ÑŽÑ‡Ð²Ð°Ð½Ðµ Ð½Ð° ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ðµ Ð¾Ñ‚ ÐºÑ€Ð°Ð¹ Ð´Ð¾ ÐºÑ€Ð°Ð¹"</string>
+  <string name="screen_security_and_privacy_room_access_anyone_option_description">"Ð’ÑÐµÐºÐ¸ Ð¼Ð¾Ð¶Ðµ Ð´Ð° ÑÐµ Ð¿Ñ€Ð¸ÑÑŠÐµÐ´Ð¸Ð½Ð¸."</string>
+  <string name="screen_security_and_privacy_room_access_invite_only_option_description">"Ð¡Ð°Ð¼Ð¾ Ð¿Ð¾ÐºÐ°Ð½ÐµÐ½Ð¸ Ñ…Ð¾Ñ€Ð° Ð¼Ð¾Ð³Ð°Ñ‚ Ð´Ð° ÑÐµ Ð¿Ñ€Ð¸ÑÑŠÐµÐ´Ð¸Ð½ÑÑ‚."</string>
+  <string name="screen_security_and_privacy_room_access_invite_only_option_title">"Ð¡Ð°Ð¼Ð¾ Ñ Ð¿Ð¾ÐºÐ°Ð½Ð°"</string>
+  <string name="screen_security_and_privacy_room_access_section_header">"Ð”Ð¾ÑÑ‚ÑŠÐ¿"</string>
+  <string name="screen_security_and_privacy_room_access_space_members_option_unavailable_description">"ÐŸÑ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð°Ñ‚Ð° Ð² Ð¼Ð¾Ð¼ÐµÐ½Ñ‚Ð° Ð½Ðµ ÑÐµ Ð¿Ð¾Ð´Ð´ÑŠÑ€Ð¶Ð°Ñ‚"</string>
+  <string name="screen_security_and_privacy_room_directory_visibility_toggle_title">"Ð’Ð¸Ð´Ð¸Ð¼Ð° Ð² Ð¾Ð±Ñ‰ÐµÑÑ‚Ð²ÐµÐ½Ð°Ñ‚Ð° Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸Ñ"</string>
+  <string name="screen_security_and_privacy_room_history_section_header">"ÐšÐ¾Ð¹ Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ñ‡ÐµÑ‚Ðµ Ð¸ÑÑ‚Ð¾Ñ€Ð¸ÑÑ‚Ð°"</string>
+  <string name="screen_security_and_privacy_room_history_since_invite_option_title">"Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ Ð¾Ñ‚ÐºÐ°ÐºÑ‚Ð¾ ÑÐ° Ð¿Ð¾ÐºÐ°Ð½ÐµÐ½Ð¸"</string>
+  <string name="screen_security_and_privacy_room_history_since_selecting_option_title">"Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ (Ð¿ÑŠÐ»Ð½Ð°Ñ‚Ð° Ð¸ÑÑ‚Ð¾Ñ€Ð¸Ñ)"</string>
+  <string name="screen_security_and_privacy_title">"Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¸ Ð¿Ð¾Ð²ÐµÑ€Ð¸Ñ‚ÐµÐ»Ð½Ð¾ÑÑ‚"</string>
+</resources>
+

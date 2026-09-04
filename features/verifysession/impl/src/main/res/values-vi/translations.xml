@@ -1,0 +1,37 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_identity_confirmation_cannot_confirm">"Không th? xác nh?n?"</string>
+  <string name="screen_identity_confirmation_create_new_recovery_key">"T?o khóa khôi ph?c m?i"</string>
+  <string name="screen_identity_confirmation_subtitle">"Ch?n phuong th?c xác minh d? b?t nh?n tin b?o m?t."</string>
+  <string name="screen_identity_confirmation_title">"Xác nh?n danh tính k? thu?t s? c?a b?n"</string>
+  <string name="screen_identity_confirmation_use_another_device">"Dùng thi?t b? khác"</string>
+  <string name="screen_identity_confirmation_use_recovery_key">"S? d?ng khóa khôi ph?c"</string>
+  <string name="screen_identity_confirmed_subtitle">"Gi? dây b?n có th? d?c và g?i tin nh?n m?t cách an toàn, và nh?ng ngu?i b?n trò chuy?n cung có th? tin tu?ng thi?t b? này."</string>
+  <string name="screen_identity_confirmed_title">"Thi?t b? du?c xác th?c"</string>
+  <string name="screen_identity_use_another_device">"Dùng thi?t b? khác"</string>
+  <string name="screen_identity_waiting_on_other_device">"Ðang ch? trên thi?t b? khác..."</string>
+  <string name="screen_session_verification_cancelled_subtitle">"Có v? nhu có di?u gì dó không dúng. Ho?c yêu c?u dã h?t th?i gian ch? ho?c yêu c?u dã b? t? ch?i."</string>
+  <string name="screen_session_verification_compare_emojis_subtitle">"Hãy xác nh?n r?ng các bi?u tu?ng c?m xúc bên du?i kh?p v?i các bi?u tu?ng hi?n th? trên thi?t b? khác c?a b?n."</string>
+  <string name="screen_session_verification_compare_emojis_title">"So sánh các bi?u tu?ng c?m xúc"</string>
+  <string name="screen_session_verification_compare_numbers_subtitle">"Xác nh?n r?ng các s? bên du?i kh?p v?i s? hi?n th? trên thi?t b? dang nh?p khác c?a b?n."</string>
+  <string name="screen_session_verification_compare_numbers_title">"So sánh s? li?u"</string>
+  <string name="screen_session_verification_complete_subtitle">"Gi? dây, b?n có th? d?c ho?c g?i tin nh?n m?t cách an toàn trên thi?t b? khác c?a mình."</string>
+  <string name="screen_session_verification_device_verified">"Thi?t b? du?c xác th?c"</string>
+  <string name="screen_session_verification_enter_recovery_key">"Nh?p mã khôi ph?c."</string>
+  <string name="screen_session_verification_open_existing_session_subtitle">"Hãy ch?ng minh dó là b?n d? truy c?p vào l?ch s? tin nh?n dã mã hóa c?a b?n."</string>
+  <string name="screen_session_verification_open_existing_session_title">"M? m?t phiên hi?n có"</string>
+  <string name="screen_session_verification_positive_button_canceled">"Th? xác minh l?i"</string>
+  <string name="screen_session_verification_positive_button_initial">"Tôi dã s?n sàng"</string>
+  <string name="screen_session_verification_positive_button_verifying_ongoing">"Ðang ch? ghép dôi..."</string>
+  <string name="screen_session_verification_ready_subtitle">"So sánh m?t b? bi?u tu?ng c?m xúc duy nh?t."</string>
+  <string name="screen_session_verification_request_accepted_subtitle">"So sánh các bi?u tu?ng c?m xúc riêng bi?t, d?m b?o chúng xu?t hi?n theo cùng m?t th? t?."</string>
+  <string name="screen_session_verification_request_failure_title">"Xác minh th?t b?i"</string>
+  <string name="screen_session_verification_request_success_subtitle">"Gi? dây, b?n có th? d?c ho?c g?i tin nh?n m?t cách an toàn trên thi?t b? khác c?a mình."</string>
+  <string name="screen_session_verification_request_success_title">"Thi?t b? du?c xác th?c"</string>
+  <string name="screen_session_verification_they_dont_match">"Chúng không kh?p nhau"</string>
+  <string name="screen_session_verification_they_match">"Chúng kh?p v?i nhau"</string>
+  <string name="screen_session_verification_waiting_to_accept_subtitle">"Hãy ch?p nh?n yêu c?u b?t d?u quá trình xác minh trong phiên làm vi?c khác c?a b?n d? ti?p t?c."</string>
+  <string name="screen_session_verification_waiting_to_accept_title">"Ðang ch? ch?p nh?n yêu c?u"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ðang g? thi?t b?..."</string>
+</resources>
+

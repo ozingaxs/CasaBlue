@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_decline_and_block_block_user_option_description">"Ð’Ñ‹ Ð½Ðµ ÑƒÐ²Ð¸Ð´Ð¸Ñ‚Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ð¹ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ Ð¾Ñ‚ ÑÑ‚Ð¾Ð³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_decline_and_block_block_user_option_title">"Ð—Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_decline_and_block_report_user_option_description">"ÐŸÐ¾Ð¶Ð°Ð»Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð½Ð° ÑÑ‚Ñƒ ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ ÑÐµÑ€Ð²ÐµÑ€Ñƒ Ð’Ð°ÑˆÐµÐ³Ð¾ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð°."</string>
+  <string name="screen_decline_and_block_report_user_reason_placeholder">"ÐžÐ¿Ð¸ÑˆÐ¸Ñ‚Ðµ Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½Ñƒ Ð¶Ð°Ð»Ð¾Ð±Ñ‹..."</string>
+  <string name="screen_decline_and_block_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_invites_decline_chat_message">"Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð² %1$s?"</string>
+  <string name="screen_invites_decline_chat_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_invites_decline_direct_chat_message">"Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ Ð»Ð¸Ñ‡Ð½Ð¾Ð³Ð¾ Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ %1$s?"</string>
+  <string name="screen_invites_decline_direct_chat_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ñ‡Ð°Ñ‚"</string>
+  <string name="screen_invites_empty_list">"ÐÐµÑ‚ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ð¹"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑÐ¸Ð»(Ð°) Ð’Ð°Ñ"</string>
+  <string name="screen_join_room_decline_and_block_alert_confirmation">"Ð”Ð°, Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_decline_and_block_alert_message">"Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñƒ? Ð¢Ð°ÐºÐ¶Ðµ %1$s Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ ÑÐ¼Ð¾Ð¶ÐµÑ‚ ÑÐ²ÑÐ·Ð°Ñ‚ÑŒÑÑ Ñ Ð²Ð°Ð¼Ð¸ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°Ñ‚ÑŒ Ð² ÐºÐ¾Ð¼Ð½Ð°Ñ‚Ñ‹."</string>
+  <string name="screen_join_room_decline_and_block_alert_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+  <string name="screen_join_room_decline_and_block_button_title">"ÐžÑ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ"</string>
+</resources>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_settings_help_us_improve">"Ð¡Ð¿Ð¾Ð´ÐµÐ»ÑÐ½Ðµ Ð½Ð° Ð°Ð½Ð¾Ð½Ð¸Ð¼Ð½Ð¸ Ð´Ð°Ð½Ð½Ð¸ Ð·Ð° Ð¸Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ð½Ðµ, Ð·Ð° Ð´Ð° Ð½Ð¸ Ð¿Ð¾Ð¼Ð¾Ð³Ð½ÐµÑ‚Ðµ Ð´Ð° Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð°Ð¼Ðµ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð¸."</string>
+  <string name="screen_analytics_settings_read_terms">"ÐœÐ¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð¿Ñ€Ð¾Ñ‡ÐµÑ‚ÐµÑ‚Ðµ Ð²ÑÐ¸Ñ‡ÐºÐ¸ Ð½Ð°ÑˆÐ¸ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ %1$s."</string>
+  <string name="screen_analytics_settings_read_terms_content_link">"Ñ‚ÑƒÐº"</string>
+  <string name="screen_analytics_settings_share_data">"Ð¡Ð¿Ð¾Ð´ÐµÐ»ÑÐ½Ðµ Ð½Ð° ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð´Ð°Ð½Ð½Ð¸"</string>
+</resources>
+

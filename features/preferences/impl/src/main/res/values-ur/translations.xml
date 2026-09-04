@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="full_screen_intent_banner_message">"Ø§Ø³ Ø¨Ø§Øª Ú©Ùˆ ÛŒÙ‚ÛŒÙ†ÛŒ Ø¨Ù†Ø§Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ú©Û Ø¢Ù¾ Ú©Ø¨Ú¾ÛŒ Ø¨Ú¾ÛŒ Ø§ÛÙ… Ù…Ú©Ø§Ù„Ù…Û Ø³Û’ Ù…Ø­Ø±ÙˆÙ… Ù†Û ÛÙˆÚºØŒ Ø¨Ø±Ø§Û Ú©Ø±Ù… Ø§Ù¾Ù†ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±ÛŒÚº ØªØ§Ú©Û Ø¢Ù¾ Ú©Ø§ ÛØ§ØªÙ Ù…Ù‚ÙÙ„ ÛÙˆÙ†Û’ Ù¾Ø± Ù…Ú©Ù…Ù„ Ù¾Ø±Ø¯Û‚ Ù†Ù…Ø§Ø¦Ø´ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©ÛŒ Ø§Ø¬Ø§Ø²Øª Ø¯ÛŒ Ø¬Ø§ Ø³Ú©Û’Û”"</string>
+  <string name="full_screen_intent_banner_title">"Ø§Ù¾Ù†Û’ Ù…Ú©Ø§Ù„Ù…ØªÛŒ ØªØ¬Ø±Ø¨Û’ Ú©Ùˆ Ø§Ø­Ø³Ù† Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_advanced_settings_choose_distributor_dialog_title_android">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ù…ÙˆØµÙˆÙ„ Ú©Ø±Ù†Û’ Ú©Ø§ Ø·Ø±ÛŒÙ‚Û Ú†Ù†ÛŒÚºÛ”"</string>
+  <string name="screen_advanced_settings_developer_mode">"Ù…Ø·ÙˆØ± ÙˆØ¶Ø¹"</string>
+  <string name="screen_advanced_settings_developer_mode_description">"Ù…Ø·ÙˆØ±ÛŒÙ† Ú©ÛŒÙ„Ø¦Û’ Ø®ØµÙˆØµÛŒØ§Øª Ø§ÙˆØ± ÙØ¹Ø§Ù„ÛŒØª ØªÚ© Ø±Ø³Ø§Ø¦ÛŒ Ø­Ø§ØµÙ„ Ú©Ø±Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ ÙØ¹Ø§Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_advanced_settings_CasaBlue_call_base_url">"Ø­Ø³Ø¨ Ø¶Ø±ÙˆØ±Øª Ø§ÛŒÙ„ÛŒÙ…Ù†Ù¹ Ù…Ú©Ø§Ù„Ù…Û Ø¨Ù†ÛŒØ§Ø¯ÛŒ Ø¹Ù†ÙˆØ§Ù†"</string>
+  <string name="screen_advanced_settings_CasaBlue_call_base_url_description">"Ø§ÛŒÙ„ÛŒÙ…Ù†Ù¹ Ù…Ú©Ø§Ù„Ù…Û Ú©ÛŒÙ„Ø¦Û’ Ø­Ø³Ø¨ Ø¶Ø±ÙˆØ±Øª Ø¨Ù†ÛŒØ§Ø¯ÛŒ Ø¹Ù†ÙˆØ§Ù† ØªØ±ØªÛŒØ¨ Ø¯ÛŒÚº"</string>
+  <string name="screen_advanced_settings_CasaBlue_call_base_url_validation_error">"Ø¨Ø§Ø·Ù„ Ø¹Ù†ÙˆØ§Ù†ØŒ Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ ÛŒÙ‚ÛŒÙ†ÛŒ Ø¨Ù†Ø§Ø¦ÛŒÚº Ú©Û Ø¢Ù¾ Ø¯Ø³ØªÙˆØ± (http/https) Ø§ÙˆØ± ØµØ­ÛŒØ­ Ù¾ØªÛ Ø´Ø§Ù…Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_advanced_settings_push_provider_android">"Ø¯Ú¾Ú©Ø§ Ø§Ø·Ù„Ø§Ø¹ ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û"</string>
+  <string name="screen_advanced_settings_rich_text_editor_description">"Ù…Ø§Ø±Ú© ÚˆØ§ÙˆÙ† Ú©Ùˆ Ø¯Ø³ØªÛŒ Ø·ÙˆØ± Ù¾Ø± ØªØ­Ø±ÛŒØ± Ú©Ø±Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ø§Ù…ÛŒØ± Ù…ØªÙ† Ù…Ø¯ÙˆÙ† Ú©Ùˆ ØºÛŒØ± ÙØ¹Ø§Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_advanced_settings_send_read_receipts">"Ù¾Ú‘Ú¾Ù†Û’ Ú©ÛŒ Ø±Ø³ÛŒØ¯ÛŒÚº"</string>
+  <string name="screen_advanced_settings_send_read_receipts_description">"Ø§Ú¯Ø± Ø¨Ù†Ø¯ Ú©Ø± Ø¯ÛŒØ§ Ø¬Ø§Ø¦Û’ ØªÙˆØŒ Ø¢Ù¾ Ú©ÛŒ Ù¾Ú‘Ú¾Ù†Û’ Ú©ÛŒ Ø±Ø³ÛŒØ¯ÛŒÚº Ú©Ø³ÛŒ Ú©Ùˆ Ù†ÛÛŒÚº Ø¨Ú¾ÛŒØ¬ÛŒ Ø¬Ø§Ø¦ÛŒÚº Ú¯ÛŒÛ” Ø¢Ù¾ Ø§Ø¨ Ø¨Ú¾ÛŒ Ø¯ÙˆØ³Ø±Û’ ØµØ§Ø±ÙÛŒÙ† Ø³Û’ Ù¾Ú‘Ú¾Ù†Û’ Ú©ÛŒ Ø±Ø³ÛŒØ¯ÛŒÚº ÙˆØµÙˆÙ„ Ú©Ø±ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_advanced_settings_share_presence">"Ù…ÙˆØ¬ÙˆØ¯Ú¯ÛŒ Ú©Ø§ Ø§Ø´ØªØ±Ø§Ú© Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_advanced_settings_share_presence_description">"Ø§Ú¯Ø±Ø¨Ù†Ø¯ Ú©ÛŒØ§ØŒ ØªÙˆ Ø¢Ù¾ Ù¾Ú‘Ú¾Ù†Û’ Ú©ÛŒ Ø±Ø³ÛŒØ¯ÛŒÚº ÛŒØ§ ØªØ­Ø±ÛŒØ± Ú©ÛŒ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ø§Ø±Ø³Ø§Ù„ ÛŒØ§ ÙˆØµÙˆÙ„ Ù†ÛÛŒÚº Ú©Ø± Ø³Ú©ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_advanced_settings_view_source_description">"Ø¬Ø¯ÙˆÙ„ Ø²Ù…Ø§Ù†ÛŒ Ù…ÛŒÚº Ù¾ÛŒØºØ§Ù… Ú©Ø§ Ù…Ø§Ø®Ø° Ø¯ÛŒÚ©Ú¾Ù†Û’ Ú©Û’ Ù„Ø¦Û’ Ø§Ø®ØªÛŒØ§Ø± ÙØ¹Ø§Ù„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_blocked_users_empty">"Ø¢Ù¾ Ú©Û’ Ú©ÙˆØ¦ÛŒ Ù…Ø³Ø¯ÙˆØ¯ ØµØ§Ø±ÙÛŒÙ† Ù†ÛÛŒÚº ÛÛ’Û”"</string>
+  <string name="screen_blocked_users_unblock_alert_action">"ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_blocked_users_unblock_alert_description">"Ø¢Ù¾ Ø§Ù†Ú©ÛŒ Ø¬Ø§Ù†Ø¨ Ø³Û’ ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ø¯ÙˆØ¨Ø§Ø±Û Ø¯ÛŒÚ©Ú¾ Ø³Ú©ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_blocked_users_unblock_alert_title">"ØµØ§Ø±Ù Ú©Ùˆ ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_blocked_users_unblocking">"ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø± Ø±ÛØ§ ÛÛ’..."</string>
+  <string name="screen_edit_profile_display_name">"Ù†Ù…Ø§Ø¦Ø´ÛŒ Ù†Ø§Ù…"</string>
+  <string name="screen_edit_profile_display_name_placeholder">"Ø¢Ù¾Ú©Ø§ Ù†Ù…Ø§Ø¦Ø´ÛŒ Ù†Ø§Ù…"</string>
+  <string name="screen_edit_profile_error">"Ø§ÛŒÚ© Ù†Ø§Ù…Ø¹Ù„ÙˆÙ… Ù†Ù‚Øµ Ú©Ø§ Ø³Ø§Ù…Ù†Ø§ Ú©Ø±Ù†Ø§ Ù¾Ú‘Ø§ Ø§ÙˆØ± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ú©Ùˆ ØªØ¨Ø¯ÛŒÙ„ Ù†ÛÛŒÚº Ú©ÛŒØ§ Ø¬Ø§ Ø³Ú©Ø§Û”"</string>
+  <string name="screen_edit_profile_error_title">"Ù†Ù…Ø§ÛŒÛ Ú©ÛŒ ØªØ¬Ø¯ÛŒØ¯ Ú©Ø±Ù†Û’ Ø³Û’ Ù‚Ø§ØµØ±"</string>
+  <string name="screen_edit_profile_title">"Ù†Ù…Ø§ÛŒÛ Ù…ÛŒÚº ØªØ±Ù…ÛŒÙ… Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_edit_profile_updating_details">"Ù†Ù…Ø§ÛŒÛ Ú©ÛŒ ØªØ¬Ø¯ÛŒØ¯ ÛÙˆ Ø±ÛÛŒ ÛÛ’..."</string>
+  <string name="screen_notification_settings_additional_settings_section_title">"Ø§Ø¶Ø§ÙÛŒ ØªØ±ØªÛŒØ¨Ø§Øª"</string>
+  <string name="screen_notification_settings_calls_label">"ØµÙˆØªÛŒ Ø§ÙˆØ± Ø¨ØµØ±ÛŒ Ù…Ú©Ø§Ù„Ù…Ø§Øª"</string>
+  <string name="screen_notification_settings_configuration_mismatch">"ØªÚ©ÙˆÛŒÙ† Ú©ÛŒ Ø¹Ø¯Ù… Ù…Ø·Ø§Ø¨Ù‚Øª"</string>
+  <string name="screen_notification_settings_configuration_mismatch_description">"ÛÙ… Ù†Û’ Ø§Ø®ØªÛŒØ§Ø±Ø§Øª Ú©Ùˆ ØªÙ„Ø§Ø´ Ú©Ø±Ù†Ø§ Ø¢Ø³Ø§Ù† Ø¨Ù†Ø§Ù†Û’ Ú©Û’ Ù„ÛŒÛ’ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª Ú©Ùˆ Ø¢Ø³Ø§Ù† Ø¨Ù†Ø§ÛŒØ§ ÛÛ’Û” Ø¢Ù¾ Ú©ÛŒ Ù…Ø§Ø¶ÛŒ Ù…ÛŒÚº Ù…Ù†ØªØ®Ø¨ Ú©Ø±Ø¯Û Ú©Ú†Ú¾ Ø­Ø³Ø¨ Ø¶Ø±ÙˆØ±Øª ØªØ±ØªÛŒØ¨Ø§Øª ÛŒÛØ§Úº Ù†ÛÛŒÚº Ø¯Ú©Ú¾Ø§Ø¦ÛŒ Ú¯Ø¦ÛŒ ÛÛŒÚºØŒ Ù„ÛŒÚ©Ù† ÙˆÛ Ø§Ø¨ Ø¨Ú¾ÛŒ ÙØ¹Ø§Ù„ ÛÛŒÚºÛ”
+
+ Ø§Ú¯Ø± Ø¢Ù¾ Ø¢Ú¯Û’ Ø¨Ú‘Ú¾ØªÛ’ ÛÛŒÚº ØªÙˆ Ø¢Ù¾ Ú©ÛŒ Ú©Ú†Ú¾ ØªØ±ØªÛŒØ¨Ø§Øª ØªØ¨Ø¯ÛŒÙ„ ÛÙˆ Ø³Ú©ØªÛŒ ÛÛŒÚºÛ”"</string>
+  <string name="screen_notification_settings_direct_chats">"Ø¨Ø±Ø§Û Ø±Ø§Ø³Øª Ú¯ÙØªÚ¯ÙˆÛØ§"</string>
+  <string name="screen_notification_settings_edit_custom_settings_section_title">"ÙÛŒ Ú¯ÙØªÚ¯Ùˆ Ø­Ø³Ø¨ Ø¶Ø±ÙˆØ±Øª ØªØ±ØªÛŒØ¨"</string>
+  <string name="screen_notification_settings_edit_failed_updating_default_mode">"Ø§Ø·Ù„Ø§Ø¹ Ú©ÛŒ ØªØ±ØªÛŒØ¨ Ú©ÛŒ ØªØ¬Ø¯ÛŒØ¯ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’ Ø§ÛŒÚ© Ù†Ù‚Øµ ÙˆØ§Ù‚Ø¹ ÛÙˆØ§Û”"</string>
+  <string name="screen_notification_settings_edit_mode_all_messages">"ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª"</string>
+  <string name="screen_notification_settings_edit_mode_mentions_and_keywords">"ØµØ±Ù ØªØ°Ú©Ø±Û’ Ø§ÙˆØ± Ú©Ù„ÛŒØ¯ÛŒ Ø§Ù„ÙØ§Ø¸"</string>
+  <string name="screen_notification_settings_edit_screen_direct_section_header">"Ø¨Ø±Ø§Û Ø±Ø§Ø³Øª Ú¯ÙØªÚ¯ÙˆÛØ§ Ù¾Ø±ØŒ Ù…Ø¬Ú¾Û’ Ù…Ø·Ù„Ø¹ Ú©Ø±ÛŒÚº Ø¨Ø±Ø§Ø¦Û’"</string>
+  <string name="screen_notification_settings_edit_screen_group_section_header">"Ú¯Ø±ÙˆÛÛŒ Ú¯ÙØªÚ¯ÙˆÛØ§ Ù¾Ø±ØŒ Ù…Ø¬Ú¾Û’ Ù…Ø·Ù„Ø¹ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_notification_settings_enable_notifications">"Ø§Ø³ Ø¢Ù„Û’ Ù¾Ø± Ø§Ø·Ù„Ø§Ø¹Ø§Øª ÙØ¹Ø§Ù„ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_notification_settings_failed_fixing_configuration">"ØªÚ©ÙˆÛŒÙ† Ú©Ùˆ Ø¯Ø±Ø³Øª Ù†ÛÛŒÚº Ú©ÛŒØ§ Ú¯ÛŒØ§ ÛÛ’ØŒ Ø¨Ø±Ø§Ø¦Û’ Ù…ÛØ±Ø¨Ø§Ù†ÛŒ Ø¯ÙˆØ¨Ø§Ø±Û Ú©ÙˆØ´Ø´ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_notification_settings_group_chats">"Ú¯Ø±ÙˆÛÛŒ Ú¯ÙØªÚ¯ÙˆÛØ§"</string>
+  <string name="screen_notification_settings_invite_for_me_label">"Ø¯Ø¹ÙˆØª Ù†Ø§Ù…Û’"</string>
+  <string name="screen_notification_settings_mentions_only_disclaimer">"Ø¢Ù¾ Ú©Ø§ Ù…Ù†Ø²Ù„ÛŒ Ø®Ø§Ø¯Ù… Ù…Ø±Ù…ÙˆØ² Ú©Ø±Ø¯Û Ú©Ù…Ø±ÙˆÚº Ù…ÛŒÚº Ø§Ø³ Ø§Ø®ØªÛŒØ§Ø± Ú©ÛŒ Ø­Ù…Ø§ÛŒØª Ù†ÛÛŒÚº Ú©Ø±ØªØŒ ÛÙˆØ³Ú©ØªØ§ ÛÛ’ Ú©Ú†Ú¾ Ú©Ù…Ø±ÙˆÚº Ù…ÛŒÚº Ø¢Ù¾ Ú©Ùˆ Ù…Ø·Ù„Ø¹ Ù†Û Ú©ÛŒØ§ Ø¬Ø§Ø¦Û’Û”"</string>
+  <string name="screen_notification_settings_mentions_section_title">"ØªØ°Ú©Ø±Û’"</string>
+  <string name="screen_notification_settings_mode_all">"ØªÙ…Ø§Ù…"</string>
+  <string name="screen_notification_settings_mode_mentions">"ØªØ°Ú©Ø±Û’"</string>
+  <string name="screen_notification_settings_notification_section_title">"Ù…Ø¬Ú¾Û’ Ù…Ø·Ù„Ø¹ Ú©Ø±ÛŒÚº Ø¨Ø±Ø§Ø¦Û’"</string>
+  <string name="screen_notification_settings_room_mention_label">"Ù…Ø¬Ú¾Û’ @Ú©Ù…Ø±Û Ù¾Ø± Ù…Ø·Ù„Ø¹ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_notification_settings_system_notifications_action_required">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ù…ÙˆØµÙˆÙ„ Ú©Ø±Ù†Û’ Ú©Û’ Ù„Ø¦Û’ØŒ Ø¨Ø±Ø§Û Ú©Ø±Ù… Ø§Ù¾Ù†Ø§ %1$s ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_notification_settings_system_notifications_action_required_content_link">"Ù†Ø¸Ø§Ù… Ú©ÛŒ ØªØ±ØªÛŒØ¨Ø§Øª"</string>
+  <string name="screen_notification_settings_system_notifications_turned_off">"Ù†Ø¸Ø§Ù… Ú©ÛŒ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ø¨Ù†Ø¯ Ú©Ø± Ø¯ÛŒ Ú¯Ø¦ÛŒÚº"</string>
+  <string name="screen_notification_settings_title">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª"</string>
+  <string name="theme_dark">"Ø§Ù†Ø¯Ú¾ÛŒØ±Ø§"</string>
+  <string name="theme_light">"Ø±ÙˆØ´Ù†ÛŒ"</string>
+  <string name="theme_system">"Ù†Ø¸Ø§Ù…"</string>
+  <string name="troubleshoot_notifications_entry_point_section">"Ø§Ø²Ø§Ù„Û Ú©Ø±ÛŒÚº"</string>
+  <string name="troubleshoot_notifications_entry_point_title">"Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ú©Ø§ Ø§Ø²Ø§Ù„Û Ú©Ø±ÛŒÚº"</string>
+</resources>
+

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_advanced_settings_choose_distributor_dialog_title_android">"Ð˜Ð·Ð±ÐµÑ€ÐµÑ‚Ðµ ÐºÐ°Ðº Ð´Ð° Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ñ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ"</string>
+  <string name="screen_advanced_settings_developer_mode">"Ð ÐµÐ¶Ð¸Ð¼ Ð·Ð° Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸ÑÑ‚Ð¸"</string>
+  <string name="screen_advanced_settings_developer_mode_description">"ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð°Ð¹Ñ‚Ðµ, Ð·Ð° Ð´Ð° Ð¸Ð¼Ð°Ñ‚Ðµ Ð´Ð¾ÑÑ‚ÑŠÐ¿ Ð´Ð¾ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸ Ð¸ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»Ð½Ð¾ÑÑ‚Ð¸ Ð·Ð° Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸ÑÑ‚Ð¸."</string>
+  <string name="screen_advanced_settings_hide_invite_avatars_toggle_title">"Ð¡ÐºÑ€Ð¸Ð²Ð°Ð½Ðµ Ð½Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð½Ð¸Ñ‚Ðµ ÑÐ½Ð¸Ð¼ÐºÐ¸ Ð² Ð·Ð°ÑÐ²ÐºÐ¸Ñ‚Ðµ Ð·Ð° Ð¿Ð¾ÐºÐ°Ð½Ð° Ð·Ð° ÑÑ‚Ð°Ñ"</string>
+  <string name="screen_advanced_settings_labs">"Ð•ÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð¸"</string>
+  <string name="screen_advanced_settings_media_compression_description">"ÐšÐ°Ñ‡Ð²Ð°Ð¹Ñ‚Ðµ ÑÐ½Ð¸Ð¼ÐºÐ¸ Ð¸ Ð²Ð¸Ð´ÐµÐ¾ÐºÐ»Ð¸Ð¿Ð¾Ð²Ðµ Ð¿Ð¾-Ð±ÑŠÑ€Ð·Ð¾ Ð¸ Ð½Ð°Ð¼Ð°Ð»ÐµÑ‚Ðµ Ð¸Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ð½ÐµÑ‚Ð¾ Ð½Ð° Ð´Ð°Ð½Ð½Ð¸"</string>
+  <string name="screen_advanced_settings_media_compression_title">"ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ð¾Ñ‚Ð¾ Ð½Ð° Ð¼ÐµÐ´Ð¸ÑÑ‚Ð°"</string>
+  <string name="screen_advanced_settings_moderation_and_safety_section_title">"ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¸ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚"</string>
+  <string name="screen_advanced_settings_rich_text_editor_description">"Ð˜Ð·ÐºÐ»ÑŽÑ‡ÐµÑ‚Ðµ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð° Ð·Ð° Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ñ€Ð°Ð½ Ñ‚ÐµÐºÑÑ‚, Ð·Ð° Ð´Ð° Ð¿Ð¸ÑˆÐµÑ‚Ðµ Markdown Ñ€ÑŠÑ‡Ð½Ð¾."</string>
+  <string name="screen_advanced_settings_send_read_receipts">"ÐŸÐ¾Ñ‚Ð²ÑŠÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð·Ð° Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ðµ"</string>
+  <string name="screen_advanced_settings_send_read_receipts_description">"ÐÐºÐ¾ Ðµ Ð¸Ð·ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾, Ð²Ð°ÑˆÐ¸Ñ‚Ðµ Ð¿Ð¾Ñ‚Ð²ÑŠÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð·Ð° Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ðµ Ð½ÑÐ¼Ð° Ð´Ð° Ð±ÑŠÐ´Ð°Ñ‚ Ð¸Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ð½Ð¸ Ð½Ð° Ð½Ð¸ÐºÐ¾Ð³Ð¾. Ð’ÑÐµ Ð¾Ñ‰Ðµ Ñ‰Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ñ‚Ðµ Ð¿Ð¾Ñ‚Ð²ÑŠÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð·Ð° Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ðµ Ð¾Ñ‚ Ð´Ñ€ÑƒÐ³Ð¸ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ð¸."</string>
+  <string name="screen_advanced_settings_share_presence">"Ð¡Ð¿Ð¾Ð´ÐµÐ»ÑÐ½Ðµ Ð½Ð° Ð¿Ñ€Ð¸ÑÑŠÑÑ‚Ð²Ð¸ÐµÑ‚Ð¾"</string>
+  <string name="screen_advanced_settings_share_presence_description">"ÐÐºÐ¾ Ðµ Ð¸Ð·ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾, Ð½ÑÐ¼Ð° Ð´Ð° Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð¸Ð·Ð¿Ñ€Ð°Ñ‰Ð°Ñ‚Ðµ Ð¸Ð»Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ñ‚Ðµ Ð¿Ð¾Ñ‚Ð²ÑŠÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð·Ð° Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ðµ Ð¸Ð»Ð¸ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ Ð·Ð° Ð¿Ð¸ÑÐ°Ð½Ðµ."</string>
+  <string name="screen_advanced_settings_show_media_timeline_always_hide">"Ð¡ÐºÑ€Ð¸Ð²Ð°Ð½Ðµ Ð²Ð¸Ð½Ð°Ð³Ð¸"</string>
+  <string name="screen_advanced_settings_show_media_timeline_always_show">"ÐŸÐ¾ÐºÐ°Ð·Ð²Ð°Ð½Ðµ Ð²Ð¸Ð½Ð°Ð³Ð¸"</string>
+  <string name="screen_advanced_settings_show_media_timeline_private_rooms">"Ð’ Ñ‡Ð°ÑÑ‚Ð½Ð¸ ÑÑ‚Ð°Ð¸"</string>
+  <string name="screen_advanced_settings_show_media_timeline_subtitle">"Ð¡ÐºÑ€Ð¸Ñ‚Ð° Ð¼ÑƒÐ»Ñ‚Ð¸Ð¼ÐµÐ´Ð¸Ñ Ð²Ð¸Ð½Ð°Ð³Ð¸ Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ð±ÑŠÐ´Ðµ Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ð°, ÐºÐ°Ñ‚Ð¾ ÑÐµ Ð´Ð¾ÐºÐ¾ÑÐ½Ðµ"</string>
+  <string name="screen_advanced_settings_show_media_timeline_title">"ÐŸÐ¾ÐºÐ°Ð·Ð²Ð°Ð½Ðµ Ð½Ð° Ð¼ÑƒÐ»Ñ‚Ð¸Ð¼ÐµÐ´Ð¸Ñ Ð² Ñ…Ñ€Ð¾Ð½Ð¾Ð»Ð¾Ð³Ð¸ÑÑ‚Ð°"</string>
+  <string name="screen_advanced_settings_view_source_description">"ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¾Ð¿Ñ†Ð¸ÑÑ‚Ð° Ð·Ð° Ð¿Ñ€ÐµÐ³Ð»ÐµÐ´ Ð½Ð° Ð¸Ð·Ñ…Ð¾Ð´Ð½Ð¸Ñ ÐºÐ¾Ð´ Ð½Ð° ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸ÐµÑ‚Ð¾ Ð² Ñ…Ñ€Ð¾Ð½Ð¾Ð»Ð¾Ð³Ð¸ÑÑ‚Ð°."</string>
+  <string name="screen_blocked_users_unblock_alert_action">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ"</string>
+  <string name="screen_blocked_users_unblock_alert_description">"Ð©Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð° Ð²Ð¸Ð¶Ð´Ð°Ñ‚Ðµ Ð¾Ñ‚Ð½Ð¾Ð²Ð¾ Ð²ÑÐ¸Ñ‡ÐºÐ¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¾Ñ‚ Ñ‚ÑÑ…."</string>
+  <string name="screen_blocked_users_unblock_alert_title">"ÐžÑ‚Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð¸Ñ‚ÐµÐ»Ñ"</string>
+  <string name="screen_edit_profile_display_name">"Ð˜Ð¼Ðµ"</string>
+  <string name="screen_edit_profile_display_name_placeholder">"Ð’Ð°ÑˆÐµÑ‚Ð¾ Ð˜Ð¼Ðµ"</string>
+  <string name="screen_edit_profile_error">"Ð’ÑŠÐ·Ð½Ð¸ÐºÐ½Ð° Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð° Ð³Ñ€ÐµÑˆÐºÐ° Ð¸ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑÑ‚Ð° Ð½Ðµ Ð¼Ð¾Ð¶Ð° Ð´Ð° Ð±ÑŠÐ´Ðµ Ð¿Ñ€Ð¾Ð¼ÐµÐ½ÐµÐ½Ð°."</string>
+  <string name="screen_edit_profile_error_title">"ÐÐµ Ð¼Ð¾Ð¶Ðµ Ð´Ð° ÑÐµ Ð¾Ð±Ð½Ð¾Ð²Ð¸ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð°"</string>
+  <string name="screen_edit_profile_title">"Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð°Ð½Ðµ Ð½Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð°"</string>
+  <string name="screen_edit_profile_updating_details">"ÐžÐ±Ð½Ð¾Ð²ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð°..."</string>
+  <string name="screen_labs_enable_threads">"Ð’ÐºÐ»ÑŽÑ‡Ð²Ð°Ð½Ðµ Ð½Ð° Ð¾Ñ‚Ð³Ð¾Ð²Ð¾Ñ€Ð¸ Ð² Ð½Ð¸ÑˆÐºÐ°"</string>
+  <string name="screen_labs_header_title">"Ð˜ÑÐºÐ°Ñ‚Ðµ Ð»Ð¸ Ð´Ð° ÐµÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð°Ñ‚Ðµ?"</string>
+  <string name="screen_labs_title">"Ð•ÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð¸"</string>
+  <string name="screen_notification_settings_additional_settings_section_title">"Ð”Ð¾Ð¿ÑŠÐ»Ð½Ð¸Ñ‚ÐµÐ»Ð½Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸"</string>
+  <string name="screen_notification_settings_calls_label">"ÐÑƒÐ´Ð¸Ð¾ Ð¸ Ð²Ð¸Ð´ÐµÐ¾ Ñ€Ð°Ð·Ð³Ð¾Ð²Ð¾Ñ€Ð¸"</string>
+  <string name="screen_notification_settings_configuration_mismatch">"ÐÐµÑÑŠÐ¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ Ð² ÐºÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸ÑÑ‚Ð°"</string>
+  <string name="screen_notification_settings_configuration_mismatch_description">"ÐžÐ¿Ñ€Ð¾ÑÑ‚Ð¸Ñ…Ð¼Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸Ñ‚Ðµ Ð·Ð° Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ, Ð·Ð° Ð´Ð° ÑƒÐ»ÐµÑÐ½Ð¸Ð¼ Ð½Ð°Ð¼Ð¸Ñ€Ð°Ð½ÐµÑ‚Ð¾ Ð½Ð° Ð¾Ð¿Ñ†Ð¸Ð¸. ÐÑÐºÐ¾Ð¸ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸Ñ€Ð°Ð½Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸, ÐºÐ¾Ð¸Ñ‚Ð¾ ÑÑ‚Ðµ Ð¸Ð·Ð±Ñ€Ð°Ð»Ð¸ Ð² Ð¼Ð¸Ð½Ð°Ð»Ð¾Ñ‚Ð¾, Ð½Ðµ ÑÐµ Ð¿Ð¾ÐºÐ°Ð·Ð²Ð°Ñ‚ Ñ‚ÑƒÐº, Ð½Ð¾ Ñ‚Ðµ Ð²ÑÐµ Ð¾Ñ‰Ðµ ÑÐ° Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¸.
+
+ÐÐºÐ¾ Ð¿Ñ€Ð¾Ð´ÑŠÐ»Ð¶Ð¸Ñ‚Ðµ, Ð½ÑÐºÐ¾Ð¸ Ð¾Ñ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸Ñ‚Ðµ Ð²Ð¸ Ð¼Ð¾Ð¶Ðµ Ð´Ð° ÑÐµ Ð¿Ñ€Ð¾Ð¼ÐµÐ½ÑÑ‚."</string>
+  <string name="screen_notification_settings_direct_chats">"Ð”Ð¸Ñ€ÐµÐºÑ‚Ð½Ð¸ Ñ‡Ð°Ñ‚Ð¾Ð²Ðµ"</string>
+  <string name="screen_notification_settings_edit_custom_settings_section_title">"ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸Ñ€Ð°Ð½Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð·Ð° Ñ‡Ð°Ñ‚"</string>
+  <string name="screen_notification_settings_edit_failed_updating_default_mode">"Ð’ÑŠÐ·Ð½Ð¸ÐºÐ½Ð° Ð³Ñ€ÐµÑˆÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²ÑÐ²Ð°Ð½ÐµÑ‚Ð¾ Ð½Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸Ñ‚Ðµ Ð·Ð° Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ."</string>
+  <string name="screen_notification_settings_edit_mode_all_messages">"Ð’ÑÐ¸Ñ‡ÐºÐ¸ ÑÑŠÐ¾Ð±Ñ‰ÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_notification_settings_edit_mode_mentions_and_keywords">"Ð¡Ð°Ð¼Ð¾ ÑÐ¿Ð¾Ð¼ÐµÐ½Ð°Ð²Ð°Ð½Ð¸Ñ Ð¸ ÐºÐ»ÑŽÑ‡Ð¾Ð²Ð¸ Ð´ÑƒÐ¼Ð¸"</string>
+  <string name="screen_notification_settings_edit_screen_direct_section_header">"Ð’ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð½Ð¸ Ñ‡Ð°Ñ‚Ð¾Ð²Ðµ Ð´Ð° Ð±ÑŠÐ´Ð° Ð¸Ð·Ð²ÐµÑÑ‚ÑÐ²Ð°Ð½ Ð·Ð°"</string>
+  <string name="screen_notification_settings_edit_screen_group_section_header">"Ð’ Ð³Ñ€ÑƒÐ¿Ð¾Ð²Ð¸ Ñ‡Ð°Ñ‚Ð¾Ð²Ðµ Ð´Ð° Ð±ÑŠÐ´Ð° Ð¸Ð·Ð²ÐµÑÑ‚ÑÐ²Ð°Ð½ Ð·Ð°"</string>
+  <string name="screen_notification_settings_enable_notifications">"Ð’ÐºÐ»ÑŽÑ‡Ð²Ð°Ð½Ðµ Ð½Ð° Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÑÑ‚Ð° Ð½Ð° Ñ‚Ð¾Ð²Ð° ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾"</string>
+  <string name="screen_notification_settings_failed_fixing_configuration">"ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸ÑÑ‚Ð° Ð½Ðµ Ðµ Ð¾Ð¿Ñ€Ð°Ð²ÐµÐ½Ð°, Ð¼Ð¾Ð»Ñ, Ð¾Ð¿Ð¸Ñ‚Ð°Ð¹Ñ‚Ðµ Ð¾Ñ‚Ð½Ð¾Ð²Ð¾."</string>
+  <string name="screen_notification_settings_group_chats">"Ð“Ñ€ÑƒÐ¿Ð¾Ð²Ð¸ Ñ‡Ð°Ñ‚Ð¾Ð²Ðµ"</string>
+  <string name="screen_notification_settings_invite_for_me_label">"ÐŸÐ¾ÐºÐ°Ð½Ð¸"</string>
+  <string name="screen_notification_settings_mentions_only_disclaimer">"Ð’Ð°ÑˆÐ¸ÑÑ‚ ÑÑŠÑ€Ð²ÑŠÑ€ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÑŠÑ€Ð¶Ð° Ñ‚Ð°Ð·Ð¸ Ð¾Ð¿Ñ†Ð¸Ñ Ð² ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð¸ ÑÑ‚Ð°Ð¸, Ð¼Ð¾Ð¶Ðµ Ð´Ð° Ð½Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ñ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ Ð² Ð½ÑÐºÐ¾Ð¸ ÑÑ‚Ð°Ð¸."</string>
+  <string name="screen_notification_settings_mentions_section_title">"Ð¡Ð¿Ð¾Ð¼ÐµÐ½Ð°Ð²Ð°Ð½Ð¸Ñ"</string>
+  <string name="screen_notification_settings_mode_all">"Ð’ÑÐ¸Ñ‡ÐºÐ¸"</string>
+  <string name="screen_notification_settings_mode_mentions">"Ð¡Ð¿Ð¾Ð¼ÐµÐ½Ð°Ð²Ð°Ð½Ð¸Ñ"</string>
+  <string name="screen_notification_settings_notification_section_title">"Ð”Ð° Ð±ÑŠÐ´Ð° Ð¸Ð·Ð²ÐµÑÑ‚ÑÐ²Ð°Ð½ Ð·Ð°"</string>
+  <string name="screen_notification_settings_room_mention_label">"Ð˜Ð·Ð²ÐµÑÑ‚ÑÐ²Ð°Ð½Ðµ Ð·Ð° @room"</string>
+  <string name="screen_notification_settings_system_notifications_action_required">"Ð—Ð° Ð´Ð° Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ð²Ð°Ñ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ, Ð¼Ð¾Ð»Ñ, Ð¿Ñ€Ð¾Ð¼ÐµÐ½ÐµÑ‚Ðµ ÑÐ²Ð¾Ñ %1$s"</string>
+  <string name="screen_notification_settings_system_notifications_action_required_content_link">"ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸"</string>
+  <string name="screen_notification_settings_system_notifications_turned_off">"Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ð¸Ñ‚Ðµ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸Ñ ÑÐ° Ð¸Ð·ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸"</string>
+  <string name="screen_notification_settings_title">"Ð˜Ð·Ð²ÐµÑÑ‚Ð¸Ñ"</string>
+  <string name="theme_dark">"Ð¢ÑŠÐ¼ÐµÐ½"</string>
+  <string name="theme_light">"Ð¡Ð²ÐµÑ‚ÑŠÐ»"</string>
+  <string name="theme_system">"Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð°"</string>
+  <string name="troubleshoot_notifications_entry_point_section">"ÐžÑ‚ÑÑ‚Ñ€Ð°Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½ÐµÐ¸Ð·Ð¿Ñ€Ð°Ð²Ð½Ð¾ÑÑ‚Ð¸"</string>
+  <string name="troubleshoot_notifications_entry_point_title">"ÐžÑ‚ÑÑ‚Ñ€Ð°Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½ÐµÐ¸Ð·Ð¿Ñ€Ð°Ð²Ð½Ð¾ÑÑ‚Ð¸ Ñ Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ÑÑ‚Ð°"</string>
+</resources>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_firebase_availability_description">"ÙŠØªØ­Ù‚Ù‚ Ù…Ù† ØªÙˆÙØ± Firebase."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_failure">"Firebase ØºÙŠØ± Ù…ØªØ§Ø­."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_success">"Firebase Ù…ØªØ§Ø­."</string>
+  <string name="troubleshoot_notifications_test_firebase_availability_title">"Ø§Ù„ØªØ­Ù‚Ù‚ Ù…Ù† Firebase"</string>
+  <string name="troubleshoot_notifications_test_firebase_token_description">"ÙŠØªØ­Ù‚Ù‚ Ù…Ù† ØªÙˆÙØ± Ø±Ù…Ø² Firebase Ø§Ù„Ù…Ù…ÙŠØ²."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_failure">"Ø±Ù…Ø² Firebase Ø§Ù„Ù…Ù…ÙŠØ² ØºÙŠØ± Ù…Ø¹Ø±ÙˆÙ."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_success">"Ø±Ù…Ø² Firebase Ø§Ù„Ù…Ù…ÙŠØ²: %1$s."</string>
+  <string name="troubleshoot_notifications_test_firebase_token_title">"Ø§Ù„ØªØ­Ù‚Ù‚ Ù…Ù† Ø±Ù…Ø² Firebase Ø§Ù„Ù…Ù…ÙŠØ²"</string>
+</resources>
+

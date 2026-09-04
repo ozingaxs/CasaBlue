@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_app_lock_biometric_authentication">"Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð¿Ð¾ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸Ð¸"</string>
+  <string name="screen_app_lock_biometric_unlock">"Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ° Ð¿Ð¾ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸Ð¸"</string>
+  <string name="screen_app_lock_biometric_unlock_title_android">"Ð Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸Ð¸"</string>
+  <string name="screen_app_lock_confirm_biometric_authentication_android">"ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸ÑŽ"</string>
+  <string name="screen_app_lock_forgot_pin">"Ð—Ð°Ð±Ñ‹Ð»Ð¸ PIN-ÐºÐ¾Ð´?"</string>
+  <string name="screen_app_lock_settings_change_pin">"Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_settings_enable_biometric_unlock">"Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÑƒ Ð¿Ð¾ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸Ð¸"</string>
+  <string name="screen_app_lock_settings_remove_pin">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_message">"Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ PIN-ÐºÐ¾Ð´?"</string>
+  <string name="screen_app_lock_settings_remove_pin_alert_title">"Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ PIN-ÐºÐ¾Ð´?"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_allow_title">"Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ %1$s"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_skip">"Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_setup_biometric_unlock_subtitle">"Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚Ðµ %1$s Ð´Ð»Ñ Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ"</string>
+  <string name="screen_app_lock_setup_choose_pin">"Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_setup_confirm_pin">"ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_setup_pin_context">"Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÑƒ Ð½Ð° %1$s, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð²Ñ‹ÑÐ¸Ñ‚ÑŒ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚ÑŒ Ð’Ð°ÑˆÐ¸Ñ… Ñ‡Ð°Ñ‚Ð¾Ð².
+
+Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÐºÐ¾Ð´, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ñ‚Ñ€ÑƒÐ´Ð½Ð¾ Ð·Ð°Ð±Ñ‹Ñ‚ÑŒ. Ð•ÑÐ»Ð¸ Ð’Ñ‹ Ð·Ð°Ð±ÑƒÐ´ÐµÑ‚Ðµ PIN-ÐºÐ¾Ð´, Ð’Ð°Ð¼ Ð¿Ñ€Ð¸Ð´ÐµÑ‚ÑÑ Ð²Ñ‹Ð¹Ñ‚Ð¸ Ð¸Ð· Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð°."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_content">"Ð­Ñ‚Ð¾Ñ‚ PIN-ÐºÐ¾Ð´ Ð½ÐµÐ±ÐµÐ·Ð¾Ð¿Ð°ÑÐµÐ½."</string>
+  <string name="screen_app_lock_setup_pin_forbidden_dialog_title">"Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð¹ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_content">"ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_setup_pin_mismatch_dialog_title">"PIN-ÐºÐ¾Ð´Ñ‹ Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÑŽÑ‚"</string>
+  <string name="screen_app_lock_signout_alert_message">"Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ, Ð²Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð½Ð¾ Ð²Ð¾Ð¹Ñ‚Ð¸ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ Ð¸ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_app_lock_signout_alert_title">"Ð­Ñ‚Ð¾ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾ ÑƒÐ´Ð°Ð»ÑÐµÑ‚ÑÑ"</string>
+  <plurals name="screen_app_lock_subtitle">
+    <item quantity="one">"Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð°ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ° Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸"</item>
+    <item quantity="few">"Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð¸ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ¸ Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸"</item>
+    <item quantity="many">"Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚Ð¾Ðº Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸"</item>
+  </plurals>
+  <plurals name="screen_app_lock_subtitle_wrong_pin">
+    <item quantity="one">"ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ PIN-ÐºÐ¾Ð´. Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð°ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ°"</item>
+    <item quantity="few">"ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ PIN-ÐºÐ¾Ð´. Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð¸ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ¸"</item>
+    <item quantity="many">"ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ PIN-ÐºÐ¾Ð´. Ð£ Ð’Ð°Ñ Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ %1$d Ð¿Ð¾Ð¿Ñ‹Ñ‚Ð¾Ðº"</item>
+  </plurals>
+  <string name="screen_app_lock_use_biometric_android">"Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð±Ð¸Ð¾Ð¼ÐµÑ‚Ñ€Ð¸ÑŽ"</string>
+  <string name="screen_app_lock_use_pin_android">"Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ PIN-ÐºÐ¾Ð´"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°..."</string>
+</resources>
+

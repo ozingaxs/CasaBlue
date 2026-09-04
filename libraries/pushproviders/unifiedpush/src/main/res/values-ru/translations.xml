@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_test_unified_push_description">"Ð£Ð±ÐµÐ´Ð¸Ñ‚ÐµÑÑŒ, Ñ‡Ñ‚Ð¾ Ð´Ð¸ÑÑ‚Ñ€Ð¸Ð±ÑŒÑŽÑ‚Ð¾Ñ€Ñ‹ UnifiedPush Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹."</string>
+  <string name="troubleshoot_notifications_test_unified_push_failure">"ÐŸÐ¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ¾Ð² push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾."</string>
+  <plurals name="troubleshoot_notifications_test_unified_push_success">
+    <item quantity="one">"%1$d Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€ Ð½Ð°Ð¹Ð´ÐµÐ½: %2$s."</item>
+    <item quantity="few">"%1$d Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð¾Ð² Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾: %2$s."</item>
+    <item quantity="many">"%1$d Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð¾Ð² Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾: %2$s."</item>
+  </plurals>
+  <string name="troubleshoot_notifications_test_unified_push_title">"ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° UnifiedPush"</string>
+</resources>
+

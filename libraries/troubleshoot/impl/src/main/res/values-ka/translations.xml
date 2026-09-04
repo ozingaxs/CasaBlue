@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="troubleshoot_notifications_screen_action">"áƒ¢áƒ”áƒ¡áƒ¢áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ¨áƒ•áƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_screen_action_again">"áƒ¢áƒ”áƒ¡áƒ¢áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒ¡áƒ”áƒ• áƒ’áƒáƒ¨áƒ•áƒ”áƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_screen_failure">"áƒ–áƒáƒ’áƒ˜áƒ”áƒ áƒ—áƒ˜ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜ áƒ¬áƒáƒ áƒ£áƒ›áƒáƒ¢áƒ”áƒ‘áƒ”áƒšáƒ˜áƒ. áƒ’áƒ—áƒ®áƒáƒ•áƒ— áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒáƒ— áƒ“áƒ”áƒ¢áƒáƒšáƒ”áƒ‘áƒ˜."</string>
+  <string name="troubleshoot_notifications_screen_notice">"áƒ©áƒáƒáƒ¢áƒáƒ áƒ”áƒ— áƒ¢áƒ”áƒ¡áƒ¢áƒ”áƒ‘áƒ˜ áƒ—áƒ¥áƒ•áƒ”áƒœáƒ¡ áƒ™áƒáƒœáƒ¤áƒ˜áƒ’áƒ£áƒ áƒáƒªáƒ˜áƒáƒ¨áƒ˜ áƒ˜áƒ› áƒžáƒ áƒáƒ‘áƒšáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ¦áƒ›áƒáƒ¡áƒáƒ©áƒ”áƒœáƒáƒ“, áƒ áƒáƒ›áƒšáƒ”áƒ‘áƒ˜áƒª áƒ’áƒáƒ›áƒáƒ˜áƒ¬áƒ•áƒ”áƒ•áƒ”áƒœ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒáƒ áƒáƒ¡áƒ¬áƒáƒ  áƒ¥áƒªáƒ”áƒ•áƒáƒ¡."</string>
+  <string name="troubleshoot_notifications_screen_quick_fix_action">"áƒ¨áƒ”áƒ™áƒ”áƒ—áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒªáƒ“áƒ”áƒšáƒáƒ‘áƒ"</string>
+  <string name="troubleshoot_notifications_screen_success">"áƒ§áƒ•áƒ”áƒšáƒ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜ áƒ¬áƒáƒ áƒ›áƒáƒ¢áƒ”áƒ‘áƒ˜áƒ— áƒ“áƒáƒ¡áƒ áƒ£áƒšáƒ“áƒ."</string>
+  <string name="troubleshoot_notifications_screen_title">"áƒžáƒ áƒáƒ‘áƒšáƒ”áƒ›áƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ“áƒáƒ­áƒ áƒ˜áƒ¡ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜"</string>
+  <string name="troubleshoot_notifications_screen_waiting">"áƒ–áƒáƒ’áƒ˜áƒ”áƒ áƒ—áƒ˜ áƒ¢áƒ”áƒ¡áƒ¢áƒ˜ áƒ˜áƒ—áƒ®áƒáƒ•áƒ¡ áƒ—áƒ¥áƒ•áƒ”áƒœáƒ¡ áƒ§áƒ£áƒ áƒáƒ“áƒ¦áƒ”áƒ‘áƒáƒ¡. áƒ’áƒ—áƒ®áƒáƒ•áƒ— áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒáƒ— áƒ“áƒ”áƒ¢áƒáƒšáƒ”áƒ‘áƒ˜."</string>
+</resources>
+

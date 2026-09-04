@@ -1,0 +1,33 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="rich_text_editor_a11y_add_attachment">"Thêm t?p dính kèm"</string>
+  <string name="rich_text_editor_bullet_list">"Chuy?n d?i danh sách d?u d?u dòng"</string>
+  <string name="rich_text_editor_close_formatting_options">"H?y và dóng d?nh d?ng van b?n"</string>
+  <string name="rich_text_editor_code_block">"B?t/t?t kh?i mã"</string>
+  <string name="rich_text_editor_composer_caption_placeholder">"Thêm chú thích"</string>
+  <string name="rich_text_editor_composer_encrypted_placeholder">"Tin nh?n du?c mã hóa..."</string>
+  <string name="rich_text_editor_composer_placeholder">"Tin nh?n..."</string>
+  <string name="rich_text_editor_composer_unencrypted_placeholder">"Tin nh?n chua du?c mã hóa..."</string>
+  <string name="rich_text_editor_create_link">"T?o liên k?t"</string>
+  <string name="rich_text_editor_edit_link">"S?a liên k?t"</string>
+  <string name="rich_text_editor_format_action">"%1$s, tình tr?ng: %2$s"</string>
+  <string name="rich_text_editor_format_bold">"Áp d?ng d?nh d?ng in d?m"</string>
+  <string name="rich_text_editor_format_italic">"Áp d?ng d?nh d?ng in nghiêng"</string>
+  <string name="rich_text_editor_format_state_disabled">"Ðã t?t"</string>
+  <string name="rich_text_editor_format_state_off">"t?t"</string>
+  <string name="rich_text_editor_format_state_on">"b?t"</string>
+  <string name="rich_text_editor_format_strikethrough">"Áp d?ng d?nh d?ng g?ch ngang"</string>
+  <string name="rich_text_editor_format_underline">"Áp d?ng d?nh d?ng g?ch chân"</string>
+  <string name="rich_text_editor_full_screen_toggle">"B?t/t?t ch? d? toàn màn hình"</string>
+  <string name="rich_text_editor_indent">"Th?t l?"</string>
+  <string name="rich_text_editor_inline_code">"Áp d?ng d?nh d?ng mã trong dòng"</string>
+  <string name="rich_text_editor_link">"Ð?t liên k?t"</string>
+  <string name="rich_text_editor_numbered_list">"Chuy?n d?i danh sách du?c dánh s?"</string>
+  <string name="rich_text_editor_open_compose_options">"M? tùy ch?n so?n tin"</string>
+  <string name="rich_text_editor_quote">"Chuy?n sang Trích d?n"</string>
+  <string name="rich_text_editor_remove_link">"Xóa liên k?t"</string>
+  <string name="rich_text_editor_unindent">"B? th?t l?"</string>
+  <string name="rich_text_editor_url_placeholder">"Liên k?t"</string>
+  <string name="screen_room_voice_message_tooltip">"Nh?n gi? d? ghi âm"</string>
+</resources>
+

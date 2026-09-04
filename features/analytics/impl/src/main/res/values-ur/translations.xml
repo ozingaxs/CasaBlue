@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"ÛÙ… Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ Ø°Ø§ØªÛŒ ÚˆÛŒÙ¹Ø§ Ú©Ùˆ Ø«Ø¨Øª ÛŒØ§ Ù¾Ø±ÙˆÙØ§Ø¦Ù„ Ù†ÛÛŒÚº Ú©Ø±ÛŒÚº Ú¯Û’"</string>
+  <string name="screen_analytics_prompt_help_us_improve">"Ù…Ø³Ø§Ø¦Ù„ Ú©ÛŒ Ù†Ø´Ø§Ù†Ø¯ÛÛŒ Ú©Ø±Ù†Û’ Ù…ÛŒÚº ÛÙ…Ø§Ø±ÛŒ Ù…Ø¯Ø¯ Ú©Û’ Ù„ÛŒÛ’ Ú¯Ù…Ù†Ø§Ù… Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Û’ Ø¨ÛŒØ§Ù†Ø§Øª Ú©Ø§ Ø§Ø´ØªØ±Ø§Ú© Ú©Ø±ÛŒÚºÛ”"</string>
+  <string name="screen_analytics_prompt_read_terms">"Ø¢Ù¾ ÛÙ…Ø§Ø±ÛŒ ØªÙ…Ø§Ù… Ø´Ø±Ø§Ø¦Ø· Ù¾Ú‘Ú¾ Ø³Ú©ØªÛ’ ÛÛŒÚº %1$sÛ”"</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"ÛŒÛØ§Úº"</string>
+  <string name="screen_analytics_prompt_settings">"Ø¢Ù¾ Ø§Ø³Û’ Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ ÙˆÙ‚Øª Ø¨Ù†Ø¯ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚº"</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"ÛÙ… Ø¢Ù¾Ú©Û’ Ø¨ÛŒØ§Ù†Ø§Øª Ú©Ø§ ÙØ±ÛŒÙ‚ Ø«Ø§Ù„Ø« Ú©Û’ Ø³Ø§ØªÚ¾ Ø§Ø´ØªØ±Ø§Ú© Ù†ÛÛŒÚº Ú©Ø±ÛŒÚº Ú¯Û’"</string>
+  <string name="screen_analytics_prompt_title">"%1$s Ú©Ùˆ Ø¨ÛØªØ± Ø¨Ù†Ø§Ù†Û’ Ù…ÛŒÚº Ù…Ø¯Ø¯ Ú©Ø±ÛŒÚº"</string>
+</resources>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_bottom_sheet_create_dm_confirmation_button_title">"ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ"</string>
+  <string name="screen_bottom_sheet_create_dm_message">"Ð¥Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð½Ð°Ñ‡Ð°Ñ‚ÑŒ Ñ‡Ð°Ñ‚ Ñ %1$s?"</string>
+  <string name="screen_bottom_sheet_create_dm_title">"ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ?"</string>
+  <string name="screen_bottom_sheet_create_dm_unknown_user_content">"Ð£ Ð’Ð°Ñ Ð½ÐµÑ‚ Ð´Ñ€ÑƒÐ³Ð¸Ñ… Ñ‡Ð°Ñ‚Ð¾Ð² Ñ ÑÑ‚Ð¸Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼. ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ, Ñ‡Ñ‚Ð¾ ÑÑ‚Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÐºÐ¾Ð³Ð¾ Ð’Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑÐ¸Ñ‚ÑŒ, Ð¿Ñ€ÐµÐ¶Ð´Ðµ Ñ‡ÐµÐ¼ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ."</string>
+  <string name="screen_bottom_sheet_create_dm_unknown_user_title">"ÐÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ‡Ð°Ñ‚ Ñ ÑÑ‚Ð¸Ð¼ Ð½Ð¾Ð²Ñ‹Ð¼ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¾Ð¼?"</string>
+  <string name="screen_invites_invited_you">"%1$s (%2$s) Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑÐ¸Ð»(Ð°) Ð’Ð°Ñ"</string>
+</resources>
+

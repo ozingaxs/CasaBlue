@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_leave_space_choose_owners_action">"ì†Œìœ ìž ì„ íƒ"</string>
+  <string name="screen_leave_space_last_admin_info">"%1$s (ê´€ë¦¬ìž)"</string>
+  <plurals name="screen_leave_space_submit">
+    <item quantity="other">"ë°© %1$dê°œ ë° ìŠ¤íŽ˜ì´ìŠ¤ ë‚˜ê°€ê¸°"</item>
+  </plurals>
+  <string name="screen_leave_space_subtitle">"ì°¸ì—¬ ì¤‘ì¸ ë°© ì¤‘ ê·€í•˜ê°€ ìœ ì¼í•œ ê´€ë¦¬ìžê°€ ì•„ë‹Œ ë°©ë“¤ì„ ì„ íƒí•˜ì—¬ ë‚˜ê°ˆ ìˆ˜ ìžˆìŠµë‹ˆë‹¤:"</string>
+  <string name="screen_leave_space_subtitle_last_admin">"ì´ Spaceë¥¼ ë– ë‚˜ê¸° ì „ì— ë‹¤ë¥¸ ê´€ë¦¬ìžë¥¼ ì§€ì •í•´ì•¼ í•©ë‹ˆë‹¤."</string>
+  <string name="screen_leave_space_subtitle_last_owner">"ê·€í•˜ëŠ” %1$sì˜ ìœ ì¼í•œ ì†Œìœ ìžìž…ë‹ˆë‹¤. ë‚˜ê°€ê¸° ì „ì— ë‹¤ë¥¸ ì‚¬ëžŒì—ê²Œ ì†Œìœ ê¶Œì„ ì´ì „í•´ì•¼ í•©ë‹ˆë‹¤."</string>
+  <string name="screen_leave_space_subtitle_only_last_admin">"ê·€í•˜ê°€ ìœ ì¼í•œ ê´€ë¦¬ìžì¸ ë‹¤ìŒ ë°©ì—ì„œëŠ” ë‚˜ê°ˆìˆ˜ ì—†ìŠµë‹ˆë‹¤.:"</string>
+  <string name="screen_leave_space_title">"%1$sì—ì„œ ë‚˜ê°€ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_leave_space_title_last_admin">"ê·€í•˜ëŠ” %1$sì˜ ìœ ì¼í•œ ê´€ë¦¬ìžìž…ë‹ˆë‹¤."</string>
+  <string name="screen_leave_space_title_last_owner">"ì†Œìœ ê¶Œ ì´ì „"</string>
+  <string name="screen_space_add_room_action">"ë°©"</string>
+  <string name="screen_space_add_rooms_room_access_description">"ë°©ì„ ì¶”ê°€í•´ë„ í•´ë‹¹ ë°©ì˜ ì•¡ì„¸ìŠ¤ ê¶Œí•œì€ ë³€ê²½ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ê¶Œí•œì„ ë³€ê²½í•˜ë ¤ë©´ ë°© ì„¤ì • &gt; ë³´ì•ˆ ë° ê°œì¸ì •ë³´ ë³´í˜¸ë¡œ ì´ë™í•˜ì„¸ìš”."</string>
+  <string name="screen_space_empty_state_title">"ì²« ë²ˆì§¸ ë°© ì¶”ê°€"</string>
+  <string name="screen_space_menu_action_members">"ë©¤ë²„ ë³´ê¸°"</string>
+  <string name="screen_space_remove_rooms_confirmation_content">"ë°©ì„ ì œê±°í•´ë„ í•´ë‹¹ ë°©ì˜ ì•¡ì„¸ìŠ¤ ê¶Œí•œì€ ë³€ê²½ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ê¶Œí•œì„ ë³€ê²½í•˜ë ¤ë©´ ë°© ì •ë³´ &gt; ê°œì¸ì •ë³´ ë³´í˜¸ ë° ë³´ì•ˆìœ¼ë¡œ ì´ë™í•˜ì„¸ìš”."</string>
+  <plurals name="screen_space_remove_rooms_confirmation_title">
+    <item quantity="other">"%2$sì—ì„œ ë°© %1$dê°œ ì œê±°"</item>
+  </plurals>
+  <string name="screen_space_settings_leave_space">"ìŠ¤íŽ˜ì´ìŠ¤ ë– ë‚˜ê¸°"</string>
+  <string name="screen_space_settings_roles_and_permissions">"ì—­í•  ë° ê¶Œí•œ"</string>
+  <string name="screen_space_settings_security_and_privacy">"ë³´ì•ˆ ë° ê°œì¸ì •ë³´ ë³´í˜¸"</string>
+</resources>
+

@@ -1,0 +1,59 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="crypto_event_authenticity_mismatched_sender">"Ngu?i g?i s? ki?n không kh?p v?i ch? s? h?u c?a thi?t b? dã g?i nó."</string>
+  <string name="crypto_event_authenticity_not_guaranteed">"Tin nh?n mã hóa này không th? du?c xác th?c trên thi?t b? này."</string>
+  <string name="crypto_event_authenticity_previously_verified">"Ðu?c mã hóa b?i m?t ngu?i dùng dã t?ng du?c xác minh."</string>
+  <string name="crypto_event_authenticity_sent_in_clear">"Không du?c mã hóa"</string>
+  <string name="crypto_event_authenticity_unknown_device">"Ðu?c mã hóa b?i m?t thi?t b? không xác d?nh ho?c dã b? xóa."</string>
+  <string name="crypto_event_authenticity_unsigned_device">"Ðu?c mã hóa b?i m?t thi?t b? chua du?c ch? s? h?u xác minh."</string>
+  <string name="crypto_event_authenticity_unverified_identity">"Ðu?c mã hóa b?i m?t ngu?i dùng chua du?c xác minh."</string>
+  <string name="screen_media_upload_preview_error_failed_processing">"X? lý phuong ti?n t?i lên không thành công, vui lòng th? l?i."</string>
+  <string name="screen_media_upload_preview_error_failed_sending">"Không th? t?i lên t?p phuong ti?n. Vui lòng th? l?i."</string>
+  <string name="screen_report_content_block_user">"Ch?n ngu?i dùng"</string>
+  <string name="screen_report_content_block_user_hint">"Ch?n tùy ch?n này n?u b?n mu?n ?n t?t c? tin nh?n hi?n t?i và tuong lai t? ngu?i dùng này."</string>
+  <string name="screen_report_content_explanation">"Tin nh?n này s? du?c báo cáo cho qu?n tr? viên máy ch? c?a b?n. H? s? không th? d?c b?t k? tin nh?n du?c mã hóa nào."</string>
+  <string name="screen_report_content_hint">"Lý do báo cáo n?i dung này"</string>
+  <string name="screen_room_attachment_source_camera">"Máy ?nh"</string>
+  <string name="screen_room_attachment_source_camera_photo">"Ch?p ?nh"</string>
+  <string name="screen_room_attachment_source_camera_video">"Quay video"</string>
+  <string name="screen_room_attachment_source_files">"T?p dính kèm"</string>
+  <string name="screen_room_attachment_source_gallery">"Thu vi?n ?nh và video"</string>
+  <string name="screen_room_attachment_source_location">"Chia s? v? trí"</string>
+  <string name="screen_room_attachment_source_poll">"B? phi?u"</string>
+  <string name="screen_room_attachment_text_formatting">"Ð?nh d?ng van b?n"</string>
+  <string name="screen_room_encrypted_history_banner">"L?ch s? tin nh?n hi?n không kh? d?ng."</string>
+  <string name="screen_room_encrypted_history_banner_unverified">"L?ch s? tin nh?n không kh? d?ng trong phòng này. Vui lòng xác minh thi?t b? này d? xem l?ch s? tin nh?n c?a b?n."</string>
+  <string name="screen_room_invite_again_alert_message">"B?n có mu?n m?i h? quay l?i không?"</string>
+  <string name="screen_room_invite_again_alert_title">"B?n dang m?t mình trong cu?c trò chuy?n này"</string>
+  <string name="screen_room_mentions_at_room_subtitle">"Thông báo cho c? phòng"</string>
+  <string name="screen_room_mentions_at_room_title">"M?i ngu?i"</string>
+  <string name="screen_room_retry_send_menu_send_again_action">"G?i l?i"</string>
+  <string name="screen_room_retry_send_menu_title">"G?i tin nh?n không thành công"</string>
+  <string name="screen_room_timeline_add_reaction">"Thêm bi?u c?m"</string>
+  <string name="screen_room_timeline_beginning_of_room">"Ðây là s? ki?n kh?i d?u c?a phòng %1$s ."</string>
+  <string name="screen_room_timeline_beginning_of_room_no_name">"Ðây là kh?i d?u c?a cu?c trò chuy?n này."</string>
+  <string name="screen_room_timeline_legacy_call">"Cu?c g?i không du?c h? tr?. Hãy h?i xem ngu?i g?i có th? s? d?ng ?ng d?ng CasaBlue Next m?i hay không."</string>
+  <string name="screen_room_timeline_less_reactions">"Thu g?n"</string>
+  <string name="screen_room_timeline_message_copied">"Ðã sao chép tin nh?n"</string>
+  <string name="screen_room_timeline_no_permission_to_post">"B?n không có quy?n g?i tin nh?n trong phòng này"</string>
+  <plurals name="screen_room_timeline_reaction_a11y">
+    <item quantity="other">"%1$d thành viên dã ph?n ?ng v?i %2$s"</item>
+  </plurals>
+  <plurals name="screen_room_timeline_reaction_including_you_a11y">
+    <item quantity="other">"B?n và thành viên %1$d dã ph?n ?ng v?i%2$s"</item>
+  </plurals>
+  <string name="screen_room_timeline_reactions_show_less">"Thu g?n"</string>
+  <string name="screen_room_timeline_reactions_show_more">"Xem thêm"</string>
+  <string name="screen_room_timeline_read_marker_title">"M?i"</string>
+  <plurals name="screen_room_timeline_state_changes">
+    <item quantity="other">"%1$d s? lu?ng phòng thay d?i"</item>
+  </plurals>
+  <plurals name="screen_room_typing_many_members">
+    <item quantity="other">"%1$s,%2$s và %3$d ngu?i khác"</item>
+  </plurals>
+  <plurals name="screen_room_typing_notification">
+    <item quantity="other">"%1$s dang gõ"</item>
+  </plurals>
+  <string name="screen_room_typing_two_members">"%1$s và %2$s"</string>
+</resources>
+

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_identity_confirmation_cannot_confirm">"ÐÐµ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð¿Ð°Ñ†Ð²ÐµÑ€Ð´Ð·Ñ–Ñ†ÑŒ?"</string>
+  <string name="screen_identity_confirmation_create_new_recovery_key">"Ð¡Ñ‚Ð²Ð°Ñ€Ñ‹Ñ†ÑŒ Ð½Ð¾Ð²Ñ‹ ÐºÐ»ÑŽÑ‡ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ"</string>
+  <string name="screen_identity_confirmation_subtitle">"ÐŸÐ°Ñ†Ð²ÐµÑ€Ð´Ð·Ñ–Ñ†Ðµ Ð³ÑÑ‚ÑƒÑŽ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñƒ, ÐºÐ°Ð± Ð½Ð°Ð»Ð°Ð´Ð·Ñ–Ñ†ÑŒ Ð±ÑÑÐ¿ÐµÑ‡Ð½Ñ‹ Ð°Ð±Ð¼ÐµÐ½ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÐ¼Ñ–."</string>
+  <string name="screen_identity_confirmation_title">"ÐŸÐ°Ñ†Ð²ÐµÑ€Ð´Ð·Ñ–Ñ†Ðµ, ÑˆÑ‚Ð¾ Ð³ÑÑ‚Ð° Ð²Ñ‹"</string>
+  <string name="screen_identity_confirmation_use_another_device">"Ð’Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ð¹Ñ†Ðµ Ñ–Ð½ÑˆÑƒÑŽ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñƒ"</string>
+  <string name="screen_identity_confirmation_use_recovery_key">"Ð’Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ñ†ÑŒ ÐºÐ»ÑŽÑ‡ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ"</string>
+  <string name="screen_identity_confirmed_subtitle">"Ð¦ÑÐ¿ÐµÑ€ Ð²Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð±ÑÑÐ¿ÐµÑ‡Ð½Ð° Ñ‡Ñ‹Ñ‚Ð°Ñ†ÑŒ Ñ– Ð°Ð´Ð¿Ñ€Ð°ÑžÐ»ÑÑ†ÑŒ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ–, Ñ– ÑžÑÐµ, Ð· ÐºÑ–Ð¼ Ð²Ñ‹ Ð¼Ð°ÐµÑ†Ðµ Ð·Ð½Ð¾ÑÑ–Ð½Ñ‹ Ñž Ñ‡Ð°Ñ†Ðµ, Ñ‚Ð°ÐºÑÐ°Ð¼Ð° Ð¼Ð¾Ð³ÑƒÑ†ÑŒ Ð´Ð°Ð²ÑÑ€Ð°Ñ†ÑŒ Ð³ÑÑ‚Ð°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_identity_confirmed_title">"ÐŸÑ€Ñ‹Ð»Ð°Ð´Ð° Ð¿Ñ€Ð°Ð²ÐµÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_identity_use_another_device">"Ð’Ñ‹ÐºÐ°Ñ€Ñ‹ÑÑ‚Ð¾ÑžÐ²Ð°Ð¹Ñ†Ðµ Ñ–Ð½ÑˆÑƒÑŽ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñƒ"</string>
+  <string name="screen_identity_waiting_on_other_device">"Ð§Ð°ÐºÐ°Ð½Ð½Ðµ Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ..."</string>
+  <string name="screen_session_verification_cancelled_subtitle">"Ð—Ð´Ð°ÐµÑ†Ñ†Ð°, Ð½ÐµÑˆÑ‚Ð° Ð½Ðµ Ñ‚Ð°Ðº. ÐÐ»ÑŒÐ±Ð¾ Ñ‡Ð°Ñ Ñ‡Ð°ÐºÐ°Ð½Ð½Ñ Ð·Ð°Ð¿Ñ‹Ñ‚Ñƒ ÑÐºÐ¾Ð½Ñ‡Ñ‹ÑžÑÑ, Ð°Ð»ÑŒÐ±Ð¾ Ð·Ð°Ð¿Ñ‹Ñ‚ Ð±Ñ‹Ñž Ð°Ð´Ñ…Ñ–Ð»ÐµÐ½Ñ‹."</string>
+  <string name="screen_session_verification_compare_emojis_subtitle">"ÐŸÐµÑ€Ð°ÐºÐ°Ð½Ð°Ð¹Ñ†ÐµÑÑ, ÑˆÑ‚Ð¾ ÑÐ¼Ð¾Ð´Ð·Ñ– Ð½Ñ–Ð¶ÑÐ¹ ÑÑƒÐ¿Ð°Ð´Ð°ÑŽÑ†ÑŒ Ð· Ñ‚Ñ‹Ð¼Ñ–, ÑˆÑ‚Ð¾ Ð¿Ð°ÐºÐ°Ð·Ð°Ð½Ñ‹ Ð½Ð° Ð²Ð°ÑˆÐ°Ð¹ Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_session_verification_compare_emojis_title">"ÐŸÐ°Ñ€Ð°ÑžÐ½Ð°Ð¹Ñ†Ðµ ÑÐ¼Ð¾Ð´Ð·Ñ–"</string>
+  <string name="screen_session_verification_compare_numbers_subtitle">"ÐŸÐµÑ€Ð°ÐºÐ°Ð½Ð°Ð¹Ñ†ÐµÑÑ, ÑˆÑ‚Ð¾ Ð¿Ñ€Ñ‹Ð²ÐµÐ´Ð·ÐµÐ½Ñ‹Ñ Ð½Ñ–Ð¶ÑÐ¹ Ð»Ñ–Ñ‡Ð±Ñ‹ ÑÑƒÐ¿Ð°Ð´Ð°ÑŽÑ†ÑŒ Ð· Ð»Ñ–Ñ‡Ð±Ð°Ð¼Ñ–, Ð¿Ð°ÐºÐ°Ð·Ð°Ð½Ñ‹Ð¼Ñ– Ñž Ñ–Ð½ÑˆÑ‹Ð¼ ÑÐµÐ°Ð½ÑÐµ."</string>
+  <string name="screen_session_verification_compare_numbers_title">"ÐŸÐ°Ñ€Ð°ÑžÐ½Ð°Ð¹Ñ†Ðµ Ð»Ñ–Ñ‡Ð±Ñ‹"</string>
+  <string name="screen_session_verification_complete_subtitle">"Ð¦ÑÐ¿ÐµÑ€ Ð²Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð±ÑÑÐ¿ÐµÑ‡Ð½Ð° Ñ‡Ñ‹Ñ‚Ð°Ñ†ÑŒ Ð°Ð±Ð¾ Ð°Ð´Ð¿Ñ€Ð°ÑžÐ»ÑÑ†ÑŒ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_session_verification_device_verified">"ÐŸÑ€Ñ‹Ð»Ð°Ð´Ð° Ð¿Ñ€Ð°Ð²ÐµÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_session_verification_enter_recovery_key">"Ð£Ð²ÑÐ´Ð·Ñ–Ñ†Ðµ ÐºÐ»ÑŽÑ‡ Ð°Ð´Ð½Ð°ÑžÐ»ÐµÐ½Ð½Ñ"</string>
+  <string name="screen_session_verification_open_existing_session_subtitle">"Ð”Ð°ÐºÐ°Ð¶Ñ‹Ñ†Ðµ, ÑˆÑ‚Ð¾ Ð³ÑÑ‚Ð° Ð²Ñ‹, ÐºÐ°Ð± Ð°Ñ‚Ñ€Ñ‹Ð¼Ð°Ñ†ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð° Ð²Ð°ÑˆÐ°Ð¹ Ð·Ð°ÑˆÑ‹Ñ„Ñ€Ð°Ð²Ð°Ð½Ð°Ð¹ Ð³Ñ–ÑÑ‚Ð¾Ñ€Ñ‹Ñ– Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½ÑÑž."</string>
+  <string name="screen_session_verification_open_existing_session_title">"ÐÐ´ÐºÑ€Ñ‹Ð¹Ñ†Ðµ Ñ–ÑÐ½ÑƒÑŽÑ‡Ñ‹ ÑÐµÐ°Ð½Ñ"</string>
+  <string name="screen_session_verification_positive_button_canceled">"ÐŸÐ°ÑžÑ‚Ð°Ñ€Ñ‹Ñ†Ðµ Ð¿Ñ€Ð°Ð²ÐµÑ€ÐºÑƒ"</string>
+  <string name="screen_session_verification_positive_button_initial">"Ð¯ Ð³Ð°Ñ‚Ð¾Ð²Ñ‹"</string>
+  <string name="screen_session_verification_positive_button_verifying_ongoing">"Ð§Ð°ÐºÐ°Ð½Ð½Ðµ ÑÑƒÐ¿Ð°Ð´Ð·ÐµÐ½Ð½Ñ"</string>
+  <string name="screen_session_verification_ready_subtitle">"ÐŸÐ°Ñ€Ð°ÑžÐ½Ð°Ð¹Ñ†Ðµ ÑžÐ½Ñ–ÐºÐ°Ð»ÑŒÐ½Ñ‹ Ð½Ð°Ð±Ð¾Ñ€ ÑÐ¼Ð¾Ð´Ð·Ñ–."</string>
+  <string name="screen_session_verification_request_accepted_subtitle">"ÐŸÐ°Ñ€Ð°ÑžÐ½Ð°Ð¹Ñ†Ðµ ÑžÐ½Ñ–ÐºÐ°Ð»ÑŒÐ½Ñ‹Ñ ÑÐ¼Ð¾Ð´Ð·Ñ–, Ð¿ÐµÑ€Ð°ÐºÐ°Ð½Ð°ÑžÑˆÑ‹ÑÑ, ÑˆÑ‚Ð¾ ÑÐ½Ñ‹ Ñ€Ð°Ð·Ð¼ÐµÑˆÑ‡Ð°Ð½Ñ‹ Ñž Ñ‚Ñ‹Ð¼ Ð¶Ð° Ð¿Ð°Ñ€Ð°Ð´ÐºÑƒ."</string>
+  <string name="screen_session_verification_request_success_subtitle">"Ð¦ÑÐ¿ÐµÑ€ Ð²Ñ‹ Ð¼Ð¾Ð¶Ð°Ñ†Ðµ Ð±ÑÑÐ¿ÐµÑ‡Ð½Ð° Ñ‡Ñ‹Ñ‚Ð°Ñ†ÑŒ Ð°Ð±Ð¾ Ð°Ð´Ð¿Ñ€Ð°ÑžÐ»ÑÑ†ÑŒ Ð¿Ð°Ð²ÐµÐ´Ð°Ð¼Ð»ÐµÐ½Ð½Ñ– Ð½Ð° Ñ–Ð½ÑˆÐ°Ð¹ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ð·Ðµ."</string>
+  <string name="screen_session_verification_request_success_title">"ÐŸÑ€Ñ‹Ð»Ð°Ð´Ð° Ð¿Ñ€Ð°Ð²ÐµÑ€Ð°Ð½Ð°"</string>
+  <string name="screen_session_verification_they_dont_match">"Ð¯Ð½Ñ‹ Ð½Ðµ ÑÑƒÐ¿Ð°Ð´Ð°ÑŽÑ†ÑŒ"</string>
+  <string name="screen_session_verification_they_match">"Ð¯Ð½Ñ‹ ÑÑƒÐ¿Ð°Ð´Ð°ÑŽÑ†ÑŒ"</string>
+  <string name="screen_session_verification_waiting_to_accept_subtitle">"Ð”Ð»Ñ Ð¿Ñ€Ð°Ñ†ÑÐ³Ñƒ Ð¿Ñ€Ð°Ñ†Ñ‹ Ð¿Ñ€Ñ‹Ð¼Ñ–Ñ†Ðµ Ð·Ð°Ð¿Ñ‹Ñ‚ Ð½Ð° Ð·Ð°Ð¿ÑƒÑÐº Ð¿Ñ€Ð°Ñ†ÑÑÑƒ Ð¿Ñ€Ð°Ð²ÐµÑ€ÐºÑ– Ñž Ñ–Ð½ÑˆÑ‹Ð¼ ÑÐµÐ°Ð½ÑÐµ."</string>
+  <string name="screen_session_verification_waiting_to_accept_title">"Ð§Ð°ÐºÐ°Ð½Ð½Ðµ Ð¿Ñ€Ñ‹Ð½ÑÑ†Ñ†Ñ Ð·Ð°Ð¿Ñ‹Ñ‚Ñƒ"</string>
+  <string name="screen_signout_in_progress_dialog_content">"Ð’Ñ‹Ð´Ð°Ð»ÐµÐ½Ð½Ðµ Ð¿Ñ€Ñ‹Ð»Ð°Ð´Ñ‹..."</string>
+</resources>
+

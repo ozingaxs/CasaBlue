@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_analytics_prompt_data_usage">"ÐœÑ‹ Ð½Ðµ Ð±ÑƒÐ´ÐµÐ¼ Ð·Ð°Ð¿Ð¸ÑÑ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÐºÐ°ÐºÐ¸Ðµ-Ð»Ð¸Ð±Ð¾ Ð¿ÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ"</string>
+  <string name="screen_analytics_prompt_help_us_improve">"ÐŸÑ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°Ð¼ Ð°Ð½Ð¾Ð½Ð¸Ð¼Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ð± Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¸, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð¼Ð¾Ñ‡ÑŒ Ð¸Ð¼ Ð²Ñ‹ÑÐ²Ð»ÑÑ‚ÑŒ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹ ÑÑ„Ñ„ÐµÐºÑ‚Ð¸Ð²Ð½ÐµÐµ."</string>
+  <string name="screen_analytics_prompt_read_terms">"Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸Ñ‚ÑŒÑÑ ÑÐ¾ Ð²ÑÐµÐ¼Ð¸ Ð½Ð°ÑˆÐ¸Ð¼Ð¸ ÑƒÑÐ»Ð¾Ð²Ð¸ÑÐ¼Ð¸ %1$s."</string>
+  <string name="screen_analytics_prompt_read_terms_content_link">"Ð·Ð´ÐµÑÑŒ"</string>
+  <string name="screen_analytics_prompt_settings">"Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ñ„ÑƒÐ½ÐºÑ†Ð¸ÑŽ Ð² Ð»ÑŽÐ±Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ"</string>
+  <string name="screen_analytics_prompt_third_party_sharing">"ÐœÑ‹ Ð½Ðµ Ð±ÑƒÐ´ÐµÐ¼ Ð¿ÐµÑ€ÐµÐ´Ð°Ð²Ð°Ñ‚ÑŒ Ð²Ð°ÑˆÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ñ‚Ñ€ÐµÑ‚ÑŒÐ¸Ð¼ Ð»Ð¸Ñ†Ð°Ð¼"</string>
+  <string name="screen_analytics_prompt_title">"ÐŸÐ¾Ð¼Ð¾Ð³Ð¸Ñ‚Ðµ ÑƒÐ»ÑƒÑ‡ÑˆÐ¸Ñ‚ÑŒ %1$s"</string>
+</resources>
+

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_media_upload_preview_error_failed_processing">"áƒ›áƒ”áƒ“áƒ˜áƒ˜áƒ¡ áƒáƒ¢áƒ•áƒ˜áƒ áƒ—áƒ•áƒ áƒ•áƒ”áƒ  áƒ›áƒáƒ®áƒ”áƒ áƒ®áƒ“áƒ. áƒ’áƒ—áƒ®áƒáƒ•áƒ—, áƒ¡áƒªáƒáƒ“áƒáƒ— áƒ®áƒ”áƒšáƒáƒ®áƒšáƒ."</string>
+  <string name="screen_media_upload_preview_error_failed_sending">"áƒ›áƒ”áƒ“áƒ˜áƒ˜áƒ¡ áƒáƒ¢áƒ•áƒ˜áƒ áƒ—áƒ•áƒ áƒ•áƒ”áƒ  áƒ›áƒáƒ®áƒ”áƒ áƒ®áƒ“áƒ, áƒ’áƒ—áƒ®áƒáƒ•áƒ—, áƒ¡áƒªáƒáƒ“áƒáƒ— áƒ®áƒ”áƒšáƒáƒ®áƒšáƒ."</string>
+  <string name="screen_report_content_block_user">"áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ“áƒáƒ‘áƒšáƒáƒ™áƒ•áƒ"</string>
+  <string name="screen_report_content_block_user_hint">"áƒ¨áƒ”áƒáƒ›áƒáƒ¬áƒ›áƒ”áƒ—, áƒ’áƒ¡áƒ£áƒ áƒ— áƒ—áƒ£ áƒáƒ áƒ áƒáƒ› áƒ›áƒáƒ›áƒ®áƒ›áƒáƒ áƒ”áƒ‘áƒšáƒ˜áƒ¡ áƒ§áƒ•áƒ”áƒšáƒ áƒ›áƒ˜áƒ›áƒ“áƒ˜áƒœáƒáƒ áƒ” áƒ“áƒ áƒ›áƒáƒ›áƒáƒ•áƒáƒšáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ“áƒáƒ›áƒáƒšáƒ•áƒ"</string>
+  <string name="screen_report_content_explanation">"áƒ”áƒ¡ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒ’áƒáƒ’áƒ–áƒáƒ•áƒœáƒ˜áƒšáƒ˜ áƒ˜áƒ¥áƒœáƒ”áƒ‘áƒ áƒ—áƒ¥áƒ•áƒ”áƒœáƒ˜ áƒ¡áƒáƒ®áƒšáƒ˜áƒ¡ áƒ¡áƒ”áƒ áƒ•áƒ”áƒ áƒ˜áƒ¡ áƒáƒ“áƒ›áƒ˜áƒœáƒ˜áƒ¡áƒ¢áƒ áƒáƒ¢áƒáƒ áƒ˜áƒ¡áƒáƒ“áƒ›áƒ˜. áƒ›áƒáƒ¡ áƒáƒ  áƒ”áƒ¥áƒœáƒ”áƒ‘áƒ áƒ“áƒáƒ¨áƒ˜áƒ¤áƒ•áƒ áƒ£áƒšáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ¬áƒáƒ™áƒ˜áƒ—áƒ®áƒ•áƒ˜áƒ¡ áƒ¨áƒ”áƒ¡áƒáƒ«áƒšáƒ”áƒ‘áƒšáƒáƒ‘áƒ."</string>
+  <string name="screen_report_content_hint">"áƒáƒ› áƒ™áƒáƒœáƒ¢áƒ”áƒœáƒ¢áƒ˜áƒ¡ áƒ“áƒáƒ áƒ”áƒžáƒáƒ áƒ¢áƒ”áƒ‘áƒ˜áƒ¡ áƒ›áƒ˜áƒ–áƒ”áƒ–áƒ˜"</string>
+  <string name="screen_room_attachment_source_camera">"áƒ™áƒáƒ›áƒ”áƒ áƒ"</string>
+  <string name="screen_room_attachment_source_camera_photo">"áƒ¤áƒáƒ¢áƒáƒ¡ áƒ’áƒáƒ“áƒáƒ¦áƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_attachment_source_camera_video">"áƒ•áƒ˜áƒ“áƒ”áƒáƒ¡ áƒ©áƒáƒ¬áƒ”áƒ áƒ"</string>
+  <string name="screen_room_attachment_source_files">"áƒ“áƒáƒœáƒáƒ áƒ—áƒ˜"</string>
+  <string name="screen_room_attachment_source_gallery">"áƒ¤áƒáƒ¢áƒáƒ¡áƒ áƒ“áƒ áƒ•áƒ˜áƒ“áƒ”áƒáƒ¡ áƒ‘áƒ˜áƒ‘áƒšáƒ˜áƒáƒ—áƒ”áƒ™áƒ"</string>
+  <string name="screen_room_attachment_source_location">"áƒáƒ“áƒ’áƒ˜áƒšáƒ›áƒ“áƒ”áƒ‘áƒáƒ áƒ”áƒáƒ‘áƒ"</string>
+  <string name="screen_room_attachment_source_poll">"áƒ’áƒáƒ›áƒáƒ™áƒ˜áƒ—áƒ®áƒ•áƒ"</string>
+  <string name="screen_room_attachment_text_formatting">"áƒ¢áƒ”áƒ¥áƒ¡áƒ¢áƒ˜áƒ¡ áƒ¤áƒáƒ áƒ›áƒáƒ¢áƒ˜áƒ áƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_encrypted_history_banner">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒ¡áƒ¢áƒáƒ áƒ˜áƒ áƒáƒ›áƒŸáƒáƒ›áƒáƒ“ áƒ›áƒ˜áƒ£áƒ¬áƒ•áƒ“áƒáƒ›áƒ”áƒšáƒ˜áƒ."</string>
+  <string name="screen_room_encrypted_history_banner_unverified">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒ¡áƒ¢áƒáƒ áƒ˜áƒ áƒáƒ› áƒáƒ—áƒáƒ®áƒ¨áƒ˜ áƒ›áƒ˜áƒ£áƒ¬áƒ•áƒ“áƒáƒ›áƒ”áƒšáƒ˜áƒ. áƒ“áƒáƒáƒ“áƒáƒ¡áƒ¢áƒ£áƒ áƒ”áƒ— áƒ”áƒ¡ áƒ›áƒáƒ¬áƒ§áƒáƒ‘áƒ˜áƒšáƒáƒ‘áƒ áƒ—áƒ¥áƒ•áƒ”áƒœáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ”áƒ‘áƒ˜áƒ¡ áƒ˜áƒ¡áƒ¢áƒáƒ áƒ˜áƒ˜áƒ¡ áƒ¡áƒáƒœáƒáƒ®áƒáƒ•áƒáƒ“."</string>
+  <string name="screen_room_invite_again_alert_message">"áƒ’áƒ¡áƒ£áƒ áƒ— áƒ›áƒáƒ—áƒ˜ áƒ™áƒ•áƒšáƒáƒ• áƒ›áƒáƒ¬áƒ•áƒ”áƒ•áƒ?"</string>
+  <string name="screen_room_invite_again_alert_title">"áƒ—áƒ¥áƒ•áƒ”áƒœ áƒ›áƒáƒ áƒ¢áƒ áƒ®áƒáƒ áƒ— áƒáƒ› áƒ©áƒáƒ¢áƒ¨áƒ˜"</string>
+  <string name="screen_room_mentions_at_room_subtitle">"áƒ›áƒ—áƒ”áƒšáƒ˜ áƒáƒ—áƒáƒ®áƒ˜áƒ¡áƒáƒ—áƒ•áƒ˜áƒ¡ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_mentions_at_room_title">"áƒ§áƒ•áƒ”áƒšáƒ"</string>
+  <string name="screen_room_retry_send_menu_send_again_action">"á²®áƒ”áƒšáƒáƒ®áƒšáƒ áƒ’áƒáƒ’áƒ–áƒáƒ•áƒœáƒ"</string>
+  <string name="screen_room_retry_send_menu_title">"áƒ—áƒ¥áƒ•áƒ”áƒœáƒ˜ áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒ’áƒáƒ’áƒ–áƒáƒ•áƒœáƒ áƒ•áƒ”áƒ  áƒ›áƒáƒ®áƒ”áƒ áƒ®áƒ“áƒ"</string>
+  <string name="screen_room_timeline_add_reaction">"áƒ”áƒ›áƒáƒ¯áƒ˜áƒ¡ áƒ“áƒáƒ›áƒáƒ¢áƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_timeline_beginning_of_room">"áƒ”áƒ¡ áƒáƒ áƒ˜áƒ¡ %1$s-áƒ¡ áƒ“áƒáƒ¡áƒáƒ¬áƒ§áƒ˜áƒ¡áƒ˜."</string>
+  <string name="screen_room_timeline_beginning_of_room_no_name">"áƒ”áƒ¡ áƒáƒ áƒ˜áƒ¡ áƒáƒ› áƒ¡áƒáƒ£áƒ‘áƒ áƒ˜áƒ¡ áƒ“áƒáƒ¡áƒáƒ¬áƒ§áƒ˜áƒ¡áƒ˜."</string>
+  <string name="screen_room_timeline_less_reactions">"áƒœáƒáƒ™áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_timeline_message_copied">"áƒ¨áƒ”áƒ¢áƒ§áƒáƒ‘áƒ˜áƒœáƒ”áƒ‘áƒ áƒ“áƒáƒ™áƒáƒžáƒ˜áƒ áƒ“áƒ"</string>
+  <string name="screen_room_timeline_no_permission_to_post">"áƒ—áƒ¥áƒ•áƒ”áƒœ áƒáƒ  áƒ’áƒáƒ¥áƒ•áƒ— áƒáƒ› áƒáƒ—áƒáƒ®áƒ¨áƒ˜ áƒ’áƒáƒ›áƒáƒ¥áƒ•áƒ”áƒ§áƒœáƒ”áƒ‘áƒ˜áƒ¡ áƒœáƒ”áƒ‘áƒáƒ áƒ—áƒ•áƒ"</string>
+  <string name="screen_room_timeline_reactions_show_less">"áƒœáƒáƒ™áƒšáƒ”áƒ‘áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_timeline_reactions_show_more">"áƒ›áƒ”áƒ¢áƒ˜áƒ¡ áƒ©áƒ•áƒ”áƒœáƒ”áƒ‘áƒ"</string>
+  <string name="screen_room_timeline_read_marker_title">"áƒáƒ®áƒáƒšáƒ˜"</string>
+  <plurals name="screen_room_timeline_state_changes">
+    <item quantity="one">"%1$dáƒáƒ—áƒáƒ®áƒ˜áƒ¡ áƒªáƒ•áƒšáƒ˜áƒšáƒ”áƒ‘áƒ"</item>
+    <item quantity="other">"%1$dáƒáƒ—áƒáƒ®áƒ˜áƒ¡ áƒªáƒ•áƒšáƒ˜áƒšáƒ”áƒ‘áƒ”áƒ‘áƒ˜"</item>
+  </plurals>
+  <plurals name="screen_room_typing_many_members">
+    <item quantity="one">"%1$s, %2$s áƒ“áƒ %3$d áƒ¡áƒ®áƒ•áƒ"</item>
+    <item quantity="other">"%1$s%2$sáƒ“áƒ %3$d áƒ¡áƒ®áƒ•áƒ"</item>
+  </plurals>
+  <plurals name="screen_room_typing_notification">
+    <item quantity="one">"%1$s áƒ¬áƒ”áƒ áƒ¡"</item>
+    <item quantity="other">"%1$s áƒ¬áƒ”áƒ áƒ”áƒœ"</item>
+  </plurals>
+  <string name="screen_room_typing_two_members">"%1$s áƒ“áƒ %2$s"</string>
+</resources>
+

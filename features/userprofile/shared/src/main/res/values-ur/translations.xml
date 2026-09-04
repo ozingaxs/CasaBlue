@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_dm_details_block_alert_action">"Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_dm_details_block_alert_description">"Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±Ø¯Û ØµØ§Ø±ÙÛŒÙ† Ø¢Ù¾ Ú©Ùˆ Ù¾ÛŒØºØ§Ù…Ø§Øª Ù†ÛÛŒÚº Ø¨Ú¾ÛŒØ¬ Ø³Ú©ÛŒÚº Ú¯Û’ Ø§ÙˆØ± Ø§Ù†Ú©Û’ ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ú†Ú¾Ù¾ Ø¬Ø§Ø¦ÛŒÚº Ú¯Û’Û” Ø¢Ù¾ Ø§Ù†Ú¾ÛŒÚº Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ ÙˆÙ‚Øª ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_dm_details_block_user">"ØµØ§Ø±Ù Ú©Ùˆ Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_dm_details_unblock_alert_action">"ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_dm_details_unblock_alert_description">"Ø¢Ù¾ Ø§Ù†Ú©ÛŒ Ø¬Ø§Ù†Ø¨ Ø³Û’ ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ø¯ÙˆØ¨Ø§Ø±Û Ø¯ÛŒÚ©Ú¾ Ø³Ú©ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_dm_details_unblock_user">"ØµØ§Ø±Ù Ú©Ùˆ ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_room_member_details_block_alert_action">"Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_room_member_details_block_alert_description">"Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±Ø¯Û ØµØ§Ø±ÙÛŒÙ† Ø¢Ù¾ Ú©Ùˆ Ù¾ÛŒØºØ§Ù…Ø§Øª Ù†ÛÛŒÚº Ø¨Ú¾ÛŒØ¬ Ø³Ú©ÛŒÚº Ú¯Û’ Ø§ÙˆØ± Ø§Ù†Ú©Û’ ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ú†Ú¾Ù¾ Ø¬Ø§Ø¦ÛŒÚº Ú¯Û’Û” Ø¢Ù¾ Ø§Ù†Ú¾ÛŒÚº Ú©Ø³ÛŒ Ø¨Ú¾ÛŒ ÙˆÙ‚Øª ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø± Ø³Ú©ØªÛ’ ÛÛŒÚºÛ”"</string>
+  <string name="screen_room_member_details_block_user">"ØµØ§Ø±Ù Ú©Ùˆ Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_room_member_details_title">"Ù†Ù…Ø§ÛŒÛ"</string>
+  <string name="screen_room_member_details_unblock_alert_action">"ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_room_member_details_unblock_alert_description">"Ø¢Ù¾ Ø§Ù†Ú©ÛŒ Ø¬Ø§Ù†Ø¨ Ø³Û’ ØªÙ…Ø§Ù… Ù¾ÛŒØºØ§Ù…Ø§Øª Ø¯ÙˆØ¨Ø§Ø±Û Ø¯ÛŒÚ©Ú¾ Ø³Ú©ÛŒÚº Ú¯Û’Û”"</string>
+  <string name="screen_room_member_details_unblock_user">"ØµØ§Ø±Ù Ú©Ùˆ ØºÛŒØ± Ù…Ø³Ø¯ÙˆØ¯ Ú©Ø±ÛŒÚº"</string>
+  <string name="screen_start_chat_error_starting_chat">"Ú¯ÙØªÚ¯Ùˆ Ø´Ø±ÙˆØ¹ Ú©Ø±Ù†Û’ Ú©ÛŒ Ú©ÙˆØ´Ø´ Ú©Ø±ØªÛ’ ÙˆÙ‚Øª Ø§ÛŒÚ© Ø®Ø±Ø§Ø¨ÛŒ ÙˆØ§Ù‚Ø¹ ÛÙˆÚ¯Ø¦ÛŒ"</string>
+</resources>
+

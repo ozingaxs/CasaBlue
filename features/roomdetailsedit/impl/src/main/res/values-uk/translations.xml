@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_room_details_edit_room_title">"Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð¸Ñ†Ñ–"</string>
+  <string name="screen_room_details_edition_error">"Ð¡Ñ‚Ð°Ð»Ð°ÑÑ Ð½ÐµÐ²Ñ–Ð´Ð¾Ð¼Ð° Ð¿Ð¾Ð¼Ð¸Ð»ÐºÐ°, Ð¹ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ Ð½Ðµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð·Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸."</string>
+  <string name="screen_room_details_edition_error_title">"ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð¾Ð½Ð¾Ð²Ð¸Ñ‚Ð¸ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ"</string>
+  <string name="screen_room_details_updating_room">"ÐžÐ½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸..."</string>
+</resources>
+

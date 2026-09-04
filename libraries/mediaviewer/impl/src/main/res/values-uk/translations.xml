@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_media_browser_delete_confirmation_subtitle">"Ð¦ÐµÐ¹ Ñ„Ð°Ð¹Ð» Ð±ÑƒÐ´Ðµ Ð²Ð¸Ð»ÑƒÑ‡ÐµÐ½Ð¾ Ð· ÐºÑ–Ð¼Ð½Ð°Ñ‚Ð¸, Ñ– ÑƒÑ‡Ð°ÑÐ½Ð¸ÐºÐ¸ Ð½Ðµ Ð¼Ð°Ñ‚Ð¸Ð¼ÑƒÑ‚ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ñƒ Ð´Ð¾ Ð½ÑŒÐ¾Ð³Ð¾."</string>
+  <string name="screen_media_browser_delete_confirmation_title">"Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ñ„Ð°Ð¹Ð»?"</string>
+  <string name="screen_media_browser_download_error_message">"ÐŸÐµÑ€ÐµÐ²Ñ–Ñ€Ñ‚Ðµ Ð·\'Ñ”Ð´Ð½Ð°Ð½Ð½Ñ Ð· Ñ–Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚Ð¾Ð¼ Ñ– Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ñ–Ñ‚ÑŒ ÑÐ¿Ñ€Ð¾Ð±Ñƒ."</string>
+  <string name="screen_media_browser_files_empty_state_subtitle">"Ð¢ÑƒÑ‚ Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ñ– Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¸, Ð°ÑƒÐ´Ñ–Ð¾Ñ„Ð°Ð¹Ð»Ð¸ Ñ‚Ð° Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ñ– Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ, Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ñ– Ð² Ñ†ÑŽ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ."</string>
+  <string name="screen_media_browser_files_empty_state_title">"Ð©Ðµ Ð½Ðµ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾ Ð¶Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ñƒ"</string>
+  <string name="screen_media_browser_list_loading_files">"Ð—Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ñ„Ð°Ð¹Ð»Ñ–Ð²..."</string>
+  <string name="screen_media_browser_list_loading_media">"Ð—Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð¼ÐµÐ´Ñ–Ð°..."</string>
+  <string name="screen_media_browser_list_mode_files">"Ð¤Ð°Ð¹Ð»Ð¸"</string>
+  <string name="screen_media_browser_list_mode_media">"ÐœÐµÐ´Ñ–Ð°"</string>
+  <string name="screen_media_browser_media_empty_state_subtitle">"Ð—Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ Ñ‚Ð° Ð²Ñ–Ð´ÐµÐ¾, Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ñ– Ð² Ñ†ÑŽ ÐºÑ–Ð¼Ð½Ð°Ñ‚Ñƒ, Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ñ– Ñ‚ÑƒÑ‚."</string>
+  <string name="screen_media_browser_media_empty_state_title">"Ð©Ðµ Ð½Ðµ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾ Ð¶Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ´Ñ–Ð°Ñ„Ð°Ð¹Ð»Ñƒ"</string>
+  <string name="screen_media_browser_title">"ÐœÐµÐ´Ñ–Ð° Ñ‚Ð° Ñ„Ð°Ð¹Ð»Ð¸"</string>
+  <string name="screen_media_details_file_format">"Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ñ„Ð°Ð¹Ð»Ñƒ"</string>
+  <string name="screen_media_details_filename">"ÐÐ°Ð·Ð²Ð° Ñ„Ð°Ð¹Ð»Ñƒ"</string>
+  <string name="screen_media_details_no_more_files_to_show">"Ð‘Ñ–Ð»ÑŒÑˆÐµ Ð½ÐµÐ¼Ð°Ñ” Ñ„Ð°Ð¹Ð»Ñ–Ð² Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ñƒ"</string>
+  <string name="screen_media_details_no_more_media_to_show">"Ð‘Ñ–Ð»ÑŒÑˆÐµ Ð½ÐµÐ¼Ð°Ñ” Ð¼ÐµÐ´Ñ–Ð° Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ñƒ"</string>
+  <string name="screen_media_details_title">"Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ Ð¿Ñ€Ð¾ Ñ„Ð°Ð¹Ð»"</string>
+  <string name="screen_media_details_uploaded_by">"Ð’Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡ÐµÐ¼"</string>
+  <string name="screen_media_details_uploaded_on">"Ð’Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾"</string>
+</resources>
+

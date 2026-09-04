@@ -1,0 +1,16 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_identity_confirmation_cannot_confirm">"Không th? xác nh?n?"</string>
+  <string name="screen_identity_confirmation_create_new_recovery_key">"T?o khóa khôi ph?c m?i"</string>
+  <string name="screen_identity_confirmation_subtitle">"Ch?n phuong th?c xác minh d? b?t nh?n tin b?o m?t."</string>
+  <string name="screen_identity_confirmation_title">"Xác nh?n danh tính k? thu?t s? c?a b?n"</string>
+  <string name="screen_identity_confirmation_use_another_device">"Dùng thi?t b? khác"</string>
+  <string name="screen_identity_confirmation_use_recovery_key">"S? d?ng khóa khôi ph?c"</string>
+  <string name="screen_identity_confirmed_subtitle">"Gi? dây b?n có th? d?c và g?i tin nh?n m?t cách an toàn, và nh?ng ngu?i b?n trò chuy?n cung có th? tin tu?ng thi?t b? này."</string>
+  <string name="screen_identity_confirmed_title">"Thi?t b? du?c xác th?c"</string>
+  <string name="screen_identity_use_another_device">"Dùng thi?t b? khác"</string>
+  <string name="screen_identity_waiting_on_other_device">"Ðang ch? trên thi?t b? khác..."</string>
+  <string name="screen_notification_optin_subtitle">"B?n có th? thay d?i cài d?t sau."</string>
+  <string name="screen_notification_optin_title">"Cho phép thông báo d? không b? l? b?t k? tin nh?n nào"</string>
+</resources>
+

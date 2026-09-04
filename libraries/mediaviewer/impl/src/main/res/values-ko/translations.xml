@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_media_browser_delete_confirmation_subtitle">"ì´ íŒŒì¼ì€ ë°©ì—ì„œ ì‚­ì œë˜ë©°, íšŒì›ë“¤ì€ ë” ì´ìƒ ì•¡ì„¸ìŠ¤í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_media_browser_delete_confirmation_title">"íŒŒì¼ì„ ì‚­ì œí•˜ì‹œê² ìŠµë‹ˆê¹Œ?"</string>
+  <string name="screen_media_browser_download_error_message">"ì¸í„°ë„· ì—°ê²°ì„ í™•ì¸í•˜ê³  ë‹¤ì‹œ ì‹œë„í•´ ì£¼ì„¸ìš”."</string>
+  <string name="screen_media_browser_files_empty_state_subtitle">"ì´ ë°©ì— ì—…ë¡œë“œëœ ë¬¸ì„œ, ì˜¤ë””ì˜¤ íŒŒì¼ ë° ìŒì„± ë©”ì‹œì§€ê°€ ì—¬ê¸°ì— í‘œì‹œë©ë‹ˆë‹¤."</string>
+  <string name="screen_media_browser_files_empty_state_title">"ì•„ì§ ì—…ë¡œë“œëœ íŒŒì¼ì´ ì—†ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_media_browser_list_loading_files">"íŒŒì¼ ë¡œë”© ì¤‘..."</string>
+  <string name="screen_media_browser_list_loading_media">"ë¯¸ë””ì–´ ë¡œë”© ì¤‘..."</string>
+  <string name="screen_media_browser_list_mode_files">"íŒŒì¼"</string>
+  <string name="screen_media_browser_list_mode_media">"ë¯¸ë””ì–´"</string>
+  <string name="screen_media_browser_media_empty_state_subtitle">"ì´ ë°©ì— ì—…ë¡œë“œëœ ì´ë¯¸ì§€ì™€ ë™ì˜ìƒì€ ì—¬ê¸°ì— í‘œì‹œë©ë‹ˆë‹¤."</string>
+  <string name="screen_media_browser_media_empty_state_title">"ì•„ì§ ë¯¸ë””ì–´ê°€ ì—…ë¡œë“œë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤."</string>
+  <string name="screen_media_browser_title">"ë¯¸ë””ì–´ ë° íŒŒì¼"</string>
+  <string name="screen_media_details_file_format">"íŒŒì¼ í˜•ì‹"</string>
+  <string name="screen_media_details_filename">"íŒŒì¼ ëª…"</string>
+  <string name="screen_media_details_no_more_files_to_show">"ë” ì´ìƒ í‘œì‹œí•  íŒŒì¼ì´ ì—†ìŠµë‹ˆë‹¤"</string>
+  <string name="screen_media_details_no_more_media_to_show">"ë” ì´ìƒ ë³´ì—¬ì¤„ ë¯¸ë””ì–´ê°€ ì—†ìŠµë‹ˆë‹¤"</string>
+  <string name="screen_media_details_title">"íŒŒì¼ ì •ë³´"</string>
+  <string name="screen_media_details_uploaded_by">"ì— ì˜í•´ ì—…ë¡œë“œë¨"</string>
+  <string name="screen_media_details_uploaded_on">"ì— ì—…ë¡œë“œë¨"</string>
+</resources>
+

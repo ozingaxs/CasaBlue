@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_create_room_action_create_room">"ÎÎ­Î± Î±Î¯Î¸Î¿Ï…ÏƒÎ±"</string>
+  <string name="screen_create_room_add_people_title">"Î ÏÏŒÏƒÎºÎ»Î·ÏƒÎ· Î±Ï„ÏŒÎ¼Ï‰Î½"</string>
+  <string name="screen_create_room_error_creating_room">"Î ÏÎ¿Î­ÎºÏ…ÏˆÎµ ÏƒÏ†Î¬Î»Î¼Î± ÎºÎ±Ï„Î¬ Ï„Î· Î´Î·Î¼Î¹Î¿Ï…ÏÎ³Î¯Î± Ï„Î·Ï‚ Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚"</string>
+  <string name="screen_create_room_error_creating_space">"Î”ÎµÎ½ Î®Ï„Î±Î½ Î´Ï…Î½Î±Ï„Î® Î· Î´Î·Î¼Î¹Î¿Ï…ÏÎ³Î¯Î± Ï„Î¿Ï… Ï‡ÏŽÏÎ¿Ï… Î»ÏŒÎ³Ï‰ Î¬Î³Î½Ï‰ÏƒÏ„Î¿Ï… ÏƒÏ†Î¬Î»Î¼Î±Ï„Î¿Ï‚. Î”Î¿ÎºÎ¹Î¼Î¬ÏƒÏ„Îµ Î¾Î±Î½Î¬ Î±ÏÎ³ÏŒÏ„ÎµÏÎ±."</string>
+  <string name="screen_create_room_name_placeholder">"Î ÏÎ¿ÏƒÎ¸Î®ÎºÎ· Î¿Î½ÏŒÎ¼Î±Ï„Î¿Ï‚..."</string>
+  <string name="screen_create_room_new_room_title">"ÎÎ­Î± Î±Î¯Î¸Î¿Ï…ÏƒÎ±"</string>
+  <string name="screen_create_room_new_space_title">"ÎÎ­Î¿Ï‚ Ï‡ÏŽÏÎ¿Ï‚"</string>
+  <string name="screen_create_room_private_option_description">"ÎœÏŒÎ½Î¿ Î¬Ï„Î¿Î¼Î± Ï€Î¿Ï… Î­Ï‡Î¿Ï…Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸ÎµÎ¯ Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡Î¿Ï…Î½."</string>
+  <string name="screen_create_room_private_option_title">"Î™Î´Î¹Ï‰Ï„Î¹ÎºÏŒ"</string>
+  <string name="screen_create_room_public_option_description">"ÎŸ ÎºÎ±Î¸Î­Î½Î±Ï‚ Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± Î²ÏÎµÎ¹ Î±Ï…Ï„Î® Ï„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±.
+Î‘Ï…Ï„ÏŒ Î¼Ï€Î¿ÏÎµÎ¯Ï„Îµ Î½Î± Ï„Î¿ Î±Î»Î»Î¬Î¾ÎµÏ„Îµ Î±Î½Î¬ Ï€Î¬ÏƒÎ± ÏƒÏ„Î¹Î³Î¼Î® ÏƒÏ„Î¹Ï‚ ÏÏ…Î¸Î¼Î¯ÏƒÎµÎ¹Ï‚ Ï„Î·Ï‚ Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚."</string>
+  <string name="screen_create_room_public_option_short_description">"ÎŸÏ€Î¿Î¹Î¿ÏƒÎ´Î®Ï€Î¿Ï„Îµ Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÎ¹."</string>
+  <string name="screen_create_room_public_option_title">"Î”Î·Î¼ÏŒÏƒÎ¹Î¿"</string>
+  <string name="screen_create_room_room_access_section_knocking_option_description">"ÎŸÏ€Î¿Î¹Î¿ÏƒÎ´Î®Ï€Î¿Ï„Îµ Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± Î¶Î·Ï„Î®ÏƒÎµÎ¹ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÎ¹ ÏƒÏ„Î·Î½ Î±Î¯Î¸Î¿Ï…ÏƒÎ±, Î±Î»Î»Î¬ Î­Î½Î±Ï‚ Î´Î¹Î±Ï‡ÎµÎ¹ÏÎ¹ÏƒÏ„Î®Ï‚ Î® Î­Î½Î±Ï‚ ÏƒÏ…Î½Ï„Î¿Î½Î¹ÏƒÏ„Î®Ï‚ Î¸Î± Ï€ÏÎ­Ï€ÎµÎ¹ Î½Î± Î±Ï€Î¿Î´ÎµÏ‡Ï„ÎµÎ¯ Ï„Î¿ Î±Î¯Ï„Î·Î¼Î±."</string>
+  <string name="screen_create_room_room_access_section_knocking_option_title">"Î•Ï€Î¹Ï„ÏÎ­ÏˆÏ„Îµ Ï„Î·Î½ Î±Î¯Ï„Î·ÏƒÎ· ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚"</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_description">"ÎŸÏ€Î¿Î¹Î¿Î¹Î´Î®Ï€Î¿Ï„Îµ ÏƒÏ„Î¿ %1$s Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡Î¿Ï…Î½, Î±Î»Î»Î¬ ÏŒÎ»Î¿Î¹ Î¿Î¹ Ï…Ï€ÏŒÎ»Î¿Î¹Ï€Î¿Î¹ Ï€ÏÎ­Ï€ÎµÎ¹ Î½Î± Î¶Î·Ï„Î®ÏƒÎ¿Ï…Î½ Ï€ÏÏŒÏƒÎ²Î±ÏƒÎ·."</string>
+  <string name="screen_create_room_room_access_section_knocking_restricted_option_title">"Î‘Î¯Ï„Î·Î¼Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¿Ï‡Î®Ï‚"</string>
+  <string name="screen_create_room_room_access_section_private_option_description">"ÎœÏŒÎ½Î¿ Î¬Ï„Î¿Î¼Î± Ï€Î¿Ï… Î­Ï‡Î¿Ï…Î½ Ï€ÏÎ¿ÏƒÎºÎ»Î·Î¸ÎµÎ¯ Î¼Ï€Î¿ÏÎ¿ÏÎ½ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡Î¿Ï…Î½."</string>
+  <string name="screen_create_room_room_access_section_private_option_title">"Î™Î´Î¹Ï‰Ï„Î¹ÎºÏŒ"</string>
+  <string name="screen_create_room_room_access_section_public_option_description">"ÎŸÏ€Î¿Î¹Î¿ÏƒÎ´Î®Ï€Î¿Ï„Îµ Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÎ¹."</string>
+  <string name="screen_create_room_room_access_section_public_option_title">"Î”Î·Î¼ÏŒÏƒÎ¹Î¿"</string>
+  <string name="screen_create_room_room_access_section_restricted_option_description">"ÎŸÏ€Î¿Î¹Î¿ÏƒÎ´Î®Ï€Î¿Ï„Îµ ÏƒÏ„Î¿ %1$s Î¼Ï€Î¿ÏÎµÎ¯ Î½Î± ÏƒÏ…Î¼Î¼ÎµÏ„Î¬ÏƒÏ‡ÎµÎ¹."</string>
+  <string name="screen_create_room_room_access_section_restricted_option_title">"Î ÏÏŒÏ„Ï…Ï€Î¿"</string>
+  <string name="screen_create_room_room_access_section_title">"Î Î¿Î¹Î¿Ï‚ Î­Ï‡ÎµÎ¹ Ï€ÏÏŒÏƒÎ²Î±ÏƒÎ·"</string>
+  <string name="screen_create_room_room_address_section_footer">"Î˜Î± Ï‡ÏÎµÎ¹Î±ÏƒÏ„ÎµÎ¯Ï„Îµ Î¼Î¹Î± Î´Î¹ÎµÏÎ¸Ï…Î½ÏƒÎ· Î³Î¹Î± Î½Î± Ï„Î·Î½ ÎºÎ¬Î½ÎµÏ„Îµ Î¿ÏÎ±Ï„Î® ÏƒÏ„Î¿Î½ Î´Î·Î¼ÏŒÏƒÎ¹Î¿ ÎºÎ±Ï„Î¬Î»Î¿Î³Î¿."</string>
+  <string name="screen_create_room_room_address_section_title">"Î”Î¹ÎµÏÎ¸Ï…Î½ÏƒÎ· Î´Ï‰Î¼Î±Ï„Î¯Î¿Ï…"</string>
+  <string name="screen_create_room_room_visibility_section_title">"ÎŸÏÎ±Ï„ÏŒÏ„Î·Ï„Î± Î±Î¯Î¸Î¿Ï…ÏƒÎ±Ï‚"</string>
+  <string name="screen_create_room_space_selection_no_space_description">"(ÎºÎ±Î½Î­Î½Î±Ï‚ Ï‡ÏŽÏÎ¿Ï‚)"</string>
+  <string name="screen_create_room_space_selection_no_space_option">"ÎœÎ·Î½ Ï€ÏÎ¿ÏƒÎ¸Î­Ï„ÎµÏ„Îµ ÏƒÎµ Ï‡ÏŽÏÎ¿"</string>
+  <string name="screen_create_room_space_selection_no_space_title">"Î”ÎµÎ½ Î­Ï‡ÎµÎ¹ ÎµÏ€Î¹Î»ÎµÎ³ÎµÎ¯ Ï‡ÏŽÏÎ¿Ï‚"</string>
+  <string name="screen_create_room_space_selection_sheet_title">"Î ÏÎ¿ÏƒÎ¸Î®ÎºÎ· ÏƒÏ„Î¿Î½ Ï‡ÏŽÏÎ¿"</string>
+  <string name="screen_create_room_topic_label">"Î˜Î­Î¼Î± (Ï€ÏÎ¿Î±Î¹ÏÎµÏ„Î¹ÎºÏŒ)"</string>
+  <string name="screen_create_room_topic_placeholder">"Î ÏÎ¿ÏƒÎ¸Î®ÎºÎ· Ï€ÎµÏÎ¹Î³ÏÎ±Ï†Î®Ï‚..."</string>
+</resources>
+

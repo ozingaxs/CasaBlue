@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="crash_detection_dialog_content">"Ð¡Ñ‚Ð°Ð²ÑÑ Ð·Ð±Ñ–Ð¹ %1$s Ð¿Ñ–Ð´ Ñ‡Ð°Ñ Ð¾ÑÑ‚Ð°Ð½Ð½ÑŒÐ¾Ð³Ð¾ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ. Ð¥Ð¾Ñ‡ÐµÑ‚Ðµ Ð¿Ð¾Ð´Ñ–Ð»Ð¸Ñ‚Ð¸ÑÑ Ð· Ð½Ð°Ð¼Ð¸ Ð·Ð²Ñ–Ñ‚Ð¾Ð¼ Ð¿Ñ€Ð¾ Ð·Ð±Ñ–Ð¹?"</string>
+  <string name="rageshake_detection_dialog_content">"Ð—Ð´Ð°Ñ”Ñ‚ÑŒÑÑ, Ð²Ð¸ Ñ€Ð¾Ð·Ð´Ñ€Ð°Ñ‚Ð¾Ð²Ð°Ð½Ð¾ Ñ‚Ñ€ÑÑÐµÑ‚Ðµ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð¾Ð¼. Ð‘Ð°Ð¶Ð°Ñ”Ñ‚Ðµ Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸ Ð²Ñ–ÐºÐ½Ð¾ Ð´Ð»Ñ Ð·Ð²Ñ–Ñ‚Ñƒ Ð¿Ñ€Ð¾ Ð¿Ð¾Ð¼Ð¸Ð»ÐºÑƒ?"</string>
+  <string name="settings_rageshake">"Ð›ÑŽÑ‚Ð¾ÑÑ‚Ñ€ÑƒÑ"</string>
+  <string name="settings_rageshake_detection_threshold">"ÐŸÐ¾Ñ€Ñ–Ð³ Ð²Ð¸ÑÐ²Ð»ÐµÐ½Ð½Ñ"</string>
+</resources>
+
