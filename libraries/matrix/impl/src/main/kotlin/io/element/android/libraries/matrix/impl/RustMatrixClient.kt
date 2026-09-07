@@ -11,6 +11,7 @@ package io.element.android.libraries.matrix.impl
 import chat.schildi.lib.preferences.ScPreferencesStore
 import chat.schildi.matrixsdk.ScTimelineFilterSettings
 import io.element.android.libraries.androidutils.file.getSizeOfFiles
+import io.element.android.libraries.androidutils.system.isLowRamDevice
 import io.element.android.libraries.core.bool.orFalse
 import io.element.android.libraries.core.coroutine.CoroutineDispatchers
 import io.element.android.libraries.core.coroutine.childScope
@@ -165,13 +166,14 @@ class RustMatrixClient(
     private val workManagerScheduler: WorkManagerScheduler,
     override val contentScanner: ContentScanner?,
     override val isMessageSearchAvailable: Boolean,
+    isLowRamDevice: Boolean,
 ) : MatrixClient {
     override val sessionId: UserId = UserId(innerClient.userId())
     override val deviceId: DeviceId = DeviceId(innerClient.deviceId())
     override val server: String? = innerClient.server()
     override val homeserverUrl: String = innerClient.homeserver()
     override val sessionCoroutineScope = appCoroutineScope.childScope(dispatchers.main, "Session-$sessionId")
-    private val sessionDispatcher = dispatchers.io.limitedParallelism(64)
+    private val sessionDispatcher = dispatchers.io.limitedParallelism(if (isLowRamDevice) 16 else 64)
 
     private val innerRoomListService = innerSyncService.roomListService()
 
@@ -273,6 +275,7 @@ class RustMatrixClient(
         baseCacheDirectory = baseCacheDirectory,
         dispatchers = dispatchers,
         innerClient = innerClient,
+        isLowRamDevice = isLowRamDevice,
     )
 
     override val mediaPreviewService = RustMediaPreviewService(

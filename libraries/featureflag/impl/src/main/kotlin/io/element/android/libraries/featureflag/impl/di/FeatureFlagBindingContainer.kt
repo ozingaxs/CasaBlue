@@ -14,6 +14,7 @@ import dev.zacsweers.metro.ContributesTo
 import dev.zacsweers.metro.ElementsIntoSet
 import dev.zacsweers.metro.Provides
 import io.element.android.libraries.featureflag.impl.FeatureFlagProvider
+import io.element.android.libraries.featureflag.impl.LowRamFeatureFlagProvider
 import io.element.android.libraries.featureflag.impl.PreferencesFeatureFlagProvider
 
 @BindingContainer
@@ -24,9 +25,11 @@ object FeatureFlagBindingContainer {
     @ElementsIntoSet
     fun providesFeatureFlagProvider(
         mutableFeatureFlagProvider: PreferencesFeatureFlagProvider,
+        lowRamFeatureFlagProvider: LowRamFeatureFlagProvider,
     ): Set<FeatureFlagProvider> {
         return buildSet {
             add(mutableFeatureFlagProvider)
+            add(lowRamFeatureFlagProvider)
         }
     }
 }

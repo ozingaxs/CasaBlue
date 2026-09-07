@@ -11,12 +11,16 @@ package io.element.android.libraries.matrix.ui.media
 import android.content.Context
 import android.os.Build
 import coil3.ImageLoader
+import coil3.PlatformContext
 import coil3.gif.AnimatedImageDecoder
 import coil3.gif.GifDecoder
+import coil3.memory.MemoryCache
 import coil3.network.okhttp.OkHttpNetworkFetcherFactory
+import coil3.request.allowRgb565
 import coil3.svg.SvgDecoder
 import dev.zacsweers.metro.AppScope
 import dev.zacsweers.metro.ContributesBinding
+import io.element.android.libraries.androidutils.system.isLowRamDevice
 import io.element.android.libraries.di.annotations.ApplicationContext
 import io.element.android.libraries.matrix.api.media.MatrixMediaLoader
 import okhttp3.OkHttpClient
@@ -39,7 +43,7 @@ class DefaultImageLoaderFactory(
     )
 
     override fun newImageLoader(): ImageLoader {
-        return ImageLoader.Builder(context)
+        return createBuilder(context)
             .components {
                 add(okHttpNetworkFetcherFactory)
             }
@@ -47,7 +51,7 @@ class DefaultImageLoaderFactory(
     }
 
     override fun newImageLoader(matrixMediaLoader: MatrixMediaLoader): ImageLoader {
-        return ImageLoader.Builder(context)
+        return createBuilder(context)
             .components {
                 add(okHttpNetworkFetcherFactory)
                 // Add svg support
@@ -64,5 +68,24 @@ class DefaultImageLoaderFactory(
                 add(MediaRequestDataFetcherFactory(matrixMediaLoader))
             }
             .build()
+    }
+
+    private fun createBuilder(context: Context): ImageLoader.Builder {
+        val isLowRamDevice = context.isLowRamDevice()
+        return ImageLoader.Builder(context)
+            .memoryCache {
+                MemoryCache.Builder()
+                    // Set memory cache to 10% of available memory, or 5% if low RAM
+                    .maxSizePercent(context, if (isLowRamDevice) 0.05 else 0.15)
+                    .build()
+            }
+            .apply {
+                if (isLowRamDevice) {
+                    // Use RGB_565 for bitmaps to save memory on low RAM devices
+                    allowRgb565(true)
+                    // Disable bitmap pooling if memory is critical, though usually it helps.
+                    // Coil 3 handles this automatically mostly, but we can be explicit if needed.
+                }
+            }
     }
 }

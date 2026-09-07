@@ -9,6 +9,7 @@
 package io.element.android.libraries.androidutils.system
 
 import android.app.Activity
+import android.app.ActivityManager
 import android.content.ActivityNotFoundException
 import android.content.Context
 import android.content.Intent
@@ -204,4 +205,12 @@ fun Context.toast(resId: Int) {
 // Not in KTX anymore
 fun Context.toast(message: String) {
     Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
+}
+
+/**
+ * Returns true if the device is a low RAM device.
+ */
+fun Context.isLowRamDevice(): Boolean {
+    val activityManager = getSystemService(Context.ACTIVITY_SERVICE) as? ActivityManager
+    return activityManager?.isLowRamDevice == true
 }

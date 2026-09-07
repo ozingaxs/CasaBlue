@@ -20,6 +20,7 @@ setupDependencyInjection()
 
 dependencies {
     implementation(projects.libraries.architecture)
+    implementation(projects.libraries.androidutils)
     implementation(projects.libraries.matrix.api)
     implementation(projects.libraries.matrixmedia.api)
     implementation(projects.libraries.sessionStorage.api)

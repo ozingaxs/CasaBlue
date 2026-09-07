@@ -26,8 +26,9 @@ class RustMediaLoader(
     private val baseCacheDirectory: File,
     dispatchers: CoroutineDispatchers,
     private val innerClient: Client,
+    isLowRamDevice: Boolean,
 ) : MatrixMediaLoader {
-    private val mediaDispatcher = dispatchers.io.limitedParallelism(32)
+    private val mediaDispatcher = dispatchers.io.limitedParallelism(if (isLowRamDevice) 8 else 32)
     private val cacheDirectory
         get() = File(baseCacheDirectory, "temp/media").apply {
             if (!exists()) mkdirs() // Must always ensure that this directory exists because "Clear cache" does not restart an app's process.

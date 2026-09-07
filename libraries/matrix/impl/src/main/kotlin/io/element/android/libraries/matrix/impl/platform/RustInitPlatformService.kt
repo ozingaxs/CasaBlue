@@ -11,19 +11,23 @@ package io.element.android.libraries.matrix.impl.platform
 import dev.zacsweers.metro.AppScope
 import dev.zacsweers.metro.ContributesBinding
 import io.element.android.libraries.core.meta.BuildMeta
+import io.element.android.libraries.androidutils.system.isLowRamDevice
 import io.element.android.libraries.matrix.api.platform.InitPlatformService
 import io.element.android.libraries.matrix.api.tracing.TracingConfiguration
 import io.element.android.libraries.matrix.impl.tracing.map
 import org.matrix.rustcomponents.sdk.initPlatform
+import android.content.Context
+import io.element.android.libraries.di.annotations.ApplicationContext
 
 @ContributesBinding(AppScope::class)
 class RustInitPlatformService(
+    @ApplicationContext private val context: Context,
     private val buildMeta: BuildMeta,
 ) : InitPlatformService {
     override fun init(tracingConfiguration: TracingConfiguration) {
         initPlatform(
             config = tracingConfiguration.map(buildMeta),
-            useLightweightTokioRuntime = false
+            useLightweightTokioRuntime = context.isLowRamDevice()
         )
     }
 }

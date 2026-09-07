@@ -8,6 +8,7 @@
 
 package io.element.android.libraries.matrix.ui.media
 
+import android.content.ComponentCallbacks2
 import coil3.ImageLoader
 import dev.zacsweers.metro.AppScope
 import dev.zacsweers.metro.ContributesBinding
@@ -56,6 +57,21 @@ class DefaultImageLoaderHolder(
     override fun remove(sessionId: SessionId) {
         synchronized(map) {
             map.remove(sessionId)
+        }
+    }
+
+    override fun onTrimMemory(level: Int) {
+        synchronized(map) {
+            when {
+                level >= ComponentCallbacks2.TRIM_MEMORY_UI_HIDDEN -> {
+                    notLoggedInImageLoader.memoryCache?.trimToSize(0)
+                    map.values.forEach { it.memoryCache?.trimToSize(0) }
+                }
+                level >= ComponentCallbacks2.TRIM_MEMORY_RUNNING_LOW -> {
+                    notLoggedInImageLoader.memoryCache?.clear()
+                    map.values.forEach { it.memoryCache?.clear() }
+                }
+            }
         }
     }
 }

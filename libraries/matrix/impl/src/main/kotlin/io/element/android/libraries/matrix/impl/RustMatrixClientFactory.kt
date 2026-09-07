@@ -8,15 +8,18 @@
 
 package io.element.android.libraries.matrix.impl
 
+import android.content.Context
 import chat.schildi.lib.preferences.ScPreferencesStore
 import dev.zacsweers.metro.Inject
 import io.element.android.features.enterprise.api.ClientBuilderEnterpriseHook
 import io.element.android.libraries.androidutils.crypto.ClientSecret
+import io.element.android.libraries.androidutils.system.isLowRamDevice
 import io.element.android.libraries.core.coroutine.CoroutineDispatchers
 import io.element.android.libraries.core.data.ByteUnit
 import io.element.android.libraries.core.data.megaBytes
 import io.element.android.libraries.di.CacheDirectory
 import io.element.android.libraries.di.annotations.AppCoroutineScope
+import io.element.android.libraries.di.annotations.ApplicationContext
 import io.element.android.libraries.featureflag.api.FeatureFlagService
 import io.element.android.libraries.featureflag.api.FeatureFlags
 import io.element.android.libraries.matrix.api.core.SessionId
@@ -56,6 +59,7 @@ import kotlin.time.toJavaDuration
 
 @Inject
 class RustMatrixClientFactory(
+    @ApplicationContext private val context: Context,
     @CacheDirectory private val cacheDirectory: File,
     @AppCoroutineScope
     private val appCoroutineScope: CoroutineScope,
@@ -106,8 +110,8 @@ class RustMatrixClientFactory(
 
         client.setMediaRetentionPolicy(
             MediaRetentionPolicy(
-                // Make this 500MB instead of 400MB
-                maxCacheSize = 500.megaBytes.into(ByteUnit.BYTES).toULong(),
+                // Make this 500MB instead of 400MB, but only 150MB on low RAM devices
+                maxCacheSize = (if (context.isLowRamDevice()) 150.megaBytes else 500.megaBytes).into(ByteUnit.BYTES).toULong(),
                 // This is the default value, but let's make it explicit
                 maxFileSize = 20.megaBytes.into(ByteUnit.BYTES).toULong(),
                 // Use 30 days instead of 60
@@ -159,6 +163,7 @@ class RustMatrixClientFactory(
             workManagerScheduler = workManagerScheduler,
             contentScanner = client.contentScanner()?.let { RustContentScanner(client, it) },
             isMessageSearchAvailable = isMessageSearchAvailable,
+            isLowRamDevice = context.isLowRamDevice(),
         ).also {
             Timber.tag("RustMatrixClient").i("Creating Client with access token '$anonymizedAccessToken' and refresh token '$anonymizedRefreshToken'")
         }

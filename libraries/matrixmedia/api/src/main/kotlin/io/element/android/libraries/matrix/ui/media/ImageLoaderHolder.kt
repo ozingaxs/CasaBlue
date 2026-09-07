@@ -31,4 +31,9 @@ interface ImageLoaderHolder {
      * @param sessionId the session whose loader is dropped.
      */
     fun remove(sessionId: SessionId)
+
+    /**
+     * Trims the memory used by all cached loaders.
+     */
+    fun onTrimMemory(level: Int)
 }

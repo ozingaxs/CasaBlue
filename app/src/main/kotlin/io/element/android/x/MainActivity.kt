@@ -52,9 +52,9 @@ class MainActivity : NodeActivity() {
     private lateinit var appBindings: AppBindings
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        Timber.tag(loggerTag.value).d("onCreate, with savedInstanceState: ${savedInstanceState != null}")
         installSplashScreen()
         super.onCreate(savedInstanceState)
+        Timber.tag(loggerTag.value).d("onCreate, with savedInstanceState: ${savedInstanceState != null}")
         appBindings = bindings()
         setupLockManagement(appBindings.lockScreenService(), appBindings.lockScreenEntryPoint())
         enableEdgeToEdge()

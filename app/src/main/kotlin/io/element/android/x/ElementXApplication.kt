@@ -20,6 +20,7 @@ import dev.zacsweers.metro.createGraphFactory
 import io.element.android.libraries.architecture.bindings
 import io.element.android.libraries.di.DependencyInjectionGraphOwner
 import io.element.android.libraries.matrix.api.SdkMetadata
+import io.element.android.libraries.matrix.ui.media.ImageLoaderHolder
 import io.element.android.libraries.workmanager.api.di.MetroWorkerFactory
 import io.element.android.x.di.AppGraph
 import io.element.android.x.di.ApplicationBindings
@@ -27,6 +28,7 @@ import io.element.android.x.info.logApplicationInfo
 import io.element.android.x.initializer.CacheCleanerInitializer
 import io.element.android.x.initializer.CrashInitializer
 import io.element.android.x.initializer.PlatformInitializer
+import kotlin.concurrent.thread
 
 class ElementXApplication : ScApplication(), DependencyInjectionGraphOwner, Configuration.Provider {
     override val graph: AppGraph = createGraphFactory<AppGraph.Factory>().create(this)
@@ -36,6 +38,7 @@ class ElementXApplication : ScApplication(), DependencyInjectionGraphOwner, Conf
         .build()
 
     @Inject lateinit var sdkMetadata: SdkMetadata
+    @Inject lateinit var imageLoaderHolder: ImageLoaderHolder
 
     @OptIn(ExperimentalMaterial3Api::class)
     override fun onCreate() {
@@ -46,7 +49,10 @@ class ElementXApplication : ScApplication(), DependencyInjectionGraphOwner, Conf
             initializeComponent(CacheCleanerInitializer::class.java)
             initializeComponent(ScInitializer::class.java) // SC
         }
-        EmojiCompat.init(BundledEmojiCompatConfig(this)) // SC
+        // EmojiCompat initialization is slow, move to background thread
+        thread(priority = Thread.NORM_PRIORITY - 1) {
+            EmojiCompat.init(BundledEmojiCompatConfig(this)) // SC
+        }
 
         bindings<ApplicationBindings>().inject(this)
         logApplicationInfo(this, sdkMetadata.sdkGitSha)
@@ -54,5 +60,12 @@ class ElementXApplication : ScApplication(), DependencyInjectionGraphOwner, Conf
         // Disable the strict offset check for anchored draggable components, as it can cause issues with bottom sheets.
         // Remove once https://issuetracker.google.com/issues/477038695 is fixed.
         isAnchoredDraggableComponentsStrictOffsetCheckEnabled = false
+    }
+
+    override fun onTrimMemory(level: Int) {
+        super.onTrimMemory(level)
+        if (::imageLoaderHolder.isInitialized) {
+            imageLoaderHolder.onTrimMemory(level)
+        }
     }
 }
