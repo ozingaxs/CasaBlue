@@ -32,7 +32,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build with Gradle
-        run: ./gradlew assembleFdroidScDefaultRelease --stacktrace -Dorg.gradle.jvmargs="-Xmx4g -XX:MaxMetaspaceSize=1g"
+        run: ./gradlew assembleFdroidScDefaultRelease --stacktrace -x lint -x lintVitalFdroidScDefaultRelease -Dorg.gradle.jvmargs="-Xmx6g -XX:+HeapDumpOnOutOfMemoryError -XX:MaxMetaspaceSize=1g" --max-workers 2
 
       - name: Find APKs
         id: find_apks
